@@ -1,0 +1,261 @@
+{
+  "id": "df6e1d86-3c59-4c54-9191-6bed1172c66e",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 35
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0> <2> A cartoon astronaut stands on the moon against a blue background with large white letters.\n<2> <4> The scene transitions to a game show format with a question about summer food, displayed in Korean.\n<4> <6> A bright sun shines through clouds in a blue sky, with Korean text at the bottom.\n<6> <8> A man in a light blue shirt stands in a traditional Korean room, facing a woman in a yellow shirt.\n<8> <10> A man in a yellow checkered shirt speaks directly to the camera.\n<10> <12> A close-up shot shows noodles being lifted from a bowl of soup.\n<12> <14> A close-up of a bowl of noodles with a spoon lifting them, with Korean text at the bottom.\n<14> <16> A table is set with various Korean dishes, including a bowl of noodles and a side of kimchi.\n<16> <18> A man in a white shirt appears in a small inset video, while the main screen shows a table with Korean dishes.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20> <22> A person in a white shirt is speaking.\n<22> <24> Three people are sitting at a table with scoreboards.\n<24> <26> A woman is eating noodles from a bowl.\n<26> <28> The woman continues to eat the noodles.\n<28> <30> The woman is shown eating the noodles with a close-up.\n<30> <32> A graphic with question marks appears on the screen.\n<32> <34> The graphic with question marks remains on the screen.\n<34> <36> A bowl of noodles is shown on a table.\n<36> <38> The bowl of noodles is shown with a close-up.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40> <42> A man in a white shirt speaks to the camera.\n<42> <44> The man continues speaking, with a green plant visible behind him.\n<44> <46> The man gestures with his hands while speaking.\n<46> <48> The man turns his head to the side as he speaks.\n<48> <50> The man continues to speak, looking towards the camera.\n<50> <52> The man gestures with his hands again while speaking.\n<52> <54> The man continues speaking, with a green plant visible behind him.\n<54> <56> The man gestures with his hands while speaking.\n<56> <58> The man continues to speak, looking towards the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60> <62> A man in a white shirt speaks in a studio setting.\n<62> <64> The man continues speaking, with a camera on a tripod visible behind him.\n<64> <66> The scene shifts to a man in a light blue shirt and glasses, speaking in front of a green background.\n<66> <68> The camera shows a wider view of the studio, with three people seated at a table.\n<68> <70> The three people at the table are now visible, with a large screen behind them displaying an image.\n<70> <72> The camera focuses on the three people at the table, with the screen still visible in the background.\n<72> <74> The scene remains on the three people at the table, with the screen behind them.\n<74> <76> The camera angle shifts slightly, showing the three people at the table and the screen.\n<76> <78> The scene continues to show the three people at the table, with the screen in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80> <82> A person in a white shirt appears in a small inset video, discussing a product.\n<82> <84> The main screen shows a package of instant noodles with Korean text and an image of the dish.\n<84> <86> The inset video continues to show the person speaking, while the main screen displays the noodle package.\n<86> <88> The scene remains focused on the noodle package and the inset video of the speaker.\n<88> <90> The inset video continues, with the person speaking and the noodle package still visible.\n<90> <92> The scene remains unchanged, with the person in the inset video and the noodle package on the main screen.\n<92> <94> The inset video continues, with the person speaking and the noodle package still visible.\n<94> <96> The scene remains focused on the noodle package and the inset video of the speaker.\n<96> <98> The inset video continues, with the person speaking and the noodle package still visible.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100> <102> A hand holds a package of food.\n<102> <104> A man in a white shirt speaks.\n<104> <106> Three people sit at a table with scoreboards.\n<106> <108> The man in the white shirt continues speaking.\n<108> <110> Water flows into a metal container.\n<110> <112> Noodles are shown in a strainer.\n<112> <114> A bowl of food with noodles is shown.\n<114> <116> The bowl of food is shown with a close-up.\n<116> <118> The bowl of food is shown with a close-up.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120> <122> A person holds a cup under a water dispenser.\n<122> <124> The cup fills with water.\n<124> <126> The person pours the contents of a ramen packet into the cup.\n<126> <128> The cup is shown with the ramen and water.\n<128> <130> A close-up shows the ramen cup with a soft-boiled egg.\n<130> <132> A man in a small inset video speaks.\n<132> <134> The man continues speaking in the inset video.\n<134> <136> The man in the inset video continues speaking.\n<136> <138> The man in the inset video continues speaking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140> <142> A close-up of a bowl of noodles being lifted with chopsticks.\n<142> <144> A man in a yellow shirt speaks to the camera.\n<144> <146> A woman wearing a pink cat headband eats noodles with chopsticks.\n<146> <148> The woman looks up and speaks, with hearts floating around her head.\n<148> <150> A close-up of a bowl of noodles with a soft-boiled egg, being stirred with chopsticks.\n<150> <152> A close-up of noodles being lifted from a bowl with chopsticks.\n<152> <154> The man in the yellow shirt speaks to the camera again.\n<154> <156> A close-up of a bowl of noodles with a soft-boiled egg.\n<156> <158> A close-up of a colorful cup with a spoon inside.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160> <162> A person pours a liquid from a packet into a cup.\n<162> <164> A person uses chopsticks to lift noodles from a cup of soup.\n<164> <166> A graphic displays the number 12 and text in Korean.\n<166> <168> A person sits on a bed in a cluttered room.\n<168> <170> The person on the bed looks at a phone.\n<170> <172> A woman drinks from a can.\n<172> <174> The woman continues to drink from the can.\n<174> <176> The woman looks at the camera while drinking.\n<176> <178> The woman finishes drinking and lowers the can.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180> <182> A woman sits at a table, looking down and holding a cup.\n<182> <184> A man in a white shirt speaks directly to the camera.\n<184> <186> A close-up shows bacon-wrapped food items on a white plate.\n<186> <188> The bacon-wrapped food is shown with a man in a small inset video.\n<188> <190> Two men are shown side-by-side, one speaking and the other listening.\n<190> <192> The man on the right touches his face while the man on the left speaks.\n<192> <194> A man in a yellow checkered shirt speaks and gestures with his hands.\n<194> <196> The man in the yellow shirt continues speaking, with text overlays appearing on the screen.\n<196> <198> A wide shot shows three people sitting at a table in a studio, with a large screen displaying the bacon-wrapped food behind them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200> <202> A man in a white shirt speaks in a studio setting.\n<202> <204> A close-up shot shows a dish with skewered meat arranged around a central yellow sauce.\n<204> <206> The camera zooms out slightly, showing the full dish of meat skewers on a white plate.\n<206> <208> The man in the white shirt continues speaking, with a vintage camera visible in the background.\n<208> <210> A person in a light-colored shirt and blue jeans walks down a dimly lit alley at night.\n<210> <212> The person continues walking down the alley, with a subtitle appearing on the screen.\n<212> <214> A close-up shot shows a shelf with various packaged food items.\n<214> <216> The camera pans down the shelf, showing more packaged goods.\n<216> <218> The camera continues to pan down the shelf, focusing on the lower packages.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220> <222> A person cuts a strip of meat on a cutting board.\n<222> <224> The person folds the meat strip in half.\n<224> <226> The person continues to fold the meat strip.\n<226> <228> The person folds the meat strip again.\n<228> <230> The person folds the meat strip once more.\n<230> <232> The person folds the meat strip into a compact shape.\n<232> <234> The person places the folded meat strip on a plate.\n<234> <236> The person picks up a piece of bread.\n<236> <238> The person places the bread on the plate with the meat.\n<238> <240> The person arranges the bread and meat on the plate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240> <242> A close-up shows bacon-wrapped skewers cooking in a pan.\n<242> <244> The skewers continue to cook, with tongs adjusting their position.\n<244> <246> The camera focuses on the sizzling bacon-wrapped skewers in the pan.\n<246> <248> A split screen shows two men, one in a white shirt and one in a striped shirt, talking.\n<248> <250> The man in the white shirt speaks while the man in the striped shirt listens.\n<250> <252> The man in the white shirt continues speaking, with the man in the striped shirt looking on.\n<252> <254> The man in the white shirt speaks, and the man in the striped shirt listens intently.\n<254> <256> The man in the white shirt continues speaking, with the man in the striped shirt listening.\n<256> <258> A plate of cooked bacon-wrapped skewers is shown, ready to be served.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260> <262> A person wraps bacon around breadsticks.\n<262> <264> The bacon-wrapped breadsticks are arranged in a circle with a yellow sauce in the center.\n<264> <266> The bacon-wrapped breadsticks are being cooked on a grill.\n<266> <268> The cooked bacon-wrapped breadsticks are shown on a plate.\n<268> <270> A woman takes a bite of the bacon-wrapped breadstick.\n<270> <272> The woman chews the food with a satisfied expression.\n<272> <274> The woman continues to chew the food.\n<274> <276> The woman looks at the camera with a smile.\n<276> <278> A pile of beer cans is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280> <282> A woman with pink blush on her cheeks speaks animatedly.\n<282> <284> Two men are shown in a split screen, one in a white shirt and the other in a yellow checkered shirt.\n<284> <286> The man in the white shirt speaks while the man in the yellow shirt listens.\n<286> <288> A split screen shows a black truffle, white salt, and a bowl of yellow powder.\n<288> <290> The three men are seated at a table with nameplates in front of them.\n<290> <292> The man in the middle, wearing a yellow shirt, looks forward as a graphic of a flower appears above his head.\n<292> <294> A plate of meat-wrapped skewers is shown.\n<294> <296> The camera zooms in on the skewers, which are wrapped in a dark meat.\n<296> <298> The man in the yellow shirt speaks, with a text overlay in Korean.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300> <302> A man in a yellow shirt speaks in a studio setting.\n<302> <304> A man in a white shirt speaks while holding a phone to his ear.\n<304> <306> A close-up shows several skewers of meat wrapped in bacon, with Korean text overlay.\n<306> <308> The bacon-wrapped skewers are being cooked in a pan.\n<308> <310> The skewers continue to cook in the pan, with Korean text describing the process.\n<310> <312> A close-up shows a skewer of bacon-wrapped food being lifted, with Korean text and heart emojis.\n<312> <314> A pixelated animation shows a character standing on a shell, with a question mark and the number 9 displayed.\n<314> <316> The pixelated animation continues, with a question and answer prompt in Korean.\n<316> <318> The man in the white shirt speaks again in the studio setting.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320> <322> A man in a white shirt speaks to the camera.\n<322> <324> A man in a white shirt makes a pouting face.\n<324> <326> A slice of red velvet cake is shown.\n<326> <328> Two orange cards with question marks are displayed on a wooden surface.\n<328> <330> A man in a white shirt speaks to the camera.\n<330> <332> A woman holds up an orange card with a question mark.\n<332> <334> A woman holds up an orange card with a question mark.\n<334> <336> A close-up of a chocolate muffin with seeds is shown.\n<336> <338> A person's hands break open a chocolate muffin.\n<338> <340> A person's hands break open a chocolate muffin.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340> <342> A close-up shows a hand holding a piece of dark, porous bread.\n<342> <344> Two men are shown in a split screen, one in a light blue shirt and the other in a white striped shirt, both looking forward.\n<344> <346> Three people are seated at a table in a studio setting, with a large screen behind them displaying images of food.\n<346> <348> The three people at the table are engaged in conversation, with the man in the middle gesturing with his hand.\n<348> <350> The man in the white striped shirt is shown in a close-up, smiling and resting his chin on his hand.\n<350> <352> The man in the yellow checkered shirt is shown in a close-up, speaking and gesturing with his hands.\n<352> <354> The man in the yellow shirt continues to speak, with a thoughtful expression.\n<354> <356> The three people at the table are shown again, with the man in the middle pointing at the man on the right.\n<356> <358> The man in the middle continues to point at the man on the right, who is looking at him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360> <362> A man in a yellow shirt appears on screen with Korean text.\n<362> <364> Two orange cards with question marks are shown on a wooden surface.\n<364> <366> A tube of toothpaste and a box of tissues are displayed on a wooden table.\n<366> <368> A man in a yellow shirt covers his face while another man in a white shirt smiles.\n<368> <370> Three people sit at a table in a studio, watching a screen.\n<370> <372> The camera focuses on a man in a white shirt speaking.\n<372> <374> A hand holds a tube of toothpaste on a wooden table.\n<374> <376> The hand continues to hold the toothpaste tube.\n<376> <378> The hand rotates the toothpaste tube, showing its label.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380> <382> A hand pours a white liquid into a cup of dark liquid.\n<382> <384> A spoon stirs the dark liquid in the cup.\n<384> <386> The spoon lifts the thick, dark mixture from the cup.\n<386> <388> A man in a yellow shirt looks surprised.\n<388> <390> The man in the yellow shirt closes his eyes and grimaces.\n<390> <392> A hand presses buttons on a microwave.\n<392> <394> A man in a white shirt speaks.\n<394> <396> The man in the white shirt continues speaking.\n<396> <398> The man in the white shirt continues speaking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400> <402> A man in a white shirt and glasses speaks to the camera.\n<402> <404> A close-up shows a white mug filled with a dark, crumbly substance, likely a cake, with a spoon inside.\n<404> <406> Two men are shown side-by-side; the man on the left in a yellow shirt looks surprised, while the man on the right in a white shirt smiles.\n<406> <408> The man in the white shirt and glasses continues speaking.\n<408> <410> A close-up of the mug shows the dark cake being stirred with a spoon.\n<410> <412> The spoon lifts a portion of the dark, crumbly cake from the mug.\n<412> <414> The man in the white shirt and glasses speaks again, with text overlaying the image.\n<414> <416> The man continues speaking, with a different text overlay.\n<416> <418> The man in the white shirt and glasses continues speaking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420> <422> A man in a white shirt and glasses speaks to the camera.\n<422> <424> A close-up shows a woman applying chocolate to her lips.\n<424> <426> The woman licks the chocolate off her lips.\n<426> <428> A spoon stirs a dark liquid in a white mug.\n<428> <430> The man in the white shirt continues speaking.\n<430> <432> The man continues speaking, with text overlay.\n<432> <434> A collage of four dessert images is displayed.\n<434> <436> The collage of desserts remains on screen with text.\n<436> <438> The man in the white shirt speaks again, with text overlay.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440> <442> A close-up of a hand holding a chocolate cookie with nuts.\n<442> <444> Two men are shown in a split-screen, one in a white shirt and the other in a yellow checkered shirt.\n<444> <446> The man in the white shirt speaks while the man in the yellow shirt listens.\n<446> <448> The man in the yellow shirt speaks, gesturing with his hand.\n<448> <450> A man in a white shirt speaks, with a vintage camera visible in the background.\n<450> <452> The man in the yellow shirt continues speaking, with a plant visible behind him.\n<452> <454> A close-up of hands holding a green and white package of snacks.\n<454> <456> The hands continue to hold the snack package, with text overlay in Korean.\n<456> <458> The hands squeeze the snack package, causing it to crinkle.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460> <462> A person pours a white liquid from a carton into a green and black bag.\n<462> <464> A person's hands seal the bag.\n<464> <466> A hand removes a cupcake from a paper liner.\n<466> <468> A hand holds up a cupcake, showing its bottom.\n<468> <470> A man in a white shirt speaks to the camera.\n<470> <472> A hand places a cupcake into an oven.\n<472> <474> A hand holds a cup of dark, lumpy substance.\n<474> <476> A man's face is superimposed over a close-up of a cup of dark substance.\n<476> <478> The man continues speaking as the image of the cup remains.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480> <482> A person holds a cup of coffee with a spoon, with a man's face superimposed on the image.\n<482> <484> A graphic displays the number 7 and Korean text, indicating a ranking or list item.\n<484> <486> A woman in a striped shirt looks down with a sad expression while sitting in an office.\n<486> <488> A man stands on a crowded subway train, holding onto a pole.\n<488> <490> The camera shows the interior of the subway train, with passengers seated and standing.\n<490> <492> A woman with dark circles under her eyes looks at her phone, appearing sad.\n<492> <494> The woman continues to look at her phone, with a text bubble saying \"I'm not crying.\"\n<494> <496> The woman is now in a different setting, looking at her phone with a more neutral expression.\n<496> <498> The woman is still looking at her phone, with text on the screen suggesting she is considering a relationship.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500> <502> A woman is sitting at a desk, eating a snack and looking at her phone.\n<502> <504> The scene shifts to the interior of a convenience store, showing shelves stocked with products.\n<504> <506> A close-up shot focuses on a milk carton and a snack package on a store shelf.\n<506> <508> A close-up of a woman's face shows her eating a snack, with a pink blush effect on her cheeks.\n<508> <510> The woman continues to eat, with animated hearts appearing on the screen.\n<510> <512> The woman is shown with a pink blush effect on her cheeks, and text appears on the screen.\n<512> <514> The woman's face is shown with a pink blush effect, and text appears on the screen.\n<514> <516> A man in a yellow shirt is speaking, with text at the bottom of the screen.\n<516> <518> A man in a white shirt is speaking, with text at the bottom of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520> <522> A group of people are sitting at a table in a studio setting.\n<522> <524> A man in a white shirt and glasses speaks, gesturing with his hands.\n<524> <526> The man continues speaking, his expression animated.\n<526> <528> The camera cuts to a man in a striped shirt, who is listening intently.\n<528> <530> The man in the striped shirt begins to speak, looking slightly to his left.\n<530> <532> The man in the striped shirt continues speaking, with a slight smile.\n<532> <534> The camera cuts back to the man in the white shirt and glasses, who is speaking.\n<534> <536> The man in the white shirt continues speaking, with a serious expression.\n<536> <538> The man in the white shirt continues speaking, with a serious expression.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540> <542> A hand opens a box of cookies and pours milk over them.\n<542> <544> The cookies are shown covered in milk, with text overlay.\n<544> <546> The box is shown with the milk-covered cookies inside.\n<546> <548> A man in a yellow shirt reacts with a surprised expression.\n<548> <550> Two men are shown in a split screen, one speaking and the other listening.\n<550> <552> The two men continue their conversation, with text appearing on screen.\n<552> <554> Three men are seated at a table, with the man in the middle gesturing.\n<554> <556> The man in the middle continues to speak and gesture.\n<556> <558> The man in the middle continues to speak, with the other two men listening.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560> <562> Three men sit at a table with numbered cards, one holding a phone.\n<562> <564> A close-up shows a box of cookies with a spoon inside.\n<564> <566> A tray of cookies is shown with a white sauce being drizzled on top.\n<566> <568> The white sauce continues to be drizzled in a zigzag pattern over the cookies.\n<568> <570> The tray of cookies with sauce is shown, with text overlay in Korean.\n<570> <572> A spoon scoops a portion of the cookies and sauce mixture from the box.\n<572> <574> The spoon lifts the mixture, showing the texture of the cookies and sauce.\n<574> <576> A close-up shows the spoon mixing the cookies and sauce in the box.\n<576> <578> The spoon continues to mix the cookies and sauce, with text overlay in Korean.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580> <582> A close-up shows a dessert being served from a rectangular container, with a spoon lifting a piece of cake covered in white cream.\n<582> <584> A hand uses a knife to cut and separate the pieces of cake in the container.\n<584> <586> The camera shows the full container of cake, with the pieces now cut and arranged, and a text overlay appears.\n<586> <588> A man in a yellow checkered shirt is shown speaking, with a text overlay at the bottom of the screen.\n<588> <590> The scene changes to three men sitting at a long table with digital scoreboards in front of them.\n<590> <592> The three men are shown at the table, with the scoreboards displaying 038, 024, and 027.\n<592> <594> The man in the middle, wearing the yellow shirt, speaks while the other two men look on.\n<594> <596> The man in the middle continues to speak, and a text overlay appears at the bottom of the screen.\n<596> <598> The three men remain seated at the table, with the scoreboards visible, as the man in the middle continues to speak.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600> <602> A man in a white shirt speaks in a studio setting.\n<602> <604> The camera cuts to a man in glasses and a light blue shirt speaking.\n<604> <606> The scene changes to three men sitting at a table with digital scoreboards.\n<606> <608> The three men remain seated at the table, with the middle man in a yellow shirt.\n<608> <610> The camera focuses on a woman in a striped shirt speaking.\n<610> <612> The woman continues speaking, holding a pink object.\n<612> <614> The camera returns to the man in the light blue shirt speaking.\n<614> <616> The man in the light blue shirt continues speaking with a serious expression.\n<616> <618> The man in the light blue shirt continues speaking, with text overlay on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620> <622> A man in a white shirt speaks in a studio setting.\n<622> <624> A close-up shows a box of cookies with milk being poured over them.\n<624> <626> The video shows a box of cookies with milk being poured over them, with a small inset of the man reacting.\n<626> <628> A close-up of a dessert with bananas and cookies, with text describing it as a \"banana milk\" treat.\n<628> <630> A hand uses a spoon to mix a dessert with bananas and cookies in a box.\n<630> <632> The dessert is shown with text describing it as a \"banana milk\" treat.\n<632> <634> A graphic shows a chocolate-covered cookie with text describing it as a \"banana milk\" treat.\n<634> <636> A graphic shows a box of cookies with bananas, with text describing it as a \"banana milk\" treat.\n<636> <638> A close-up of a box of cookies with a milk packet, with text describing the cookies as \"crispy and sweet.\"\n<638> <640> A close-up of a box of cookies with a milk packet, with text describing the cookies as \"crispy and sweet.\"",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640> <642> A close-up shows a container with sliced bananas and chocolate sticks.\n<642> <644> A hand uses chopsticks to pick up a piece of banana from the container.\n<644> <646> A man in a yellow checkered shirt speaks and gestures with his hands.\n<646> <648> The scene widens to show three people sitting at a table in a studio, with a large screen behind them.\n<648> <650> The man in the yellow shirt continues to speak and gesture.\n<650> <652> The man in the yellow shirt claps his hands together.\n<652> <654> The man in the yellow shirt continues speaking and gesturing.\n<654> <656> The man in the yellow shirt looks forward with a neutral expression.\n<656> <658> The man in the yellow shirt continues to speak and gesture.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "672.205",
+      "content": "<660> <661> A person is seen with their hand covering their face.\n<661> <662> The scene shifts to a woman sitting at a table, eating a snack.\n<662> <663> The woman continues to eat, looking down at her food.\n<663> <664> A close-up shows a hand using a knife to cut a piece of food on a tray.\n<664> <665> The knife continues to cut through the food, which appears to be a type of meat.\n<665> <666> The knife is lifted, revealing the cut piece of food.\n<666> <667> The camera focuses on a tray of food, including meat and bananas.\n<667> <668> A hand uses a fork to pick up a piece of the food from the tray.\n<668> <669> The fork lifts the food, showing it is a piece of meat with a sauce.\n<669> <671> The fork continues to hold the piece of food, ready to be eaten.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "672.205",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

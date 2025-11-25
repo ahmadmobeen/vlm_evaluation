@@ -1,0 +1,2459 @@
+{
+  "id": "a6ba7910-a8a7-460f-b02e-fc5635e6ffba",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 349
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0.0>   <18.02>  A man is sitting in a car.  <18.02>   <18.02>  He is driving the car.  <18.02>   <18.02>  He is talking to another man in the car.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20.02>   <38.0>  A man is driving a car.  <38.0>   <38.0>  He is talking to a man in the passenger seat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40.01>   <58.02>  Two men are sitting in a car.  <40.01>   <58.02>  They are driving down the street.  <58.02>   <58.02>  They are talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60.03>   <78.01>  A man is sitting in a car.  <78.01>   <78.01>  He is talking to another man who is driving.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80.01>   <98.03>  Two men are sitting in a car.  <80.01>   <98.03>  They are both wearing suits.  <80.01>   <98.03>  They are driving down the road.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100.0>   <118.02>  Two men are sitting in a car.  <100.0>   <118.02>  They are driving down the street.  <100.0>   <118.02>  They are talking to one another.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120.02>   <138.0>  A man is sitting in the passenger seat of a car.  <138.0>   <138.0>  The driver is talking to him.  <138.0>   <138.0>  The man is then shown at a computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140.01>   <158.03>  A man is writing on a piece of paper.  <158.03>   <158.03>  A boy is looking at a computer screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160.03>   <178.01>  A young man is sitting at a desk.  <178.01>   <178.01>  He is writing on a piece of paper.  <178.01>   <178.01>  He is working on a computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180.01>   <198.03>  A man is sitting at a desk.  <180.01>   <198.03>  He is holding a pen in his mouth.  <180.01>   <198.03>  He is looking at a computer screen.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.  <198.03>   <198.03>  He puts the pen back in his mouth.  <198.03>   <198.03>  He takes the pen out of his mouth.  <198.03>   <198.03>  He looks at the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200.0>   <218.02>  A man in a suit is talking to another man.  <200.0>   <218.02>  They are in an office.  <200.0>   <218.02>  They are having a serious conversation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220.02>   <238.0>  A man in a suit is talking to a man in a blue shirt.  <220.02>   <238.0>  They are in an office.  <220.02>   <238.0>  They are having a serious conversation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240.01>   <258.02>  A man in a suit is walking down a hallway.  <258.02>   <258.02>  A boy is sitting in front of a computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260.03>   <278.01>  A computer screen is shown.  <278.01>   <278.01>  A man is shown looking at the screen.  <278.01>   <278.01>  The screen shows a map.  <278.01>   <278.01>  The man is shown in a suit.  <278.01>   <278.01>  A man is shown at a computer.  <278.01>   <278.01>  The man in the suit is shown again.  <278.01>   <278.01>  The man in the suit is shown in an office.  <278.01>   <278.01>  People are shown working in the office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280.01>   <298.03>  A man in a suit is standing in a room.  <298.03>   <298.03>  People are walking down the street.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300.0>   <318.02>  A boy is walking down the sidewalk.  <318.02>   <318.02>  He drops his book on the ground.  <318.02>   <318.02>  He picks it up and walks away.  <318.02>   <318.02>  He looks around and sees a group of people walking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320.02>   <338.0>  A large group of people are walking down a sidewalk.  <320.02>   <338.0>  They are all dressed in business attire.  <320.02>   <338.0>  They are walking in the same direction.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340.01>   <354.02>  A man in a suit walks down a hallway.  <354.02>   <358.02>  He goes into a conference room and sits down.  <358.02>   <358.02>  He gets up and walks out, looking sad.  <358.02>   <358.02>  Two men walk up to him and put their arms around him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360.03>   <378.01>  A man in a white shirt and blue tie is standing in a conference room.  <378.01>   <378.01>  He opens the door and walks out.  <378.01>   <378.01>  He is joined by two other men and they walk down the hallway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380.01>   <398.03>  A man in a white shirt and tie walks into an office.  <398.03>   <398.03>  He walks to a woman's desk.  <398.03>   <398.03>  She is talking on the phone.  <398.03>   <398.03>  He stands in front of her.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400.0>   <418.02>  A man in a white shirt and tie walks through an office.  <400.0>   <418.02>  People are working at desks in the office.  <400.0>   <418.02>  A man in a suit is standing in the office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420.02>   <438.0>  A man in a suit is sitting at a desk.  <438.0>   <438.0>  A young man in a white shirt and tie is standing in front of him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440.01>   <458.02>  A man in a white shirt walks through a glass door.  <458.02>   <458.02>  A man in a suit walks through the door behind him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460.03>   <478.01>  A man in a suit walks down a hallway.  <460.03>   <478.01>  A man in a white shirt walks down a hallway.  <478.01>   <478.01>  The man in the suit enters an elevator.  <478.01>   <478.01>  The man in the white shirt enters the elevator.  <478.01>   <478.01>  The man in the suit exits the elevator.  <478.01>   <478.01>  The man in the white shirt exits the elevator.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480.01>   <498.03>  A man in a suit is talking to a man in a blue shirt.  <480.01>   <498.03>  They are standing in a room.  <494.03>   <498.03>  They are looking at each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500.03>   <518.02>  A man in a suit is talking.  <500.03>   <518.02>  A man in a white shirt is talking.  <512.01>   <518.02>  They are in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520.02>   <538.0>  A man in a suit is talking to a man in a white shirt.  <520.02>   <538.0>  They are in an elevator.  <520.02>   <538.0>  They are looking at each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540.01>   <558.02>  A man in a suit is talking.  <558.02>   <558.02>  A man in a white shirt is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560.03>   <578.01>  A man in a suit is talking to a man in a white shirt.  <560.03>   <578.01>  They are in a room with a green wall.  <560.03>   <578.01>  They are wearing lanyards.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580.01>   <598.03>  A man in a suit is talking.  <598.03>   <598.03>  A man in a white shirt is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600.03>   <618.02>  A man in a suit is talking to a man in a white shirt.  <618.02>   <618.02>  They are in an elevator.  <618.02>   <618.02>  They are in an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620.02>   <638.0>  A man in a white shirt and tie is talking to a man in a blue shirt and tie.  <638.0>   <638.0>  The man in the white shirt and tie is looking at a book.  <638.0>   <638.0>  The man in the blue shirt and tie is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640.01>   <658.02>  A man in a white shirt and tie is holding a folder.  <658.02>   <658.02>  He walks through an office and talks to people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660.03>   <678.01>  A man is sitting in an office.  <678.01>   <678.01>  He is talking to another man.  <678.01>   <678.01>  They are looking at a book together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680.01>   <698.03>  A man is talking to another man in an office.  <680.01>   <698.03>  They are both wearing ties.  <698.03>   <698.03>  They are talking about a book.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700.03>   <718.02>  A man is reading a book.  <718.02>   <718.02>  He is sitting on the floor, writing in a notebook.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720.02>   <738.0>  A man in a white shirt is talking to a group of people.  <720.02>   <738.0>  The people are sitting at a table with laptops.  <720.02>   <738.0>  The man is holding a folder.  <738.0>   <738.0>  The man is holding a phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740.01>   <758.02>  A woman is sitting at a desk in an office.  <758.02>   <758.02>  A man is talking to her.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760.03>   <778.01>  A man in a white shirt and blue tie is standing in an office.  <778.01>   <778.01>  He is holding a pen in his hand.  <778.01>   <778.01>  He walks over to another man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780.01>   <798.03>  A man in a suit is talking to a man in a white shirt.  <780.01>   <798.03>  They are in an office.  <780.01>   <798.03>  There are people working at desks behind them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800.03>   <818.02>  A man in a suit is talking to a man in a white shirt.  <800.03>   <818.02>  They are in an office.  <800.03>   <818.02>  They are looking at papers on a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820.02>   <838.0>  Two men are walking in an office.  <838.0>   <838.0>  They are walking past cubicles.  <838.0>   <838.0>  They are walking towards a door.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840.01>   <858.02>  A young man is seen walking into a room and looking around.  <858.02>   <858.02>  He then runs around the office knocking over papers and running around.  <858.02>   <858.02>  He continues running around the office and ends with him running out.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860.02>   <878.01>  A man is sitting at a desk.  <878.01>   <878.01>  He walks down a hallway.  <878.01>   <878.01>  He walks into a classroom.  <878.01>   <878.01>  He is standing in front of a group of people.  <878.01>   <878.01>  He is talking into a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "900.0",
+      "content": "<880.01>   <898.03>  A man in a suit is holding a microphone.  <898.03>   <898.03>  He is talking to another man in a suit.  <898.03>   <898.03>  A group of people are sitting in a room.  <898.03>   <898.03>  A man in a suit is standing in front of a screen.  <898.03>   <898.03>  A man in a suit is sitting in a chair.  <898.03>   <898.03>  A man in a suit is holding a flag.  <898.03>   <898.03>  A man in a suit is talking to another man in a suit.  <898.03>   <898.03>  A man in a suit is holding a microphone.  <898.03>   <898.03>  A man in a suit is standing in front of a screen.  <898.03>   <898.03>  A man in a suit is holding a flag.  <898.03>   <898.03>  A man in a suit is talking to another man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 45,
+      "start_time": "900.0",
+      "end_time": "920.0",
+      "content": "<900.03>   <918.02>  A group of men are sitting in a room.  <900.03>   <918.02>  A man is standing up and talking to the group.  <912.01>   <918.02>  A man is standing up and talking to the group.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 46,
+      "start_time": "920.0",
+      "end_time": "940.0",
+      "content": "<920.02>   <938.0>  A man is giving a speech in front of a group of people.  <920.02>   <938.0>  He is holding a microphone and a pink cloth.  <932.03>   <938.0>  He is wearing a suit and tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 47,
+      "start_time": "940.0",
+      "end_time": "960.0",
+      "content": "<940.0>   <958.02>  A man in a suit is talking to a group of people.  <940.0>   <958.02>  People are sitting in a room with computers.  <958.02>   <958.02>  A man in a suit is holding a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 48,
+      "start_time": "960.0",
+      "end_time": "980.0",
+      "content": "<960.02>   <978.01>  A man in a suit is giving a speech.  <978.01>   <978.01>  A man in a suit is sitting behind him.  <978.01>   <978.01>  People are sitting in the audience.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 49,
+      "start_time": "980.0",
+      "end_time": "1000.0",
+      "content": "<980.01>   <998.03>  A man in a suit is holding a microphone.  <980.01>   <998.03>  People are sitting behind a desk.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.  <998.03>   <998.03>  A man in a suit is holding a microphone.  <998.03>   <998.03>  A man in a suit is standing in front of a plant.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 50,
+      "start_time": "1000.0",
+      "end_time": "1020.0",
+      "content": "<1000.03>   <1018.02>  A man is giving a speech in front of a group of people.  <1000.03>   <1018.02>  People are sitting at desks with laptops.  <1000.03>   <1018.02>  A man is standing on a stage.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 51,
+      "start_time": "1020.0",
+      "end_time": "1040.0",
+      "content": "<1020.02>   <1038.0>  A group of people are sitting in a room with laptops.  <1020.02>   <1038.0>  A man is standing at a podium giving a speech.  <1038.0>   <1038.0>  A man in a suit is holding a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 52,
+      "start_time": "1040.0",
+      "end_time": "1060.0",
+      "content": "<1040.01>   <1058.02>  A man is being interviewed by a reporter.  <1058.02>   <1058.02>  A man in a suit is sitting behind a desk.  <1058.02>   <1058.02>  A man is standing on a box holding a microphone.  <1058.02>   <1058.02>  A man is standing in front of a class room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 53,
+      "start_time": "1060.0",
+      "end_time": "1080.0",
+      "content": "<1060.03>   <1078.01>  A man is giving a speech in front of a group of people.  <1060.03>   <1078.01>  People are sitting at desks with laptops.  <1060.03>   <1078.01>  People are sitting in chairs.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 54,
+      "start_time": "1080.0",
+      "end_time": "1100.0",
+      "content": "<1080.01>   <1098.03>  A man in a suit is talking to another man in a suit.  <1098.03>   <1098.03>  A group of people are sitting at desks with computers.  <1098.03>   <1098.03>  Two men are standing at a podium talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 55,
+      "start_time": "1100.0",
+      "end_time": "1120.0",
+      "content": "<1100.03>   <1118.02>  A group of people are sitting at a table with laptops.  <1118.02>   <1118.02>  A man stands up and speaks to the group.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 56,
+      "start_time": "1120.0",
+      "end_time": "1140.0",
+      "content": "<1120.02>   <1138.0>  A group of people are sitting in a room.  <1120.02>   <1138.0>  They are all wearing suits.  <1130.03>   <1138.0>  They are all holding microphones.  <1138.0>   <1138.0>  They are all speaking to one another.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 57,
+      "start_time": "1140.0",
+      "end_time": "1160.0",
+      "content": "<1140.01>   <1158.02>  A man in a suit is talking to another man in a suit.  <1158.02>   <1158.02>  A man in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is sitting at a desk.  <1158.02>   <1158.02>  A man in a suit is standing in front of a screen.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A woman in a suit is sitting in a chair.  <1158.02>   <1158.02>  A man in a suit is standing in front of a plant.  <1158.02>   <1158.02>  A man in a suit is kneeling down in front of a desk.  <1158.02>   <1158.02>  A man in a suit is standing in front of a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 58,
+      "start_time": "1160.0",
+      "end_time": "1180.0",
+      "content": "<1160.03>   <1178.01>  A man in a suit is talking to a woman in a suit.  <1178.01>   <1178.01>  They are sitting in a room with other people.  <1178.01>   <1178.01>  A man in a suit is standing up.  <1178.01>   <1178.01>  He is holding a shoe in his hand.  <1178.01>   <1178.01>  He is talking to the people in the room.  <1178.01>   <1178.01>  A man in a suit is sitting down.  <1178.01>   <1178.01>  He is taking off his shoes.  <1178.01>   <1178.01>  He is putting on a different pair of shoes.  <1178.01>   <1178.01>  He is putting on his socks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1200.0",
+      "content": "<1180.01>   <1198.03>  A man walks into an office.  <1198.03>   <1198.03>  He walks through the office.  <1198.03>   <1198.03>  He is holding a shoe.  <1198.03>   <1198.03>  He is talking to a group of people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 60,
+      "start_time": "1200.0",
+      "end_time": "1220.0",
+      "content": "<1200.03>   <1218.02>  A man is holding a shoe up in the air.  <1218.02>   <1218.02>  He is talking to a group of people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 61,
+      "start_time": "1220.0",
+      "end_time": "1240.0",
+      "content": "<1220.02>   <1238.0>  A man in a suit is holding a microphone.  <1238.0>   <1238.0>  People are sitting at a table.  <1238.0>   <1238.0>  A man in a suit is walking around.  <1238.0>   <1238.0>  A man in a suit is talking to a woman.  <1238.0>   <1238.0>  A man in a suit is holding a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 62,
+      "start_time": "1240.0",
+      "end_time": "1260.0",
+      "content": "<1240.01>   <1258.02>  A man is seen walking into a room and speaking to a large group of people.  <1258.02>   <1258.02>  The man then speaks into a microphone while others watch on the side.  <1258.02>   <1258.02>  The man continues speaking into the microphone and ends by walking away.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 63,
+      "start_time": "1260.0",
+      "end_time": "1280.0",
+      "content": "<1260.03>   <1278.01>  A man is giving a presentation to a group of people.  <1260.03>   <1278.01>  A man is holding a microphone and interviewing the man giving the presentation.  <1272.0>   <1278.01>  The man giving the presentation is wearing a suit and tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 64,
+      "start_time": "1280.0",
+      "end_time": "1300.0",
+      "content": "<1280.01>   <1298.03>  A man is giving a speech in front of a group of people.  <1280.01>   <1298.03>  People are sitting at a table listening to the man.  <1298.03>   <1298.03>  A woman is talking on her phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 65,
+      "start_time": "1300.0",
+      "end_time": "1320.0",
+      "content": "<1300.03>   <1318.02>  A man is being interviewed by a reporter.  <1318.02>   <1318.02>  People are sitting behind them watching.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 66,
+      "start_time": "1320.0",
+      "end_time": "1340.0",
+      "content": "<1320.02>   <1338.0>  Two men are talking to each other.  <1320.02>   <1338.0>  They are in a room with other people.  <1320.02>   <1338.0>  They are wearing suits and ties.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 67,
+      "start_time": "1340.0",
+      "end_time": "1360.0",
+      "content": "<1340.01>   <1358.02>  A man in a suit is holding a microphone.  <1358.02>   <1358.02>  He is talking to a group of people.  <1358.02>   <1358.02>  He is standing in front of a projector screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 68,
+      "start_time": "1360.0",
+      "end_time": "1380.0",
+      "content": "<1360.03>   <1378.01>  A man in a suit is talking to another man.  <1378.01>   <1378.01>  The man is giving a speech to a group of people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 69,
+      "start_time": "1380.0",
+      "end_time": "1400.0",
+      "content": "<1380.01>   <1398.03>  A man is holding a microphone and speaking to another man.  <1398.03>   <1398.03>  A man in a suit is sitting behind a desk.  <1398.03>   <1398.03>  A woman is working on a computer.  <1398.03>   <1398.03>  She is talking on the phone.  <1398.03>   <1398.03>  A man walks up to her and hands her a piece of paper.  <1398.03>   <1398.03>  She looks at the paper and then back at her computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 70,
+      "start_time": "1400.0",
+      "end_time": "1420.0",
+      "content": "<1400.03>   <1418.02>  Two men are talking in an office.  <1418.02>   <1418.02>  They are joined by a third man.  <1418.02>   <1418.02>  They are all sitting around a table, talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 71,
+      "start_time": "1420.0",
+      "end_time": "1440.0",
+      "content": "<1420.02>   <1438.0>  A group of people are sitting at a table.  <1438.0>   <1438.0>  A man stands up and speaks into a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 72,
+      "start_time": "1440.0",
+      "end_time": "1460.0",
+      "content": "<1440.01>   <1458.02>  A man is giving a speech in front of a group of people.  <1458.02>   <1458.02>  A boy is playing a game of Go.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 73,
+      "start_time": "1460.0",
+      "end_time": "1480.0",
+      "content": "<1460.03>   <1478.01>  A man is sitting at a desk talking to a boy.  <1478.01>   <1478.01>  A man is standing up talking into a microphone.  <1478.01>   <1478.01>  A man and a woman are sitting at a desk.  <1478.01>   <1478.01>  The man and the boy are sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 74,
+      "start_time": "1480.0",
+      "end_time": "1500.0",
+      "content": "<1480.01>   <1498.03>  A man in a suit is holding a microphone.  <1498.03>   <1498.03>  He is speaking to a group of people.  <1498.03>   <1498.03>  They are all sitting at tables.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 75,
+      "start_time": "1500.0",
+      "end_time": "1520.0",
+      "content": "<1500.03>   <1518.02>  A man in a suit is holding a microphone.  <1500.03>   <1518.02>  He is talking to another man in a suit.  <1500.03>   <1518.02>  There are other people in the room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 76,
+      "start_time": "1520.0",
+      "end_time": "1540.0",
+      "content": "<1520.02>   <1538.0>  A man in a suit is talking to another man.  <1538.0>   <1538.0>  The man in the suit is holding a microphone.  <1538.0>   <1538.0>  People are sitting in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 77,
+      "start_time": "1540.0",
+      "end_time": "1560.0",
+      "content": "<1540.01>   <1558.02>  Two men are giving a presentation in front of a group of people.  <1540.01>   <1558.02>  The men are wearing suits.  <1558.02>   <1558.02>  The men are talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 78,
+      "start_time": "1560.0",
+      "end_time": "1580.0",
+      "content": "<1560.03>   <1578.01>  A group of people are sitting in a classroom.  <1578.01>   <1578.01>  They are then shown standing in a room, talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 79,
+      "start_time": "1580.0",
+      "end_time": "1600.0",
+      "content": "<1580.01>   <1598.03>  Two men in suits are walking down a hallway.  <1580.01>   <1598.03>  They are talking to each other.  <1580.01>   <1598.03>  They are in an office building.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 80,
+      "start_time": "1600.0",
+      "end_time": "1620.0",
+      "content": "<1600.03>   <1618.02>  Two men in suits are talking to each other.  <1618.02>   <1618.02>  One of the men is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 81,
+      "start_time": "1620.0",
+      "end_time": "1640.0",
+      "content": "<1620.02>   <1638.0>  A woman is sitting in a chair.  <1638.0>   <1638.0>  A man is sitting in a chair.  <1638.0>   <1638.0>  A man is standing up.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 82,
+      "start_time": "1640.0",
+      "end_time": "1660.0",
+      "content": "<1640.01>   <1658.02>  Three people are sitting in a room talking.  <1640.01>   <1658.02>  A man in a white shirt is sitting in a chair.  <1652.02>   <1658.02>  A man in a blue shirt is sitting in a chair.  <1658.02>   <1658.02>  A woman in a black shirt is sitting in a chair.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 83,
+      "start_time": "1660.0",
+      "end_time": "1680.0",
+      "content": "<1660.03>   <1678.01>  A man is talking to a woman.  <1660.03>   <1678.01>  They are in an office.  <1660.03>   <1678.01>  They are having a serious conversation.  <1678.01>   <1678.01>  They are in a meeting room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 84,
+      "start_time": "1680.0",
+      "end_time": "1700.0",
+      "content": "<1680.01>   <1698.03>  A man in a suit is sitting at a desk.  <1680.01>   <1698.03>  He is looking at a laptop.  <1694.03>   <1698.03>  He is talking to another man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 85,
+      "start_time": "1700.0",
+      "end_time": "1720.0",
+      "content": "<1700.03>   <1718.02>  A man in a suit is sitting at a desk.  <1718.02>   <1718.02>  A man in a suit is sitting at a desk with a laptop.  <1718.02>   <1718.02>  He stands up and walks to the front of the room.  <1718.02>   <1718.02>  He sits down at the desk.  <1718.02>   <1718.02>  He walks down the row of desks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 86,
+      "start_time": "1720.0",
+      "end_time": "1740.0",
+      "content": "<1720.02>   <1738.0>  A man in a suit is standing in a room.  <1738.0>   <1738.0>  He sits down at a desk and starts writing.  <1738.0>   <1738.0>  He hands a paper to another man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 87,
+      "start_time": "1740.0",
+      "end_time": "1760.0",
+      "content": "<1740.01>   <1758.02>  A man in a suit is sitting in a chair.  <1758.02>   <1758.02>  He stands up and walks away.  <1758.02>   <1758.02>  He walks up to another man and hands him a paper.  <1758.02>   <1758.02>  He walks away and sits down in a chair.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 88,
+      "start_time": "1760.0",
+      "end_time": "1780.0",
+      "content": "<1760.03>   <1778.01>  A man is holding a piece of paper.  <1778.01>   <1778.01>  He is reading the paper.  <1778.01>   <1778.01>  He is talking to a boy.  <1778.01>   <1778.01>  He walks away from the boy.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 89,
+      "start_time": "1780.0",
+      "end_time": "1800.0",
+      "content": "<1780.01>   <1798.03>  A man in a suit is talking.  <1798.03>   <1798.03>  A man in a blue shirt is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 90,
+      "start_time": "1800.0",
+      "end_time": "1820.0",
+      "content": "<1800.03>   <1818.02>  A man in a suit is talking to a man in a blue shirt.  <1800.03>   <1818.02>  They are outside in front of a building.  <1800.03>   <1818.02>  They are having a serious conversation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 91,
+      "start_time": "1820.0",
+      "end_time": "1840.0",
+      "content": "<1820.02>   <1838.0>  A man in a blue shirt and tie is talking.  <1838.0>   <1838.0>  A man in a black suit walks up to him.  <1838.0>   <1838.0>  They talk to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 92,
+      "start_time": "1840.0",
+      "end_time": "1860.0",
+      "content": "<1840.01>   <1858.02>  Two men are talking to each other.  <1840.01>   <1858.02>  They are wearing suits.  <1840.01>   <1858.02>  They are outside a building.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 93,
+      "start_time": "1860.0",
+      "end_time": "1880.0",
+      "content": "<1860.03>   <1878.01>  A man is standing in an office.  <1878.01>   <1878.01>  He is sitting at his desk, working.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 94,
+      "start_time": "1880.0",
+      "end_time": "1900.0",
+      "content": "<1880.01>   <1898.03>  A man in a white shirt is talking to a man in a blue shirt.  <1880.01>   <1898.03>  The man in the white shirt is holding a folder.  <1892.02>   <1898.03>  The man in the white shirt is wearing a tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1920.0",
+      "content": "<1900.03>   <1918.02>  A man in a blue shirt is sitting in an office.  <1918.02>   <1918.02>  A man in a white shirt walks up to him.  <1918.02>   <1918.02>  The man in the blue shirt starts talking to the man in the white shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 96,
+      "start_time": "1920.0",
+      "end_time": "1940.0",
+      "content": "<1920.02>   <1938.0>  A man is sitting in an office.  <1920.02>   <1938.0>  He is talking on a headset.  <1920.02>   <1938.0>  He is wearing a blue lanyard.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 97,
+      "start_time": "1940.0",
+      "end_time": "1960.0",
+      "content": "<1940.01>   <1958.02>  A man is sitting in a chair.  <1940.01>   <1958.02>  A man in a blue shirt is standing in front of him.  <1940.01>   <1958.02>  The man in the blue shirt is talking.  <1940.01>   <1958.02>  The man in the chair is looking at him.  <1940.01>   <1958.02>  The man in the chair is looking at a computer screen.  <1958.02>   <1958.02>  The man in the chair is looking at the man in the blue shirt.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the blue shirt is looking at the man in the chair.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.  <1958.02>   <1958.02>  The man in the chair is looking at the man in the blue shirt.  <1958.02>   <1958.02>  The man in the chair is looking at the computer screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 98,
+      "start_time": "1960.0",
+      "end_time": "1980.0",
+      "content": "<1960.02>   <1978.01>  A man in a blue shirt is talking to a man in a white shirt.  <1978.01>   <1978.01>  A man in a blue shirt is talking to a man in a white shirt.  <1978.01>   <1978.01>  A man in a blue shirt is talking to a man in a white shirt.  <1978.01>   <1978.01>  A man in a blue shirt is talking to a man in a white shirt.  <1978.01>   <1978.01>  A man in a blue shirt is talking to a man in a white shirt.  <1978.01>   <1978.01>  A man in a blue shirt is talking to a man in a white shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 99,
+      "start_time": "1980.0",
+      "end_time": "2000.0",
+      "content": "<1980.01>   <1998.03>  A man is seen walking into an office and looking around.  <1998.03>   <1998.03>  He sits down in a chair and begins looking through a book.  <1998.03>   <1998.03>  He continues looking through the book and looking off into the distance.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 100,
+      "start_time": "2000.0",
+      "end_time": "2020.0",
+      "content": "<2000.03>   <2018.02>  A man in a blue shirt is sitting at a desk.  <2018.02>   <2018.02>  A man in a pink shirt is sitting at a desk.  <2018.02>   <2018.02>  The man in the blue shirt is talking to the man in the pink shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 101,
+      "start_time": "2020.0",
+      "end_time": "2040.0",
+      "content": "<2020.02>   <2038.0>  A man is sitting at a desk in an office.  <2038.0>   <2038.0>  He is reading a paper.  <2038.0>   <2038.0>  He is talking to a man in a blue shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 102,
+      "start_time": "2040.0",
+      "end_time": "2060.0",
+      "content": "<2040.01>   <2058.02>  A man in a blue shirt is talking to a man in a pink shirt.  <2058.02>   <2058.02>  A woman in a white shirt is sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 103,
+      "start_time": "2060.0",
+      "end_time": "2080.0",
+      "content": "<2060.03>   <2078.01>  Two men are talking in an office.  <2060.03>   <2078.01>  They are wearing lanyards.  <2060.03>   <2078.01>  They are wearing business casual clothes.  <2060.03>   <2078.01>  They are in a cubicle.  <2072.0>   <2078.01>  They are talking about work.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 104,
+      "start_time": "2080.0",
+      "end_time": "2100.0",
+      "content": "<2080.01>   <2098.03>  A man is sitting at a desk in an office.  <2098.03>   <2098.03>  He is looking at a computer screen.  <2098.03>   <2098.03>  He stands up and looks at a spreadsheet.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 105,
+      "start_time": "2100.0",
+      "end_time": "2120.0",
+      "content": "<2100.03>   <2118.02>  A man in a suit is talking to a man in a blue shirt.  <2100.03>   <2118.02>  The man in the blue shirt is looking at a computer.  <2100.03>   <2118.02>  The man in the suit is looking at the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.  <2118.02>   <2118.02>  The man in the suit is looking at the computer.  <2118.02>   <2118.02>  The man in the suit is talking to the man in the blue shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 106,
+      "start_time": "2120.0",
+      "end_time": "2140.0",
+      "content": "<2120.02>   <2138.0>  A close up of a paper is shown followed by a man walking into frame.  <2138.0>   <2138.0>  The man looks at the paper and then puts it down.  <2138.0>   <2138.0>  He then sits down in a chair and begins typing on the computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 107,
+      "start_time": "2140.0",
+      "end_time": "2160.0",
+      "content": "<2140.0>   <2158.02>  A man is sleeping in his cubicle.  <2158.02>   <2158.02>  A woman is talking to a man in a cubicle.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 108,
+      "start_time": "2160.0",
+      "end_time": "2180.0",
+      "content": "<2160.02>   <2178.01>  A man is sitting at a desk in an office.  <2178.01>   <2178.01>  He is reading a book.  <2178.01>   <2178.01>  He plugs his phone into the computer.  <2178.01>   <2178.01>  He looks at a picture on his phone.  <2178.01>   <2178.01>  He reads a text message on his phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 109,
+      "start_time": "2180.0",
+      "end_time": "2200.0",
+      "content": "<2180.01>   <2198.03>  A man is sitting at a desk in an office.  <2198.03>   <2198.03>  He is reading a text message on his phone.  <2198.03>   <2198.03>  He puts the phone down and looks up as two men walk by.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 110,
+      "start_time": "2200.0",
+      "end_time": "2220.0",
+      "content": "<2200.03>   <2218.02>  A man in a suit is sitting at a desk.  <2218.02>   <2218.02>  He is talking to another man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 111,
+      "start_time": "2220.0",
+      "end_time": "2240.0",
+      "content": "<2220.02>   <2238.0>  A man in a suit is talking to a man in a tie.  <2238.0>   <2238.0>  The man in the suit walks away.  <2238.0>   <2238.0>  The man in the suit is talking to a woman in a cubicle.  <2238.0>   <2238.0>  The man in the suit walks away.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 112,
+      "start_time": "2240.0",
+      "end_time": "2260.0",
+      "content": "<2240.01>   <2258.02>  A man in a suit is talking to a man in a white shirt.  <2240.01>   <2258.02>  A woman in a white shirt is standing in a doorway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 113,
+      "start_time": "2260.0",
+      "end_time": "2280.0",
+      "content": "<2260.03>   <2278.01>  Two men are talking to each other.  <2260.03>   <2278.01>  They are in an office.  <2272.0>   <2278.01>  They are wearing business attire.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 114,
+      "start_time": "2280.0",
+      "end_time": "2300.0",
+      "content": "<2280.01>   <2298.03>  A man in a suit is talking to a man in a white shirt.  <2298.03>   <2298.03>  A woman in a white shirt walks up to them.  <2298.03>   <2298.03>  The man in the suit walks away.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 115,
+      "start_time": "2300.0",
+      "end_time": "2320.0",
+      "content": "<2300.03>   <2318.01>  A man is sitting at a desk in an office.  <2318.01>   <2318.01>  He is looking at a resume on his computer.  <2318.01>   <2318.01>  He looks up and sees another man.  <2318.01>   <2318.01>  He stands up and walks over to the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 116,
+      "start_time": "2320.0",
+      "end_time": "2340.0",
+      "content": "<2320.02>   <2338.0>  A man in a blue shirt and tie is sitting at a desk in an office.  <2338.0>   <2338.0>  A man in a suit walks up to the desk.  <2338.0>   <2338.0>  The man in the suit is talking to the man in the blue shirt.  <2338.0>   <2338.0>  The man in the suit is talking to the camera.  <2338.0>   <2338.0>  The man in the suit is talking to the man in the blue shirt.  <2338.0>   <2338.0>  The man in the suit is talking to the camera.  <2338.0>   <2338.0>  The man in the suit is talking to the man in the blue shirt.  <2338.0>   <2338.0>  The man in the suit is talking to the camera.  <2338.0>   <2338.0>  The man in the suit is talking to the man in the blue shirt.  <2338.0>   <2338.0>  The man in the suit is talking to the camera.  <2338.0>   <2338.0>  The man in the suit is talking to the man in the blue shirt.  <2338.0>   <2338.0>  The man in the suit is talking to the camera.  <2338.0>   <2338.0>  The man in the suit is talking to the man in the blue shirt.  <2338.0>   <2338.0>  The man in the suit is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 117,
+      "start_time": "2340.0",
+      "end_time": "2360.0",
+      "content": "<2340.0>   <2358.02>  A man in a suit is talking to a man in a blue shirt.  <2358.02>   <2358.02>  The man in the suit is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 118,
+      "start_time": "2360.0",
+      "end_time": "2380.0",
+      "content": "<2360.03>   <2378.01>  Two men are talking in an office.  <2360.03>   <2378.01>  They are wearing lanyards.  <2360.03>   <2378.01>  They are wearing ties.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 119,
+      "start_time": "2380.0",
+      "end_time": "2400.0",
+      "content": "<2380.01>   <2398.03>  Two men are talking in an office.  <2398.03>   <2398.03>  They are wearing blue shirts.  <2398.03>   <2398.03>  They are wearing lanyards.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 120,
+      "start_time": "2400.0",
+      "end_time": "2420.0",
+      "content": "<2400.03>   <2418.01>  A man in a blue shirt and tie walks through an office.  <2418.01>   <2418.01>  He talks to a man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 121,
+      "start_time": "2420.0",
+      "end_time": "2440.0",
+      "content": "<2420.02>   <2438.0>  Two men are talking to each other.  <2420.02>   <2438.0>  They are in a hospital.  <2420.02>   <2438.0>  They are wearing business attire.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 122,
+      "start_time": "2440.0",
+      "end_time": "2460.0",
+      "content": "<2440.0>   <2458.02>  A man is sitting at a desk.  <2458.02>   <2458.02>  He is looking at a paper.  <2458.02>   <2458.02>  He is talking to another man.  <2458.02>   <2458.02>  They are having a serious conversation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 123,
+      "start_time": "2460.0",
+      "end_time": "2480.0",
+      "content": "<2460.02>   <2478.01>  Two men are talking to each other.  <2478.01>   <2478.01>  One man is wearing glasses.  <2478.01>   <2478.01>  One man is wearing a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 124,
+      "start_time": "2480.0",
+      "end_time": "2500.0",
+      "content": "<2480.01>   <2498.03>  A man in a white shirt is sitting at a desk.  <2498.03>   <2498.03>  A man in a suit is talking to him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 125,
+      "start_time": "2500.0",
+      "end_time": "2520.0",
+      "content": "<2500.03>   <2518.01>  Two men are talking in a hallway.  <2500.03>   <2518.01>  They are wearing business suits.  <2518.01>   <2518.01>  They are in an office building.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 126,
+      "start_time": "2520.0",
+      "end_time": "2540.0",
+      "content": "<2520.02>   <2538.0>  A man in a suit is talking to a man in a white shirt.  <2538.0>   <2538.0>  They are in an office.  <2538.0>   <2538.0>  They are talking about work.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 127,
+      "start_time": "2540.0",
+      "end_time": "2560.0",
+      "content": "<2540.0>   <2558.02>  A man is talking on a phone.  <2558.02>   <2558.02>  He writes in a planner.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 128,
+      "start_time": "2560.0",
+      "end_time": "2580.0",
+      "content": "<2560.03>   <2578.01>  A man is sitting in an office talking on a cell phone.  <2578.01>   <2578.01>  He gets up and talks to another man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 129,
+      "start_time": "2580.0",
+      "end_time": "2600.0",
+      "content": "<2580.01>   <2598.03>  A man in a white shirt and tie is talking to another man in a blue shirt.  <2598.03>   <2598.03>  The man in the white shirt walks to a water cooler and gets a cup of water.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 130,
+      "start_time": "2600.0",
+      "end_time": "2620.0",
+      "content": "<2600.03>   <2618.02>  A man in a white shirt is drinking from a coffee cup.  <2618.02>   <2618.02>  He is talking on the phone.  <2618.02>   <2618.02>  A man in a suit is walking down the street talking on the phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 131,
+      "start_time": "2620.0",
+      "end_time": "2640.0",
+      "content": "<2620.02>   <2638.0>  A man is talking on a cell phone.  <2620.02>   <2638.0>  A man is talking on a landline.  <2620.02>   <2638.0>  The man on the cell phone is walking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 132,
+      "start_time": "2640.0",
+      "end_time": "2660.0",
+      "content": "<2640.0>   <2658.02>  A man is sitting at a desk looking at a computer.  <2658.02>   <2658.02>  He is typing on the keyboard.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 133,
+      "start_time": "2660.0",
+      "end_time": "2680.0",
+      "content": "<2660.02>   <2678.01>  A man is sitting in front of a computer.  <2660.02>   <2678.01>  He is looking at the screen.  <2672.0>   <2678.01>  He is typing on the keyboard.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 134,
+      "start_time": "2680.0",
+      "end_time": "2700.0",
+      "content": "<2680.01>   <2698.03>  A man is seen sitting in front of a computer and begins typing on the keyboard.  <2698.03>   <2698.03>  The man continues typing and a woman is seen sitting in front of him.  <2698.03>   <2698.03>  The woman then speaks to the man and the man continues to type.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 135,
+      "start_time": "2700.0",
+      "end_time": "2720.0",
+      "content": "<2700.03>   <2718.01>  A man is sitting at a desk looking at a computer.  <2718.01>   <2718.01>  He is typing on the keyboard.  <2718.01>   <2718.01>  A woman walks up to him and talks to him.  <2718.01>   <2718.01>  He picks up a phone and starts talking on it.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 136,
+      "start_time": "2720.0",
+      "end_time": "2740.0",
+      "content": "<2720.02>   <2738.0>  A man is sitting in an office talking on a phone.  <2738.0>   <2738.0>  Another man is talking on a cell phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 137,
+      "start_time": "2740.0",
+      "end_time": "2760.0",
+      "content": "<2740.0>   <2758.02>  A man is sitting in an office.  <2740.0>   <2758.02>  He is talking on the phone.  <2740.0>   <2758.02>  He is wearing a white shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 138,
+      "start_time": "2760.0",
+      "end_time": "2780.0",
+      "content": "<2760.02>   <2778.01>  A man is seen speaking on the phone while looking off into the distance.  <2778.01>   <2778.01>  The man then walks away and another man is seen walking around the office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 139,
+      "start_time": "2780.0",
+      "end_time": "2800.0",
+      "content": "<2780.01>   <2798.03>  A man in a pink shirt walks into a room.  <2798.03>   <2798.03>  He talks to a man in a white shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 140,
+      "start_time": "2800.0",
+      "end_time": "2820.0",
+      "content": "<2800.03>   <2818.01>  Two men are looking at a computer screen.  <2800.03>   <2818.01>  They are in an office.  <2800.03>   <2818.01>  They are looking at a spreadsheet.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 141,
+      "start_time": "2820.0",
+      "end_time": "2840.0",
+      "content": "<2820.02>   <2838.0>  A man in a white shirt is sitting in a chair.  <2820.02>   <2838.0>  A man in a pink shirt is standing in front of him.  <2838.0>   <2838.0>  The man in the pink shirt is leaning over.  <2838.0>   <2838.0>  The man in the white shirt is looking at him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 142,
+      "start_time": "2840.0",
+      "end_time": "2860.0",
+      "content": "<2840.0>   <2858.02>  A man in a white shirt is sitting at a desk.  <2858.02>   <2858.02>  A man in a purple shirt walks past him.  <2858.02>   <2858.02>  The man in the white shirt picks up a phone and starts talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 143,
+      "start_time": "2860.0",
+      "end_time": "2880.0",
+      "content": "<2860.02>   <2878.01>  A man is sitting in an office talking on the phone.  <2860.02>   <2878.01>  He is wearing a white shirt and a black tie.  <2872.0>   <2878.01>  He is wearing glasses and a watch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 144,
+      "start_time": "2880.0",
+      "end_time": "2900.0",
+      "content": "<2880.01>   <2898.03>  A man in a white coat is talking on the phone.  <2898.03>   <2898.03>  A man in a suit is talking on the phone.  <2898.03>   <2898.03>  A man in a white shirt is talking on the phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 145,
+      "start_time": "2900.0",
+      "end_time": "2920.0",
+      "content": "<2900.03>   <2918.02>  A man is sitting at a desk talking on the phone.  <2918.02>   <2918.02>  A computer monitor is shown.  <2918.02>   <2918.02>  The man writes on a piece of paper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 146,
+      "start_time": "2920.0",
+      "end_time": "2940.0",
+      "content": "<2920.02>   <2938.0>  A man is talking on the phone while walking down a sidewalk.  <2938.0>   <2938.0>  A man is talking on the phone while sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 147,
+      "start_time": "2940.0",
+      "end_time": "2960.0",
+      "content": "<2940.0>   <2958.02>  A man is talking on the phone.  <2958.02>   <2958.02>  He writes on a post it note.  <2958.02>   <2958.02>  He continues talking on the phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 148,
+      "start_time": "2960.0",
+      "end_time": "2980.0",
+      "content": "<2960.02>   <2978.01>  A man is talking on a cell phone.  <2978.01>   <2978.01>  He is now in an office, still talking on the phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 149,
+      "start_time": "2980.0",
+      "end_time": "3000.0",
+      "content": "<2980.01>   <2998.03>  A man is sitting at a desk in an office.  <2998.03>   <2998.03>  He looks up and sees another man walking in.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 150,
+      "start_time": "3000.0",
+      "end_time": "3020.0",
+      "content": "<3000.03>   <3018.01>  A man is sitting in an office.  <3000.03>   <3018.01>  A man is standing in front of him.  <3010.01>   <3018.01>  The man is talking to the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 151,
+      "start_time": "3020.0",
+      "end_time": "3040.0",
+      "content": "<3020.02>   <3038.0>  A man is sitting at a desk.  <3020.02>   <3038.0>  A man is standing in front of him.  <3030.03>   <3038.0>  They are talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 152,
+      "start_time": "3040.0",
+      "end_time": "3060.0",
+      "content": "<3040.0>   <3058.02>  A man is sitting at a desk looking at a folder.  <3058.02>   <3058.02>  He is looking at a paper.  <3058.02>   <3058.02>  He is sitting outside on a bench.  <3058.02>   <3058.02>  He is writing on the paper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 153,
+      "start_time": "3060.0",
+      "end_time": "3080.0",
+      "content": "<3060.02>   <3078.01>  A man is sitting on a bench.  <3060.02>   <3078.01>  Words are scrolling on the screen.  <3078.01>   <3078.01>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 154,
+      "start_time": "3080.0",
+      "end_time": "3100.0",
+      "content": "<3080.01>   <3098.03>  A man is seen sitting in a chair looking off into the distance.  <3098.03>   <3098.03>  He then begins writing down notes on a piece of paper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 155,
+      "start_time": "3100.0",
+      "end_time": "3120.0",
+      "content": "<3100.03>   <3118.01>  A man is sitting on a bench.  <3100.03>   <3118.01>  He is writing in a notebook.  <3118.01>   <3118.01>  He is sitting at a desk in an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 156,
+      "start_time": "3120.0",
+      "end_time": "3140.0",
+      "content": "<3120.02>   <3138.0>  A man is sitting at a desk.  <3120.02>   <3138.0>  He is looking at a piece of paper.  <3120.02>   <3138.0>  He is writing on the paper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 157,
+      "start_time": "3140.0",
+      "end_time": "3160.0",
+      "content": "<3140.0>   <3158.02>  A man is sitting at a desk in an office.  <3158.02>   <3158.02>  He is looking at a computer screen.  <3158.02>   <3158.02>  He is writing on a piece of paper.  <3158.02>   <3158.02>  He is writing on a piece of paper with a green marker.  <3158.02>   <3158.02>  He is writing on a piece of paper with a black marker.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 158,
+      "start_time": "3160.0",
+      "end_time": "3180.0",
+      "content": "<3160.02>   <3178.01>  A man is sitting at a desk in an office.  <3178.01>   <3178.01>  He is writing on a piece of paper.  <3178.01>   <3178.01>  He is talking to someone.  <3178.01>   <3178.01>  He is looking at a man in a white shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 159,
+      "start_time": "3180.0",
+      "end_time": "3200.0",
+      "content": "<3180.01>   <3198.03>  A man in a blue shirt is holding a stack of papers.  <3180.01>   <3198.03>  A man in a white shirt is sitting at a desk.  <3192.02>   <3198.03>  People are working at desks in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 160,
+      "start_time": "3200.0",
+      "end_time": "3220.0",
+      "content": "<3200.03>   <3218.01>  A man is sitting at a desk in an office.  <3218.01>   <3218.01>  He hands a piece of paper to another man.  <3218.01>   <3218.01>  The man reads the paper.  <3218.01>   <3218.01>  The man looks up at the other man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 161,
+      "start_time": "3220.0",
+      "end_time": "3240.0",
+      "content": "<3220.02>   <3238.0>  A man in a blue shirt is sitting at a desk.  <3220.02>   <3238.0>  He is looking at a computer screen.  <3220.02>   <3238.0>  He is wearing a blue lanyard.  <3220.02>   <3238.0>  He is wearing glasses.  <3220.02>   <3238.0>  He is in an office.  <3220.02>   <3238.0>  He is typing on a keyboard.  <3238.0>   <3238.0>  He is talking to someone.  <3238.0>   <3238.0>  He is looking at a paper.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen.  <3238.0>   <3238.0>  He is looking at a man.  <3238.0>   <3238.0>  He is looking at a computer screen. ",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 162,
+      "start_time": "3240.0",
+      "end_time": "3260.0",
+      "content": "<3240.0>   <3258.02>  A man in a suit walks into a room.  <3258.02>   <3258.02>  Two men in suits are sitting in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 163,
+      "start_time": "3260.0",
+      "end_time": "3280.0",
+      "content": "<3260.02>   <3278.01>  Two men are sitting next to each other.  <3260.02>   <3278.01>  They are wearing suits.  <3260.02>   <3278.01>  They are sitting outside at night.  <3260.02>   <3278.01>  They are drinking beer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 164,
+      "start_time": "3280.0",
+      "end_time": "3300.0",
+      "content": "<3280.01>   <3298.03>  A man is seen speaking to the camera and leads into him looking off into the distance.  <3298.03>   <3298.03>  Another man is seen sitting next to him and the two continue to speak to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 165,
+      "start_time": "3300.0",
+      "end_time": "3320.0",
+      "content": "<3300.03>   <3318.01>  Two men are sitting in a room.  <3300.03>   <3318.01>  They are having a conversation.  <3300.03>   <3318.01>  They are wearing suits.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 166,
+      "start_time": "3320.0",
+      "end_time": "3340.0",
+      "content": "<3320.02>   <3338.0>  Two men are sitting on a ledge.  <3338.0>   <3338.0>  They are looking out over a city.  <3338.0>   <3338.0>  They stand up and look at each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 167,
+      "start_time": "3340.0",
+      "end_time": "3360.0",
+      "content": "<3340.0>   <3358.02>  Two men are talking to each other.  <3358.02>   <3358.02>  A man is sitting at a desk talking on the phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 168,
+      "start_time": "3360.0",
+      "end_time": "3380.0",
+      "content": "<3360.02>   <3378.01>  A man is sitting at a desk talking on the phone.  <3378.01>   <3378.01>  Another man is sitting behind him talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 169,
+      "start_time": "3380.0",
+      "end_time": "3400.0",
+      "content": "<3380.01>   <3398.03>  A man is sitting in an office.  <3380.01>   <3398.03>  He is talking to another man.  <3380.01>   <3398.03>  He is wearing a blue shirt and tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 170,
+      "start_time": "3400.0",
+      "end_time": "3420.0",
+      "content": "<3400.03>   <3418.01>  Two men are sitting at a desk talking.  <3400.03>   <3418.01>  One man is wearing a blue shirt and tie.  <3400.03>   <3418.01>  The other man is wearing a blue shirt.  <3412.01>   <3418.01>  They are in an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 171,
+      "start_time": "3420.0",
+      "end_time": "3440.0",
+      "content": "<3420.02>   <3438.0>  A man in a blue shirt and tie is sitting in a chair.  <3438.0>   <3438.0>  He is talking to someone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 172,
+      "start_time": "3440.0",
+      "end_time": "3460.0",
+      "content": "<3440.0>   <3458.02>  A man is sitting in an office.  <3458.02>   <3458.02>  He shakes hands with a man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 173,
+      "start_time": "3460.0",
+      "end_time": "3480.0",
+      "content": "<3460.02>   <3478.01>  A group of people are standing in a room.  <3460.02>   <3478.01>  They are all wearing business attire.  <3460.02>   <3478.01>  They are shaking hands with each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 174,
+      "start_time": "3480.0",
+      "end_time": "3500.0",
+      "content": "<3480.01>   <3498.03>  A group of men are standing in an office.  <3498.03>   <3498.03>  They are talking to one another.  <3498.03>   <3498.03>  They shake hands and walk away.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 175,
+      "start_time": "3500.0",
+      "end_time": "3520.0",
+      "content": "<3500.03>   <3518.01>  A man in a suit walks down a hallway.  <3518.01>   <3518.01>  He walks into an office.  <3518.01>   <3518.01>  He talks to a man sitting at a desk.  <3518.01>   <3518.01>  He talks to another man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 176,
+      "start_time": "3520.0",
+      "end_time": "3540.0",
+      "content": "<3520.02>   <3538.0>  Two men shake hands.  <3538.0>   <3538.0>  A man talks on the phone.  <3538.0>   <3538.0>  A man in a suit walks down a hallway.  <3538.0>   <3538.0>  A man in a suit shakes hands with a man in a white shirt.  <3538.0>   <3538.0>  A man in a white shirt talks to another man in a white shirt.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt gives a thumbs up.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt talks to another man in a white shirt.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt gives a thumbs up.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt talks to another man in a white shirt.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt gives a thumbs up.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt talks to another man in a white shirt.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a white shirt gives a thumbs up.  <3538.0>   <3538.0>  A man in a white shirt smiles.  <3538.0>   <3538.0>  A man in a suit walks down a hallway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 177,
+      "start_time": "3540.0",
+      "end_time": "3560.0",
+      "content": "<3540.0>   <3558.02>  A man in a suit is talking to a man in a white shirt.  <3558.02>   <3558.02>  The man in the white shirt is talking to the man in the suit.  <3558.02>   <3558.02>  The man in the white shirt is standing in front of a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 178,
+      "start_time": "3560.0",
+      "end_time": "3580.0",
+      "content": "<3560.02>   <3578.01>  A man is standing in an office.  <3578.01>   <3578.01>  He is sitting down at a table.  <3578.01>   <3578.01>  He is talking to another man.  <3578.01>   <3578.01>  He is sitting in a chair.  <3578.01>   <3578.01>  He is sitting at a desk.  <3578.01>   <3578.01>  He is talking to another man.  <3578.01>   <3578.01>  He is holding a piece of paper.  <3578.01>   <3578.01>  He is handing the paper to the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 179,
+      "start_time": "3580.0",
+      "end_time": "3600.0",
+      "content": "<3580.01>   <3598.03>  A man in a suit walks into an office.  <3598.03>   <3598.03>  He walks up to a man in a blue shirt.  <3598.03>   <3598.03>  He bows down to the man.  <3598.03>   <3598.03>  He walks back to his office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 180,
+      "start_time": "3600.0",
+      "end_time": "3620.0",
+      "content": "<3600.03>   <3618.01>  A man in a suit walks down a hallway.  <3600.03>   <3618.01>  People are working at desks.  <3600.03>   <3618.01>  A man in a white shirt is working at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 181,
+      "start_time": "3620.0",
+      "end_time": "3640.0",
+      "content": "<3620.02>   <3638.0>  A man is sitting at a desk in an office.  <3638.0>   <3638.0>  He is talking to another man who is standing.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 182,
+      "start_time": "3640.0",
+      "end_time": "3660.0",
+      "content": "<3640.0>   <3658.02>  A man walks down a hallway.  <3658.02>   <3658.02>  People are working at desks in an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 183,
+      "start_time": "3660.0",
+      "end_time": "3680.0",
+      "content": "<3660.02>   <3678.01>  A woman is sitting at a desk in an office.  <3678.01>   <3678.01>  A group of men are walking down the hallway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 184,
+      "start_time": "3680.0",
+      "end_time": "3700.0",
+      "content": "<3680.01>   <3698.03>  A computer screen is shown with a list of questions.  <3698.03>   <3698.03>  A man walks through an office and goes to a rooftop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 185,
+      "start_time": "3700.0",
+      "end_time": "3720.0",
+      "content": "<3700.03>   <3718.01>  Three men are standing on a rooftop.  <3700.03>   <3718.01>  They are talking to each other.  <3700.03>   <3718.01>  They are wearing white shirts and ties.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 186,
+      "start_time": "3720.0",
+      "end_time": "3740.0",
+      "content": "<3720.02>   <3738.0>  Two men are standing on a rooftop.  <3738.0>   <3738.0>  They are talking to another man.  <3738.0>   <3738.0>  They are in an office, and one of the men is typing.  <3738.0>   <3738.0>  The man who was talking to them walks away.  <3738.0>   <3738.0>  The man who was typing gets up and walks away.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 187,
+      "start_time": "3740.0",
+      "end_time": "3760.0",
+      "content": "<3740.0>   <3758.02>  A man is sitting in a chair.  <3740.0>   <3758.02>  A boy is standing in front of him.  <3740.0>   <3758.02>  They are in an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 188,
+      "start_time": "3760.0",
+      "end_time": "3780.0",
+      "content": "<3760.02>   <3778.01>  A man is talking to a boy.  <3760.02>   <3778.01>  They are in an office.  <3760.02>   <3778.01>  They are wearing lanyards.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 189,
+      "start_time": "3780.0",
+      "end_time": "3800.0",
+      "content": "<3780.01>   <3798.03>  A man is seen walking into an office and looking around.  <3798.03>   <3798.03>  He walks over to a man's desk and begins speaking to him.  <3798.03>   <3798.03>  The man then walks away and grabs a book and continues speaking to the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 190,
+      "start_time": "3800.0",
+      "end_time": "3820.0",
+      "content": "<3800.03>   <3818.01>  Two men are talking in an office.  <3800.03>   <3818.01>  They are wearing white shirts and blue lanyards.  <3800.03>   <3818.01>  They are in a room with cubicles.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 191,
+      "start_time": "3820.0",
+      "end_time": "3840.0",
+      "content": "<3820.02>   <3838.0>  Two men are talking in an office.  <3838.0>   <3838.0>  One man walks away and sits down at his desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 192,
+      "start_time": "3840.0",
+      "end_time": "3860.0",
+      "content": "<3840.0>   <3858.02>  A man in a white shirt and tie is talking to another man in a white shirt and tie.  <3858.02>   <3858.02>  The man in the white shirt and tie is talking to a man in a suit.  <3858.02>   <3858.02>  The man in the white shirt and tie walks away.  <3858.02>   <3858.02>  The man in the white shirt and tie walks into a conference room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 193,
+      "start_time": "3860.0",
+      "end_time": "3880.0",
+      "content": "<3860.02>   <3878.01>  A man in a suit is giving a speech.  <3860.02>   <3878.01>  People are sitting in chairs listening to the man.  <3860.02>   <3878.01>  A projection screen is behind the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 194,
+      "start_time": "3880.0",
+      "end_time": "3900.0",
+      "content": "<3880.01>   <3898.03>  A man in a suit is holding a microphone.  <3898.03>   <3898.03>  A man in a suit is standing in front of him.  <3898.03>   <3898.03>  People are sitting at a table behind them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 195,
+      "start_time": "3900.0",
+      "end_time": "3920.0",
+      "content": "<3900.03>   <3918.01>  A group of men are sitting at a table.  <3900.03>   <3918.01>  They are all wearing suits.  <3916.01>   <3918.01>  They are in a meeting room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 196,
+      "start_time": "3920.0",
+      "end_time": "3940.0",
+      "content": "<3920.02>   <3938.0>  A group of men are sitting at a table.  <3920.02>   <3938.0>  A man is standing up and talking.  <3938.0>   <3938.0>  A man is sitting down and talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 197,
+      "start_time": "3940.0",
+      "end_time": "3960.0",
+      "content": "<3940.0>   <3958.02>  A man is giving a speech.  <3940.0>   <3958.02>  A man is sitting behind a laptop.  <3958.02>   <3958.02>  Two men are sitting behind the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 198,
+      "start_time": "3960.0",
+      "end_time": "3980.0",
+      "content": "<3960.02>   <3978.01>  A group of men are sitting at a table.  <3960.02>   <3978.01>  They are listening to a man speak.  <3972.0>   <3978.01>  They are in a conference room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 199,
+      "start_time": "3980.0",
+      "end_time": "4000.0",
+      "content": "<3980.01>   <3998.03>  A man in a suit is giving a speech.  <3980.01>   <3998.03>  A man in a suit is standing in front of him.  <3980.01>   <3998.03>  People are sitting in chairs behind him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 200,
+      "start_time": "4000.0",
+      "end_time": "4020.0",
+      "content": "<4000.03>   <4018.01>  A group of men are sitting in a conference room.  <4000.03>   <4018.01>  They are all wearing suits.  <4000.03>   <4018.01>  They are looking at a laptop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 201,
+      "start_time": "4020.0",
+      "end_time": "4040.0",
+      "content": "<4020.02>   <4038.0>  A group of men are sitting at a table.  <4038.0>   <4038.0>  A man stands up and walks to the front of the room.  <4038.0>   <4038.0>  He speaks to the group of men.  <4038.0>   <4038.0>  He shows them a power point presentation.  <4038.0>   <4038.0>  He then walks back to his seat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 202,
+      "start_time": "4040.0",
+      "end_time": "4060.0",
+      "content": "<4040.0>   <4058.02>  A screen shows stock market graphs.  <4058.02>   <4058.02>  Two men in suits sit in the audience.  <4058.02>   <4058.02>  A man in a suit speaks to the audience.  <4058.02>   <4058.02>  A man in a suit sits at a desk.  <4058.02>   <4058.02>  A group of people sit in the audience.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 203,
+      "start_time": "4060.0",
+      "end_time": "4080.0",
+      "content": "<4060.02>   <4078.01>  A group of men are sitting at a table.  <4078.01>   <4078.01>  A man is standing at a podium.  <4078.01>   <4078.01>  The men are sitting at the table.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 204,
+      "start_time": "4080.0",
+      "end_time": "4100.0",
+      "content": "<4080.01>   <4098.03>  A group of men are sitting at a table.  <4080.01>   <4098.03>  A man is standing at a podium.  <4098.03>   <4098.03>  A man is sitting in a chair.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 205,
+      "start_time": "4100.0",
+      "end_time": "4120.0",
+      "content": "<4100.03>   <4118.01>  A man in a suit is sitting in a chair.  <4118.01>   <4118.01>  A man in a suit is standing up.  <4118.01>   <4118.01>  A man in a suit is sitting at a desk.  <4118.01>   <4118.01>  A man in a suit is standing up.  <4118.01>   <4118.01>  A man in a suit is sitting in a chair.  <4118.01>   <4118.01>  A man in a suit is holding a microphone.  <4118.01>   <4118.01>  A man in a suit is sitting at a desk.  <4118.01>   <4118.01>  A man in a suit is standing up.  <4118.01>   <4118.01>  A man in a suit is sitting in a chair.  <4118.01>   <4118.01>  A man in a suit is holding a microphone.  <4118.01>   <4118.01>  A man in a suit is sitting in a chair.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 206,
+      "start_time": "4120.0",
+      "end_time": "4140.0",
+      "content": "<4120.02>   <4138.0>  A man in a suit is talking into a microphone.  <4138.0>   <4138.0>  People are sitting behind a table.  <4138.0>   <4138.0>  A man in a suit is standing in front of a screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 207,
+      "start_time": "4140.0",
+      "end_time": "4160.0",
+      "content": "<4140.0>   <4158.02>  A man in a suit is standing at a podium.  <4158.02>   <4158.02>  He is talking to a group of people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 208,
+      "start_time": "4160.0",
+      "end_time": "4180.0",
+      "content": "<4160.02>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is standing up.  <4178.01>   <4178.01>  A man in a suit is sitting down.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.  <4178.01>   <4178.01>  A man in a suit is sitting behind a podium.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 209,
+      "start_time": "4180.0",
+      "end_time": "4200.0",
+      "content": "<4180.01>   <4198.03>  A group of men are sitting at a table.  <4180.01>   <4198.03>  They are all wearing suits.  <4190.02>   <4198.03>  They are speaking into a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 210,
+      "start_time": "4200.0",
+      "end_time": "4220.0",
+      "content": "<4200.03>   <4218.01>  A man in a suit is sitting in a chair.  <4200.03>   <4218.01>  He is speaking into a microphone.  <4218.01>   <4218.01>  He is sitting at a table with other men.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 211,
+      "start_time": "4220.0",
+      "end_time": "4240.0",
+      "content": "<4220.02>   <4238.0>  A group of men are sitting in a conference room.  <4220.02>   <4238.0>  They are all wearing suits and ties.  <4234.03>   <4238.0>  They are listening to a man speak.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 212,
+      "start_time": "4240.0",
+      "end_time": "4260.0",
+      "content": "<4240.0>   <4258.02>  A man is sitting in a chair.  <4240.0>   <4258.02>  A man is standing up talking.  <4258.02>   <4258.02>  A man in a suit is standing up.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 213,
+      "start_time": "4260.0",
+      "end_time": "4280.0",
+      "content": "<4260.02>   <4278.01>  A man in a suit is standing in front of a blue background.  <4278.01>   <4278.01>  He walks to a table and sits down.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 214,
+      "start_time": "4280.0",
+      "end_time": "4300.0",
+      "content": "<4280.01>   <4298.03>  A man in a suit is standing in a room.  <4298.03>   <4298.03>  He walks out of the room and presses a button.  <4298.03>   <4298.03>  Another man presses the button.  <4298.03>   <4298.03>  They are then shown in a meeting room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 215,
+      "start_time": "4300.0",
+      "end_time": "4320.0",
+      "content": "<4300.03>   <4318.01>  A group of men are sitting in a conference room.  <4300.03>   <4318.01>  They are all wearing suits and ties.  <4318.01>   <4318.01>  They are all looking at a projection screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 216,
+      "start_time": "4320.0",
+      "end_time": "4340.0",
+      "content": "<4320.02>   <4338.0>  A group of people are sitting around a large table.  <4320.02>   <4338.0>  A man is standing at the front of the room.  <4334.03>   <4338.0>  He is giving a presentation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 217,
+      "start_time": "4340.0",
+      "end_time": "4360.0",
+      "content": "<4340.0>   <4358.02>  A man in a suit is standing in front of a microphone.  <4358.02>   <4358.02>  Three men in suits are standing in a room.  <4358.02>   <4358.02>  A man in a suit is sitting behind a desk.  <4358.02>   <4358.02>  The man in the suit is clapping.  <4358.02>   <4358.02>  A man in a white coat is sitting at a desk.  <4358.02>   <4358.02>  A man in a white coat is standing up.  <4358.02>   <4358.02>  A man in a white coat is walking down a hallway.  <4358.02>   <4358.02>  A man in a suit is walking down a hallway.  <4358.02>   <4358.02>  A man in a suit is standing in a hallway.  <4358.02>   <4358.02>  A man in a suit is walking down a hallway.  <4358.02>   <4358.02>  A man in a suit is standing in a room.  <4358.02>   <4358.02>  A man in a suit is walking down a hallway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 218,
+      "start_time": "4360.0",
+      "end_time": "4380.0",
+      "content": "<4360.02>   <4378.01>  A man is sitting at a desk in an office.  <4378.01>   <4378.01>  A man in a suit walks through the office and out the door.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 219,
+      "start_time": "4380.0",
+      "end_time": "4400.0",
+      "content": "<4380.01>   <4398.03>  A man in a suit is talking to two other men.  <4398.03>   <4398.03>  He is walking down a sidewalk.  <4398.03>   <4398.03>  He walks into an office and talks to a man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 220,
+      "start_time": "4400.0",
+      "end_time": "4420.0",
+      "content": "<4400.03>   <4418.01>  A man in a suit walks into an office.  <4418.01>   <4418.01>  He talks to a man sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 221,
+      "start_time": "4420.0",
+      "end_time": "4440.0",
+      "content": "<4420.02>   <4438.0>  A man is sitting in an office.  <4438.0>   <4438.0>  A man in a suit is standing in a room.  <4438.0>   <4438.0>  The man in the office is looking at a computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 222,
+      "start_time": "4440.0",
+      "end_time": "4460.0",
+      "content": "<4440.0>   <4458.02>  A man in a suit is talking.  <4458.02>   <4458.02>  A man in a hoodie is looking at a computer.  <4458.02>   <4458.02>  The man in the hoodie looks up.  <4458.02>   <4458.02>  The man in the suit is sitting at a table.  <4458.02>   <4458.02>  The man in the hoodie is sitting at the table.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 223,
+      "start_time": "4460.0",
+      "end_time": "4480.0",
+      "content": "<4460.02>   <4478.01>  A man in a suit is sitting in a chair.  <4474.0>   <4478.01>  A man in a blue sweater is talking to him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 224,
+      "start_time": "4480.0",
+      "end_time": "4500.0",
+      "content": "<4480.01>   <4498.03>  Two men are sitting at a table.  <4480.01>   <4498.03>  They are in a conference room.  <4480.01>   <4498.03>  They are having a conversation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 225,
+      "start_time": "4500.0",
+      "end_time": "4520.0",
+      "content": "<4500.03>   <4518.01>  Two men are sitting in a room.  <4500.03>   <4518.01>  They are having a conversation.  <4500.03>   <4518.01>  They are in a room with blinds.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 226,
+      "start_time": "4520.0",
+      "end_time": "4540.0",
+      "content": "<4520.02>   <4538.0>  A woman in a pink shirt is talking to a woman in a gray suit.  <4520.02>   <4538.0>  A man in a black jacket is standing behind them.  <4538.0>   <4538.0>  A man in a black jacket walks up to the woman in the pink shirt.  <4538.0>   <4538.0>  A man in a black jacket walks up to the woman in the gray suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 227,
+      "start_time": "4540.0",
+      "end_time": "4560.0",
+      "content": "<4540.0>   <4558.02>  A man is seen walking into an office and looking around.  <4558.02>   <4558.02>  He walks over to another man and speaks to him.  <4558.02>   <4558.02>  The man then walks away and the other man speaks to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 228,
+      "start_time": "4560.0",
+      "end_time": "4580.0",
+      "content": "<4560.02>   <4578.01>  A man is talking to the camera.  <4560.02>   <4578.01>  Another man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 229,
+      "start_time": "4580.0",
+      "end_time": "4600.0",
+      "content": "<4580.01>   <4598.03>  A man is talking to the camera.  <4598.03>   <4598.03>  Another man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 230,
+      "start_time": "4600.0",
+      "end_time": "4620.0",
+      "content": "<4600.03>   <4618.01>  A man is standing in an office.  <4618.01>   <4618.01>  He is talking to another man.  <4618.01>   <4618.01>  They are both wearing lanyards.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 231,
+      "start_time": "4620.0",
+      "end_time": "4640.0",
+      "content": "<4620.02>   <4638.0>  A man in a white shirt is talking.  <4620.02>   <4638.0>  A man in a black jacket is sitting in a chair.  <4620.02>   <4638.0>  A man in a white shirt is sitting in a chair.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 232,
+      "start_time": "4640.0",
+      "end_time": "4660.0",
+      "content": "<4640.0>   <4658.02>  Two men are sitting at a table.  <4640.0>   <4658.02>  They are talking to each other.  <4640.0>   <4658.02>  They are wearing lanyards.  <4640.0>   <4658.02>  They are in a conference room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 233,
+      "start_time": "4660.0",
+      "end_time": "4680.0",
+      "content": "<4660.02>   <4678.01>  A man in a white shirt and tie is sitting at a table.  <4678.01>   <4678.01>  A man in a suit is walking down the street talking on his phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 234,
+      "start_time": "4680.0",
+      "end_time": "4700.0",
+      "content": "<4680.01>   <4698.03>  A man is talking on the phone in an office.  <4680.01>   <4698.03>  A man in a suit is talking on the phone in an office.  <4698.03>   <4698.03>  A man in a suit is walking down the street.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 235,
+      "start_time": "4700.0",
+      "end_time": "4720.0",
+      "content": "<4700.03>   <4718.01>  A man in a suit is riding a subway.  <4700.03>   <4718.01>  People are sitting on the subway.  <4700.03>   <4718.01>  The man in the suit is holding onto a pole.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The man in the suit is holding onto a pole and looking at the camera.  <4718.01>   <4718.01>  The",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 236,
+      "start_time": "4720.0",
+      "end_time": "4740.0",
+      "content": "<4720.02>   <4738.0>  A man is standing in a room with barrels.  <4738.0>   <4738.0>  He is wearing pink gloves.  <4738.0>   <4738.0>  He is on a subway, handing out clothes.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 237,
+      "start_time": "4740.0",
+      "end_time": "4760.0",
+      "content": "<4740.0>   <4758.02>  People are sitting on a subway.  <4740.0>   <4758.02>  A man in a suit is standing up.  <4758.02>   <4758.02>  He picks up a pair of shoes.  <4758.02>   <4758.02>  He puts them in a bag.  <4758.02>   <4758.02>  He walks to the back of the train.  <4758.02>   <4758.02>  He talks to a man in a suit.  <4758.02>   <4758.02>  He hands him the shoes.  <4758.02>   <4758.02>  He sits down on the train.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 238,
+      "start_time": "4760.0",
+      "end_time": "4780.0",
+      "content": "<4760.02>   <4778.01>  A man in a suit is sitting on a subway.  <4778.01>   <4778.01>  He gets up and walks away.  <4778.01>   <4778.01>  He is talking to another man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 239,
+      "start_time": "4780.0",
+      "end_time": "4800.0",
+      "content": "<4780.01>   <4798.03>  A man in a suit is sitting on a subway.  <4780.01>   <4798.03>  A woman is sitting next to him.  <4780.01>   <4798.03>  People are sitting on the subway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 240,
+      "start_time": "4800.0",
+      "end_time": "4820.0",
+      "content": "<4800.03>   <4818.01>  A man in a suit is sitting on a subway.  <4800.03>   <4818.01>  People are sitting on the subway.  <4800.03>   <4818.01>  A man in a suit is standing in the subway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 241,
+      "start_time": "4820.0",
+      "end_time": "4840.0",
+      "content": "<4820.02>   <4838.0>  A man is sitting on a bus.  <4838.0>   <4838.0>  He gets off the bus and walks down the street.  <4838.0>   <4838.0>  He goes into a building and walks up the stairs.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 242,
+      "start_time": "4840.0",
+      "end_time": "4860.0",
+      "content": "<4840.0>   <4858.02>  A man in a suit is walking up a flight of stairs.  <4840.0>   <4858.02>  He is carrying two black bags.  <4840.0>   <4858.02>  He is going up to the second floor.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 243,
+      "start_time": "4860.0",
+      "end_time": "4880.0",
+      "content": "<4860.02>   <4878.01>  A man in a suit walks down a hallway.  <4878.01>   <4878.01>  He talks to a man in a sweater.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 244,
+      "start_time": "4880.0",
+      "end_time": "4900.0",
+      "content": "<4880.01>   <4898.03>  A man in a suit is walking down a hallway.  <4892.02>   <4898.03>  Three men are talking in the hallway.  <4898.03>   <4898.03>  The man in the suit is watching the three men.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 245,
+      "start_time": "4900.0",
+      "end_time": "4920.0",
+      "content": "<4900.03>   <4918.01>  A group of men are seen standing around a room and looking off into the distance.  <4918.01>   <4918.01>  One man is seen walking outside and looking around.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 246,
+      "start_time": "4920.0",
+      "end_time": "4940.0",
+      "content": "<4920.02>   <4938.0>  A man is seen wearing glasses and looking off into the distance.  <4938.0>   <4938.0>  The man then turns his head and walks away from the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 247,
+      "start_time": "4940.0",
+      "end_time": "4960.0",
+      "content": "<4940.0>   <4958.02>  Two men are talking to each other in a room.  <4958.02>   <4958.02>  They are in a subway station, and one of them is holding a bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 248,
+      "start_time": "4960.0",
+      "end_time": "4980.0",
+      "content": "<4960.02>   <4978.01>  Two men are talking in a hallway.  <4960.02>   <4978.01>  They are wearing suits.  <4960.02>   <4978.01>  They are in a building.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 249,
+      "start_time": "4980.0",
+      "end_time": "5000.0",
+      "content": "<4980.01>   <4998.03>  Two men are walking down a sidewalk.  <4998.03>   <4998.03>  A man is sitting at a desk.  <4998.03>   <4998.03>  A man is stretching his arms.  <4998.03>   <4998.03>  Two men are standing outside.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 250,
+      "start_time": "5000.0",
+      "end_time": "5020.0",
+      "content": "<5000.03>   <5018.01>  Two men in suits are walking down a street.  <5000.03>   <5018.01>  They are talking to each other.  <5000.03>   <5018.01>  They are walking past a building.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 251,
+      "start_time": "5020.0",
+      "end_time": "5040.0",
+      "content": "<5020.02>   <5038.0>  Two men in suits are talking on a street.  <5020.02>   <5038.0>  They are in a city at night.  <5020.02>   <5038.0>  They are wearing ties.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 252,
+      "start_time": "5040.0",
+      "end_time": "5060.0",
+      "content": "<5040.0>   <5058.02>  Two men are standing outside talking.  <5040.0>   <5058.02>  One man is holding a beer bottle.  <5040.0>   <5058.02>  The men are wearing suits.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 253,
+      "start_time": "5060.0",
+      "end_time": "5080.0",
+      "content": "<5060.02>   <5078.01>  A man in a suit is drinking a beer.  <5078.01>   <5078.01>  He is walking down the street with his friends.  <5078.01>   <5078.01>  They are talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 254,
+      "start_time": "5080.0",
+      "end_time": "5100.0",
+      "content": "<5080.01>   <5098.03>  A group of men are talking to each other.  <5080.01>   <5098.03>  They are wearing suits and ties.  <5094.02>   <5098.03>  They are in a parking garage.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 255,
+      "start_time": "5100.0",
+      "end_time": "5120.0",
+      "content": "<5100.03>   <5118.01>  A man is seen walking down a street with another man behind him.  <5118.01>   <5118.01>  The man then puts on a jacket and begins dancing with another man.  <5118.01>   <5118.01>  The men continue dancing around one another while others watch on the side.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 256,
+      "start_time": "5120.0",
+      "end_time": "5140.0",
+      "content": "<5120.02>   <5138.0>  Two men are talking to each other.  <5138.0>   <5138.0>  A group of men are standing outside talking.  <5138.0>   <5138.0>  The men continue talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 257,
+      "start_time": "5140.0",
+      "end_time": "5160.0",
+      "content": "<5140.0>   <5158.02>  A group of men are playing a game of rock paper scissors.  <5140.0>   <5158.02>  They are playing for money.  <5154.02>   <5158.02>  They are playing in a parking lot.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 258,
+      "start_time": "5160.0",
+      "end_time": "5180.0",
+      "content": "<5160.02>   <5178.01>  A man is sitting in a chair.  <5178.01>   <5178.01>  He is handed a bag of money.  <5178.01>   <5178.01>  He smiles and talks to the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 259,
+      "start_time": "5180.0",
+      "end_time": "5200.0",
+      "content": "<5180.01>   <5198.03>  A man in a suit is standing in an office.  <5198.03>   <5198.03>  He is talking to another man who is sitting down.  <5198.03>   <5198.03>  The man in the suit is laughing.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 260,
+      "start_time": "5200.0",
+      "end_time": "5220.0",
+      "content": "<5200.03>   <5218.01>  A man is putting on a jacket.  <5218.01>   <5218.01>  He puts it on and looks at the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 261,
+      "start_time": "5220.0",
+      "end_time": "5240.0",
+      "content": "<5220.02>   <5238.03>  A man in a suit is talking to another man in a suit.  <5238.03>   <5238.03>  They are in an office with other people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 262,
+      "start_time": "5240.0",
+      "end_time": "5260.0",
+      "content": "<5240.0>   <5258.02>  A man in a suit is talking.  <5258.02>   <5258.02>  He is standing in a lobby.  <5258.02>   <5258.02>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 263,
+      "start_time": "5260.0",
+      "end_time": "5280.0",
+      "content": "<5260.02>   <5278.01>  A man in a suit is standing in a room.  <5260.02>   <5278.01>  He is looking to his left.  <5278.01>   <5278.01>  He turns his head to the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 264,
+      "start_time": "5280.0",
+      "end_time": "5300.0",
+      "content": "<5280.01>   <5298.03>  A man in a suit is talking.  <5298.03>   <5298.03>  A man in a white shirt is talking.  <5298.03>   <5298.03>  Two men are talking in a conference room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 265,
+      "start_time": "5300.0",
+      "end_time": "5320.0",
+      "content": "<5300.03>   <5318.01>  Two men are talking to each other.  <5300.03>   <5318.01>  They are in a building.  <5300.03>   <5318.01>  They are wearing lanyards.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 266,
+      "start_time": "5320.0",
+      "end_time": "5340.0",
+      "content": "<5320.02>   <5338.0>  A man is seen speaking to the camera and leads into him walking into a room.  <5338.0>   <5338.0>  He speaks to another man and the two continue to speak to one another.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 267,
+      "start_time": "5340.0",
+      "end_time": "5360.0",
+      "content": "<5340.0>   <5358.02>  A man in a suit is talking to a man in a cubicle.  <5358.02>   <5358.02>  The man in the suit is talking to the man in the cubicle.  <5358.02>   <5358.02>  The man in the suit walks away.  <5358.02>   <5358.02>  The man in the cubicle is talking to the man in the suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 268,
+      "start_time": "5360.0",
+      "end_time": "5380.0",
+      "content": "<5360.02>   <5378.01>  A man in a suit is talking to two men in white shirts.  <5360.02>   <5378.01>  The man in the suit is wearing a blue lanyard.  <5372.0>   <5378.01>  The man in the suit is in a room with a bookshelf.  <5374.0>   <5378.01>  The man in the suit is talking to the men in white shirts.  <5378.01>   <5378.01>  The men in white shirts are wearing blue lanyards.  <5378.01>   <5378.01>  The men in white shirts are sitting in a room with a plant.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 269,
+      "start_time": "5380.0",
+      "end_time": "5400.0",
+      "content": "<5380.01>   <5398.03>  Two men are talking in an office.  <5380.01>   <5398.03>  They are wearing lanyards.  <5380.01>   <5398.03>  They are wearing white shirts.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 270,
+      "start_time": "5400.0",
+      "end_time": "5420.0",
+      "content": "<5400.03>   <5418.01>  A man in a white shirt is walking through an office.  <5418.01>   <5418.01>  He picks up a jacket and throws it at a man.  <5418.01>   <5418.01>  The man puts on the jacket.  <5418.01>   <5418.01>  He walks through the office.  <5418.01>   <5418.01>  A man in a white shirt is sitting at a desk.  <5418.01>   <5418.01>  A man in a white shirt is sitting at a desk.  <5418.01>   <5418.01>  A man in a white shirt is sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 271,
+      "start_time": "5420.0",
+      "end_time": "5440.0",
+      "content": "<5420.02>   <5438.03>  A man is sitting in a chair in an office.  <5438.03>   <5438.03>  He stands up and walks to a group of people.  <5438.03>   <5438.03>  He talks to them as he walks by.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 272,
+      "start_time": "5440.0",
+      "end_time": "5460.0",
+      "content": "<5440.0>   <5458.02>  A man is sitting in a chair talking to a doctor.  <5440.0>   <5458.02>  The doctor is sitting behind a desk talking to the man.  <5440.0>   <5458.02>  The doctor is holding a clipboard.  <5452.01>   <5458.02>  The doctor is writing on the clipboard.  <5458.02>   <5458.02>  The doctor is holding a pen.  <5458.02>   <5458.02>  The doctor is wearing a white coat.  <5458.02>   <5458.02>  The doctor is wearing a stethoscope around his neck.  <5458.02>   <5458.02>  The doctor is wearing a watch on his left wrist.  <5458.02>   <5458.02>  The doctor is wearing a ring on his left hand.  <5458.02>   <5458.02>  The doctor is wearing a tie.  <5458.02>   <5458.02>  The doctor is wearing a vest.  <5458.02>   <5458.02>  The doctor is wearing a pair of glasses.  <5458.02>   <5458.02>  The doctor is wearing a pair of black pants.  <5458.02>   <5458.02>  The doctor is wearing a pair of black shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress socks.  <5458.02>   <5458.02>  The doctor is wearing a pair of black dress shoes",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 273,
+      "start_time": "5460.0",
+      "end_time": "5480.0",
+      "content": "<5460.02>   <5478.01>  A man in a suit is talking to two men in white shirts.  <5460.02>   <5478.01>  They are in an office.  <5460.02>   <5478.01>  They are talking about a patient.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 274,
+      "start_time": "5480.0",
+      "end_time": "5500.0",
+      "content": "<5480.01>   <5498.03>  A group of men are talking in an office.  <5480.01>   <5498.03>  They are wearing white shirts and ties.  <5492.02>   <5498.03>  They are talking about a man who is in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 275,
+      "start_time": "5500.0",
+      "end_time": "5520.0",
+      "content": "<5500.03>   <5518.01>  A man in a suit is talking to a man in a white shirt.  <5518.01>   <5518.01>  The man in the suit is walking down a hallway.  <5518.01>   <5518.01>  The man in the suit is sitting on the stairs.  <5518.01>   <5518.01>  The man in the white shirt is walking down the stairs.  <5518.01>   <5518.01>  The man in the suit is sitting on the stairs.  <5518.01>   <5518.01>  The man in the white shirt is walking down the stairs.  <5518.01>   <5518.01>  The man in the suit is sitting on the stairs.  <5518.01>   <5518.01>  The man in the white shirt is walking down the stairs.  <5518.01>   <5518.01>  The man in the suit is sitting on the stairs.  <5518.01>   <5518.01>  The man in the white shirt is walking down the stairs.  <5518.01>   <5518.01>  The man in the suit is sitting on the stairs.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 276,
+      "start_time": "5520.0",
+      "end_time": "5540.0",
+      "content": "<5520.02>   <5538.03>  A man in a white shirt is talking.  <5538.03>   <5538.03>  A man in a suit is standing next to him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 277,
+      "start_time": "5540.0",
+      "end_time": "5560.0",
+      "content": "<5540.0>   <5558.02>  Three men are standing on a rooftop.  <5540.0>   <5558.02>  They are talking to each other.  <5540.0>   <5558.02>  The camera zooms in on their faces.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 278,
+      "start_time": "5560.0",
+      "end_time": "5580.0",
+      "content": "<5560.02>   <5578.01>  Two men are talking to each other.  <5560.02>   <5578.01>  They are on a rooftop.  <5560.02>   <5578.01>  They are wearing suits.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 279,
+      "start_time": "5580.0",
+      "end_time": "5600.0",
+      "content": "<5580.01>   <5598.03>  Three men are standing on a rooftop.  <5580.01>   <5598.03>  They are talking to each other.  <5580.01>   <5598.03>  The city lights are in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 280,
+      "start_time": "5600.0",
+      "end_time": "5620.0",
+      "content": "<5600.03>   <5618.01>  A man in a suit is talking to another man in a suit.  <5618.01>   <5618.01>  A man in a white sweater is talking to the man in the suit.  <5618.01>   <5618.01>  A man in a blue shirt is sitting at a desk.  <5618.01>   <5618.01>  A man in a suit is walking down the hall.  <5618.01>   <5618.01>  A man in a suit is standing in the middle of the room.  <5618.01>   <5618.01>  A man in a blue shirt is sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 281,
+      "start_time": "5620.0",
+      "end_time": "5640.0",
+      "content": "<5620.02>   <5638.03>  A man is sitting at a desk in an office.  <5638.03>   <5638.03>  He is working on a computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 282,
+      "start_time": "5640.0",
+      "end_time": "5660.0",
+      "content": "<5640.0>   <5658.02>  A man is sitting at a desk in an office.  <5658.02>   <5658.02>  He is talking to someone.  <5658.02>   <5658.02>  He stands up and walks away.  <5658.02>   <5658.02>  He sits down at a different desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 283,
+      "start_time": "5660.0",
+      "end_time": "5680.0",
+      "content": "<5660.02>   <5678.01>  A man is sitting in an office.  <5660.02>   <5678.01>  He is talking to someone.  <5660.02>   <5678.01>  He is wearing a blue shirt and tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 284,
+      "start_time": "5680.0",
+      "end_time": "5700.0",
+      "content": "<5680.01>   <5698.03>  A man is sitting in an office.  <5680.01>   <5698.03>  A man is standing in an office.  <5680.01>   <5698.03>  A man is talking in an office.  <5698.03>   <5698.03>  A man walks through an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 285,
+      "start_time": "5700.0",
+      "end_time": "5720.0",
+      "content": "<5700.03>   <5718.01>  A man is sitting at a desk.  <5718.01>   <5718.01>  He is standing up, talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 286,
+      "start_time": "5720.0",
+      "end_time": "5740.0",
+      "content": "<5720.01>   <5738.03>  A man is talking in an office.  <5738.03>   <5738.03>  He is wearing a blue shirt and tie.  <5738.03>   <5738.03>  He is wearing glasses and a lanyard.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 287,
+      "start_time": "5740.0",
+      "end_time": "5760.0",
+      "content": "<5740.0>   <5758.02>  A man is talking to the camera.  <5740.0>   <5758.02>  He is wearing a blue shirt and tie.  <5750.01>   <5758.02>  He is wearing glasses.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 288,
+      "start_time": "5760.0",
+      "end_time": "5780.0",
+      "content": "<5760.02>   <5778.01>  A man is sitting at a desk.  <5778.01>   <5778.01>  He is talking to another man.  <5778.01>   <5778.01>  They are on a rooftop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 289,
+      "start_time": "5780.0",
+      "end_time": "5800.0",
+      "content": "<5780.01>   <5798.03>  Two men are talking to one another.  <5780.01>   <5798.03>  They are both wearing suits.  <5780.01>   <5798.03>  They are outside at night.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 290,
+      "start_time": "5800.0",
+      "end_time": "5820.0",
+      "content": "<5800.03>   <5818.01>  A man in a suit is seen walking away from the camera.  <5818.01>   <5818.01>  He turns around and begins speaking to the camera.  <5818.01>   <5818.01>  He continues speaking and looking off into the distance.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 291,
+      "start_time": "5820.0",
+      "end_time": "5840.0",
+      "content": "<5820.02>   <5838.03>  Two men are standing on a rooftop.  <5820.02>   <5838.03>  They are talking to each other.  <5820.02>   <5838.03>  They are wearing suits.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 292,
+      "start_time": "5840.0",
+      "end_time": "5860.0",
+      "content": "<5840.0>   <5858.02>  A man in a suit is talking.  <5840.0>   <5858.02>  There are lights in the background.  <5840.0>   <5858.02>  There is a logo in the corner.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 293,
+      "start_time": "5860.0",
+      "end_time": "5880.0",
+      "content": "<5860.02>   <5878.01>  Two men are talking to one another.  <5860.02>   <5878.01>  They are wearing suits.  <5860.02>   <5878.01>  They are on a rooftop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 294,
+      "start_time": "5880.0",
+      "end_time": "5900.0",
+      "content": "<5880.01>   <5898.02>  Two men are talking to one another.  <5880.01>   <5898.02>  They are outside at night.  <5880.01>   <5898.02>  They are wearing suits and ties.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 295,
+      "start_time": "5900.0",
+      "end_time": "5920.0",
+      "content": "<5900.03>   <5918.01>  Two men are talking to the camera.  <5900.03>   <5918.01>  They are wearing suits.  <5910.01>   <5918.01>  They are outside at night.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 296,
+      "start_time": "5920.0",
+      "end_time": "5940.0",
+      "content": "<5920.02>   <5938.03>  A man is seen speaking to the camera and leads into another man speaking.  <5938.03>   <5938.03>  The men are then seen sitting at a table with another man and leads into a man walking in and out of frame.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 297,
+      "start_time": "5940.0",
+      "end_time": "5960.0",
+      "content": "<5940.0>   <5958.02>  A man in a white shirt is talking.  <5958.02>   <5958.02>  Two men in suits are sitting behind him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 298,
+      "start_time": "5960.0",
+      "end_time": "5980.0",
+      "content": "<5960.02>   <5978.01>  A group of men are sitting in a room.  <5960.02>   <5978.01>  They are talking to each other.  <5978.01>   <5978.01>  They are sitting at a table.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 299,
+      "start_time": "5980.0",
+      "end_time": "6000.0",
+      "content": "<5980.01>   <5998.03>  Two men are sitting in a room.  <5980.01>   <5998.03>  A man is sitting behind a desk.  <5980.01>   <5998.03>  The man behind the desk is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 300,
+      "start_time": "6000.0",
+      "end_time": "6020.0",
+      "content": "<6000.03>   <6018.01>  Two men are sitting in a room.  <6000.03>   <6018.01>  A man is sitting behind a desk.  <6000.03>   <6018.01>  The man behind the desk is talking.  <6018.01>   <6018.01>  The man behind the desk is holding a pen.  <6018.01>   <6018.01>  The man behind the desk is writing.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper.  <6018.01>   <6018.01>  The man behind the desk is holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding a pen and a piece of paper and talking and writing and holding",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 301,
+      "start_time": "6020.0",
+      "end_time": "6040.0",
+      "content": "<6020.02>   <6038.03>  A man in a white shirt is sitting at a table.  <6034.03>   <6038.03>  He is pouring drinks into glasses.  <6038.03>   <6038.03>  He is talking to a man in a suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 302,
+      "start_time": "6040.0",
+      "end_time": "6060.0",
+      "content": "<6040.0>   <6058.02>  A man in a suit is talking to a man in a white shirt.  <6040.0>   <6058.02>  There is a blue bar on the left side of the screen.  <6040.0>   <6058.02>  There is a blue bar on the right side of the screen.  <6040.0>   <6058.02>  There is a man in a suit walking in the background.  <6058.02>   <6058.02>  There is a man in a suit walking in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 303,
+      "start_time": "6060.0",
+      "end_time": "6080.0",
+      "content": "<6060.02>   <6078.01>  A man is seen speaking to the camera and leads into several shots of people working in an office.  <6078.01>   <6078.01>  The man continues speaking to the camera and leads into several shots of people walking around and speaking to one another.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 304,
+      "start_time": "6080.0",
+      "end_time": "6100.0",
+      "content": "<6080.01>   <6098.02>  A man in a white shirt and black tie walks down a hallway.  <6098.02>   <6098.02>  He is followed by a man in a gray suit.  <6098.02>   <6098.02>  They enter an office.  <6098.02>   <6098.02>  The man in the gray suit picks up a phone.  <6098.02>   <6098.02>  He begins to talk on the phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 305,
+      "start_time": "6100.0",
+      "end_time": "6120.0",
+      "content": "<6100.03>   <6114.01>  A man in a suit is talking on the phone.  <6114.01>   <6118.01>  People are standing in a room.  <6100.03>   <6118.01>  The tv is on in the corner.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 306,
+      "start_time": "6120.0",
+      "end_time": "6140.0",
+      "content": "<6120.01>   <6138.03>  A man in a suit walks down a hallway.  <6138.03>   <6138.03>  A man in a sweater is sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 307,
+      "start_time": "6140.0",
+      "end_time": "6160.0",
+      "content": "<6140.0>   <6158.02>  A man is sitting in an office cubicle.  <6158.02>   <6158.02>  People are walking around the office.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.  <6158.02>   <6158.02>  A man is sitting in a chair.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 308,
+      "start_time": "6160.0",
+      "end_time": "6180.0",
+      "content": "<6160.02>   <6178.01>  Two men are sitting in chairs talking to one another.  <6160.02>   <6178.01>  They are both wearing suits and ties.  <6160.02>   <6178.01>  They are in an office with a lamp and books.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 309,
+      "start_time": "6180.0",
+      "end_time": "6200.0",
+      "content": "<6180.01>   <6198.02>  A man in a suit is walking down a hallway.  <6198.02>   <6198.02>  He is greeted by a large group of people.  <6198.02>   <6198.02>  He shakes hands with several people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 310,
+      "start_time": "6200.0",
+      "end_time": "6220.0",
+      "content": "<6200.03>   <6218.01>  A group of people are standing in a room.  <6200.03>   <6218.01>  They are all wearing suits.  <6212.01>   <6218.01>  They are standing in a line.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 311,
+      "start_time": "6220.0",
+      "end_time": "6240.0",
+      "content": "<6220.01>   <6238.03>  A group of people are standing in a room.  <6220.01>   <6238.03>  They are all wearing suits.  <6220.01>   <6238.03>  They are all looking at a man.  <6220.01>   <6238.03>  They are all in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 312,
+      "start_time": "6240.0",
+      "end_time": "6260.0",
+      "content": "<6240.0>   <6258.02>  A man is sitting at a desk.  <6258.02>   <6258.02>  He is flipping through a stack of files.  <6258.02>   <6258.02>  He looks at the papers inside.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 313,
+      "start_time": "6260.0",
+      "end_time": "6280.0",
+      "content": "<6260.02>   <6278.01>  A man is sitting in an office.  <6278.01>   <6278.01>  He is handed a stack of papers.  <6278.01>   <6278.01>  He looks at the papers and smiles.  <6278.01>   <6278.01>  He shakes hands with another man.  <6278.01>   <6278.01>  They hug each other.  <6278.01>   <6278.01>  They shake hands again.  <6278.01>   <6278.01>  They shake hands a third time.  <6278.01>   <6278.01>  They shake hands a fourth time.  <6278.01>   <6278.01>  They shake hands a fifth time.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 314,
+      "start_time": "6280.0",
+      "end_time": "6300.0",
+      "content": "<6280.01>   <6298.02>  A man in a suit is sitting at a desk.  <6298.02>   <6298.02>  A man in a suit walks into a room.  <6298.02>   <6298.02>  A man in a suit is sitting in a chair.  <6298.02>   <6298.02>  A man in a suit is walking down a hallway.  <6298.02>   <6298.02>  A man in a suit is sitting at a desk.  <6298.02>   <6298.02>  A man in a suit is walking down a hallway.  <6298.02>   <6298.02>  A man in a suit is sitting at a desk.  <6298.02>   <6298.02>  A man in a suit is walking down a hallway.  <6298.02>   <6298.02>  A man in a suit is sitting at a desk.  <6298.02>   <6298.02>  A man in a suit is walking down a hallway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 315,
+      "start_time": "6300.0",
+      "end_time": "6320.0",
+      "content": "<6300.03>   <6318.01>  A man in a suit is talking.  <6318.01>   <6318.01>  A young man in a suit is talking.  <6318.01>   <6318.01>  The two men are sitting at a table talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 316,
+      "start_time": "6320.0",
+      "end_time": "6340.0",
+      "content": "<6320.01>   <6338.03>  A man in a suit is sitting in a chair.  <6320.01>   <6338.03>  Another man in a suit is sitting in a chair.  <6320.01>   <6338.03>  They are in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 317,
+      "start_time": "6340.0",
+      "end_time": "6360.0",
+      "content": "<6340.0>   <6358.02>  A man in a suit is sitting in a chair.  <6358.02>   <6358.02>  He is talking to another man in a suit.  <6358.02>   <6358.02>  They are sitting at a table in a conference room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 318,
+      "start_time": "6360.0",
+      "end_time": "6380.0",
+      "content": "<6360.02>   <6378.01>  A man in a suit is sitting in a chair.  <6374.0>   <6378.01>  Another man in a suit is sitting in a chair.  <6360.02>   <6378.01>  They are in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 319,
+      "start_time": "6380.0",
+      "end_time": "6400.0",
+      "content": "<6380.01>   <6398.02>  Two men are sitting in a room talking.  <6380.01>   <6398.02>  They are both wearing suits and ties.  <6380.01>   <6398.02>  They are in a room with a white board.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 320,
+      "start_time": "6400.0",
+      "end_time": "6420.0",
+      "content": "<6400.03>   <6418.01>  A man in a suit is talking.  <6418.01>   <6418.01>  A man in a gray suit is talking.  <6418.01>   <6418.01>  A computer screen is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 321,
+      "start_time": "6420.0",
+      "end_time": "6440.0",
+      "content": "<6420.01>   <6438.03>  A man is sitting at a desk.  <6420.01>   <6438.03>  He is looking at a computer screen.  <6420.01>   <6438.03>  He is wearing a suit and tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 322,
+      "start_time": "6440.0",
+      "end_time": "6460.0",
+      "content": "<6440.0>   <6458.02>  A woman is walking down a hallway.  <6458.02>   <6458.02>  She is joined by another woman.  <6458.02>   <6458.02>  They walk into an office together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 323,
+      "start_time": "6460.0",
+      "end_time": "6480.0",
+      "content": "<6460.02>   <6478.01>  A man is sitting in an office talking.  <6478.01>   <6478.01>  Two women are standing in an office talking.  <6478.01>   <6478.01>  Two men are standing on a balcony talking.  <6478.01>   <6478.01>  A man is standing in a lobby talking.  <6478.01>   <6478.01>  A man is standing in a room talking.  <6478.01>   <6478.01>  A man is standing in front of a projector screen talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 324,
+      "start_time": "6480.0",
+      "end_time": "6500.0",
+      "content": "<6480.01>   <6498.02>  A man in a suit is talking to a group of people.  <6498.02>   <6498.02>  A man in a suit is standing in front of a screen.  <6498.02>   <6498.02>  A man in a suit is walking down a hallway.  <6498.02>   <6498.02>  A man in a suit is talking to a doctor.  <6498.02>   <6498.02>  A man in a suit is smoking a cigarette.  <6498.02>   <6498.02>  A man in a suit is walking down a hallway.  <6498.02>   <6498.02>  A man in a suit is walking down a hallway.  <6498.02>   <6498.02>  A man in a suit is walking down a hallway.  <6498.02>   <6498.02>  A man in a suit is walking down a staircase.  <6498.02>   <6498.02>  A man in a suit is walking down a staircase.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 325,
+      "start_time": "6500.0",
+      "end_time": "6520.0",
+      "content": "<6500.03>   <6514.01>  A man is sitting at a table eating.  <6514.01>   <6518.01>  He is then shown in a suit with other men.  <6518.01>   <6518.01>  He is then shown walking out of a building.  <6518.01>   <6518.01>  He is then shown in a kitchen.  <6518.01>   <6518.01>  He is then shown walking down a street.  <6518.01>   <6518.01>  He is then shown in a meeting room.  <6518.01>   <6518.01>  He is then shown working on a computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 326,
+      "start_time": "6520.0",
+      "end_time": "6540.0",
+      "content": "<6520.01>   <6538.03>  A man is sitting at a desk in an office.  <6538.03>   <6538.03>  He stands up and walks around the office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 327,
+      "start_time": "6540.0",
+      "end_time": "6560.0",
+      "content": "<6540.0>   <6558.02>  A man in a white shirt and blue tie is talking.  <6540.0>   <6558.02>  A man in a suit is talking.  <6552.01>   <6558.02>  People are working in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 328,
+      "start_time": "6560.0",
+      "end_time": "6580.0",
+      "content": "<6560.02>   <6578.01>  A man is sitting in a train.  <6578.01>   <6578.01>  He is sitting at a desk in an office.  <6578.01>   <6578.01>  He is standing in a subway station.  <6578.01>   <6578.01>  He is looking at a computer screen.  <6578.01>   <6578.01>  He is typing on the computer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 329,
+      "start_time": "6580.0",
+      "end_time": "6600.0",
+      "content": "<6580.01>   <6598.02>  A man is sitting in an office.  <6598.02>   <6598.02>  He is looking at a computer screen.  <6598.02>   <6598.02>  He is reading something on the screen.  <6598.02>   <6598.02>  He looks to his right.  <6598.02>   <6598.02>  He is joined by two other men.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 330,
+      "start_time": "6600.0",
+      "end_time": "6620.0",
+      "content": "<6600.03>   <6618.01>  A woman is sitting at a table talking to a group of men.  <6600.03>   <6618.01>  The men are sitting in a conference room.  <6600.03>   <6618.01>  The woman is wearing a yellow sweater.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 331,
+      "start_time": "6620.0",
+      "end_time": "6640.0",
+      "content": "<6620.01>   <6638.03>  A woman is sitting in a chair talking.  <6620.01>   <6638.03>  A group of men are sitting in chairs listening to the woman.  <6620.01>   <6638.03>  A man is standing in front of a white board.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 332,
+      "start_time": "6640.0",
+      "end_time": "6660.0",
+      "content": "<6640.0>   <6658.02>  Three men are sitting at a table talking.  <6640.0>   <6658.02>  A man is standing in front of a white board talking.  <6658.02>   <6658.02>  A man walks into an office.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 333,
+      "start_time": "6660.0",
+      "end_time": "6680.0",
+      "content": "<6660.02>   <6678.01>  A man is standing in front of a blue background.  <6678.01>   <6678.01>  He is wearing a white shirt and a blue lanyard.  <6678.01>   <6678.01>  He is in an office, and he is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 334,
+      "start_time": "6680.0",
+      "end_time": "6700.0",
+      "content": "<6680.01>   <6698.02>  A man in a suit is looking to his left.  <6698.02>   <6698.02>  A woman in a blue shirt is talking.  <6698.02>   <6698.02>  The man in the suit is looking at the woman.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 335,
+      "start_time": "6700.0",
+      "end_time": "6720.0",
+      "content": "<6700.03>   <6718.01>  A woman is talking to a man.  <6700.03>   <6718.01>  They are in an office.  <6700.03>   <6718.01>  They are wearing lanyards.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 336,
+      "start_time": "6720.0",
+      "end_time": "6740.0",
+      "content": "<6720.01>   <6738.03>  A man in a suit is seen looking off into the distance and walking away.  <6738.03>   <6738.03>  The man walks into a room and another man is seen standing in the distance.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 337,
+      "start_time": "6740.0",
+      "end_time": "6760.0",
+      "content": "<6740.0>   <6758.02>  A man is standing in front of a building.  <6758.02>   <6758.02>  He walks inside, and looks at the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 338,
+      "start_time": "6760.0",
+      "end_time": "6780.0",
+      "content": "<6760.02>   <6778.01>  A man in a suit walks down a hallway.  <6778.01>   <6778.01>  A woman in a white shirt is fixing her hair.  <6778.01>   <6778.01>  The man in the suit walks into an elevator.  <6778.01>   <6778.01>  The woman in the white shirt gets on the elevator.  <6778.01>   <6778.01>  The man in the suit gets off the elevator.  <6778.01>   <6778.01>  The woman in the white shirt gets off the elevator.  <6778.01>   <6778.01>  The man in the suit walks down a hallway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 339,
+      "start_time": "6780.0",
+      "end_time": "6800.0",
+      "content": "<6780.01>   <6798.02>  A man drops a glass on the floor.  <6798.02>   <6798.02>  A man in a suit is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 340,
+      "start_time": "6800.0",
+      "end_time": "6820.0",
+      "content": "<6800.03>   <6818.01>  A man in a suit walks into an office.  <6818.01>   <6818.01>  A man in a white shirt is holding a large stack of papers.  <6818.01>   <6818.01>  He walks over to a man sitting at a desk and puts his hands on the man's shoulders.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 341,
+      "start_time": "6820.0",
+      "end_time": "6840.0",
+      "content": "<6820.01>   <6838.03>  A group of men are in an office.  <6820.01>   <6838.03>  They are dancing and singing.  <6838.03>   <6838.03>  A man in a suit is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 342,
+      "start_time": "6840.0",
+      "end_time": "6860.0",
+      "content": "<6840.0>   <6858.02>  A man in a suit is standing in an office.  <6858.02>   <6858.02>  He is talking to someone off camera.  <6858.02>   <6858.02>  He walks up a flight of stairs and looks out over the railing.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 343,
+      "start_time": "6860.0",
+      "end_time": "6880.0",
+      "content": "<6860.02>   <6878.0>  Two men are fighting on a rooftop.  <6878.0>   <6878.0>  A man in a suit is standing on the rooftop.  <6878.0>   <6878.0>  Two men are walking on the rooftop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 344,
+      "start_time": "6880.0",
+      "end_time": "6900.0",
+      "content": "<6880.01>   <6898.02>  A man in a white shirt and black tie is standing on a rooftop.  <6898.02>   <6898.02>  Two men in blue shirts are standing on the edge of the building.  <6898.02>   <6898.02>  The man in the white shirt is now wearing a black suit.  <6898.02>   <6898.02>  He walks to the edge of the building and looks down.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 345,
+      "start_time": "6900.0",
+      "end_time": "6920.0",
+      "content": "<6900.03>   <6918.01>  A man in a suit is standing on a balcony.  <6918.01>   <6918.01>  He is looking out over a city.  <6918.01>   <6918.01>  Two men are standing on a balcony.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 346,
+      "start_time": "6920.0",
+      "end_time": "6940.0",
+      "content": "<6920.01>   <6938.03>  Two men are standing on a balcony.  <6920.01>   <6938.03>  They are talking to each other.  <6920.01>   <6938.03>  They are wearing business attire.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 347,
+      "start_time": "6940.0",
+      "end_time": "6957.384",
+      "content": "<6940.0>   <6955.65>  A man in a suit is standing outside.  <6955.65>   <6955.65>  Two men are standing on a balcony looking at the sunset.  <6955.65>   <6955.65>  The city lights up as the sun sets.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 347,
+      "start_time": "6940.0",
+      "end_time": "6957.384",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

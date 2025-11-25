@@ -1,0 +1,261 @@
+{
+  "id": "df6e1d86-3c59-4c54-9191-6bed1172c66e",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 35
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0> <4> A graphic shows the title of the segment, \"17th place: Super simple summer [?] restaurant!\".\n<4> <6> A shot of the bright sun in a cloudy sky is shown.\n<6> <8> A man and a woman are shown in a traditional Korean house, fanning themselves from the heat.\n<8> <12> A man in a yellow checkered shirt talks about a food that comes to mind in the summer.\n<12> <16> A close-up shot shows cold noodles being lifted from a bowl.\n<16> <18> Three different bowls of Korean cold noodles (naengmyeon) are displayed on a table.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20> <25> A man talks about how refreshing it is to have a bowl of cold noodles.\n<25> <27> The three hosts are shown at their desk, with a caption identifying cold noodles as the best summer food.\n<27> <33> A woman is shown eating noodles, with a caption explaining that cold noodles are a hassle to make even for a late-night snack.\n<33> <40> A graphic with question marks appears, with a caption suggesting you only need two ingredients.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40> <42> A scene shows people eating cold noodles, with Korean text that translates to \"With just two ingredients, my house becomes a cold noodle restaurant.\"\n<42> <45> A close-up shot of cup noodles stacked on a convenience store shelf.\n<45> <48> A hand reaches for a cup noodle on the shelf, with Korean text that translates to \"A popular convenience store item for dieters, low calorie burden, cup noodles.\"\n<48> <52> A man in a light blue shirt and glasses is speaking.\n<52> <54> The man continues speaking, with Korean text that translates to \"A savior for dieters!\"\n<54> <58> Another man in a white striped shirt is listening and then starts to speak.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60> <64> A man in a yellow shirt is speaking.\n<64> <68> A question mark graphic appears over a blurry background of a store shelf.\n<68> <70> A person is pouring a clear liquid from a plastic pouch into a container.\n<70> <74> A man in a white shirt looks surprised.\n<74> <76> A man with glasses is speaking.\n<76> <78> Three men are sitting at a desk, looking at a screen showing cup noodles and drinks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80> <81> Three men are sitting at a table in a studio, discussing a product shown on a screen.\n<81> <86> A close-up shows pouches of Pyeongyang naengmyeon broth.\n<86> <89> An image shows the product is sold out at convenience stores.\n<89> <93> The screen splits to show two of the hosts reacting to the product's popularity.\n<93> <98> The video shows the naengmyeon broth pouch next to a glass of iced broth, ready to drink.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100> <102> A shot shows various packaged boiled eggs available at a convenience store.\n<102> <106> A man in a light blue shirt explains that you can easily get boiled eggs at a convenience store.\n<106> <108> A wide shot shows three men sitting at a desk in a studio.\n<108> <110> The man in the light blue shirt continues to speak.\n<110> <112> A close-up of the man in the light blue shirt speaking.\n<112> <114> Water is being poured into a pot.\n<114> <116> Cooked noodles are being drained in a colander.\n<116> <118> Broth is being poured over a bowl of naengmyeon (cold noodles).",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120> <121> A close-up of a bowl of Pyeongyang naengmyeon, a Korean cold noodle dish.\n<121> <123> Three male hosts are sitting at a desk in a studio.\n<123> <125> A person holds an instant noodle cup under a hot water dispenser.\n<125> <127> Hot water is being poured into the instant noodle cup.\n<127> <129> The person is about to drain the water from the noodle cup.\n<129> <133> A packet of cold broth is being poured into the cup.\n<133> <135> A boiled egg is added to the cup of noodles and broth.\n<135> <139> A close-up of the finished instant Pyeongyang naengmyeon.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140> <142> A close-up of noodles being lifted from a cup of Pyeongyang naengmyeon.\n<142> <143> A man in a yellow shirt talks about the taste of the instant Pyeongyang naengmyeon.\n<143> <146> A woman with a pink pig headband is shown eating the noodles.\n<146> <151> A close-up shows a boiled egg and noodles in the cup.\n<151> <153> The man in the yellow shirt continues to talk about the homemade Pyeongyang cup noodles.\n<153> <157> A close-up shot shows a bowl of traditional Pyeongyang naengmyeon.\n<157> <159> A shot of the instant noodle cup product is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160> <162> A person is pouring a powder mix from a packet labeled in Korean into a paper cup.\n<162> <164> A person uses chopsticks to lift noodles from the broth in the cup.\n<164> <168> A graphic with Korean text and the number 12 is displayed.\n<168> <172> A man is shown sitting on his bed in a dimly lit, cluttered room.\n<172> <178> A woman is shown drinking from a can.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180> <181> A woman is shown drinking from a can.\n<181> <183> A man in a white shirt is speaking.\n<183> <185> A caption appears under the man, reading \"초간단 핑거 푸드\" (Super simple finger food).\n<185> <187> A close-up shot of bacon-wrapped sticks is shown with the caption \"베이컨말이스틱\" (Bacon-wrapped sticks).\n<187> <189> The man in the white shirt continues to speak, with the bacon-wrapped sticks shown in an inset.\n<189> <191> A split screen shows a man in glasses on the left and the man in the white shirt on the right.\n<191> <193> The man in glasses speaks while the man on the right listens.\n<193> <195> A man in a yellow shirt is shown speaking.\n<195> <197> The man in the yellow shirt continues to speak, with captions appearing around him.\n<197> <199> A wide shot shows three men sitting at a desk, with an image of the bacon-wrapped sticks on a screen behind them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200> <202> A panel of three hosts discusses a dish shown on a screen, which is bacon-wrapped sticks.\n<202> <204> A close-up of one of the hosts speaking.\n<204> <208> A close-up of the bacon-wrapped sticks arranged in a star shape around a dollop of mustard.\n<208> <210> The host continues to speak about the dish.\n<210> <214> A person in casual clothes walks down a street at night.\n<214> <216> A shot of bacon packages in a convenience store refrigerator.\n<216> <218> A shot of stick-shaped snacks on a convenience store shelf.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<219> <222> A person is buying two ingredients at a convenience store.\n<222> <224> The two ingredients are ham and stick-shaped crackers.\n<224> <226> A man comments that the ingredients are simpler than he thought.\n<226> <229> A close-up shot shows a ham-wrapped cracker stick with cheese on top.\n<229> <233> A woman looks surprised, with text indicating it's a great combination you'll keep wanting.\n<233> <235> A man says the recipe is so simple it's embarrassing to even call it a recipe.\n<235> <239> A person is shown wrapping a stick cracker with a slice of ham.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240> <244> A person is grilling bacon-wrapped snacks in a pan.\n<244> <247> Two men are shown talking in a split-screen view.\n<247> <251> The bacon-wrapped snacks are being flipped in the pan.\n<251> <257> The two men continue their conversation.\n<257> <259> A plate of cooked bacon-wrapped snacks is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<259> <263> A person is shown wrapping a slice of ham around a stick-shaped snack.\n<263> <267> The ham-wrapped snacks are being cooked in a frying pan.\n<267> <271> A close-up shot shows the cooked ham-wrapped snacks.\n<271> <279> A woman is shown eating the snack and enjoying it.\n<279> <281> A shot shows a large pile of empty beer cans.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280> <282> A woman with rosy cheeks is shown, with Korean text describing a surprisingly addictive taste.\n<282> <284> Two male hosts are shown in a split-screen view.\n<284> <286> The two hosts look surprised, with Korean text appearing on the screen.\n<286> <288> A split screen shows truffles and salt, labeled in Korean.\n<288> <290> A third ingredient, curry powder, is added to the split screen.\n<290> <292> Three male hosts are sitting at a desk, with Korean text about adding sauces and toppings.\n<292> <294> One of the hosts suggests mustard sauce, which appears in a thought bubble.\n<294> <296> A close-up shows a dish of sweet and salty finger food made with two ingredients.\n<296> <298> The camera zooms in on the finger food.\n<298> <300> One of the hosts talks about the super simple and great combination.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300> <302> A man in a yellow checkered shirt talks about a simple recipe.\n<302> <304> Another man in a light blue shirt listens intently.\n<304> <306> A close-up shows cooked bacon-wrapped snacks on skewers.\n<306> <310> A person is shown cooking bacon-wrapped snacks in a pan.\n<310> <312> A close-up shows a bacon-wrapped snack being dipped in a yellow sauce.\n<312> <316> An animated graphic shows a title card with the number 9.\n<316> <318> A man in a light blue shirt is speaking.\n<318> <320> The man continues to speak about a simple recipe that takes 3 to 5 minutes.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320> <322> A man in glasses is talking, with Korean text overlaying the screen.\n<322> <324> Another man is shown, with Korean text overlaying the screen.\n<324> <326> A close-up shot of a red velvet cake is shown.\n<326> <328> An animation of two rectangular cards with question marks is displayed.\n<328> <330> The man in glasses is speaking again.\n<330> <332> A woman's face is obscured by a question mark graphic.\n<332> <334> The woman is shown speaking, with her face still obscured.\n<334> <336> A close-up of chocolate cupcakes with seeds on top is shown.\n<336> <338> A person is squeezing one of the chocolate cupcakes.\n<338> <340> The cupcake is squeezed again, with an inset of a man reacting.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<339> <341> A close-up shot shows a chocolate cake being split in half.\n<341> <343> Two men are shown in a split-screen, one asking a question.\n<343> <345> Three men are sitting at a desk, with a picture of chocolate cakes on the screen behind them.\n<345> <347> One of the men at the desk speaks, gesturing with his hand.\n<347> <349> A close-up shot of one of the men smiling.\n<349> <351> A close-up shot of another man speaking with an animated expression.\n<351> <353> The man continues to speak, gesturing with his hand.\n<353> <355> The three men are shown at the desk, with one of them speaking and gesturing.\n<355> <357> The man in the middle continues to speak, and a graphic appears on the screen.\n<357> <359> The man in the middle points at the man on the left, who smiles.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360> <362> A man is shown with Korean text on either side of his head.\n<362> <364> A graphic shows two question marks, with Korean text that translates to \"3-minute cupcake ingredients.\"\n<364> <366> The question marks are replaced with a box of Oreo-like cookies and a carton of milk.\n<366> <368> A man reacts with surprise, covering his face with his hand.\n<368> <370> Two men are shown reacting, with Korean text asking if there are only two ingredients for the cupcake.\n<370> <372> Three men are sitting at a desk while a video plays on a screen behind them, showing cookies being crushed.\n<372> <374> The three men continue to watch the video on the screen.\n<374> <376> A man in a light-colored shirt speaks, with Korean text that translates to \"The method is very simple.\"\n<376> <380> A close-up video shows a hand crushing a package of cookies.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380> <382> A person pours crushed chocolate biscuits into a white mug.\n<382> <384> A person adds milk to the crushed biscuits in the mug.\n<384> <388> The person mixes the milk and crushed biscuits together with a spoon.\n<388> <392> A man in a yellow shirt looks surprised.\n<392> <394> The man in the yellow shirt continues to look surprised while text appears on the screen.\n<394> <396> A person sets a microwave timer to 2 minutes.\n<396> <398> A man in a white striped shirt is shown talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400> <401> A man introduces a simple recipe for recharging your sugar levels.\n<401> <405> A super simple chocolate mug cake is shown.\n<405> <407> Two men react with surprise at how easy the recipe is.\n<407> <409> The man explains that you can make it even when you're tired.\n<409> <415> A spoon scoops into the dark, crumbly chocolate cake in a mug.\n<415> <418> The man explains you can customize the recipe to your taste.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420> <421> You can make a custom cup cake to your liking depending on the ingredients!\n<421> <425> If you want a richer chocolate flavor...\n<425> <427> 6 spoons of hot chocolate instead of milk!\n<427> <431> If you want a plain taste, you can replace milk with soy milk.\n<431> <435> Ice cream, cookies, fruit, marshmallows, etc.\n<435> <437> A unique cup cake of my own with the ingredients I want.\n<437> <439> Get away from the cakes on the market",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<439> <441> A close-up of a chocolate cupcake topped with seeds is shown.\n<441> <445> Two men are shown in a split-screen view, looking surprised.\n<445> <448> A man in a white striped shirt talks about difficult and time-consuming baking.\n<448> <451> He then introduces a super simple baking recipe that anyone can do.\n<451> <455> Another man in a yellow checkered shirt says the recipe looks familiar.\n<455> <459> A person holds a green package of hardtack, introducing a cupcake recipe made from it, often used in the military.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<459> <461> A person is pouring milk into a bag of crushed crackers.\n<461> <463> The person shakes the bag to mix the contents.\n<463> <465> The video shows several freshly baked cupcakes in colorful paper cups.\n<465> <468> A hand picks up a cupcake and shows its golden-brown top.\n<468> <472> A man in glasses is speaking to the camera.\n<472> <475> A person is putting a cup of batter into a microwave.\n<475> <477> The person takes out a freshly baked chocolate mug cake from the microwave.\n<477> <479> A close-up shot shows the texture of the chocolate mug cake.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480> <481> A person is shown stirring a black mug cake with a spoon.\n<481> <485> A graphic with the number 7 and Korean text is displayed.\n<485> <487> A woman in an office setting looks down with a tired expression.\n<487> <493> People are shown standing and sitting on a crowded subway train.\n<493> <499> A tired-looking woman with smudged makeup is shown looking at her phone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500> <502> A woman is shown eating a snack while looking at her phone.\n<502> <504> A shot of a convenience store entrance.\n<504> <506> A person enters the convenience store.\n<506> <508> A person picks up chocolate chip cookies and milk at the store.\n<508> <510> A close-up of a woman eating something.\n<510> <512> The woman's cheeks blush as she eats, with text indicating stress relief.\n<512> <514> Hearts appear around the woman's face as she enjoys her food.\n<514> <516> Text appears on screen saying \"stress\" and \"overcome\".\n<516> <518> A man in a yellow shirt asks a question.\n<518> <520> A man in a white shirt and glasses explains something with hand gestures.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520> <522> A man points to a picture of a chocolate mug cake on the screen.\n<522> <525> A man in a light blue shirt is talking.\n<525> <528> He continues speaking, explaining something about the chocolate cake.\n<528> <530> A man in a white striped shirt makes a skeptical face.\n<530> <534> He shakes his head, indicating that a complicated recipe would be stressful.\n<534> <538> The man in the light blue shirt explains that the recipe is extremely simple.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540> <542> A person opens a package of chocolate chip cookies.\n<542> <545> The person pours milk directly into the plastic tray of cookies.\n<545> <548> The cookies are shown soaking in the milk inside the tray.\n<548> <550> A man in a yellow shirt reacts with an exaggerated expression of amazement.\n<550> <558> Two men on a split screen discuss the cookie and milk recipe.\n<558> <559> Three men are sitting at a desk, with one raising his hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560> <562> A man in a yellow shirt holds up a phone to take a picture of the other two men at the table.\n<562> <563> A close-up shows a tray of cookies with milk being poured over them.\n<563> <566> A graphic shows condensed milk being squeezed over the cookies.\n<566> <568> The graphic shows the condensed milk fully covering the cookies.\n<568> <570> A spoon scoops up the milk-soaked cookies.\n<570> <572> A spoonful of the cookie and milk mixture is lifted from the tray.\n<572> <574> A close-up shows the cookies soaking in the milk.\n<574> <578> A spoon mixes the now soggy cookies and milk together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580> <582> A person scoops up a piece of a milk-soaked cookie with a spoon.\n<582> <586> A person uses a spoon to press down on cookies soaking in milk.\n<586> <588> A close-up shows the cookies fully soaked in milk inside the container.\n<588> <592> A man in a yellow plaid shirt speaks, looking impressed.\n<592> <600> Three men are sitting at a long desk, discussing the cookie and milk combination.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600> <602> A man in a white striped shirt is speaking.\n<602> <604> A man in a light blue shirt and glasses speaks.\n<604> <608> Three hosts are sitting at a long wooden desk.\n<608> <612> A woman at her desk looks stressed, holding her head.\n<612> <618> The man in the light blue shirt and glasses is speaking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620> <622> A man in a striped shirt is talking.\n<622> <626> Milk is being poured over a tray of chocolate chip cookies.\n<626> <628> Sliced bananas are added to the milk-soaked cookies.\n<628> <632> A person mixes the bananas and cookies together with a spoon.\n<632> <636> An animation shows a waffle with chocolate spread on it.\n<636> <639> An animation shows the cookie and banana mixture in a tray.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640> <642> A close-up shows banana slices placed on top of chocolate chip cookies in a plastic tray.\n<642> <644> A person pours chocolate milk over the cookies and bananas.\n<644> <646> A person scoops up the mixture of cookies, bananas, and chocolate milk with a spoon.\n<646> <648> A man in a yellow checkered shirt gestures while talking.\n<648> <650> The man continues to talk, pointing forward.\n<650> <652> A wide shot shows three men sitting at a desk, with the image of the dessert on a large screen behind them.\n<652> <654> The wide shot continues with Korean text appearing on the screen.\n<654> <656> A close-up of the man in the yellow shirt shows him talking and gesturing with his hands.\n<656> <658> The man continues talking, gesturing with both hands.\n<658> <660> The man drools while talking about the dessert.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "672.205",
+      "content": "<660> <662> A woman is shown looking stressed and tired at her desk.\n<662> <664> The woman is at home, looking tired while on her phone.\n<664> <667> A person is shown crushing cookies inside a plastic container with a spoon.\n<667> <671> Sliced bananas are added to the crushed cookies, and the mixture is scooped up with a spoon.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "672.205",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

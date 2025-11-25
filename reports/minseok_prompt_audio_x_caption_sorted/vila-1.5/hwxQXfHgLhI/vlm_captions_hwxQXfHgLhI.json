@@ -1,0 +1,338 @@
+{
+  "id": "e6e2e3f6-cb83-4df8-ad27-def67d523180",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 46
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "A group of people are sitting on a couch and a man throws an orange ball at a woman.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "A group of people are sitting on a couch and a man is holding an orange ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "A group of people are sitting on a couch and a man is throwing oranges at them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "A group of people are sitting on a couch and throwing balls into a bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "Three men are sitting on a couch and throwing oranges at a bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "A man is talking to the camera while a cartoon of a backpack is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "A group of people are sitting on a couch and throwing oranges at a target.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "A man is shown with a sad expression, then he is shown with a group of people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "A man in a green shirt is talking to a man in a white coat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "A group of people are playing a game where they have to eat oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "A group of people are sitting in a room and a man is talking to a woman.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "A woman in a white coat is talking to a man in a white coat and a man in a green shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "A man and a woman are sitting on a couch and talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "A man in a green shirt is talking to a man in a striped shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "A group of people are sitting around a table with a bucket of oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "A group of people are sitting on a couch and talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "A man and a woman are talking to each other in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "A man in a green shirt is throwing oranges at a woman in a white coat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "A group of men are sitting on a couch and talking about something.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "A group of people are sitting on a couch and throwing oranges into a backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "A group of people are playing a game where they have to guess what is in a box.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "Four men are sitting on a couch and talking to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "A man in a green sweater laughs while a man in a green shirt looks at him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "Two people in white lab coats are sitting on a couch and talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "Three men are sitting and talking, then a woman in a white coat joins them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "A group of people are sitting on a couch and eating oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "A man is talking to another man while holding an orange.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "A group of people are sitting on a couch and playing a game with oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "Four men are sitting on a couch and playing a game with oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "A man is shown with a backpack full of eggs and then he is shown with a group of men.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "A man throws an orange at a woman who is sitting down.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "A group of people are sitting on a couch and a man is throwing oranges at them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "Four men are sitting on a couch and they are eating oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "A group of people are playing a game where they have to eat oranges in a certain amount of time.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "A group of people are sitting on a couch and throwing balls at each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "A group of people are sitting on a couch and throwing oranges into a backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "A man in a striped shirt is talking to another man in a green shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "A man in a green shirt is talking to a man in a striped shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "A man and a woman are sitting on a couch and clapping their hands together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "A man is trying to juggle three oranges while others watch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "A man throws an orange ball to another man who catches it.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "A group of men are sitting on a couch and one of them is throwing an orange ball at a bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "A group of people are playing a game where they are trying to break eggs without breaking the glass.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "A group of people are in a room and they are all clapping.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": "A blue and white screen with a cartoon dog in the middle.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

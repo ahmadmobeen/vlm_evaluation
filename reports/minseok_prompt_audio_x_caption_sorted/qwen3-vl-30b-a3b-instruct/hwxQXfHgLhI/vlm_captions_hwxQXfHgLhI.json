@@ -1,0 +1,338 @@
+{
+  "id": "e6e2e3f6-cb83-4df8-ad27-def67d523180",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 46
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0> <2> A group of people are sitting in a room, with a woman in a white coat speaking.\n<2> <4> A man in a green sweater looks at the camera with a smile.\n<4> <6> A man in a striped shirt holds a small orange ball.\n<6> <8> The group of people are sitting on a bench in a room.\n<8> <10> A man in a striped shirt looks surprised.\n<10> <12> The group of people are sitting on a bench in a room.\n<12> <14> A man in a striped shirt looks surprised.\n<14> <16> The group of people are sitting on a bench in a room.\n<16> <18> A cartoon television with a dog and a sign that says SBS.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20> <22> A group of people are sitting on a couch in a room.\n<22> <24> A man in a green shirt is holding a small orange object.\n<24> <26> A man in a green shirt is holding a small orange object.\n<26> <28> A man in a green shirt is holding a small orange object.\n<28> <30> A man in a green shirt is holding a small orange object.\n<30> <32> A man in a green shirt is holding a small orange object.\n<32> <34> A man in a green shirt is holding a small orange object.\n<34> <36> A man in a green shirt is holding a small orange object.\n<36> <38> A man in a green shirt is holding a small orange object.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40> <42> A group of people are sitting on a couch in a room.\n<42> <44> A man in a green shirt is talking and gesturing with his hands.\n<44> <46> The camera focuses on a gray backpack with multiple compartments, each containing a small, round object.\n<46> <48> The camera cuts back to the group of people on the couch.\n<48> <50> The man in the green shirt continues to speak and gesture.\n<50> <52> The camera shows a close-up of the backpack again, with a red box highlighting one of the compartments.\n<52> <54> The camera returns to the group, showing the man in the green shirt pointing at the backpack.\n<54> <56> The camera focuses on the backpack again, with a red box highlighting a different compartment.\n<56> <58> The camera cuts back to the group, showing the man in the green shirt pointing at the backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60> <62> A man in a striped shirt holds a yellow ball.\n<62> <64> The man in the striped shirt throws the yellow ball.\n<64> <66> The yellow ball bounces on the floor.\n<66> <68> The yellow ball lands inside a gray bag with compartments.\n<68> <70> The man in the striped shirt looks at the bag.\n<70> <72> The man in the striped shirt speaks to the man next to him.\n<72> <74> The man in the green shirt picks up a yellow ball.\n<74> <76> The man in the green shirt throws the yellow ball.\n<76> <78> The yellow ball bounces on the floor.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80> <82> A man in a green sweater looks at a bag with eggs.\n<82> <84> The man in the green sweater picks up an egg.\n<84> <86> The man in the green sweater drops the egg.\n<86> <88> The egg bounces on the floor.\n<88> <90> The egg rolls towards the bag.\n<90> <92> The egg falls into the bag.\n<92> <94> The man in the green sweater looks at the bag.\n<94> <96> The man in the green sweater looks at the camera.\n<96> <98> The man in the green sweater looks at the bag again.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100> <102> A man in a green shirt speaks to a man in a striped shirt.\n<102> <104> The man in the green shirt looks down at a container of oranges.\n<104> <106> The man in the green shirt holds up an orange.\n<106> <108> The man in the green shirt continues to hold the orange.\n<108> <110> The man in the green shirt looks at the man in the striped shirt.\n<110> <112> The man in the green shirt looks at the man in the striped shirt.\n<112> <114> The man in the green shirt looks at the man in the striped shirt.\n<114> <116> The man in the green shirt looks at the man in the striped shirt.\n<116> <118> The man in the green shirt looks at the man in the striped shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120> <122> A man in a green shirt smiles while sitting on a couch with others.\n<122> <124> The man in the green shirt picks up a yellow ball from a container.\n<124> <126> The man in the green shirt holds the yellow ball and looks at it.\n<126> <128> The man in the green shirt throws the yellow ball into a container on the floor.\n<128> <130> The man in the green shirt watches the ball as it lands in the container.\n<130> <132> The man in the green shirt smiles and looks at the camera.\n<132> <134> The man in the green shirt laughs and looks at the others.\n<134> <136> The man in the green shirt continues to smile and look at the others.\n<136> <138> The man in the green shirt looks at the camera and smiles.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140> <142> A man in a green shirt smiles and looks down.\n<142> <144> A man in a striped shirt looks at a man in a green shirt who is looking down.\n<144> <146> A group of five people sit on a couch in a room.\n<146> <148> The camera pans down to a backpack on the floor with several cans inside.\n<148> <150> The camera pans up to show the group of people on the couch.\n<150> <152> The camera focuses on the backpack on the floor again.\n<152> <154> The camera pans up to show the group of people on the couch again.\n<154> <156> The camera focuses on a man in a striped shirt looking down.\n<156> <158> The camera pans down to the backpack on the floor again.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160> <162> A gray backpack with compartments is shown on the floor, each holding a glass with an egg inside.\n<162> <164> The backpack is shown again, now with a green checkmark over the compartments, indicating a successful arrangement.\n<164> <166> A man in a striped shirt and a man in a green shirt are sitting on a couch, with the man in the green shirt holding a basket of oranges.\n<166> <168> The man in the striped shirt gestures with his hand while speaking.\n<168> <170> The man in the green shirt continues to hold the basket of oranges.\n<170> <172> The man in the striped shirt continues to gesture with his hand while speaking.\n<172> <174> The man in the green shirt continues to hold the basket of oranges.\n<174> <176> The man in the striped shirt continues to gesture with his hand while speaking.\n<176> <178> The man in the green shirt continues to hold the basket of oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180> <182> A man in a striped shirt holds a small orange ball and speaks to a group of people.\n<182> <184> A woman in a white coat raises her hand in excitement while a man in a white coat claps.\n<184> <186> The man in the striped shirt hands the orange ball to a man in a green shirt.\n<186> <188> The man in the green shirt looks down at the ball in his hand.\n<188> <190> The man in the striped shirt speaks to the man in the green shirt.\n<190> <192> The man in the striped shirt holds a container of orange balls and speaks.\n<192> <194> The man in the striped shirt picks up an orange ball from the container.\n<194> <196> The man in the striped shirt holds the orange ball and speaks.\n<196> <198> The man in the striped shirt holds the orange ball and speaks to the man in the green shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200> <202> A man in a striped shirt stands and talks to a group of people in a room.\n<202> <204> The man in the striped shirt continues to speak, looking towards the others.\n<204> <206> The man in the striped shirt turns and walks towards the group sitting on a couch.\n<206> <208> The group, including two people in white coats, are seated and listening to the man.\n<208> <210> A woman in a white coat laughs while covering her mouth, sitting next to a man in a white coat.\n<210> <212> The woman in the white coat continues to laugh, covering her mouth.\n<212> <214> The woman in the white coat speaks while the man in the striped shirt holds a box.\n<214> <216> Two men in green shirts are shown, one speaking and the other listening.\n<216> <218> The group is shown again, with the man in the striped shirt holding a box and the woman in the white coat speaking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220> <222> A woman in a white coat holds a small object and speaks to a man in a white coat.\n<222> <224> The woman continues to speak while holding the object.\n<224> <226> The woman gestures with the object as she talks.\n<226> <228> The woman looks at the object and then back at the man.\n<228> <230> The woman smiles and continues her explanation.\n<230> <232> The woman holds the object up, showing it to the man.\n<232> <234> The woman gestures with her hand while speaking.\n<234> <236> The woman looks at the man and smiles.\n<236> <238> The woman continues to speak, holding the object.\n<238> <240> The woman gestures with the object as she talks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240> <242> A man in a white coat stands in a room with a large box.\n<242> <244> Two medical professionals, a woman and a man, are seated and talking.\n<244> <246> The woman in the white coat speaks while the man listens.\n<246> <248> A man in a striped shirt speaks while sitting in a room.\n<248> <250> The two medical professionals continue their conversation.\n<250> <252> The woman in the white coat clasps her hands together.\n<252> <254> A black screen displays Korean text about making two bicycles.\n<254> <256> The text on the black screen updates to include information about seven wheels.\n<256> <258> A group of people, including the medical professionals, are seated in a room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260> <262> A man in a striped shirt looks at a container of oranges.\n<262> <264> The man in the striped shirt speaks while looking at the oranges.\n<264> <266> The camera shows a group of five people sitting on a bench.\n<266> <268> The man in the striped shirt picks up an orange from the container.\n<268> <270> The man in the striped shirt and the man next to him look at a backpack with oranges inside.\n<270> <272> The man in the striped shirt speaks to the man next to him.\n<272> <274> The camera shows a wider view of the group sitting on the bench.\n<274> <276> The man in the striped shirt holds an orange and looks at the man next to him.\n<276> <278> The camera shows the group sitting on the bench, with a container of oranges in the foreground.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280> <282> A man in a green sweater speaks while others listen.\n<282> <284> A man in a striped shirt looks at a container of oranges.\n<284> <286> A woman in a white coat claps her hands.\n<286> <288> A gray bag with compartments holds oranges.\n<288> <290> The bag is shown with a red outline highlighting the oranges.\n<290> <292> A man in a green sweater speaks with a game board visible.\n<292> <294> A man in a striped shirt looks at a game board.\n<294> <296> A group of people sit on a bench in a room.\n<296> <298> A gray bag with compartments is on the floor.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300> <302> A group of people are sitting on a couch in a room.\n<302> <304> A backpack with a compartmentalized interior is shown on the floor.\n<304> <306> The backpack is filled with round objects, possibly food items.\n<306> <308> A man in a green shirt is talking and gesturing.\n<308> <310> A man in a striped shirt and a man in a green shirt are talking.\n<310> <312> A man in a green shirt and glasses is speaking.\n<312> <314> The backpack is shown again with a red box highlighting two compartments.\n<314> <316> The red box moves to highlight a different section of the backpack.\n<316> <318> A man and a woman in white coats are sitting on a couch, looking at the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320> <322> A man in a green sweater holds a small orange object while sitting on a couch with others.\n<322> <324> A man in a striped shirt speaks to a man in a green sweater.\n<324> <326> A backpack with compartments filled with round objects is shown on the floor.\n<326> <328> The backpack on the floor has more round objects added to it.\n<328> <330> The backpack on the floor is filled with round objects, and text appears on the screen.\n<330> <332> A man in a green sweater holds a small orange object while sitting on a couch with others.\n<332> <334> A group of people sit on couches in a room, looking at a backpack on the floor.\n<334> <336> The group of people on the couches react with surprise and excitement.\n<336> <338> The group of people on the couches continue to react with excitement.\n<338> <340> The group of people on the couches continue to react with excitement.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340> <342> A group of people are sitting in a room, with a woman in a white coat clapping her hands.\n<342> <344> The people in the room are laughing and clapping.\n<344> <346> A man in a green shirt is laughing and clapping his hands.\n<346> <348> A woman in a white coat is covering her mouth with her hands.\n<348> <350> A man in a striped shirt is bending over a bag on the floor.\n<350> <352> A man in a green shirt is standing and pointing at a bag on the floor.\n<352> <354> A man in a striped shirt is putting a red object into a bag.\n<354> <356> A man in a green shirt is standing and pointing at a bag on the floor.\n<356> <358> A man in a striped shirt is putting a red object into a bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360> <362> A man in a green sweater speaks while seated with others.\n<362> <364> The man in the green sweater continues speaking, looking down.\n<364> <366> A man in a green shirt and glasses looks down and speaks.\n<366> <368> A man in a striped shirt holds a yellow ball and speaks.\n<368> <370> The man in the striped shirt continues speaking while holding the yellow ball.\n<370> <372> A wider shot shows a group of people sitting on a bench, with a man in a striped shirt holding a yellow ball.\n<372> <374> The group remains seated, with the man in the striped shirt still holding the yellow ball.\n<374> <376> The camera focuses on a gray bag with compartments holding glasses and yellow balls.\n<376> <378> The group is shown again, with an inset image of the bag, and Korean text appears on screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380> <382> A group of people are sitting on a couch, with one person in a green shirt reaching down.\n<382> <384> A man in a striped shirt is smiling and talking.\n<384> <386> A man and a woman in white coats are sitting and talking.\n<386> <388> A man in a green shirt is looking down at a container of oranges.\n<388> <390> A man in a striped shirt is looking down.\n<390> <392> A group of people are sitting on a couch, with a container of oranges on the floor.\n<392> <394> A man in a green shirt is talking.\n<394> <396> A group of people are sitting on a couch, with a container of oranges on the floor.\n<396> <398> A top-down view shows a backpack with oranges inside on a tiled floor.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400> <402> A gray backpack with nine compartments, each containing a white and yellow object, is shown on a tiled floor.\n<402> <404> The scene shifts to a group of people in a room, where a man in a green shirt is dancing and others are clapping and laughing.\n<404> <406> The man in the green shirt continues to dance, while another man in a striped shirt laughs and watches.\n<406> <408> The man in the green shirt is embraced by another man in a light green shirt, while others in the room cheer and clap.\n<408> <410> The man in the green shirt celebrates with a fist pump, while the man in the striped shirt looks on with a smile.\n<410> <412> The man in the green shirt is embraced by the man in the light green shirt, while the man in the striped shirt looks on.\n<412> <414> The man in the green shirt continues to celebrate, while the man in the striped shirt looks on with a smile.\n<414> <416> The man in the green shirt is embraced by the man in the light green shirt, while the man in the striped shirt looks on.\n<416> <418> The man in the green shirt continues to celebrate, while the man in the striped shirt looks on with a smile.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420> <422> A man in a green shirt speaks while sitting with two other men.\n<422> <424> A man in a striped shirt speaks animatedly, gesturing with his hands.\n<424> <426> A man in a green shirt speaks, looking down at his hands.\n<426> <428> A man in a striped shirt speaks, looking towards the man in the green shirt.\n<428> <430> A man in a green shirt speaks, looking towards the man in the striped shirt.\n<430> <432> A man in a green shirt speaks, looking towards the man in the striped shirt.\n<432> <434> A man in a green shirt speaks, looking towards the man in the striped shirt.\n<434> <436> A man in a green shirt speaks, looking towards the man in the striped shirt.\n<436> <438> A man in a green shirt speaks, looking towards the man in the striped shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440> <442> A man in a green sweater laughs while sitting next to another man in a green shirt.\n<442> <444> A woman with long dark hair looks down at a piece of paper while holding it in her hands.\n<444> <446> A man and a woman in white lab coats sit on a couch, with the man speaking and the woman listening.\n<446> <448> The man in the green sweater is shown again, smiling and looking to his right.\n<448> <450> Two men sit next to each other, one in a striped shirt and the other in a light-colored shirt, with a subtitle appearing on the screen.\n<450> <452> The man in the white lab coat gestures with his hand while speaking to the woman.\n<452> <454> A wide shot shows a group of people sitting in a room, with a large red \"360\" graphic overlaid on the image.\n<454> <456> The two men from the previous scene are shown again, with the man in the striped shirt speaking and the man in the light-colored shirt looking down.\n<456> <458> The man and woman in lab coats are shown again, with the woman looking surprised and the man holding a piece of paper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460> <462> A woman and a man in white lab coats sit in a medical office, discussing a medical procedure.\n<462> <464> The woman gestures with her hands while speaking, and the man holds a small object.\n<464> <466> A close-up shows a medical device with a green and white design, labeled as a \"3단계 선물 최고급 자동 혈압계\" (3-stage gift premium automatic blood pressure monitor).\n<466> <468> The woman continues to speak, covering her mouth with her hands, while the man looks on.\n<468> <470> The man in the lab coat holds a small object, possibly a medical device, and speaks to the woman.\n<470> <472> The scene shifts to a group of four men sitting together, reacting with surprise and excitement.\n<472> <474> One man in a striped shirt points and speaks, while the others listen intently.\n<474> <476> The men continue their discussion, with one man in a green shirt speaking and gesturing.\n<476> <478> The men laugh and interact, with one man in a green shirt smiling and looking at the others.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480> <482> Three men are sitting and talking in a brightly lit room.\n<482> <484> Two medical professionals in white coats are sitting side by side.\n<484> <486> A black screen displays Korean text, including \"3단계\" and \"정중양 칸이 막힘\".\n<486> <488> A gray backpack with a padded interior is shown, containing several round, silver containers.\n<488> <490> The backpack is shown again, now with a larger, rectangular container added to the center compartment.\n<490> <492> The three men are back on screen, with one in the center speaking.\n<492> <494> The man in the center continues to speak, with the other two men listening.\n<494> <496> The man in the center speaks, with the text \"난이도 곱창송\" appearing on the screen.\n<496> <498> A man in a white coat speaks, with a graphic of the backpack shown next to him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500> <502> A man in a white coat speaks to a group of people sitting on a couch.\n<502> <504> The group, including a man in a striped shirt and a man in a green shirt, listen to the man in the white coat.\n<504> <506> The man in the green shirt looks down at a container in his lap.\n<506> <508> The man in the green shirt continues to look at the container, while the man in the white coat claps his hands.\n<508> <510> The man in the white coat claps his hands again as the others watch.\n<510> <512> The man in the green shirt looks up and speaks, with a graphic overlay showing a game board.\n<512> <514> The man in the green shirt continues to speak, with the game board graphic still visible.\n<514> <516> The man in the white coat claps his hands again as the others watch.\n<516> <518> The man in the white coat claps his hands once more as the others watch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520> <522> A gray backpack with compartments is shown on a tiled floor, containing various items including oranges and cups.\n<522> <524> A man in a green shirt looks down at the backpack, which is now open and filled with cups and oranges.\n<524> <526> A man in a striped shirt speaks while another man sits beside him, both looking at the backpack.\n<526> <528> A woman in a white coat claps her hands while sitting next to a man in a white coat.\n<528> <530> The man in the green shirt continues to look at the backpack, which is now shown with a red outline around the compartments.\n<530> <532> The man in the green shirt speaks while looking at the backpack, which is now shown with a red outline around the compartments.\n<532> <534> The man in the green shirt continues to look at the backpack, which is now shown with a red outline around the compartments.\n<534> <536> The man in the green shirt speaks while looking at the backpack, which is now shown with a red outline around the compartments.\n<536> <538> The man in the green shirt continues to look at the backpack, which is now shown with a red outline around the compartments.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540> <542> A group of men sit on a couch, with one holding a container of orange balls.\n<542> <544> The camera pans to show a wider view of the room, including two people in white coats sitting on a separate couch.\n<544> <546> A close-up shows a gray insulated bag with compartments, each holding a metal cup and an orange ball.\n<546> <548> A man and a woman in white coats are shown sitting and talking.\n<548> <550> The scene returns to the group of men on the couch, with a game interface visible in the corner.\n<550> <552> The men are shown holding the orange balls, with a game timer and score displayed.\n<552> <554> A close-up of the insulated bag shows a hand placing a metal cup into a compartment.\n<554> <556> The hand continues to arrange the cups and balls in the bag's compartments.\n<556> <558> A red box highlights a section of the bag, and text appears on the screen indicating a rule about the arrangement.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560> <562> Four men are sitting on a couch, each holding a yellow ball.\n<562> <564> The man in the striped shirt stands up and walks away from the group.\n<564> <566> The man in the striped shirt returns and sits back down.\n<566> <568> The man in the striped shirt holds up a yellow ball and speaks.\n<568> <570> The man in the striped shirt continues to speak while holding the yellow ball.\n<570> <572> The man in the striped shirt looks down at the yellow ball in his hand.\n<572> <574> The man in the striped shirt looks up and speaks again.\n<574> <576> The man in the striped shirt holds the yellow ball up again and speaks.\n<576> <578> The man in the striped shirt continues to speak while holding the yellow ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580> <582> A group of people are sitting on a couch in a room.\n<582> <584> A man in a green shirt is holding a yellow object.\n<584> <586> A woman in a white coat is sitting next to a man in a white coat.\n<586> <588> A man in a green shirt is holding a yellow object.\n<588> <590> A man in a striped shirt is looking at a man in a green shirt.\n<590> <592> A man in a green shirt is holding a yellow object.\n<592> <594> A man in a striped shirt is looking at a man in a green shirt.\n<594> <596> A man in a green shirt is holding a yellow object.\n<596> <598> A man in a striped shirt is looking at a man in a green shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600> <602> A man in a green shirt sits on a couch, holding a container of orange balls, while another man in a green shirt sits beside him, both looking at a bag on the floor.\n<602> <604> A woman in a white coat sits with her hands clasped, looking down with a thoughtful expression.\n<604> <606> A gray bag with compartments containing glasses and orange balls sits on the floor.\n<606> <608> A man in a green shirt smiles widely, showing his teeth.\n<608> <610> A man in a green shirt and glasses speaks, with a graphic of a bag of glasses and balls next to him.\n<610> <612> A man in a striped shirt and a man in a light green shirt sit together, both looking at the man in the green shirt who is speaking.\n<612> <614> A man in a white coat and a woman in a white coat sit together, both looking down.\n<614> <616> A man in a green shirt sits on a couch, holding a container of orange balls, while another man in a green shirt sits beside him, both looking at a bag on the floor.\n<616> <618> A man in a green shirt smiles widely, showing his teeth.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620> <622> A group of people are sitting on a couch in a room.\n<622> <624> A close-up shows a bag with compartments holding glass bottles.\n<624> <626> Two men in green shirts are sitting on a couch.\n<626> <628> The group of people are sitting on the couch.\n<628> <630> The group of people are sitting on the couch.\n<630> <632> The group of people are sitting on the couch.\n<632> <634> The group of people are sitting on the couch.\n<634> <636> The group of people are sitting on the couch.\n<636> <638> The group of people are sitting on the couch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640> <642> Four men sit on a couch, each holding a container of orange slices.\n<642> <644> The men look at the camera and smile while holding the orange slices.\n<644> <646> The man in the green shirt laughs while holding the orange slices.\n<646> <648> The man in the green shirt continues to laugh while holding the orange slices.\n<648> <650> A woman in a white lab coat speaks while standing next to a man in a white lab coat.\n<650> <652> The man in the green shirt speaks while holding the orange slices.\n<652> <654> The man in the green shirt continues to speak while holding the orange slices.\n<654> <656> The man in the green shirt continues to speak while holding the orange slices.\n<656> <658> The man in the green shirt continues to speak while holding the orange slices.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660> <662> A group of people gather around a table, placing their hands together in a circle.\n<662> <664> The group, consisting of men and women in casual and medical attire, smiles and laughs together.\n<664> <666> The scene shifts to a man in a green shirt holding a container of orange objects, standing next to a man in a striped shirt.\n<666> <668> Four men are seated on a couch, each holding a container of orange objects, with text indicating a competition.\n<668> <670> The men on the couch raise their hands in a gesture of readiness or excitement.\n<670> <672> A close-up shows two men, one in a striped shirt and one in a green shirt, looking at each other.\n<672> <674> The man in the green shirt speaks while the man in the striped shirt listens.\n<674> <676> The man in the green shirt continues to speak, with text indicating a time limit for the challenge.\n<676> <678> The man in the green shirt gestures with his hand as he speaks, emphasizing his point.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680> <682> A group of people are sitting on a bench in a room.\n<682> <684> The people are looking at a bag with compartments.\n<684> <686> A man in a striped shirt is talking.\n<686> <688> The man in the striped shirt is looking at the bag.\n<688> <690> The man in the striped shirt is talking to the others.\n<690> <692> The man in the striped shirt is looking at the bag.\n<692> <694> The man in the striped shirt is talking to the others.\n<694> <696> The man in the striped shirt is looking at the bag.\n<696> <698> The man in the striped shirt is talking to the others.\n<698> <700> The man in the striped shirt is looking at the bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700> <702> A group of people are sitting on a couch in a room.\n<702> <704> A man in a green shirt is shown in a close-up, speaking.\n<704> <706> The man in the green shirt is shown again, looking down.\n<706> <708> A man in a striped shirt is shown in a close-up, looking down at a game.\n<708> <710> A close-up shows a bag with compartments, some containing oranges.\n<710> <712> The group of people are shown again, with a game board visible in the lower left.\n<712> <714> The group of people are shown again, with a bag on the floor in front of them.\n<714> <716> A close-up shows the bag on the floor, with a red box highlighting some of the compartments.\n<716> <718> The bag is shown again, with text on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720> <722> A man in a striped shirt holds a yellow ball.\n<722> <724> The man in the striped shirt throws the yellow ball.\n<724> <726> The ball lands in a bag on the floor.\n<726> <728> The bag has compartments, and the ball is in one of them.\n<728> <730> The man in the striped shirt looks surprised.\n<730> <732> The man in the striped shirt looks shocked.\n<732> <734> The other men in the room cheer and clap.\n<734> <736> The women in white coats also clap and smile.\n<736> <738> The men continue to celebrate the successful throw.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740> <742> A man in a green shirt speaks while standing in a room.\n<742> <744> A man in a striped shirt looks at a bag filled with eggs.\n<744> <746> The man in the striped shirt gestures towards the bag of eggs.\n<746> <748> The man in the striped shirt speaks to the others in the room.\n<748> <750> The man in the green shirt speaks with his hand on his chest.\n<750> <752> The man in the green shirt points to the side while speaking.\n<752> <754> The man in the striped shirt holds an egg and speaks.\n<754> <756> The man in the striped shirt hands the egg to the man in the green shirt.\n<756> <758> The man in the green shirt holds the egg while the man in the striped shirt gestures.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760> <762> Two people in white lab coats sit on a couch, one clapping her hands.\n<762> <764> A man in a green shirt speaks while another man beside him clasps his hands.\n<764> <766> The man in the green shirt continues speaking, with the other man looking down with hands clasped.\n<766> <768> A close-up shows a hand holding an orange ball.\n<768> <770> The man in the green sweater speaks, with a graphic showing a game board.\n<770> <772> The man in the green sweater continues speaking, with the game board graphic still visible.\n<772> <774> The man in the green sweater speaks, with the game board graphic still visible.\n<774> <776> The man in the green sweater speaks, with the game board graphic still visible.\n<776> <778> A close-up shows a bag with compartments holding eggs and other items.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780> <782> A man in a green shirt holds an orange object while sitting on a couch.\n<782> <784> The man in the green shirt looks down at the object in his hand.\n<784> <786> The camera pans out to show a group of five people sitting on couches in a room.\n<786> <788> The camera focuses on three men sitting together, with the man in the middle looking surprised.\n<788> <790> The man in the striped shirt has a wide-eyed, surprised expression.\n<790> <792> The camera shows the full group again, with a black case open on the floor in front of them.\n<792> <794> The man in the white coat on the right laughs.\n<794> <796> A split screen shows a man in a green shirt on the left and a backpack with compartments filled with oranges on the right.\n<796> <798> The camera returns to the three men, with the man in the middle speaking and the man in the green shirt laughing.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800> <802> A man in a striped shirt looks up with a surprised expression.\n<802> <804> A man in a green shirt speaks while looking down.\n<804> <806> A man in a striped shirt smiles while looking down.\n<806> <808> A close-up shows a hand holding a small orange ball.\n<808> <810> A group of five people sit on a bench in a room, with a woman in a white coat on the right.\n<810> <812> A woman in a white coat has her hands clasped and looks down.\n<812> <814> A man in a green shirt leans forward and smiles.\n<814> <816> A close-up shows a hand holding a small orange ball.\n<816> <818> The group of five people are shown again, with the man in the striped shirt holding the orange ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820> <822> A group of men sit on a couch in a room, looking at something off-camera.\n<822> <824> The men react with surprise, their mouths open in shock.\n<824> <826> The camera angle shifts to show a backpack on the floor with several small, round objects inside.\n<826> <828> The men are now standing and cheering, raising their arms in celebration.\n<828> <830> The camera focuses on the backpack again, showing the objects more clearly.\n<830> <832> The men are back on the couch, looking down at the floor with expressions of excitement.\n<832> <834> The men are now standing and hugging each other, celebrating a victory.\n<834> <836> The men are sitting on the couch again, looking at a woman in a white coat who is sitting across from them.\n<836> <838> The men are standing and clapping their hands, celebrating together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840> <842> A group of people are celebrating and hugging in a room.\n<842> <844> The group continues to celebrate, with one person raising their arms in excitement.\n<844> <846> The group is now sitting on a couch, with one person in a white coat gesturing.\n<846> <848> The group is still seated, with the person in the white coat continuing to gesture.\n<848> <850> The camera focuses on a grey bag with compartments, each holding a glass and an orange.\n<850> <852> The camera zooms in on the bag, highlighting the compartments with glasses and oranges.\n<852> <854> The camera continues to focus on the bag, showing the arrangement of the glasses and oranges.\n<854> <856> The camera remains focused on the bag, showing the arrangement of the glasses and oranges.\n<856> <858> The camera remains focused on the bag, showing the arrangement of the glasses and oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860> <862> A man in a green shirt hugs another man in a striped shirt while others watch and smile.\n<862> <864> The man in the green shirt continues to hug the man in the striped shirt as the others look on.\n<864> <866> The man in the green shirt releases the hug and the man in the striped shirt begins to speak.\n<866> <868> The man in the striped shirt gestures with his hands as he speaks to the man in the green shirt.\n<868> <870> The man in the green shirt and the man in the striped shirt stand facing each other, talking and gesturing.\n<870> <872> The man in the green shirt and the man in the striped shirt continue their conversation, with the man in the green shirt gesturing.\n<872> <874> The man in the green shirt and the man in the striped shirt are joined by two other men, and they all stand together, talking and gesturing.\n<874> <876> The group of men stand together, talking and gesturing, while two people in white coats sit on a couch behind them, clapping.\n<876> <878> The group of men stand together, talking and gesturing, while the two people in white coats continue to clap.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": "<880> <881> A cartoon image of a computer screen with a blue background and a central graphic of a bear holding a sign appears.\n<881> <882> The text \"매송맛집\" appears above the bear graphic.\n<882> <883> The text \"매송맛집\" remains above the bear graphic.\n<883> <884> The text \"매송맛집\" remains above the bear graphic.\n<884> <885> The text \"매송맛집\" remains above the bear graphic.\n<885> <886> The text \"매송맛집\" remains above the bear graphic.\n<886> <887> The text \"매송맛집\" remains above the bear graphic.\n<887> <888> The text \"매송맛집\" remains above the bear graphic.\n<888> <889> The text \"매송맛집\" remains above the bear graphic.\n<889> <890> The text \"매송맛집\" remains above the bear graphic.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

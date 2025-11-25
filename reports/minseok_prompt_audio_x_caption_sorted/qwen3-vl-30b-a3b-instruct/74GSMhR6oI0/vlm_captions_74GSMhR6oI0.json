@@ -1,0 +1,1129 @@
+{
+  "id": "5106b801-a23f-4d42-b68d-6f3b5777a886",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 159
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0> <2> A television screen displays an advertisement with people and text.\n<2> <4> The advertisement continues, showing a group of people in a setting with text overlays.\n<4> <6> The scene transitions to a graphic showing a soccer match between two teams.\n<6> <8> The graphic remains, displaying team logos and match information.\n<8> <10> The view changes to a wide shot of a soccer field with players and a coach.\n<10> <12> A man in a black jacket holds a soccer ball and gestures while speaking.\n<12> <14> The man continues to speak, holding the soccer ball.\n<14> <16> The man looks at the soccer ball in his hands.\n<16> <18> The scene returns to a wide view of the soccer field with players and a coach.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20> <22> A player in a red jersey with the number 7 prepares to kick the ball.\n<22> <24> The player kicks the ball towards the goal.\n<24> <26> The ball is seen in mid-air heading towards the goal.\n<26> <28> The goalkeeper in an orange jersey dives to the right to block the shot.\n<28> <30> The ball goes past the diving goalkeeper and into the net.\n<30> <32> The player who kicked the ball celebrates the goal.\n<32> <34> The scene shifts to a wider view of the field with players in red and white jerseys.\n<34> <36> A player in a red jersey runs towards the ball.\n<36> <38> The player in red kicks the ball towards the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40> <42> A young boy in a black jersey stands with other children in red and white uniforms.\n<42> <44> The boy in the black jersey looks up and speaks while others stand around him.\n<44> <46> A woman in a red jersey with the number 7 places her hand on the boy's shoulder.\n<46> <48> The boy continues to speak, looking forward with a serious expression.\n<48> <50> The woman in the red jersey smiles and looks down at the boy.\n<50> <52> The boy in the black jersey looks to his right, still speaking.\n<52> <54> The woman in the red jersey continues to smile and look at the boy.\n<54> <56> The boy in the black jersey looks forward again, speaking with his hands clasped.\n<56> <58> The woman in the red jersey looks down at the boy with a gentle expression.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60> <62> A player in a red jersey with the number 7 stands on the field.\n<62> <64> A player in a green jersey with the number 10 stands on the field.\n<64> <66> A player in a green jersey with the number 10 stands on the field.\n<66> <68> A player in a green jersey with the number 10 stands on the field.\n<68> <70> A player in a green jersey with the number 10 stands on the field.\n<70> <72> A player in a green jersey with the number 10 stands on the field.\n<72> <74> A player in a green jersey with the number 10 stands on the field.\n<74> <76> A player in a green jersey with the number 10 stands on the field.\n<76> <78> A player in a green jersey with the number 10 stands on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80> <82> A player in a red jersey with the number 8 is seen from behind, preparing to kick the ball.\n<82> <84> The player in the red jersey kicks the ball, which is in mid-air.\n<84> <86> The player in the red jersey continues to run forward after kicking the ball.\n<86> <88> The player in the red jersey turns and walks back towards the center of the field.\n<88> <90> The player in the red jersey, now with the number 1 on her back, walks towards the sideline.\n<90> <92> The player in the red jersey, number 1, stands on the sideline, looking towards the field.\n<92> <94> The player in the red jersey, number 1, turns and walks away from the sideline.\n<94> <96> A man in a black jacket stands on the sideline, watching the game.\n<96> <98> The man in the black jacket continues to watch the game, with his hands in his pockets.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100> <102> A player in a red jersey stands near the center circle, preparing to kick the ball.\n<102> <104> The player in red kicks the ball, initiating play.\n<104> <106> A player in a light green jersey runs towards the ball.\n<106> <108> The player in red dribbles the ball forward, pursued by a defender in green.\n<108> <110> The player in red continues to advance with the ball, closely marked by the defender.\n<110> <112> The player in red passes the ball to a teammate.\n<112> <114> The teammate in red receives the ball and prepares to make a play.\n<114> <116> The player in red passes the ball to another teammate further up the field.\n<116> <118> The ball is now near the opponent's goal area, with players from both teams positioning themselves.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120> <122> Two men in suits sit at a desk, one gesturing with his hand.\n<122> <124> The man on the right continues to speak and gesture.\n<124> <126> The man on the left looks at the man on the right as he speaks.\n<126> <128> The man on the right continues to speak and gesture.\n<128> <130> The man on the left looks at the man on the right as he speaks.\n<130> <132> The man on the right continues to speak and gesture.\n<132> <134> The man on the left looks at the man on the right as he speaks.\n<134> <136> The man on the right continues to speak and gesture.\n<136> <138> The man on the left looks at the man on the right as he speaks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140> <142> A player in a red jersey controls the ball while being defended by a player in a white jersey.\n<142> <144> The player in red passes the ball to a teammate.\n<144> <146> The teammate in red receives the ball and continues to advance.\n<146> <148> The player in red dribbles the ball, evading a defender.\n<148> <150> The player in red takes a shot at the goal.\n<150> <152> The ball is passed to another player in red near the goal.\n<152> <154> The player in red takes a shot, and the goalkeeper dives to make a save.\n<154> <156> The ball goes out of play after the save.\n<156> <158> Players from both teams gather near the sideline.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160> <162> A player in a red jersey controls the ball near the sideline.\n<162> <164> The player in red passes the ball to a teammate in the midfield.\n<164> <166> The ball is passed forward towards the goal area.\n<166> <168> A player in a green jersey attempts to intercept the ball.\n<168> <170> The player in green successfully gains possession and dribbles forward.\n<170> <172> The player in green runs with the ball, pursued by a defender.\n<172> <174> The player in green passes the ball to a teammate near the goal.\n<174> <176> The teammate in green takes a shot at the goal.\n<176> <178> The goalkeeper in red dives to make a save.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180> <182> A player in a red jersey stands on the field.\n<182> <184> A player in a red jersey looks to the side.\n<184> <186> Two players in light green jerseys stand together.\n<186> <188> A player in a light green jersey wipes her face.\n<188> <190> A wide view of the indoor soccer field shows players in red and light green jerseys.\n<190> <192> Players move across the field, with a player in red advancing.\n<192> <194> A player in red dribbles the ball towards the goal.\n<194> <196> A player in red passes the ball to a teammate.\n<196> <198> A player in light green runs to intercept the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200> <202> A player in a red jersey takes a shot on goal, and the goalkeeper dives to make a save.\n<202> <204> The ball is deflected by the goalkeeper, and a player in red attempts to score from close range.\n<204> <206> A player in a red jersey dribbles the ball while being closely marked by a defender in a green jersey.\n<206> <208> A player in a green jersey takes a shot on goal, and the goalkeeper dives to make a save.\n<208> <210> The ball is deflected by the goalkeeper, and a player in red attempts to score from close range.\n<210> <212> A player in a red jersey celebrates a goal, raising her arms in triumph.\n<212> <214> A player in a red jersey walks away from the goal, looking back at the field.\n<214> <216> Two players in red jerseys celebrate together, with one player putting her arm around the other.\n<216> <218> A player in a red jersey stands near the goal, looking towards the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220> <222> A player in a red jersey stands on the field.\n<222> <224> A player in a green jersey holds a soccer ball.\n<224> <226> A man in a black jacket watches the game.\n<226> <228> A wide view of the soccer field shows players in red and green jerseys.\n<228> <230> Players are positioned across the field, preparing for play.\n<230> <232> The camera shows a wide view of the indoor soccer field.\n<232> <234> A player in a green jersey walks on the field.\n<234> <236> A player in a green jersey walks past the camera.\n<236> <238> A player in a green jersey is seen from the side.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240> <242> A player in a red jersey stands near the center circle of a soccer field.\n<242> <244> The camera pans across the field, showing players in red and white jerseys positioned for play.\n<244> <246> A player in a white jersey with the number 27 is seen from behind, standing near the sideline.\n<246> <248> A player in a light green jersey with the number 10 prepares to take a free kick.\n<248> <250> The player in the green jersey takes the free kick, sending the ball into play.\n<250> <252> The camera follows the ball as it moves up the field, with players from both teams running to position themselves.\n<252> <254> The ball is passed among players in red jerseys, advancing towards the opponent's goal.\n<254> <256> A player in a red jersey takes a shot at the goal, but the ball goes wide.\n<256> <258> The camera shows a wide view of the field as players reset their positions for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260> <262> A player in a white jersey controls the ball near the center circle.\n<262> <264> The player in white passes the ball to a teammate.\n<264> <266> A player in a red jersey attempts to intercept the ball near the penalty area.\n<266> <268> The ball is passed back to the center of the field.\n<268> <270> Players from both teams are positioned across the field.\n<270> <272> A player in a white jersey takes a shot on goal.\n<272> <274> The ball is cleared by a defender in a red jersey.\n<274> <276> The ball is passed to a player in a white jersey near the sideline.\n<276> <278> The player in white attempts to cross the ball into the penalty area.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280> <282> A player in a red jersey stands on the field.\n<282> <284> A man in a black suit stands with his arms crossed.\n<284> <286> The man in the black suit raises his hands to his head.\n<286> <288> A wide view of the indoor soccer field shows players in red and white jerseys.\n<288> <290> Players move the ball across the field.\n<290> <292> A player in a red jersey takes a shot at the goal.\n<292> <294> The ball is kicked towards the goal.\n<294> <296> The ball flies through the air towards the goal.\n<296> <298> The ball enters the net, scoring a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300> <302> A woman in a red jersey with a braid adjusts her hair while standing on a soccer field.\n<302> <304> A female soccer player in a red jersey stands near the goalpost, looking towards the field.\n<304> <306> A wide shot shows a women's indoor soccer game in progress, with players in red and white jerseys on a green field.\n<306> <308> The game continues with players positioned across the field, preparing for play.\n<308> <310> Two players in red jerseys interact near the center of the field.\n<310> <312> A player in a red jersey falls to the ground as another player in a white jersey approaches.\n<312> <314> A player in a green jersey stands near the goal, while a player in a red jersey with the number 8 is visible in the background.\n<314> <316> A player in a green jersey with the number 18 on her back turns and walks away from the goal area.\n<316> <318> The player in the green jersey continues to walk across the field, with other players visible in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320> <322> A player in a green jersey with the number 7 is seen on the field.\n<322> <324> The camera shows a wide view of the soccer field with players in red and green jerseys.\n<324> <326> Players are positioned around the center circle, preparing for the game to start.\n<326> <328> The players are spread out across the field, with some near the goal area.\n<328> <330> A player in a green jersey is dribbling the ball while being pursued by a player in a red jersey.\n<330> <332> The player in the green jersey continues to control the ball, moving forward.\n<332> <334> The player in the green jersey is now closer to the sideline, with a player in red approaching.\n<334> <336> The player in the green jersey is now near the sideline, with a player in red approaching.\n<336> <338> The player in the green jersey is now near the sideline, with a player in red approaching.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340> <342> A player in a light green jersey with the number 7 stands on the field.\n<342> <344> The camera shows a wide view of the indoor soccer field with players in green and red jerseys.\n<344> <346> A player in a green jersey takes a free kick from the sideline.\n<346> <348> The player in the green jersey kicks the ball towards the goal.\n<348> <350> The ball is in the air, heading towards the goal area.\n<350> <352> A player in a green jersey with the number 28 runs on the field.\n<352> <354> The player in the green jersey with the number 28 runs towards the sideline.\n<354> <356> A player in a green jersey dribbles the ball down the field.\n<356> <358> The player in the green jersey passes the ball to a teammate near the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360> <362> A player in a red jersey dribbles the ball while being defended by a player in a white jersey.\n<362> <364> The camera pans to show the goal area with a goalkeeper in a green jersey and spectators in the stands.\n<364> <366> Two players in red jerseys stand side by side, one with the number 8 on her back.\n<366> <368> A man in a black jacket receives a red card from another man in a blue jacket.\n<368> <370> The man in the black jacket holds the red card, which has \"OFR\" written on it.\n<370> <372> The man in the black jacket hands the red card to a player in a red jersey.\n<372> <374> Players in red jerseys gather together, appearing to discuss the situation.\n<374> <376> The players in red jerseys stand in a line, facing the sideline.\n<376> <378> Two players in white jerseys with the numbers 10 and 27 on their backs stand together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380> <382> A player in a light green jersey with the number 28 is seen from behind, with a scoreboard showing 0-0.\n<382> <384> The camera focuses on a player in a light green jersey with the number 27, who is talking to a teammate.\n<384> <386> Two commentators in suits are shown sitting at a desk, with a logo for the K League visible behind them.\n<386> <388> The commentators continue to speak, with the one on the right gesturing with his hands.\n<388> <390> The commentator on the right continues to speak, holding a pen.\n<390> <392> The commentator on the right continues to speak, gesturing with his hands.\n<392> <394> The commentator on the right continues to speak, gesturing with his hands.\n<394> <396> The commentator on the right continues to speak, gesturing with his hands.\n<396> <398> The commentator on the right continues to speak, gesturing with his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400> <402> A woman in a black uniform speaks into a microphone on the sidelines of a soccer field.\n<402> <404> A player in a white jersey runs with the ball down the field.\n<404> <406> A player in a white jersey kicks the ball towards the goal.\n<406> <408> A player in a white jersey takes a shot on goal.\n<408> <410> A player in a white jersey runs towards the goal.\n<410> <412> A player in a white jersey takes a shot on goal.\n<412> <414> A player in a white jersey takes a shot on goal.\n<414> <416> A player in a white jersey takes a shot on goal.\n<416> <418> A player in a white jersey takes a shot on goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420> <422> A woman in a red jersey gestures with her hand.\n<422> <424> A woman in a red jersey high-fives a man in a black jacket.\n<424> <426> A group of women in light green jerseys huddle together.\n<426> <428> The women in light green jerseys continue to huddle.\n<428> <430> The women in light green jerseys separate from the huddle.\n<430> <432> A man in a black jacket speaks to the women in light green jerseys.\n<432> <434> The women in light green jerseys stand in a line.\n<434> <436> A woman in a light green jersey speaks to a woman in a red jersey.\n<436> <438> A man in a black jacket speaks to a woman in a light green jersey.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440> <442> A coach in a black suit talks to a female soccer player in a red jersey with the number 8 on the field.\n<442> <444> The coach gestures with his hand while speaking to the player.\n<444> <446> The player, with her hand on her head, listens to the coach.\n<446> <448> The coach continues to speak, and the player turns to walk away.\n<448> <450> The coach puts his arm around the player's shoulder as they walk together.\n<450> <452> The player in the red jersey with the number 8 is seen talking to another player in a red jersey with the number 1.\n<452> <454> The player with the number 8 puts her arm around the player with the number 1.\n<454> <456> The two players walk together, with the player in the number 8 jersey gesturing with her hand.\n<456> <458> The two players continue walking side by side, with the player in the number 8 jersey looking at the player in the number 1 jersey.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460> <462> A player in a red jersey with the number 7 is shown in a close-up.\n<462> <464> A female goalkeeper in a green jersey with the number 24 prepares to defend the goal.\n<464> <466> The goalkeeper in green is shown in a ready stance, with spectators in the background.\n<466> <468> A wide shot shows a player in an orange jersey preparing to take a penalty kick.\n<468> <470> The player in the orange jersey takes the penalty kick.\n<470> <472> The ball is kicked towards the goal, and the goalkeeper dives to her right.\n<472> <474> The ball goes into the net, and the players in orange jerseys celebrate.\n<474> <476> The players in orange jerseys celebrate the goal, with the score now 1-0.\n<476> <478> A man in a black jacket, likely the coach, is shown clapping and cheering.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480> <482> A female soccer player in a red jersey celebrates with her teammates.\n<482> <484> The players in red jerseys, with numbers 8 and 1, raise their arms in celebration.\n<484> <486> The players continue to celebrate, with one player in a red jersey with the number 8 turning to face her teammates.\n<486> <488> A player in a red jersey with the number 00 claps her hands and smiles.\n<488> <490> A player in an orange jersey looks directly at the camera with her hands raised.\n<490> <492> A player in an orange jersey runs on the field.\n<492> <494> A player in a green jersey stands in front of the goal.\n<494> <496> The player in the green jersey prepares to kick the ball.\n<496> <498> The player in the green jersey kicks the ball towards the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500> <502> A player in a light green jersey stands near the goalpost, preparing to take a shot.\n<502> <504> The player takes a shot, and the ball goes into the net.\n<504> <506> The player celebrates the goal by raising her arms.\n<506> <508> The player is seen talking to her teammates, who are also wearing light green jerseys.\n<508> <510> The player continues to celebrate, with her teammates surrounding her.\n<510> <512> The player is seen adjusting her hair while her teammates continue to celebrate.\n<512> <514> The camera pans out to show the entire field, with the score displayed as 1-0.\n<514> <516> The camera continues to pan out, showing the entire field and the scoreboard.\n<516> <518> The camera remains focused on the field, showing the players in their positions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520> <522> A player in a red jersey runs with the ball on a green field.\n<522> <524> The player in red is challenged by a defender in a green jersey.\n<524> <526> The player in red passes the ball to a teammate.\n<526> <528> The teammate in red takes a shot at the goal.\n<528> <530> The ball goes into the net, and the players celebrate.\n<530> <532> The referee signals a goal.\n<532> <534> The players in red celebrate the goal.\n<534> <536> The players in green look disappointed.\n<536> <538> The players in red continue to celebrate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540> <542> A man in a black suit stands on the sideline of a soccer field.\n<542> <544> A player in a white jersey stands on the field, looking towards the goal.\n<544> <546> A player in a red jersey runs past the player in the white jersey.\n<546> <548> A wide shot shows the soccer field with players in red and white jerseys.\n<548> <550> The players are positioned for a play, with the ball near the center of the field.\n<550> <552> A player in a red jersey takes a shot on goal.\n<552> <554> The ball is in the air, heading towards the goal.\n<554> <556> The ball enters the net, and the players in red celebrate.\n<556> <558> The players in red continue to celebrate the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560> <562> A player in a green jersey raises her hand and then points.\n<562> <564> A man in a black jacket stands with his hands on his hips.\n<564> <566> A player in a red jersey with the number 00 is visible.\n<566> <568> A man in a black jacket shouts with his mouth open.\n<568> <570> A player in a green jersey with the number 10 points to the side.\n<570> <572> A player in a red jersey kicks the ball.\n<572> <574> A player in a red jersey runs with the ball.\n<574> <576> A player in a red jersey shoots the ball.\n<576> <578> The ball goes into the net.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580> <582> A player in an orange jersey controls the ball while being defended by a player in a white jersey.\n<582> <584> The player in the orange jersey takes a shot, and the ball goes into the net as the goalkeeper dives.\n<584> <586> Players in white jerseys celebrate the goal, hugging each other.\n<586> <588> A man in a black suit, likely the coach, celebrates with his arms raised and a joyful expression.\n<588> <590> The coach continues to celebrate, pumping his fists and shouting.\n<590> <592> The coach gestures with his hand while speaking, still visibly excited.\n<592> <594> A wide view of the field shows players in white jerseys celebrating near the goal.\n<594> <596> The players in white jerseys continue their celebration near the goal area.\n<596> <598> The camera focuses on the goal area, showing the players and the net.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600> <602> A group of people pose for a photo in front of a soccer goal.\n<602> <604> A player takes a penalty kick, and the ball goes into the net.\n<604> <606> A player in a red jersey runs with the ball, pursued by a defender.\n<606> <608> The ball hits the net as the goalkeeper dives to save it.\n<608> <610> A player in a red jersey celebrates with her mouth open.\n<610> <612> The player turns, showing the number 250 on her jersey.\n<612> <614> A logo with the text \"YOU GOT THIS\" is displayed.\n<614> <616> A group of players in red jerseys huddle together on the field.\n<616> <618> The players continue to celebrate, with one player raising her hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620> <622> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<622> <624> A man in a black shirt stands on the sidelines, looking towards the field.\n<624> <626> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<626> <628> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<628> <630> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<630> <632> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<632> <634> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<634> <636> A woman in a red jersey with the number 20 stands in front of a soccer goal.\n<636> <638> A woman in a red jersey with the number 20 stands in front of a soccer goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640> <642> A soccer player in a red jersey runs with the ball.\n<642> <644> The player in red passes the ball to a teammate.\n<644> <646> The teammate in red controls the ball near the center circle.\n<646> <648> A player in a white jersey runs towards the ball.\n<648> <650> The player in white takes a shot at the goal.\n<650> <652> The ball goes into the net, and the players celebrate.\n<652> <654> The goalkeeper in a red jersey looks disappointed.\n<654> <656> The players in white celebrate their goal.\n<656> <658> The players in red regroup and prepare for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660> <662> A player in a light green jersey with the number 28 is shown in a close-up.\n<662> <664> The player turns and walks away from the camera.\n<664> <666> A man in a black shirt, likely a coach, gestures with his hand.\n<666> <668> A wide shot shows the soccer field with players in red and light green jerseys.\n<668> <670> The camera angle shifts to a higher view of the field, showing the players in position.\n<670> <672> A goalkeeper in a red and black uniform holds the ball in front of the goal.\n<672> <674> The goalkeeper stands with the ball as a player in an orange jersey approaches.\n<674> <676> The goalkeeper is joined by two other players, one in a light green jersey and one in an orange jersey.\n<676> <678> A player in a red jersey with the number 10 is shown in a close-up, standing in front of trophies.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680> <682> A female soccer player in a red jersey stands on the field.\n<682> <684> The camera shows a wide view of the indoor soccer field with players in red and white jerseys.\n<684> <686> A close-up shows a female goalkeeper in a red jersey holding a soccer ball.\n<686> <688> The goalkeeper stands in the goal area, preparing to throw the ball.\n<688> <690> The goalkeeper throws the ball from the goal area.\n<690> <692> The camera follows the ball as it is thrown into play.\n<692> <694> The goalkeeper walks back towards the goal, holding the ball.\n<694> <696> The goalkeeper stands in front of the goal, holding the ball and looking towards the field.\n<696> <698> The goalkeeper holds the ball, looking forward with a focused expression.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700> <702> A man in a black jacket points while standing next to a woman in a red jersey.\n<702> <704> A soccer game is in progress on a green field with players in red and white jerseys.\n<704> <706> The camera shows a wide view of the indoor soccer field with players positioned for play.\n<706> <708> Players in red and white jerseys are spread across the field, with the ball near the center.\n<708> <710> The ball is passed among players in red as they move towards the opponent's goal.\n<710> <712> A player in a white jersey attempts to intercept the ball near the center circle.\n<712> <714> The camera angle shifts to show the sideline, where players in red jerseys are standing.\n<714> <716> A player in a red jersey with the number 00 stands on the sideline, looking towards the field.\n<716> <718> Two players in red jerseys, one with the number 1 and the other with 00, stand together on the sideline.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720> <722> A woman in a red jersey stands near a soccer goal.\n<722> <724> The woman in the red jersey looks to her left.\n<724> <726> A woman in a light green jersey stands on the field.\n<726> <728> A wide view of the indoor soccer field shows players in red and light green jerseys.\n<728> <730> A man in a black suit gestures to players on the sideline.\n<730> <732> The man in the black suit continues to gesture to the players.\n<732> <734> A woman in a light green jersey walks on the field.\n<734> <736> The woman in the light green jersey looks to her left.\n<736> <738> The woman in the light green jersey continues to walk on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740> <742> A player in a light green jersey runs on the field.\n<742> <744> A wide view shows players in red and light green jerseys on a green indoor field.\n<744> <746> A player in a light green jersey controls the ball near the center circle.\n<746> <748> The player in the light green jersey takes a shot, and the ball goes into the net.\n<748> <750> The player in the light green jersey celebrates the goal.\n<750> <752> The player in the light green jersey walks away from the goal.\n<752> <754> A close-up shows a player in a red jersey jumping to block a shot.\n<754> <756> The player in the red jersey lands after the jump.\n<756> <758> A coach in a black shirt points and gives instructions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760> <762> A coach raises his arms in excitement on the sidelines.\n<762> <764> Players in green jerseys celebrate a goal on the field.\n<764> <766> A player in a green jersey with the number 21 is seen celebrating.\n<766> <768> A coach in a black jacket watches the game intently.\n<768> <770> A player in a red jersey with the number 10 stands near the goal.\n<770> <772> Players in red jerseys prepare for a free kick.\n<772> <774> A player in a red jersey takes a free kick.\n<774> <776> A player in a red jersey with the number 10 looks on from the goal area.\n<776> <778> A player in a red jersey with the number 10 stands near the goal, looking towards the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780> <782> A player in a red jersey stands near the goal.\n<782> <784> A player in a red jersey with the number 00 is shown.\n<784> <786> A player in a red jersey waves her hand.\n<786> <788> A player in a red jersey walks away from the goal.\n<788> <790> Two players in light green jerseys stand together.\n<790> <792> A player in a light green jersey adjusts her headband.\n<792> <794> A wide shot shows players on a field with a goal.\n<794> <796> Players are positioned for a free kick.\n<796> <798> A player in an orange jersey prepares to take the free kick.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800> <802> A player in a white jersey prepares to take a penalty kick.\n<802> <804> The player in the white jersey kicks the ball towards the goal.\n<804> <806> The ball is kicked into the goal, and the players in orange celebrate.\n<806> <808> The camera shows a close-up of a player in a white jersey with a focused expression.\n<808> <810> The camera pans out to show the field, with players in orange and white jerseys.\n<810> <812> The players in orange are celebrating the goal.\n<812> <814> The camera shows a wide view of the field, with players in orange and white jerseys.\n<814> <816> Two men in suits are sitting at a desk, watching the game.\n<816> <818> The camera shows a close-up of the players in orange and white jerseys.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820> <822> A player in a red jersey celebrates a goal by jumping in the air.\n<822> <824> The goalkeeper in an orange jersey reacts to the goal, turning away from the net.\n<824> <826> The crowd in the stands watches the game, with some fans wearing pink shirts.\n<826> <828> A player in a red jersey lies on the ground, while another player in a red jersey kneels beside her.\n<828> <830> A close-up shows a logo on a wall that reads \"YOU GOT THIS\" with a stylized \"A\" symbol.\n<830> <832> A man in a black shirt stands with his arms crossed, watching the game.\n<832> <834> A woman in a light green jersey with the number 27 stands on the field.\n<834> <836> A player in a red jersey with the number 10 embraces a teammate in a red jersey with the number 20.\n<836> <838> The two players continue to hug, celebrating the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840> <842> A woman in a red jersey smiles and stands in front of a net.\n<842> <844> A man in a black jacket gestures with his hand.\n<844> <846> A woman in a green jersey celebrates with her arms outstretched.\n<846> <848> A woman in a green jersey stands on the field, looking to the side.\n<848> <850> A wide shot shows a soccer field with players in red and green jerseys.\n<850> <852> Players in red and green jerseys are positioned on the field.\n<852> <854> A player in a red jersey runs towards the goal.\n<854> <856> A man in a black jacket talks to two players in red jerseys.\n<856> <858> The man in the black jacket continues to speak to the players.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860> <862> A man in a black jacket stands on a soccer field, observing the game.\n<862> <864> A group of female soccer players in light green jerseys stand together on the field.\n<864> <866> A female player in a light green jersey walks across the field.\n<866> <868> The man in the black jacket walks with a female player in a light green jersey.\n<868> <870> The man in the black jacket stands with a group of female players in light green jerseys.\n<870> <872> The man in the black jacket talks to a female player in a red jersey.\n<872> <874> The man in the black jacket continues talking to the female player in the red jersey.\n<874> <876> A close-up shows a female player in an orange jersey with braided hair.\n<876> <878> The man in the black jacket stands on the field, addressing a group of female players in orange jerseys.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "900.0",
+      "content": "<880> <882> A person in a red sports jersey looks on with a serious expression.\n<882> <884> A man in a black jacket stands beside a whiteboard with a soccer field diagram.\n<884> <886> The man points to the diagram on the whiteboard, explaining a play.\n<886> <888> A woman with braided hair in an orange jersey watches intently.\n<888> <890> The man continues to explain the soccer strategy on the whiteboard.\n<890> <892> The man adjusts the position of the player markers on the diagram.\n<892> <894> The man holds the whiteboard steady, showing the tactical setup.\n<894> <896> The man points to specific positions on the soccer field diagram.\n<896> <898> The man gestures towards the diagram, emphasizing a point in the strategy.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 45,
+      "start_time": "900.0",
+      "end_time": "920.0",
+      "content": "<900> <902> A coach holds a tactical board and explains a play to players on the field.\n<902> <904> A player in a red jersey listens intently to the coach's instructions.\n<904> <906> The camera shows a wide view of the indoor soccer field with players positioned for the game.\n<906> <908> A female goalkeeper in a red jersey stands ready in front of the goal.\n<908> <910> The game is underway with players from both teams actively moving across the field.\n<910> <912> A player in a red jersey dribbles the ball while being closely marked by an opponent.\n<912> <914> The player in red continues to advance with the ball, maintaining control.\n<914> <916> The player in red passes the ball to a teammate, continuing the offensive play.\n<916> <918> The ball is now in the possession of a player in a white jersey, who is preparing to make a move.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 46,
+      "start_time": "920.0",
+      "end_time": "940.0",
+      "content": "<920> <922> A player in a red jersey dribbles the ball while being closely defended by an opponent in a white jersey.\n<922> <924> The player in red passes the ball to a teammate, who then takes a shot at the goal.\n<924> <926> The ball is kicked towards the goal, and the goalkeeper in a green jersey attempts to block it.\n<926> <928> The ball goes past the goalkeeper, and the player in red celebrates the goal.\n<928> <930> The players in red and white jerseys continue to play, with the player in red maintaining possession of the ball.\n<930> <932> The player in red passes the ball to a teammate, who then takes a shot at the goal.\n<932> <934> The ball is kicked towards the goal, and the goalkeeper in a green jersey attempts to block it.\n<934> <936> The ball goes past the goalkeeper, and the player in red celebrates the goal.\n<936> <938> The players in red and white jerseys continue to play, with the player in red maintaining possession of the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 47,
+      "start_time": "940.0",
+      "end_time": "960.0",
+      "content": "<940> <942> A player in a green jersey stands near the goal, holding a soccer ball.\n<942> <944> A man in a black jacket claps his hands.\n<944> <946> A player in a green jersey walks on the field.\n<946> <948> A player in a green jersey prepares to kick the ball.\n<948> <950> A player in a green jersey kicks the ball.\n<950> <952> A player in a red jersey runs towards the ball.\n<952> <954> A player in a red jersey kicks the ball.\n<954> <956> A player in a red jersey runs towards the ball.\n<956> <958> A player in a red jersey kicks the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 48,
+      "start_time": "960.0",
+      "end_time": "980.0",
+      "content": "<960> <962> A player in a red jersey dribbles the ball while being closely guarded by a player in a white jersey.\n<962> <964> The player in red passes the ball to a teammate, who is also in a red jersey.\n<964> <966> The teammate in red takes a shot at the goal, but the ball is blocked by the goalkeeper.\n<966> <968> The ball is cleared by the defending team and a player in a red jersey gains possession.\n<968> <970> The player in red passes the ball to a teammate further up the field.\n<970> <972> The teammate in red attempts to dribble past a defender in a white jersey.\n<972> <974> The player in red successfully passes the ball to another teammate.\n<974> <976> The teammate in red takes a shot at the goal, but the ball goes wide.\n<976> <978> The ball is cleared by the defending team and a player in a red jersey gains possession.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 49,
+      "start_time": "980.0",
+      "end_time": "1000.0",
+      "content": "<980> <982> A player in a red jersey celebrates a goal.\n<982> <984> The player in the red jersey looks up and gestures with her arms.\n<984> <986> A player in a light green jersey stands near the goal.\n<986> <988> The player in the red jersey stands next to the player in the light green jersey.\n<988> <990> Two commentators in suits sit at a desk.\n<990> <992> The commentators continue to speak.\n<992> <994> A wide shot shows the indoor futsal court with players in red and light green jerseys.\n<994> <996> Players are positioned around the center circle of the court.\n<996> <998> The players continue to play on the court.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 50,
+      "start_time": "1000.0",
+      "end_time": "1020.0",
+      "content": "<1000> <1002> A player in a red jersey with the number 8 is seen from behind, facing a player in a light green jersey with the number 10.\n<1002> <1004> The player in the light green jersey, number 10, turns and gestures with her hand.\n<1004> <1006> A female goalkeeper in a light green jersey with the number 24 holds a soccer ball, standing in front of the goal.\n<1006> <1008> A man in a black polo shirt, likely a coach or referee, gestures with his right arm while speaking.\n<1008> <1010> A wide shot shows players from both teams on the field, with the score 1-1 displayed on the scoreboard.\n<1010> <1012> The camera angle shifts to a higher, wider view of the indoor soccer field, showing players in red and light green jerseys.\n<1012> <1014> Players are positioned in the midfield, preparing for the next play.\n<1014> <1016> The players continue to move and position themselves on the field.\n<1016> <1018> The game continues with players spread across the field, maintaining their positions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 51,
+      "start_time": "1020.0",
+      "end_time": "1040.0",
+      "content": "<1020> <1022> A player in a green jersey prepares to kick the ball.\n<1022> <1024> The player kicks the ball towards the goal.\n<1024> <1026> The ball flies through the air towards the goal.\n<1026> <1028> The ball enters the goal, scoring a point.\n<1028> <1030> The player celebrates the goal.\n<1030> <1032> The player runs towards the sideline.\n<1032> <1034> The player celebrates with her teammates.\n<1034> <1036> The players gather near the goal.\n<1036> <1038> The players prepare for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 52,
+      "start_time": "1040.0",
+      "end_time": "1060.0",
+      "content": "<1040> <1042> A man in a black jacket speaks to a group of people.\n<1042> <1044> Two women in red soccer jerseys stand and listen.\n<1044> <1046> A woman in a red jersey with the number 8 walks across the field.\n<1046> <1048> A wide shot shows a soccer game in progress on a green field.\n<1048> <1050> Players in red and white jerseys are positioned on the field.\n<1050> <1052> A player in a red jersey controls the ball while being defended.\n<1052> <1054> A player in a red jersey dribbles the ball past a defender.\n<1054> <1056> A player in a red jersey is challenged by a player in a white jersey.\n<1056> <1058> A player in a red jersey passes the ball to a teammate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 53,
+      "start_time": "1060.0",
+      "end_time": "1080.0",
+      "content": "<1060> <1062> A soccer player in a red uniform controls the ball on the field.\n<1062> <1064> The camera zooms out to show a wide view of the soccer field with players in red and white uniforms.\n<1064> <1066> A player in a white uniform kicks the ball towards the goal.\n<1066> <1068> The camera focuses on a player in a red uniform standing on the field.\n<1068> <1070> A player in a white uniform walks towards the sideline.\n<1070> <1072> Two men in suits sit at a desk, one speaking and gesturing.\n<1072> <1074> The man on the right continues speaking and gesturing with his hands.\n<1074> <1076> The camera cuts to a group of players in red and white uniforms celebrating on the field.\n<1076> <1078> The players continue to celebrate, jumping and hugging each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 54,
+      "start_time": "1080.0",
+      "end_time": "1100.0",
+      "content": "<1080> <1082> A player in a red jersey takes a shot at the goal.\n<1082> <1084> The ball is passed to a teammate in a red jersey.\n<1084> <1086> A player in a red jersey dribbles the ball down the field.\n<1086> <1088> A player in a red jersey passes the ball to a teammate.\n<1088> <1090> A player in a red jersey takes a shot at the goal.\n<1090> <1092> The ball is passed to a teammate in a red jersey.\n<1092> <1094> A player in a red jersey dribbles the ball down the field.\n<1094> <1096> A player in a red jersey passes the ball to a teammate.\n<1096> <1098> A player in a red jersey takes a shot at the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 55,
+      "start_time": "1100.0",
+      "end_time": "1120.0",
+      "content": "<1100> <1102> A player in a white jersey stands near the sideline, observing the game.\n<1102> <1104> A player in a white jersey controls the ball near the corner of the field.\n<1104> <1106> A player in a red jersey attempts to intercept the ball from a player in a white jersey.\n<1106> <1108> The player in the white jersey passes the ball to a teammate.\n<1108> <1110> The ball is passed again, moving towards the center of the field.\n<1110> <1112> A player in a white jersey takes a shot at the goal.\n<1112> <1114> The ball is cleared by a defender in a red jersey.\n<1114> <1116> The ball is passed back to the midfield, where players in white and red jerseys are positioned.\n<1116> <1118> A player in a white jersey prepares to take a free kick.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 56,
+      "start_time": "1120.0",
+      "end_time": "1140.0",
+      "content": "<1120> <1122> A player in a red jersey celebrates a goal with a fist pump.\n<1122> <1124> The camera focuses on a man in a black jacket, who is smiling and giving a thumbs-up.\n<1124> <1126> The man in the black jacket continues to gesture and speak, appearing to give instructions.\n<1126> <1128> The view shifts to a wide shot of the indoor soccer field, showing players in red and white jerseys.\n<1128> <1130> Players in white jerseys are seen passing the ball near the center circle.\n<1130> <1132> The camera follows the play as the white team advances towards the goal.\n<1132> <1134> A player in a white jersey takes a shot on goal, and the ball goes into the net.\n<1134> <1136> The players in white jerseys celebrate the goal.\n<1136> <1138> The players in white jerseys continue to celebrate near the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 57,
+      "start_time": "1140.0",
+      "end_time": "1160.0",
+      "content": "<1140> <1142> A player in a red jersey stands near the goalpost.\n<1142> <1144> A player in a green jersey walks towards the center of the field.\n<1144> <1146> Players in red and green jerseys are positioned on the field.\n<1146> <1148> A player in a red jersey prepares to kick the ball.\n<1148> <1150> The player in the red jersey kicks the ball.\n<1150> <1152> The ball is in the air, moving towards the center of the field.\n<1152> <1154> Players in red and green jerseys run to follow the ball.\n<1154> <1156> The ball is passed between players in red jerseys.\n<1156> <1158> A player in a red jersey takes a shot at the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 58,
+      "start_time": "1160.0",
+      "end_time": "1180.0",
+      "content": "<1160> <1162> A man in a black shirt speaks animatedly.\n<1162> <1164> Players in green and red jerseys stand on a green field.\n<1164> <1166> A player in a red jersey stands near the goal.\n<1166> <1168> Players in green jerseys walk on the field.\n<1168> <1170> A player in a red jersey stands near the goal.\n<1170> <1172> Players in green jerseys walk on the field.\n<1172> <1174> A player in a red jersey stands near the goal.\n<1174> <1176> A player in a green jersey stands on the field.\n<1176> <1178> A player in a green jersey stands on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1200.0",
+      "content": "<1180> <1182> A player in a red jersey takes a free kick from the corner of the field.\n<1182> <1184> The ball is kicked towards the goal, and the goalkeeper dives to make a save.\n<1184> <1186> The goalkeeper successfully blocks the shot, and the ball goes out of play.\n<1186> <1188> The camera cuts to a close-up of a man in a black jacket, likely a coach or official.\n<1188> <1190> The man in the black jacket is seen talking to a woman in a black uniform, possibly a referee.\n<1190> <1192> The scene changes to two men in suits sitting at a desk, likely commentators or analysts.\n<1192> <1194> The two men in suits continue their discussion, with one gesturing with his hand.\n<1194> <1196> The camera cuts to a player in a red jersey with the number 8 on the back, standing on the field.\n<1196> <1198> The player in the red jersey looks towards the crowd, who are cheering and waving flags.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 60,
+      "start_time": "1200.0",
+      "end_time": "1220.0",
+      "content": "<1200> <1202> A player in a red jersey claps her hands.\n<1202> <1204> The player in red turns and walks away.\n<1204> <1206> A player in a light green jersey prepares to kick the ball.\n<1206> <1208> The player in green kicks the ball.\n<1208> <1210> The camera shows a wide view of the soccer field.\n<1210> <1212> Players are positioned around the field.\n<1212> <1214> The players move into position.\n<1214> <1216> The players are spread out on the field.\n<1216> <1218> The players continue to move around the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 61,
+      "start_time": "1220.0",
+      "end_time": "1240.0",
+      "content": "<1220> <1222> A player in a red jersey controls the ball near the sideline.\n<1222> <1224> The player in red passes the ball to a teammate.\n<1224> <1226> A player in a white jersey approaches to defend.\n<1226> <1228> The player in red dribbles the ball forward.\n<1228> <1230> The player in red is challenged by the defender in white.\n<1230> <1232> The player in red maintains possession of the ball.\n<1232> <1234> The player in red passes the ball to a teammate in the midfield.\n<1234> <1236> The ball is passed again, moving towards the opponent's goal.\n<1236> <1238> Players from both teams position themselves for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 62,
+      "start_time": "1240.0",
+      "end_time": "1260.0",
+      "content": "<1240> <1241> A soccer match is in progress on an indoor field with a scoreboard showing a 1-1 tie.\n<1241> <1242> A player in a red jersey with the number 10 is shown in a close-up, looking focused.\n<1242> <1243> A player in a red jersey dribbles the ball while being closely guarded by a player in a light green jersey.\n<1243> <1244> The player in red continues to dribble the ball, maintaining control as the defender attempts to intercept.\n<1244> <1245> The player in red passes the ball to a teammate, who is also in a red jersey.\n<1245> <1246> The teammate in red receives the ball and prepares to make a move, with defenders closing in.\n<1246> <1247> The player in red takes a shot at the goal, with the goalkeeper in a green jersey ready to defend.\n<1247> <1248> The ball is in the air, heading towards the goal, as the goalkeeper dives to make a save.\n<1248> <1249> The ball goes past the goalkeeper and into the net, resulting in a goal.\n<1249> <1250> A man in a black shirt, likely a coach or commentator, reacts with excitement to the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 63,
+      "start_time": "1260.0",
+      "end_time": "1280.0",
+      "content": "<1260> <1262> A player in a red jersey takes a free kick from the corner of the field.\n<1262> <1264> The ball is kicked into the penalty area, where players from both teams jump to head it.\n<1264> <1266> A player in a light green jersey heads the ball towards the goal.\n<1266> <1268> The ball flies over the goal, and the goalkeeper in a red jersey watches it go out of play.\n<1268> <1270> The players in the light green jerseys celebrate the near miss.\n<1270> <1272> A player in a light green jersey with the number 49 on her back walks towards the sideline.\n<1272> <1274> The player in the light green jersey with the number 49 on her back turns and walks back towards the center of the field.\n<1274> <1276> The players are repositioning themselves for the next play.\n<1276> <1278> The players are spread out across the field, preparing for the next phase of the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 64,
+      "start_time": "1280.0",
+      "end_time": "1300.0",
+      "content": "<1280> <1282> A player in an orange jersey dribbles the ball on a green field.\n<1282> <1284> Players in orange and white jerseys are positioned on the field.\n<1284> <1286> A player in an orange jersey is on the ground, surrounded by other players.\n<1286> <1288> Players in orange and white jerseys gather around the player on the ground.\n<1288> <1290> A player in a red jersey with the number 8 is sitting on the ground.\n<1290> <1292> Players in red and white jerseys are standing around the player on the ground.\n<1292> <1294> A player in a green jersey talks to a player in a red jersey.\n<1294> <1296> The player in the green jersey continues to talk to the player in the red jersey.\n<1296> <1298> Players in red and white jerseys are positioned on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 65,
+      "start_time": "1300.0",
+      "end_time": "1320.0",
+      "content": "<1300> <1302> A player in a light green jersey stands near the ball, preparing for a free kick, while the opposing team forms a defensive wall.\n<1302> <1304> The player in the light green jersey, number 28, takes a few steps back, preparing to kick the ball.\n<1304> <1306> The player in the light green jersey, number 28, takes the free kick, sending the ball towards the goal.\n<1306> <1308> The ball is kicked into the air, and the players in the red and black jerseys watch its trajectory.\n<1308> <1310> The ball is seen flying towards the goal, with the goalkeeper in a red jersey preparing to defend.\n<1310> <1312> The ball is in the air, and the players in the red and black jerseys are watching it closely.\n<1312> <1314> The ball is seen flying towards the goal, with the goalkeeper in a red jersey preparing to defend.\n<1314> <1316> The ball is seen flying towards the goal, with the goalkeeper in a red jersey preparing to defend.\n<1316> <1318> The ball is seen flying towards the goal, with the goalkeeper in a red jersey preparing to defend.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 66,
+      "start_time": "1320.0",
+      "end_time": "1340.0",
+      "content": "<1320> <1322> A wide shot of a futsal match in progress, with players on a green court and a scoreboard showing a 1-1 tie.\n<1322> <1324> A close-up shows two female players, one in a red jersey with the number 22 and another in a light green jersey with the number 27, standing on the court.\n<1324> <1326> A man in a black jacket, likely a coach, stands on the sideline, observing the game with a serious expression.\n<1326> <1328> The view returns to a wide shot of the futsal game, with players positioned across the field.\n<1328> <1330> The camera angle shifts slightly, showing the players in motion on the court.\n<1330> <1332> A wide view of the futsal match, with players actively engaged in play.\n<1332> <1334> The scene cuts to a man in a suit, likely a referee or official, standing on the sideline and gesturing with his hand.\n<1334> <1336> Two men in suits are seated at a desk, one of whom is wiping his eye with a tissue.\n<1336> <1338> The two men in suits continue to sit at the desk, with the man on the right now holding a pen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 67,
+      "start_time": "1340.0",
+      "end_time": "1360.0",
+      "content": "<1340> <1342> A player in a red jersey stands on the field, looking towards the camera.\n<1342> <1344> The camera pans out to show a wide view of the soccer field with players in red and white jerseys.\n<1344> <1346> A player in a white jersey dribbles the ball near the center circle.\n<1346> <1348> A player in a red jersey runs towards the player with the ball.\n<1348> <1350> The player in the white jersey continues to dribble the ball, moving forward.\n<1350> <1352> The player in the white jersey passes the ball to a teammate.\n<1352> <1354> The camera shows a wide view of the field as players move into position.\n<1354> <1356> A player in a red jersey takes a shot at the goal.\n<1356> <1358> The ball is kicked towards the goal, and the goalkeeper dives to make a save.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 68,
+      "start_time": "1360.0",
+      "end_time": "1380.0",
+      "content": "<1360> <1362> A soccer match is in progress on a green field with players in red and white uniforms.\n<1362> <1364> A player in a red jersey with the number 8 is shown in a close-up, looking focused.\n<1364> <1366> A player in red dribbles the ball while being closely marked by a defender in white.\n<1366> <1368> The player in red passes the ball to a teammate who is running towards the goal.\n<1368> <1370> The teammate in red takes a shot, and the goalkeeper dives to make a save.\n<1370> <1372> The ball goes into the net, and the players in red celebrate the goal.\n<1372> <1374> Two commentators in suits react with excitement to the goal.\n<1374> <1376> The scoreboard updates to show the score as 2-1.\n<1376> <1378> The players in red continue to celebrate near the goal as the crowd cheers.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 69,
+      "start_time": "1380.0",
+      "end_time": "1400.0",
+      "content": "<1380> <1382> Players in orange jerseys celebrate a goal on the field.\n<1382> <1384> A player in an orange jersey high-fives a teammate.\n<1384> <1386> A man in a black jacket raises his arms in celebration.\n<1386> <1388> The man in the black jacket continues to celebrate with his arms raised.\n<1388> <1390> The man in the black jacket makes a fist pump gesture.\n<1390> <1392> A player in a white jersey prepares to kick the ball.\n<1392> <1394> A player in an orange jersey dribbles the ball while being defended.\n<1394> <1396> A player in an orange jersey takes a shot on goal.\n<1396> <1398> Players from both teams converge near the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 70,
+      "start_time": "1400.0",
+      "end_time": "1420.0",
+      "content": "<1400> <1402> A player in an orange jersey dribbles the ball down the field, pursued by defenders in white.\n<1402> <1404> The player in orange takes a shot on goal, and the ball flies past the diving goalkeeper.\n<1404> <1406> The ball enters the net, and the player in orange celebrates the goal.\n<1406> <1408> The players in white and orange regroup on the field.\n<1408> <1410> The camera angle shifts to a view from behind the goal, showing the players preparing for the next play.\n<1410> <1412> The players are positioned in front of the goal, ready for the next action.\n<1412> <1414> The camera angle changes to a close-up of a player in a white jersey with the number 7.\n<1414> <1416> The player in the white jersey looks towards the camera with a focused expression.\n<1416> <1418> The player in the white jersey continues to look towards the camera, with the crowd visible in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 71,
+      "start_time": "1420.0",
+      "end_time": "1440.0",
+      "content": "<1420> <1422> A female player in a light green jersey with the number 7 stands in front of a net, looking focused.\n<1422> <1424> The player turns her head to the side, her expression serious.\n<1424> <1426> The camera cuts to a man in a black shirt, likely a coach, standing with his hands on his hips.\n<1426> <1428> The man turns his head and begins to speak, gesturing with his hands.\n<1428> <1430> The man continues to speak, his expression animated as he gives instructions.\n<1430> <1432> The scene shifts to two female players in light green jerseys walking on the court.\n<1432> <1434> The players continue walking, with one slightly ahead of the other.\n<1434> <1436> The players walk side-by-side, their backs to the camera.\n<1436> <1438> The players continue walking, their conversation seemingly ongoing.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 72,
+      "start_time": "1440.0",
+      "end_time": "1460.0",
+      "content": "<1440> <1442> A group of people huddle together on a field.\n<1442> <1444> The group continues to huddle, with one person in a black shirt.\n<1444> <1446> The huddle remains tight as they prepare for the game.\n<1446> <1448> The team members are seen in a close circle, showing unity.\n<1448> <1450> The huddle breaks as the team disperses on the field.\n<1450> <1452> The team members start to move apart, preparing for the match.\n<1452> <1454> The players begin to spread out across the field.\n<1454> <1456> The team members are now positioned for the game.\n<1456> <1458> The players are ready, standing in their positions on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 73,
+      "start_time": "1460.0",
+      "end_time": "1480.0",
+      "content": "<1460> <1462> A group of soccer players in orange jerseys huddle together on the field.\n<1462> <1464> The players in red jerseys huddle together, listening to a coach.\n<1464> <1466> The players in red jerseys break from their huddle and begin to move.\n<1466> <1468> An overhead view shows players on a green field with a large logo in the center.\n<1468> <1470> The players are positioned around the center circle of the field.\n<1470> <1472> The players are spread out across the field, preparing for play.\n<1472> <1474> A player in a red jersey raises her hand and claps.\n<1474> <1476> A player in a red jersey with the name \"정예인\" on the back is seen from behind.\n<1476> <1478> A young player in a light green jersey with the number 4 on the back is seen from behind.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 74,
+      "start_time": "1480.0",
+      "end_time": "1500.0",
+      "content": "<1480> <1482> A wide view of a futsal match in progress on a green indoor field, with players in red and white uniforms.\n<1482> <1484> The scoreboard shows the score is 1-2, with the team in red leading.\n<1484> <1486> A player in a white uniform is seen from the side, looking towards the field.\n<1486> <1488> The camera focuses on a group of players near the goal, with a player in a red uniform preparing to take a shot.\n<1488> <1490> The player in red takes the shot, and the ball goes into the net.\n<1490> <1492> The players in white celebrate the goal, with one player raising her arms in triumph.\n<1492> <1494> The camera pans back to a wide view of the field, showing the players resetting for the next play.\n<1494> <1496> The players in white are seen celebrating, with one player putting her hand to her head.\n<1496> <1498> The camera focuses on the players in white, who are celebrating the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 75,
+      "start_time": "1500.0",
+      "end_time": "1520.0",
+      "content": "<1500> <1502> A soccer player in a red jersey controls the ball near the center circle.\n<1502> <1504> The player in red passes the ball to a teammate as defenders approach.\n<1504> <1506> The camera pans out, showing the full indoor soccer field and players in action.\n<1506> <1508> A player in a light green jersey claps her hands, looking focused.\n<1508> <1510> The same player in the green jersey stands with her hands on her hips, observing the game.\n<1510> <1512> The player in green runs forward, her mouth open as if shouting.\n<1512> <1514> A player in red takes a shot on goal, with defenders and the goalkeeper in position.\n<1514> <1516> The ball is contested in the air by players from both teams near the goal.\n<1516> <1518> A player in red dribbles the ball down the field, pursued by defenders.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 76,
+      "start_time": "1520.0",
+      "end_time": "1540.0",
+      "content": "<1520> <1522> A man in a white shirt looks to the side.\n<1522> <1524> Two women in red jerseys celebrate near the goal.\n<1524> <1526> A woman in a green jersey points while standing on the field.\n<1526> <1528> A wide shot shows players on a green field during a game.\n<1528> <1530> The camera focuses on a woman in a green jersey gesturing.\n<1530> <1532> Two women, one in green and one in red, are in close proximity.\n<1532> <1534> A man in a black shirt gestures with his arm.\n<1534> <1536> A woman in a green jersey with the number 7 stands on the field.\n<1536> <1538> A woman in a red jersey stands near the goal, looking towards the crowd.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 77,
+      "start_time": "1540.0",
+      "end_time": "1560.0",
+      "content": "<1540> <1542> A soccer player in a light green jersey stands on the field.\n<1542> <1544> A player in a red jersey takes a shot on goal.\n<1544> <1546> The ball is kicked towards the goal, with the goalkeeper diving to make a save.\n<1546> <1548> The goalkeeper successfully blocks the shot, and the ball goes out of play.\n<1548> <1550> A player in a light green jersey looks up, appearing disappointed.\n<1550> <1552> Two men in suits are sitting at a desk, smiling and talking.\n<1552> <1554> The man on the right waves his hand.\n<1554> <1556> The man on the left turns to look at the man on the right.\n<1556> <1558> The scene cuts back to the soccer field, where players are standing and preparing for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 78,
+      "start_time": "1560.0",
+      "end_time": "1580.0",
+      "content": "<1560> <1562> Players in red and green jerseys stand on a field.\n<1562> <1564> A player in a green jersey with the number 7 is seen from behind.\n<1564> <1566> A man in a black shirt gestures with his arm.\n<1566> <1568> The man in the black shirt continues to gesture.\n<1568> <1570> A player in a red jersey with the number 25 is near the goal.\n<1570> <1572> The man in the black shirt stands with his arms crossed.\n<1572> <1574> The man in the black shirt claps his hands.\n<1574> <1576> The man in the black shirt gestures with his hands.\n<1576> <1578> A player in a red jersey holds a ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 79,
+      "start_time": "1580.0",
+      "end_time": "1600.0",
+      "content": "<1580> <1582> Two female soccer players in red jerseys stand on the field, one with her back to the camera and the other looking forward.\n<1582> <1584> A wide shot shows a soccer match in progress on a green field with players in red and white jerseys.\n<1584> <1586> The camera pans across the field, showing players in red and white moving into position.\n<1586> <1588> A player in an orange jersey jumps to head the ball, while a player in a light green jersey defends.\n<1588> <1590> The player in the orange jersey lands after the jump, and the referee in a light green shirt observes the play.\n<1590> <1592> A man in a black shirt claps his hands, standing on the sidelines.\n<1592> <1594> The man continues to clap, looking towards the field.\n<1594> <1596> The view returns to a wide shot of the soccer game, with players positioned across the field.\n<1596> <1598> The game continues with players in red and white moving the ball across the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 80,
+      "start_time": "1600.0",
+      "end_time": "1620.0",
+      "content": "<1600> <1602> A female soccer player in a red jersey with the number 8 is shown on the field.\n<1602> <1604> The camera zooms out to show a wide view of the indoor soccer game in progress.\n<1604> <1606> Players in red and white jerseys are actively moving the ball across the green turf.\n<1606> <1608> The camera follows the play as a player in red advances towards the opponent's goal.\n<1608> <1610> The player in red takes a shot, and the ball goes into the net.\n<1610> <1612> The goalkeeper in a white jersey dives but fails to stop the ball.\n<1612> <1614> The player who scored the goal celebrates by raising her arms.\n<1614> <1616> Another player in a red jersey with the number 00 joins the celebration.\n<1616> <1618> The two players high-five each other in celebration.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 81,
+      "start_time": "1620.0",
+      "end_time": "1640.0",
+      "content": "<1620> <1622> A man in a white shirt claps his hands.\n<1622> <1624> A woman in a green jersey stands in front of a goal.\n<1624> <1626> A man in a black shirt claps his hands.\n<1626> <1628> A wide view of a futsal game in progress.\n<1628> <1630> A player in a red jersey stands on the field.\n<1630> <1632> A woman in a red jersey talks to a woman in a green jersey.\n<1632> <1634> A woman in a red jersey looks at the camera.\n<1634> <1636> A wide view of a futsal game in progress.\n<1636> <1638> A player in a red jersey runs towards the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 82,
+      "start_time": "1640.0",
+      "end_time": "1660.0",
+      "content": "<1640> <1642> A female soccer player in a green jersey with the number 24 is seen near the goal.\n<1642> <1644> The player in the green jersey, number 24, is shown in a close-up, looking focused.\n<1644> <1646> A player in a red jersey, number 10, is seen celebrating with her arms raised.\n<1646> <1648> The player in the red jersey, number 10, continues to celebrate with her teammates.\n<1648> <1650> The camera shows a wide view of the indoor soccer field with players in red and green jerseys.\n<1650> <1652> The players are positioned for a free kick, with the red team preparing to take it.\n<1652> <1654> The player in the red jersey takes the free kick, and the ball is kicked towards the goal.\n<1654> <1656> The ball is in the air, heading towards the goal, with players from both teams watching.\n<1656> <1658> The ball is seen going into the net, and the players in red celebrate the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 83,
+      "start_time": "1660.0",
+      "end_time": "1680.0",
+      "content": "<1660> <1662> A player in a red jersey stands near the ball on a green field.\n<1662> <1664> A player in a green jersey runs towards the ball while a player in a red jersey stands nearby.\n<1664> <1666> A player in a green jersey runs with the ball as a player in a red jersey follows.\n<1666> <1668> A player in a green jersey runs with the ball while a player in a red jersey runs behind.\n<1668> <1670> A player in a red jersey runs with the ball as a player in a green jersey runs behind.\n<1670> <1672> A player in a red jersey runs with the ball as a player in a green jersey runs behind.\n<1672> <1674> A player in a red jersey runs with the ball as a player in a green jersey runs behind.\n<1674> <1676> A player in a red jersey runs with the ball as a player in a green jersey runs behind.\n<1676> <1678> A player in a red jersey runs with the ball as a player in a green jersey runs behind.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 84,
+      "start_time": "1680.0",
+      "end_time": "1700.0",
+      "content": "<1680> <1682> A player in a light green jersey takes a free kick.\n<1682> <1684> The ball is kicked and flies towards the goal.\n<1684> <1686> The ball enters the net, and the player celebrates.\n<1686> <1688> The player in the light green jersey raises her arms in celebration.\n<1688> <1690> She is embraced by a teammate.\n<1690> <1692> The teammates continue to hug and celebrate together.\n<1692> <1694> The players gather in a group hug.\n<1694> <1696> The team huddles together, celebrating the goal.\n<1696> <1698> The players are seen celebrating with their coach.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 85,
+      "start_time": "1700.0",
+      "end_time": "1720.0",
+      "content": "<1700> <1702> A player in a red jersey takes a shot at the goal, and the ball flies through the air.\n<1702> <1704> The goalkeeper in a red jersey stands in front of the goal, ready to defend.\n<1704> <1706> A close-up of a circular logo with the text \"널 던져\" and the Adidas logo.\n<1706> <1708> The scoreboard shows a 2-2 tie, with players in red jerseys celebrating.\n<1708> <1710> The goalkeeper, wearing a red jersey with the number 250, looks focused and ready.\n<1710> <1712> The goalkeeper, with the number 250 on her jersey, is seen talking to her teammates.\n<1712> <1714> The goalkeeper, with the number 250 on her jersey, is seen talking to her teammates.\n<1714> <1716> The goalkeeper, with the number 250 on her jersey, is seen talking to her teammates.\n<1716> <1718> The goalkeeper, with the number 250 on her jersey, is seen talking to her teammates.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 86,
+      "start_time": "1720.0",
+      "end_time": "1740.0",
+      "content": "<1720> <1722> A player in a red jersey with the number 8 stands near the goal, smiling.\n<1722> <1724> The player in the red jersey gestures with her hand while standing in front of the goal.\n<1724> <1726> A player in a red jersey prepares to take a penalty kick.\n<1726> <1728> The player in the red jersey takes the penalty kick.\n<1728> <1730> The ball is kicked towards the goal.\n<1730> <1732> The ball goes into the net, and the players in red celebrate.\n<1732> <1734> The camera shows a wide view of the indoor soccer field with the score displayed as 2-2.\n<1734> <1736> The players are positioned for the restart of play.\n<1736> <1738> The players are spread out across the field, preparing for the next phase of the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 87,
+      "start_time": "1740.0",
+      "end_time": "1760.0",
+      "content": "<1740> <1742> A soccer player in a red jersey controls the ball near the center circle.\n<1742> <1744> The player in red passes the ball to a teammate.\n<1744> <1746> A player in a light green jersey receives the pass and dribbles forward.\n<1746> <1748> The player in green is challenged by a defender in red.\n<1748> <1750> The player in green passes the ball to a teammate.\n<1750> <1752> A player in a light green jersey takes a shot on goal.\n<1752> <1754> The ball is passed back to the center of the field.\n<1754> <1756> A player in a red jersey attempts to intercept the ball.\n<1756> <1758> The player in green controls the ball and prepares to make a play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 88,
+      "start_time": "1760.0",
+      "end_time": "1780.0",
+      "content": "<1760> <1762> A soccer game is in progress on a green field with players in red and white uniforms.\n<1762> <1764> A player in a red jersey with the number 23 runs on the field.\n<1764> <1766> A player in a light green jersey with the number 7 runs on the field.\n<1766> <1768> The camera shows a wide view of the soccer field with players positioned for play.\n<1768> <1770> Players in red and white jerseys are spread across the field, with the ball near the center.\n<1770> <1772> The camera angle shifts to a close-up view near the goal, showing players in action.\n<1772> <1774> A player in a light green jersey with the number 10 is seen from behind.\n<1774> <1776> A player in a red jersey with the number 23 adjusts her hair.\n<1776> <1778> A player in a red jersey with the number 8 stands with her hands on her head.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 89,
+      "start_time": "1780.0",
+      "end_time": "1800.0",
+      "content": "<1780> <1782> A player in a red jersey with the number 23 is seen from behind, standing on a field.\n<1782> <1784> A player in a light green jersey with the number 21 wipes her eyes, appearing emotional.\n<1784> <1786> The player in the light green jersey claps her hands and looks towards the field.\n<1786> <1788> A man in a black shirt, likely a coach, gestures with his hands while speaking.\n<1788> <1790> An aerial view shows a futsal match in progress on a green indoor court with players in red and light green jerseys.\n<1790> <1792> The camera angle shifts slightly, showing the players continuing the game.\n<1792> <1794> A player in a light green jersey stands near the goal, looking towards the field.\n<1794> <1796> The player in the light green jersey interacts with her teammates near the goal.\n<1796> <1798> A view from behind the goal shows players in red and light green jerseys on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 90,
+      "start_time": "1800.0",
+      "end_time": "1820.0",
+      "content": "<1800> <1802> A player in a green jersey stands near the goal as the ball is kicked towards the net.\n<1802> <1804> A player in a red jersey runs towards the ball on the field.\n<1804> <1806> A player in a red jersey dribbles the ball while being defended by a player in a green jersey.\n<1806> <1808> A player in a red jersey passes the ball to a teammate.\n<1808> <1810> A player in a red jersey takes a shot at the goal.\n<1810> <1812> The ball is kicked towards the goal, and the goalkeeper dives to make a save.\n<1812> <1814> The ball goes into the net, and the players celebrate.\n<1814> <1816> A player in a green jersey celebrates with her teammates.\n<1816> <1818> A man in a white shirt watches the game from the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 91,
+      "start_time": "1820.0",
+      "end_time": "1840.0",
+      "content": "<1820> <1822> A man in a white shirt stands on a sports court.\n<1822> <1824> A woman in a red jersey with the number 1 stands on the court.\n<1824> <1826> A wide shot shows a soccer game in progress on a green field.\n<1826> <1828> Players in red and green jerseys are positioned on the field.\n<1828> <1830> A woman in a red jersey runs on the field.\n<1830> <1832> A player in a green jersey dribbles the ball while being defended.\n<1832> <1834> The player in green continues to dribble the ball.\n<1834> <1836> The player in green passes the ball to a teammate.\n<1836> <1838> A player in a green jersey controls the ball near the sideline.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 92,
+      "start_time": "1840.0",
+      "end_time": "1860.0",
+      "content": "<1840> <1842> A player in a red jersey raises her hand.\n<1842> <1844> A player in a light green jersey controls the ball.\n<1844> <1846> A player in a red jersey stands with her hand raised.\n<1846> <1848> A man in a black shirt watches the game.\n<1848> <1850> A player in a light green jersey runs on the field.\n<1850> <1852> A player in a red jersey takes a shot at the goal.\n<1852> <1854> A player in a red jersey takes a shot at the goal.\n<1854> <1856> A player in a red jersey takes a shot at the goal.\n<1856> <1858> A player in a red jersey takes a shot at the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 93,
+      "start_time": "1860.0",
+      "end_time": "1880.0",
+      "content": "<1860> <1862> A player in an orange jersey controls the ball on a green field.\n<1862> <1864> The player in orange is challenged by a defender in a white jersey.\n<1864> <1866> The player in orange walks away from the play.\n<1866> <1868> A coach in a black shirt instructs players on the court.\n<1868> <1870> The coach continues to give instructions to a player in a green jersey.\n<1870> <1872> A wide shot shows players in orange and white jerseys on the field.\n<1872> <1874> The players are positioned for a play near the goal.\n<1874> <1876> The game continues with players moving across the field.\n<1876> <1878> Two commentators in suits sit at a desk, discussing the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 94,
+      "start_time": "1880.0",
+      "end_time": "1900.0",
+      "content": "<1880> <1882> Two men in suits sit at a desk, one gesturing with his hand.\n<1882> <1884> The scene shifts to an indoor soccer game with players in orange and white uniforms.\n<1884> <1886> The camera shows a wide view of the field as players move into position.\n<1886> <1888> A player in an orange jersey controls the ball near the center of the field.\n<1888> <1890> The player in orange passes the ball to a teammate.\n<1890> <1892> The ball is passed again, moving towards the goal area.\n<1892> <1894> A player in an orange jersey takes a shot at the goal.\n<1894> <1896> The ball is kicked towards the goal, with the goalkeeper preparing to defend.\n<1896> <1898> The ball is seen in the air, heading towards the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1920.0",
+      "content": "<1900> <1902> A soccer game is in progress with the score tied at 2-2.\n<1902> <1904> A player in a light green jersey looks on from the field.\n<1904> <1906> A man in a black shirt stands with his hands behind his head.\n<1906> <1908> The man in the black shirt lowers his hands and speaks.\n<1908> <1910> A man in a white shirt stands and speaks.\n<1910> <1912> The man in the white shirt continues to speak.\n<1912> <1914> The game continues with players positioned on the field.\n<1914> <1916> Players in red and green jerseys are near the center circle.\n<1916> <1918> The players are gathered near the center circle, preparing for play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 96,
+      "start_time": "1920.0",
+      "end_time": "1940.0",
+      "content": "<1920> <1922> A player in a red jersey controls the ball near the center circle while being defended by a player in a white jersey.\n<1922> <1924> The player in red passes the ball to a teammate as the defender closes in.\n<1924> <1926> The camera pans out to show a wider view of the field, with players from both teams positioned for play.\n<1926> <1928> A close-up shows two players in red jerseys, one with the number 8, celebrating or communicating on the field.\n<1928> <1930> A player in a white jersey walks across the field, with the scoreboard showing a 2-2 tie.\n<1930> <1932> A player in a red jersey dribbles the ball while being closely marked by a player in a white jersey.\n<1932> <1934> The player in red attempts to pass the ball as the defender tries to intercept.\n<1934> <1936> The ball is kicked towards the goal, and the goalkeeper in a white jersey dives to make a save.\n<1936> <1938> The ball is seen rolling away from the goal area after the save.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 97,
+      "start_time": "1940.0",
+      "end_time": "1960.0",
+      "content": "<1940> <1942> A player in a red jersey takes a shot on goal, and the ball goes into the net.\n<1942> <1944> The player in red celebrates the goal with her arms raised.\n<1944> <1946> The player in red walks away from the goal, while the goalkeeper in a white jersey remains on the ground.\n<1946> <1948> The player in red walks towards her teammates, and the players in green jerseys look on.\n<1948> <1950> The players in green jerseys stand near the goal, with one player looking towards the camera.\n<1950> <1952> The camera shows a wide view of the indoor soccer field, with players in red and green jerseys positioned across the field.\n<1952> <1954> The players in red and green jerseys move around the field, with the ball being passed between them.\n<1954> <1956> A player in a red jersey dribbles the ball down the field, while a player in a green jersey runs towards her.\n<1956> <1958> The player in red continues to dribble the ball, with the player in green following closely behind.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 98,
+      "start_time": "1960.0",
+      "end_time": "1980.0",
+      "content": "<1960> <1962> A player in a red jersey kicks the ball towards the goal.\n<1962> <1964> A player in a light green jersey heads the ball.\n<1964> <1966> A player in a red jersey controls the ball near the center circle.\n<1966> <1968> A player in a light green jersey runs with the ball.\n<1968> <1970> A player in a light green jersey takes a shot on goal.\n<1970> <1972> The goalkeeper dives to make a save.\n<1972> <1974> The ball goes into the net.\n<1974> <1976> The players celebrate the goal.\n<1976> <1978> The players resume play in the midfield.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 99,
+      "start_time": "1980.0",
+      "end_time": "2000.0",
+      "content": "<1980> <1982> A soccer match is in progress on a green field with players in red and white uniforms.\n<1982> <1984> The camera focuses on a group of players near the goal, with one player in an orange jersey preparing to take a shot.\n<1984> <1986> The scene shifts to a close-up of a circular screen displaying the text \"YOU GOT THIS\" with the Adidas logo.\n<1986> <1988> The screen changes to display the text \"널 믿어\" with the Adidas logo.\n<1988> <1990> A player in a white jersey with the number 10 is shown from the side, looking towards the field.\n<1990> <1992> The camera returns to a wide view of the soccer field, showing players in red and white uniforms.\n<1992> <1994> A player in a white jersey with the number 18 is seen running with the ball.\n<1994> <1996> The player in the white jersey is challenged by a player in a red jersey.\n<1996> <1998> The camera pulls back to a wide view of the field, showing the ongoing match.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 100,
+      "start_time": "2000.0",
+      "end_time": "2020.0",
+      "content": "<2000> <2002> A wide view of a futsal match shows players on the field with a scoreboard indicating a 2-2 tie.\n<2002> <2004> The camera pans slightly, showing more of the stadium and the players in red and green jerseys.\n<2004> <2006> A close-up shows a player in a green jersey with the number 7, standing near a coach.\n<2006> <2008> A player in a red jersey with the number 1 is in the foreground, with another player behind her.\n<2008> <2010> A man in a black shirt, likely a coach, gestures with his arm while speaking.\n<2010> <2012> The coach continues to speak, looking towards the field.\n<2012> <2014> The view returns to the futsal match, showing players in red and green moving across the field.\n<2014> <2016> The players continue to move, with a player in red near the center circle.\n<2016> <2018> A player in a red jersey is seen near the goal area, with other players around.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 101,
+      "start_time": "2020.0",
+      "end_time": "2040.0",
+      "content": "<2020> <2022> A player in a green jersey controls the ball while being defended by two players in red jerseys.\n<2022> <2024> The camera zooms out to show a wide view of the indoor soccer field with players positioned across the field.\n<2024> <2026> The players continue to move around the field, with the ball being passed among them.\n<2026> <2028> A player in a green jersey takes a shot at the goal.\n<2028> <2030> The ball goes into the net, and the players celebrate the goal.\n<2030> <2032> A player in a green jersey with the number 70 on her back is seen clapping her hands.\n<2032> <2034> A player in a green jersey with the number 20 on her back is seen clapping her hands.\n<2034> <2036> A player in a green jersey with the number 1 on her back is seen pointing and clapping her hands.\n<2036> <2038> A player in a green jersey with the number 1 on her back is seen clapping her hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 102,
+      "start_time": "2040.0",
+      "end_time": "2060.0",
+      "content": "<2040> <2042> A soccer player in a red jersey runs with the ball while being chased by a player in a green jersey.\n<2042> <2044> A player in a red jersey passes the ball to a teammate while a player in a green jersey attempts to intercept.\n<2044> <2046> A player in a green jersey controls the ball while being closely marked by a player in a red jersey.\n<2046> <2048> A player in a green jersey dribbles the ball while being pursued by a player in a red jersey.\n<2048> <2050> A player in a green jersey attempts to pass the ball while being challenged by a player in a red jersey.\n<2050> <2052> A player in a green jersey falls to the ground after a challenge from a player in a red jersey.\n<2052> <2054> A player in a green jersey lies on the ground after a fall, while a player in a red jersey stands nearby.\n<2054> <2056> A player in a green jersey remains on the ground, receiving attention from a player in a red jersey.\n<2056> <2058> A player in a green jersey is attended to by a player in a red jersey and a referee, while lying on the ground.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 103,
+      "start_time": "2060.0",
+      "end_time": "2080.0",
+      "content": "<2060> <2062> A female soccer player in a red jersey stands on the field.\n<2062> <2064> The player looks up and to the side, appearing concerned.\n<2064> <2066> The player is now on the ground, lying on her back.\n<2066> <2068> A player in a white jersey with the number 27 stands over her.\n<2068> <2070> The player in red is still on the ground, holding her head.\n<2070> <2072> A group of players and staff gather around the injured player.\n<2072> <2074> The players are standing and talking, with the injured player still on the ground.\n<2074> <2076> The injured player is now sitting up, surrounded by teammates.\n<2076> <2078> The player in red stands up, holding her glove to her face.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 104,
+      "start_time": "2080.0",
+      "end_time": "2100.0",
+      "content": "<2080> <2082> A female soccer player in a red jersey stands on the field, looking focused.\n<2082> <2084> The camera pans out to show a wide view of the indoor soccer field with players in red and white jerseys.\n<2084> <2086> Players are positioned across the field, with the scoreboard showing a 2-2 tie.\n<2086> <2088> The players in red are on the offensive, moving towards the goal.\n<2088> <2090> The camera focuses on a player in a red jersey with the number 1, who appears to be communicating with teammates.\n<2090> <2092> A man in a black shirt, likely a coach, is seen on the sideline, gesturing with his hands.\n<2092> <2094> The coach raises both hands, possibly giving instructions or signaling to the players.\n<2094> <2096> The view returns to the field, showing players in red and white moving into position.\n<2096> <2098> A player in a red jersey with the number 8 is seen on the field, looking towards the action.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 105,
+      "start_time": "2100.0",
+      "end_time": "2120.0",
+      "content": "<2100> <2102> A player in a red jersey stands on the field.\n<2102> <2104> A wide view shows players in red and white jerseys on a green field.\n<2104> <2106> A player in a red jersey dribbles the ball.\n<2106> <2108> The ball is kicked towards the goal.\n<2108> <2110> A player in a white jersey attempts to block the shot.\n<2110> <2112> A player in a red jersey runs with the ball.\n<2112> <2114> A player in a white jersey tackles the player in red.\n<2114> <2116> The player in red falls to the ground.\n<2116> <2118> The player in red lies on the ground as the player in white stands over her.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 106,
+      "start_time": "2120.0",
+      "end_time": "2140.0",
+      "content": "<2120> <2122> A player in a red jersey sits on the field, appearing injured, while a teammate in a green jersey kneels beside her.\n<2122> <2124> The players get up and walk away from the scene.\n<2124> <2126> A wide shot shows the indoor soccer field with players in red and green jerseys positioned for play.\n<2126> <2128> A close-up shows a player in a green jersey with the number 7, looking focused, as a player in red approaches.\n<2128> <2130> The player in red is seen interacting closely with the player in green, possibly in a competitive moment.\n<2130> <2132> A player in a red jersey stands near the sideline, adjusting her jersey, with a camera and other people in the background.\n<2132> <2134> The scene shifts to a goal attempt, with players in red and green near the goal, and a player in green attempting to block.\n<2134> <2136> The players in green celebrate a goal, with one player raising her arms in triumph.\n<2136> <2138> Players from both teams are seen near the goal, with a player in red heading the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 107,
+      "start_time": "2140.0",
+      "end_time": "2160.0",
+      "content": "<2140> <2142> A wide view of a futsal match on a green field with players in red and white uniforms, the scoreboard showing 2-2.\n<2142> <2144> The camera zooms out, showing the full indoor arena with spectators and banners.\n<2144> <2146> The camera continues to zoom out, providing a broader view of the stadium and the ongoing game.\n<2146> <2148> A close-up of a female player in a light green jersey with the number 7, clapping her hands.\n<2148> <2150> The same player looks up and to the side, appearing focused on the game.\n<2150> <2152> A close-up of a male coach in a white shirt, gesturing with his hand as he speaks.\n<2152> <2154> The view returns to the wide shot of the futsal match, with players positioned across the field.\n<2154> <2156> The camera remains on the wide view, showing the players in motion and the game in progress.\n<2156> <2158> A close-up of a player in a red uniform dribbling the ball near the center circle.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 108,
+      "start_time": "2160.0",
+      "end_time": "2180.0",
+      "content": "<2160> <2162> A female soccer player in a red jersey with the number 7 is shown in a close-up, looking focused during a game.\n<2162> <2164> The view shifts to a wide shot of the indoor soccer field, showing players in red and white jerseys spread across the green turf.\n<2164> <2166> The camera maintains a wide view, capturing the ongoing match with players actively moving and positioning themselves on the field.\n<2166> <2168> A player in a red jersey is seen running with the ball, pursued by a player in a white jersey, as the game continues.\n<2168> <2170> The scene cuts to a close-up of a goalkeeper in a light green jersey with the number 24, who is preparing to catch the ball.\n<2170> <2172> The goalkeeper successfully catches the ball, holding it securely in front of the goal.\n<2172> <2174> The goalkeeper, still holding the ball, turns and looks towards her teammates, with the scoreboard showing a 2-2 tie.\n<2174> <2176> A man in a white t-shirt, likely a commentator or coach, is shown speaking, with the game's score visible in the background.\n<2176> <2178> The video ends with a close-up of the female player in the red jersey, smiling as she walks on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 109,
+      "start_time": "2180.0",
+      "end_time": "2200.0",
+      "content": "<2180> <2182> A soccer player in a red jersey runs with the ball.\n<2182> <2184> A coach in a black shirt raises his arms and shouts.\n<2184> <2186> Players in red and white jerseys stand in front of the goal.\n<2186> <2188> A player in a red jersey takes a free kick.\n<2188> <2190> The ball is kicked towards the goal.\n<2190> <2192> A player in a red jersey runs with the ball.\n<2192> <2194> A player in a red jersey is tackled by a player in a white jersey.\n<2194> <2196> The ball is passed to a player in a white jersey.\n<2196> <2198> A player in a white jersey takes a shot at the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 110,
+      "start_time": "2200.0",
+      "end_time": "2220.0",
+      "content": "<2200> <2202> A player in a red jersey takes a shot on goal, and the ball goes into the net.\n<2202> <2204> The score is tied at 2-2 as players from both teams react to the goal.\n<2204> <2206> A player in a red jersey celebrates the goal by raising her hand.\n<2206> <2208> The goalkeeper in a green jersey stands in front of the net, holding the ball.\n<2208> <2210> The goalkeeper looks towards the sideline, preparing to resume play.\n<2210> <2212> A coach on the sideline gestures with his hands, giving instructions.\n<2212> <2214> The coach continues to give instructions, looking focused.\n<2214> <2216> A player in a white jersey walks on the field, looking towards the sideline.\n<2216> <2218> A player in a red jersey stands on the field, partially out of focus.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 111,
+      "start_time": "2220.0",
+      "end_time": "2240.0",
+      "content": "<2220> <2222> A player in a red jersey with the number 8 is seen celebrating with a teammate.\n<2222> <2224> A player in a green jersey walks across the field.\n<2224> <2226> A player in a green jersey kicks the ball towards the goal.\n<2226> <2228> A player in a green jersey runs towards the ball as players in red jerseys defend.\n<2228> <2230> A player in a green jersey with the number 28 on the back kicks the ball.\n<2230> <2232> A man in a white shirt and a woman in a red jersey are seen talking.\n<2232> <2234> A man in a black shirt is seen gesturing with his arm.\n<2234> <2236> A player in a red jersey with the number 8 is seen pointing.\n<2236> <2238> A player in a green jersey is seen bending over.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 112,
+      "start_time": "2240.0",
+      "end_time": "2260.0",
+      "content": "<2240> <2242> A player in a green jersey prepares to kick the ball from the center of the field.\n<2242> <2244> The player in green kicks the ball, and it moves forward.\n<2244> <2246> The ball is now in the air, heading towards the goal area.\n<2246> <2248> A player in a red jersey runs towards the ball, attempting to intercept it.\n<2248> <2250> The player in red successfully gains control of the ball and prepares to pass.\n<2250> <2252> The player in red passes the ball to a teammate near the goal.\n<2252> <2254> A player in a green jersey runs towards the goal, attempting to block the shot.\n<2254> <2256> The player in red takes a shot at the goal, and the ball flies towards the net.\n<2256> <2258> The ball goes into the net, and the players celebrate the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 113,
+      "start_time": "2260.0",
+      "end_time": "2280.0",
+      "content": "<2260> <2262> A player in a red jersey celebrates a goal with arms outstretched.\n<2262> <2264> The player in the red jersey, number 1, turns and gestures with her hand.\n<2264> <2266> The player in the red jersey, number 1, continues to celebrate, smiling and waving.\n<2266> <2268> The player in the red jersey, number 1, is embraced by a teammate.\n<2268> <2270> The player in the red jersey, number 1, is hugged by her teammates.\n<2270> <2272> The players in red jerseys continue to celebrate together.\n<2272> <2274> A player in a red jersey, number 1, looks up and shouts in celebration.\n<2274> <2276> The camera shows a wide view of the indoor soccer field with players in red and orange jerseys.\n<2276> <2278> Players in red and orange jerseys are positioned near the center circle of the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 114,
+      "start_time": "2280.0",
+      "end_time": "2300.0",
+      "content": "<2280> <2282> A soccer match is in progress with the score 2-3.\n<2282> <2284> Two commentators in suits are discussing the game.\n<2284> <2286> The camera shows a wide view of the indoor soccer field.\n<2286> <2288> Players are positioned across the field, preparing for play.\n<2288> <2290> A player in a red jersey advances with the ball.\n<2290> <2292> The player in red takes a shot at the goal.\n<2292> <2294> The goalkeeper dives to make a save.\n<2294> <2296> The ball goes into the net, and the player celebrates.\n<2296> <2298> The player in red raises his arm in celebration.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 115,
+      "start_time": "2300.0",
+      "end_time": "2320.0",
+      "content": "<2300> <2302> A woman in a red jersey with the number 1 and the name \"박하나\" on the back stands with her back to the camera.\n<2302> <2304> The woman turns to face the camera, revealing her face as she speaks.\n<2304> <2306> The woman in the red jersey turns and speaks to another player in a red jersey.\n<2306> <2308> The woman in the red jersey smiles and claps her hands.\n<2308> <2310> The woman in the red jersey continues to smile and look towards the camera.\n<2310> <2312> A woman in a light green jersey with the number 7 and \"FC\" on the front stands in front of a net, looking up and shouting.\n<2312> <2314> The woman in the light green jersey stands with her hands on her hips, looking forward.\n<2314> <2316> The woman in the light green jersey raises her hand to her mouth and then lowers it.\n<2316> <2318> The woman in the light green jersey stands with her hand on her hip, looking towards the left.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 116,
+      "start_time": "2320.0",
+      "end_time": "2340.0",
+      "content": "<2320> <2322> A female soccer player in a light green jersey with the number 27 stands on the field.\n<2322> <2324> A male coach in a black shirt gestures with his arm while speaking to the players.\n<2324> <2326> The players, in light green jerseys, gather in a huddle on the field near the goal.\n<2326> <2328> The players continue to huddle, listening to the coach.\n<2328> <2330> The players, including one with the number 7, listen intently to the coach.\n<2330> <2332> The coach places his hands on the shoulders of the players as he gives instructions.\n<2332> <2334> The players link arms and huddle closely together.\n<2334> <2336> The players embrace in a tight group hug.\n<2336> <2338> The players continue to celebrate in a huddle, with one player raising her hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 117,
+      "start_time": "2340.0",
+      "end_time": "2360.0",
+      "content": "<2340> <2342> The video shows a soccer match in an indoor stadium with a score of 2-3.\n<2342> <2344> Players are positioned on the field, with one team in red and the other in light green.\n<2344> <2346> The camera focuses on the center circle where players are preparing for a kickoff.\n<2346> <2348> A player in a light green jersey is seen adjusting their hair.\n<2348> <2350> The camera shifts to show a player in a red jersey standing near the goal.\n<2350> <2352> A player in a light green jersey with the number 10 on the back is shown from behind.\n<2352> <2354> The player in the light green jersey continues to adjust their hair.\n<2354> <2356> The camera returns to a wide view of the field, showing players in formation.\n<2356> <2358> The players are spread out across the field, preparing for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 118,
+      "start_time": "2360.0",
+      "end_time": "2380.0",
+      "content": "<2360> <2362> A player in a red jersey stands near the center circle, preparing to take a kick.\n<2362> <2364> The player in red kicks the ball, and the camera follows the ball as it moves forward.\n<2364> <2366> The ball is now in the air, and players from both teams are moving to position themselves.\n<2366> <2368> The camera angle shifts to show a wider view of the field, with players in red and white jerseys spread out.\n<2368> <2370> The ball is now near the goal area, and players are actively trying to gain control.\n<2370> <2372> The camera angle changes again, showing a broader view of the field and the players' positions.\n<2372> <2374> The ball is now in the midfield, and players are moving to intercept or pass it.\n<2374> <2376> The camera focuses on a player in a red jersey who is preparing to take a free kick.\n<2376> <2378> The player in red takes the free kick, and the ball is seen moving towards the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 119,
+      "start_time": "2380.0",
+      "end_time": "2400.0",
+      "content": "<2380> <2382> A player in a red jersey controls the ball near the sideline as a player in a green jersey defends.\n<2382> <2384> A player in a green jersey with the number 27 on her back walks towards the sideline, looking up.\n<2384> <2386> The player in the green jersey claps her hands while standing in front of a row of trophies.\n<2386> <2388> The player in the green jersey stands next to a referee, with a red banner behind them.\n<2388> <2390> A close-up shot shows a player in a red jersey.\n<2390> <2392> A player in a red jersey prepares to take a free kick, with players from both teams positioned around the ball.\n<2392> <2394> The player in the red jersey takes the free kick, sending the ball into the field.\n<2394> <2396> A wide shot shows the players on the field, with the ball in play near the center circle.\n<2396> <2398> The players continue to move around the field, with the ball being passed between them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 120,
+      "start_time": "2400.0",
+      "end_time": "2420.0",
+      "content": "<2400> <2402> A soccer game is in progress on a green field with players in red and white uniforms.\n<2402> <2404> A player in a red uniform takes a shot at the goal, and the ball goes into the net.\n<2404> <2406> The player in red celebrates the goal by running towards the corner of the field.\n<2406> <2408> The player in red kneels on the field and raises her arms in celebration.\n<2408> <2410> The player in red is joined by a teammate, and they hug each other in celebration.\n<2410> <2412> A man in a white shirt, likely a coach, watches the game with a serious expression.\n<2412> <2414> The man in the white shirt turns his head to the side, still observing the game.\n<2414> <2416> A player in a red uniform with the number 8 on her jersey stands on the field with her hands on her hips.\n<2416> <2418> The player in red continues to stand on the field, looking towards the crowd.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 121,
+      "start_time": "2420.0",
+      "end_time": "2440.0",
+      "content": "<2420> <2422> A woman in a green jersey claps her hands while standing near a net.\n<2422> <2424> A man in a black shirt gestures with his right hand while speaking.\n<2424> <2426> Two women in green jerseys embrace each other near the net.\n<2426> <2428> A woman in a green jersey with the number 7 on her back stands on the field.\n<2428> <2430> The man in the black shirt wipes his face with his hand.\n<2430> <2432> The man in the black shirt stands with his arms crossed, watching the game.\n<2432> <2434> A wide shot shows a soccer field with players in red and white jerseys.\n<2434> <2436> The players are positioned on the field, with one player in the center preparing to kick the ball.\n<2436> <2438> The players remain in their positions, ready for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 122,
+      "start_time": "2440.0",
+      "end_time": "2460.0",
+      "content": "<2440> <2442> A soccer player in a light green jersey dribbles the ball near the center circle while being pursued by a player in a red jersey.\n<2442> <2444> The player in the light green jersey passes the ball to a teammate as the player in the red jersey attempts to intercept.\n<2444> <2446> The player in the light green jersey takes a shot at the goal, but the ball is blocked by the goalkeeper.\n<2446> <2448> The ball is cleared by the defense, and the players reset their positions on the field.\n<2448> <2450> The player in the light green jersey regains possession and advances the ball up the field.\n<2450> <2452> The player in the light green jersey passes the ball to a teammate near the goal.\n<2452> <2454> The teammate takes a shot at the goal, but the ball is saved by the goalkeeper.\n<2454> <2456> The ball is cleared by the defense, and the players reset their positions on the field.\n<2456> <2458> The player in the light green jersey takes a shot at the goal, but the ball is saved by the goalkeeper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 123,
+      "start_time": "2460.0",
+      "end_time": "2480.0",
+      "content": "<2460> <2462> A player in a red jersey takes a shot on goal, and the ball goes into the net as the goalkeeper in green dives to the right.\n<2462> <2464> The camera shows a wide view of the indoor soccer field, with players in red and white jerseys positioned for play.\n<2464> <2466> A player in a light green jersey with the number 27 is shown celebrating with her mouth open, while a man in a black shirt stands behind her.\n<2466> <2468> The player in the light green jersey continues to celebrate, raising her hand and looking towards the side.\n<2468> <2470> The man in the black shirt, likely a coach, has his hands behind his head and appears to be shouting or reacting to the play.\n<2470> <2472> The man in the black shirt turns and walks away from the camera, still looking animated.\n<2472> <2474> A female goalkeeper in a red jersey with the number 250 holds a soccer ball, looking towards the field.\n<2474> <2476> The goalkeeper in red is seen from the back, with her teammates in red jerseys standing nearby.\n<2476> <2478> The camera returns to a wide view of the indoor soccer field, showing players in red and white jerseys in the middle of a game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 124,
+      "start_time": "2480.0",
+      "end_time": "2500.0",
+      "content": "<2480> <2482> A wide shot of a futsal match shows players in red and white jerseys on a green field, with the scoreboard displaying a 2-3 score.\n<2482> <2484> A close-up shows a female player in a light green jersey with pink accents, looking focused during the game.\n<2484> <2486> A female player in a light green jersey points with her right hand, directing her teammates.\n<2486> <2488> A male coach in a black shirt stands on the sideline, pointing and giving instructions to his team.\n<2488> <2490> The coach continues to gesture and shout instructions, emphasizing his points with hand movements.\n<2490> <2492> The view returns to a wide shot of the futsal match, showing players positioned near the goal area.\n<2492> <2494> Players in red and white jerseys are actively engaged in play near the opponent's goal.\n<2494> <2496> The ball is in play, with players from both teams moving strategically on the field.\n<2496> <2498> A close-up focuses on a female player in a light green jersey, who appears to be observing the game intently.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 125,
+      "start_time": "2500.0",
+      "end_time": "2520.0",
+      "content": "<2500> <2502> A player in a white jersey with the number 28 is seen from behind, standing on a field.\n<2502> <2504> The camera angle shifts to a view from behind the goal, showing players in orange and white jerseys on the field.\n<2504> <2506> The scene shows a wide view of the indoor soccer field, with players in orange and white jerseys positioned for play.\n<2506> <2508> The camera pans across the field, showing players in orange and white jerseys moving into position.\n<2508> <2510> The camera angle changes to a view from behind the goal, showing players in orange and white jerseys on the field.\n<2510> <2512> The camera angle changes to a view from behind the goal, showing players in orange and white jerseys on the field.\n<2512> <2514> The camera angle changes to a view from behind the goal, showing players in orange and white jerseys on the field.\n<2514> <2516> The camera angle changes to a view from behind the goal, showing players in orange and white jerseys on the field.\n<2516> <2518> The camera angle changes to a view from behind the goal, showing players in orange and white jerseys on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 126,
+      "start_time": "2520.0",
+      "end_time": "2540.0",
+      "content": "<2520> <2522> A player in a light green jersey with the number 10 raises her hand and speaks to a teammate.\n<2522> <2524> The player in the green jersey turns and gestures with her right hand towards the field.\n<2524> <2526> A close-up shows a player in a light green jersey with the number 7, looking up with her mouth open.\n<2526> <2528> A player in a light green jersey with the number 10 stands next to a player in a red jersey with the number 8.\n<2528> <2530> A man in a white shirt stands in front of a player in a green jersey, looking towards the field.\n<2530> <2532> A player in a light green jersey with the number 27 walks across the field.\n<2532> <2534> A player in a red jersey with the number 8 stands on the field, looking to her left.\n<2534> <2536> A wide shot shows a futsal game in progress on a green indoor court with players in red and green jerseys.\n<2536> <2538> The players continue to move around the court, with the score 2-3 displayed in the top left corner.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 127,
+      "start_time": "2540.0",
+      "end_time": "2560.0",
+      "content": "<2540> <2542> A soccer match is in progress on a green field with players in red and white uniforms.\n<2542> <2544> A player in a red uniform dribbles the ball while being closely guarded by a player in a white uniform.\n<2544> <2546> The player in red attempts to maintain possession as the player in white tries to tackle.\n<2546> <2548> The player in red successfully passes the ball to a teammate while the player in white falls to the ground.\n<2548> <2550> A player in red celebrates a goal with her teammates.\n<2550> <2552> A player in red stands with her hands on her hips, looking towards the field.\n<2552> <2554> The camera shows a wide view of the field with players in red and white positions.\n<2554> <2556> Players in red and white are positioned across the field, preparing for the next play.\n<2556> <2558> The players continue to move around the field, with the red team in possession of the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 128,
+      "start_time": "2560.0",
+      "end_time": "2580.0",
+      "content": "<2560> <2562> A soccer ball is in the air during a game.\n<2562> <2564> A player in a green jersey with the number 28 is seen on the field.\n<2564> <2566> The player in the green jersey adjusts their hair.\n<2566> <2568> The player in the green jersey turns away from the camera.\n<2568> <2570> The player in the green jersey is seen from behind, walking towards the goal.\n<2570> <2572> A player in a green jersey claps their hands.\n<2572> <2574> A man in a black shirt speaks to the camera.\n<2574> <2576> The man in the black shirt covers his face with his hand.\n<2576> <2578> The man in the black shirt claps his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 129,
+      "start_time": "2580.0",
+      "end_time": "2600.0",
+      "content": "<2580> <2582> A player in a red jersey with the number 8 is seen from behind, standing near the goal.\n<2582> <2584> A player in a light green jersey with the number 7 walks on the field.\n<2584> <2586> A player in a red jersey with the number 23 is seen from behind, standing near the goal.\n<2586> <2588> A player in a red jersey with the number 23 is seen from behind, standing near the goal.\n<2588> <2590> A player in a red jersey with the number 23 is seen from behind, standing near the goal.\n<2590> <2592> A player in a red jersey with the number 23 is seen from behind, standing near the goal.\n<2592> <2594> A player in a red jersey with the number 23 is seen from behind, standing near the goal.\n<2594> <2596> A player in a red jersey with the number 23 is seen from behind, standing near the goal.\n<2596> <2598> A player in a red jersey with the number 23 is seen from behind, standing near the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 130,
+      "start_time": "2600.0",
+      "end_time": "2620.0",
+      "content": "<2600> <2602> A man in a black shirt gestures with his arms outstretched.\n<2602> <2604> A player in a white and green uniform stands on the field with a soccer ball.\n<2604> <2606> A player in a red uniform kicks the ball.\n<2606> <2608> A player in a white and green uniform runs on the field.\n<2608> <2610> A player in a white and green uniform raises her hand.\n<2610> <2612> A player in a red uniform with the number 8 on her back shakes hands with a player in a white and green uniform.\n<2612> <2614> A player in a red uniform with the number 7 on her back stands on the field.\n<2614> <2616> A player in a white and green uniform prepares to kick the ball.\n<2616> <2618> A player in a white and green uniform kicks the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 131,
+      "start_time": "2620.0",
+      "end_time": "2640.0",
+      "content": "<2620> <2622> A player in a light green jersey stands near the ball on the field.\n<2622> <2624> The player in the light green jersey takes a free kick.\n<2624> <2626> The ball is kicked towards the goal.\n<2626> <2628> The ball travels through the air towards the goal.\n<2628> <2630> The ball is kicked by a player in a red jersey.\n<2630> <2632> The ball is passed to a player in a red jersey near the goal.\n<2632> <2634> The player in the red jersey takes a shot at the goal.\n<2634> <2636> The ball is kicked towards the goal.\n<2636> <2638> The ball is kicked by a player in a red jersey.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 132,
+      "start_time": "2640.0",
+      "end_time": "2660.0",
+      "content": "<2640> <2642> A wide shot of a futsal match shows players on the field with the score 2-3.\n<2642> <2644> A close-up shows a player in a red jersey with the number 23 on her back.\n<2644> <2646> The view returns to a wide shot of the futsal game in progress.\n<2646> <2648> The camera focuses on the action near the goal as a player in a green jersey attempts to score.\n<2648> <2650> A player in a green jersey takes a shot on goal, and the ball goes into the net.\n<2650> <2652> The crowd in the stands cheers as the goal is scored.\n<2652> <2654> A player in a red jersey with the number 23 is shown from behind, standing on the sideline.\n<2654> <2656> A player in a red jersey with the number 8 is shown running on the field.\n<2656> <2658> A man in a white shirt, likely a coach, is shown clapping his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 133,
+      "start_time": "2660.0",
+      "end_time": "2680.0",
+      "content": "<2660> <2662> A player in a red jersey with the number 8 raises her arm while standing next to a teammate in a light green jersey.\n<2662> <2664> A man in a black polo shirt, likely a coach, gestures with his right arm while speaking.\n<2664> <2666> The camera shows a wide view of an indoor soccer field with players in red and light green jerseys.\n<2666> <2668> The players are spread out on the field, with the scoreboard showing a score of 2-3.\n<2668> <2670> A player in a red jersey dribbles the ball down the field.\n<2670> <2672> The camera follows the player in red as she advances with the ball.\n<2672> <2674> The player in red continues to dribble the ball towards the opponent's goal.\n<2674> <2676> A close-up shows a player in a red jersey with the number 1, looking focused and running.\n<2676> <2678> The player in red continues to run, with her mouth open as if shouting or breathing heavily.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 134,
+      "start_time": "2680.0",
+      "end_time": "2700.0",
+      "content": "<2680> <2682> A soccer match is in progress with the score at 2-3.\n<2682> <2684> A player in a red jersey takes a shot at the goal.\n<2684> <2686> The ball goes into the net, and the goalkeeper in green dives but fails to stop it.\n<2686> <2688> The players in red celebrate the goal.\n<2688> <2690> The crowd cheers as the players continue to celebrate.\n<2690> <2692> A player in a red jersey is seen celebrating with a fist pump.\n<2692> <2694> A man in a dark shirt stands with his arms crossed, watching the game.\n<2694> <2696> Another man in a dark shirt gestures with his hand.\n<2696> <2698> The man in the dark shirt raises his hand to his head, appearing to be in thought or frustration.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 135,
+      "start_time": "2700.0",
+      "end_time": "2720.0",
+      "content": "<2700> <2702> A player in a light green jersey runs towards the goal.\n<2702> <2704> The camera zooms out to show a wide view of the indoor soccer field.\n<2704> <2706> A player in a red jersey dribbles the ball down the field.\n<2706> <2708> The camera follows the player in red as they advance.\n<2708> <2710> The player in red passes the ball to a teammate.\n<2710> <2712> The teammate in red receives the ball and continues to move forward.\n<2712> <2714> The camera focuses on the players near the goal.\n<2714> <2716> A player in a red jersey takes a shot at the goal.\n<2716> <2718> The ball is kicked towards the goal as the goalkeeper prepares to defend.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 136,
+      "start_time": "2720.0",
+      "end_time": "2740.0",
+      "content": "<2720> <2722> A player in a red jersey with the number 33 is shown from the back, her hair flying as she moves.\n<2722> <2724> A player in a red jersey with the number 00 is shown from the front, looking towards the field.\n<2724> <2726> A wide shot shows a futsal match in progress on a green indoor field with spectators.\n<2726> <2728> A player in a red jersey takes a shot on goal, with the ball heading towards the net.\n<2728> <2730> The ball enters the goal, and the players in red celebrate the goal.\n<2730> <2732> The players in red celebrate the goal, with one player jumping in the air.\n<2732> <2734> A player in a red jersey is shown falling to the ground after a play.\n<2734> <2736> A player in a red jersey is lying on the ground, while a player in a green jersey stands over her.\n<2736> <2738> The player in the red jersey is still on the ground, while the player in the green jersey is standing nearby.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 137,
+      "start_time": "2740.0",
+      "end_time": "2760.0",
+      "content": "<2740> <2742> A female soccer player in a red jersey celebrates with her hands on her head.\n<2742> <2744> The player in the red jersey turns and speaks to a man in a dark polo shirt.\n<2744> <2746> The player in red continues to speak, looking towards the man.\n<2746> <2748> A man in a white t-shirt shouts with his mouth open.\n<2748> <2750> The man in the white t-shirt continues to shout, raising his hand to his mouth.\n<2750> <2752> A female player in a red jersey runs towards the goal as the goalkeeper dives.\n<2752> <2754> The goalkeeper in a light green jersey lies on the ground after making a save.\n<2754> <2756> A player in a light green jersey with the number 10 on her back walks away from the goal.\n<2756> <2758> A man in a dark polo shirt speaks while holding a green card.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 138,
+      "start_time": "2760.0",
+      "end_time": "2780.0",
+      "content": "<2760> <2762> A man in a black shirt gestures while speaking.\n<2762> <2764> Two men in suits sit at a desk, one gesturing with his hand.\n<2764> <2766> The man on the right touches his face while the man on the left continues to speak.\n<2766> <2768> A split screen shows a soccer game on the left and a VAR review on the right.\n<2768> <2770> The VAR review continues, showing a player in a red jersey.\n<2770> <2772> The VAR review shows a player in a red jersey near the goal.\n<2772> <2774> The VAR review shows a player in a red jersey near the goal.\n<2774> <2776> Two players in light green jerseys stand on the field.\n<2776> <2778> A player in a light green jersey stands on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 139,
+      "start_time": "2780.0",
+      "end_time": "2800.0",
+      "content": "<2780> <2782> A woman in a red jersey with the number 7 and the name \"박지안\" on the back is seen from behind, interacting with a man in a white shirt and another man in a dark blue shirt.\n<2782> <2784> The woman in the red jersey turns to face the man in the white shirt, who is speaking and gesturing with his hands.\n<2784> <2786> A woman in a black shirt is seen speaking into a microphone, with a man in a dark shirt standing behind her.\n<2786> <2788> The woman in the black shirt continues to speak into the microphone, with a crowd of spectators visible in the background.\n<2788> <2790> A man in a dark shirt is seen from the side, looking towards the left of the frame.\n<2790> <2792> The man in the dark shirt is now seen from the front, with a woman in a red jersey standing behind him.\n<2792> <2794> The man in the dark shirt and the man in the white shirt are standing next to each other, with the man in the white shirt speaking and gesturing with his hands.\n<2794> <2796> The woman in the black shirt is seen from the side, speaking into the microphone.\n<2796> <2798> The woman in the black shirt is seen from the back, standing in front of a goal with a net.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 140,
+      "start_time": "2800.0",
+      "end_time": "2820.0",
+      "content": "<2800> <2802> A player in a red jersey celebrates with her hand raised.\n<2802> <2804> A player in a red jersey with the number 8 raises her hand.\n<2804> <2806> A player in a red jersey with the number 8 is surrounded by teammates.\n<2806> <2808> A player in a red jersey attempts to score a goal.\n<2808> <2810> A player in a red jersey is blocked by a defender in a white jersey.\n<2810> <2812> A player in a white jersey with the number 24 is near the goal.\n<2812> <2814> A player in a white jersey with the number 24 is near the goal.\n<2814> <2816> A player in a white jersey with the number 24 is near the goal.\n<2816> <2818> A player in a white jersey with the number 24 is near the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 141,
+      "start_time": "2820.0",
+      "end_time": "2840.0",
+      "content": "<2820> <2822> A wide shot of an indoor soccer game shows players on a green field with a scoreboard displaying 2-1.\n<2822> <2824> A man in a black shirt gestures and speaks, likely a coach or commentator.\n<2824> <2826> A woman in a light green jersey with the number 27 looks on with a serious expression.\n<2826> <2828> Another woman in a light green jersey with the number 10 is shown, looking down and then to the side.\n<2828> <2830> A woman in a light green jersey stands with her hands on her hips, looking towards the field.\n<2830> <2832> A woman in a light green jersey with the number 27 stands with her eyes closed, appearing to be concentrating.\n<2832> <2834> A woman in a light green jersey with the number 10 looks down, then to the side, with a focused expression.\n<2834> <2836> A woman in a light green jersey stands with her hands on her hips, looking towards the field.\n<2836> <2838> A woman in a light green jersey stands with her hands on her hips, looking towards the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 142,
+      "start_time": "2840.0",
+      "end_time": "2860.0",
+      "content": "<2840> <2842> A female soccer player in a light green jersey stands on the field, looking focused.\n<2842> <2844> The camera pulls back to a wide shot of the indoor soccer field, showing players in green and red jerseys.\n<2844> <2846> The scoreboard in the top left corner shows the score is 2-1.\n<2846> <2848> A close-up shows the same player in the light green jersey, looking intently at the game.\n<2848> <2850> A player in a red jersey with the number 10 is seen near the goal, interacting with a player in a green jersey.\n<2850> <2852> The player in the green jersey, number 21, is seen from the back, walking towards the goal area.\n<2852> <2854> The player in the green jersey, number 21, is shown clapping her hands.\n<2854> <2856> The view returns to a wide shot of the field, with players positioned for play.\n<2856> <2858> A player in a green jersey stands at the center circle, preparing for a restart.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 143,
+      "start_time": "2860.0",
+      "end_time": "2880.0",
+      "content": "<2860> <2862> A player in a red jersey controls the ball while being defended by a player in a light green jersey.\n<2862> <2864> The player in the red jersey takes a shot at the goal.\n<2864> <2866> The player in the light green jersey raises her hand, possibly in celebration or appeal.\n<2866> <2868> A player in a black uniform walks across the field.\n<2868> <2870> A wide shot shows the entire indoor soccer field with players in red and light green jerseys.\n<2870> <2872> The camera zooms out to show the full arena, including the audience and the scoreboard.\n<2872> <2874> Two players, one in red and one in light green, battle for control of the ball.\n<2874> <2876> The player in the light green jersey attempts to dribble past the defender in red.\n<2876> <2878> The player in the light green jersey raises her arm again, possibly signaling to a teammate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 144,
+      "start_time": "2880.0",
+      "end_time": "2900.0",
+      "content": "<2880> <2882> A man in a white shirt points his finger.\n<2882> <2884> A wide view of a soccer field with players and spectators.\n<2884> <2886> A woman in a red jersey stands on the field.\n<2886> <2888> A woman in a red jersey walks on the field.\n<2888> <2890> A woman in a red jersey with the number 8 on her back.\n<2890> <2892> A woman in a green jersey stands on the field.\n<2892> <2894> A man in a black shirt raises his hand.\n<2894> <2896> A man in a black shirt gestures with his hand.\n<2896> <2898> A woman in a green jersey walks on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 145,
+      "start_time": "2900.0",
+      "end_time": "2920.0",
+      "content": "<2900> <2902> Two players in red jerseys stand on the field.\n<2902> <2904> A player in a red jersey dives to make a save.\n<2904> <2906> A wide view shows players on a green field.\n<2906> <2908> Players in red and white jerseys are on the field.\n<2908> <2910> A player in a light green jersey with the number 27 is shown.\n<2910> <2912> The player in the light green jersey gestures with her hands.\n<2912> <2914> A player in a light green jersey with the number 7 runs.\n<2914> <2916> The player in the light green jersey with the number 7 raises her arms in celebration.\n<2916> <2918> A player in a light green jersey stands next to a man in a black shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 146,
+      "start_time": "2920.0",
+      "end_time": "2940.0",
+      "content": "<2920> <2922> A player in a light green jersey with the number 10 walks on the field.\n<2922> <2924> A group of players in light green jerseys celebrate a goal near the goalpost.\n<2924> <2926> The players in light green jerseys continue to celebrate, while a player in an orange jersey stands nearby.\n<2926> <2928> The players in light green jerseys walk away from the goal, while the players in orange jerseys are seen in the background.\n<2928> <2930> The players in light green jerseys walk towards the center of the field, while a player in an orange jersey walks away.\n<2930> <2932> A wide shot of the indoor soccer field shows players in light green and orange jerseys playing the game.\n<2932> <2934> A player in a light green jersey takes a shot at the goal, while the goalkeeper in an orange jersey prepares to defend.\n<2934> <2936> The ball is seen in the air, heading towards the goal, as the goalkeeper in an orange jersey jumps to make a save.\n<2936> <2938> The players in light green jerseys celebrate a goal, while the players in orange jerseys stand in front of the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 147,
+      "start_time": "2940.0",
+      "end_time": "2960.0",
+      "content": "<2940> <2942> A close-up of a circular screen displays the text \"YOU GOT THIS\" with the Adidas logo.\n<2942> <2944> A man in a white shirt looks on with a serious expression during a game.\n<2944> <2946> A woman in a red jersey with the number 8 celebrates with teammates.\n<2946> <2948> A young girl in a green jersey with the number 21 looks up, adjusting her hair.\n<2948> <2950> A player in a red jersey bends over on the field.\n<2950> <2952> A man in a white shirt talks to a woman in a red jersey.\n<2952> <2954> The man in the white shirt continues to speak to the woman in the red jersey.\n<2954> <2956> A wide shot shows a group of players on a green field, with a man in a white shirt standing in the center.\n<2956> <2958> The players remain in position on the field, preparing for the next play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 148,
+      "start_time": "2960.0",
+      "end_time": "2980.0",
+      "content": "<2960> <2962> A wide shot of an indoor soccer field with players in action and a scoreboard showing 3-4.\n<2962> <2964> A close-up of a female player in a light green jersey with the number 10, looking focused.\n<2964> <2966> The same player is shown from a slightly different angle, still looking intently forward.\n<2966> <2968> Another female player in a light green jersey with the number 28 is shown, looking to the side.\n<2968> <2970> The player with number 28 turns her head, her expression serious.\n<2970> <2972> The view returns to a wide shot of the indoor soccer game, with players positioned on the field.\n<2972> <2974> The game continues with players moving the ball across the field.\n<2974> <2976> A player in a white jersey is seen near the center circle, while others are spread out.\n<2976> <2978> The camera angle shifts slightly, showing more of the field and the players' positions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 149,
+      "start_time": "2980.0",
+      "end_time": "3000.0",
+      "content": "<2980> <2982> A man in a black shirt shouts with his arm extended.\n<2982> <2984> A wide view of an indoor soccer game shows players in red and white uniforms on a green field.\n<2984> <2986> A close-up shows players in red and white celebrating a goal.\n<2986> <2988> A player in a light green jersey with the number 28 on the back walks away.\n<2988> <2990> The camera shows a wide view of the indoor soccer field with players in red and white.\n<2990> <2992> Players in red and white are positioned on the field, with one player in red preparing to kick the ball.\n<2992> <2994> A player in a red jersey with the number 10 is surrounded by players in white.\n<2994> <2996> The camera shows a wide view of the indoor soccer field with players in red and white.\n<2996> <2998> A player in a red jersey with the number 10 is surrounded by players in white.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 150,
+      "start_time": "3000.0",
+      "end_time": "3020.0",
+      "content": "<3000> <3002> A player in a light green jersey with the number 10 celebrates a goal, raising her hand and then touching her head.\n<3002> <3004> The player in the light green jersey continues to celebrate, looking towards the crowd and touching her head.\n<3004> <3006> A player in a red jersey with the number 1 is seen bending down to pick up the ball near the goal.\n<3006> <3008> The player in the red jersey stands up, holding the ball, with the scoreboard showing a 3-1 lead.\n<3008> <3010> A player in a light green jersey with the number 10 looks on with a serious expression.\n<3010> <3012> A man in a white shirt, likely a coach, stands on the sideline.\n<3012> <3014> The coach in the white shirt turns and speaks to a player in a light green jersey with the number 27.\n<3014> <3016> The coach continues to speak to the player, who listens intently.\n<3016> <3018> The coach and player continue their conversation on the sideline.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 151,
+      "start_time": "3020.0",
+      "end_time": "3040.0",
+      "content": "<3020> <3022> A soccer game is in progress on an indoor field with a scoreboard showing 3-0.\n<3022> <3024> A player in a red jersey takes a corner kick.\n<3024> <3026> The ball is kicked into the field, and players from both teams move to position themselves.\n<3026> <3028> A player in a green jersey runs towards the ball near the goal area.\n<3028> <3030> A player in a red jersey attempts to control the ball near the goal.\n<3030> <3032> A player in a green jersey stands near the goal, watching the play.\n<3032> <3034> A coach in a black shirt gestures with his hand, possibly giving instructions.\n<3034> <3036> A player in a green jersey with the number 10 on her back walks towards the sideline.\n<3036> <3038> A player in a red jersey with the number 00 on her back stands near the sideline.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 152,
+      "start_time": "3040.0",
+      "end_time": "3060.0",
+      "content": "<3040> <3042> A soccer player in a red uniform runs with the ball while being pursued by a player in a light green uniform.\n<3042> <3044> The player in the red uniform passes the ball to a teammate.\n<3044> <3046> The ball is kicked towards the goal.\n<3046> <3048> The player in the red uniform takes a shot at the goal.\n<3048> <3050> The ball is kicked into the goal.\n<3050> <3052> The player in the red uniform celebrates the goal.\n<3052> <3054> A man in a white shirt watches the game.\n<3054> <3056> The man in the white shirt claps his hands.\n<3056> <3058> A woman in a red uniform runs on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 153,
+      "start_time": "3060.0",
+      "end_time": "3080.0",
+      "content": "<3060> <3062> A player in a red jersey with the number 1 stands on the field.\n<3062> <3064> A player in a light green jersey with the number 7 celebrates with her mouth open.\n<3064> <3066> A player in a light green jersey with the number 28 walks on the field.\n<3066> <3068> A wide shot shows a soccer game in progress on a green field.\n<3068> <3070> Players in red and light green jerseys are positioned on the field.\n<3070> <3072> A player in a red jersey controls the ball while being defended.\n<3072> <3074> A player in a red jersey dribbles the ball, closely marked by a player in a light green jersey.\n<3074> <3076> The player in red continues to dribble, with a defender and a referee nearby.\n<3076> <3078> The player in red passes the ball to a teammate as the game continues.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 154,
+      "start_time": "3080.0",
+      "end_time": "3100.0",
+      "content": "<3080> <3082> A player in a light green jersey dribbles the ball while being closely guarded by an opponent in an orange jersey on a green indoor soccer field.\n<3082> <3084> The camera angle shifts to a wide overhead view of the indoor soccer field, showing players in green and orange jerseys spread across the pitch.\n<3084> <3086> The camera focuses on two players in light green jerseys standing on the sideline, with spectators visible behind them.\n<3086> <3088> A player in a light green jersey with the number 7 on her back stands with her hands on her hips, looking towards the field.\n<3088> <3090> The player in the green jersey with number 7 continues to stand with her hands on her hips, looking towards the field.\n<3090> <3092> The camera shows a player in an orange jersey with the number 8 on her back, bending over on the field.\n<3092> <3094> The camera shows a player in an orange jersey with the number 8 on her back, standing up and looking towards the field.\n<3094> <3096> A player in an orange jersey with the number 00 on her back stands in front of the goal, with other players in orange and green jerseys nearby.\n<3096> <3098> A player in an orange jersey with the number 00 on her back stands in front of the goal, with other players in orange and green jerseys nearby.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 155,
+      "start_time": "3100.0",
+      "end_time": "3120.0",
+      "content": "<3100> <3102> A player in a red jersey with the number 00 stands in front of the goal.\n<3102> <3104> A player in a red jersey celebrates with arms raised after scoring a goal.\n<3104> <3106> A wide shot shows the indoor soccer field with players in red and white jerseys.\n<3106> <3108> A player in a red jersey with the number 8 stands on the field.\n<3108> <3110> A player in a red jersey kicks the ball towards the goal.\n<3110> <3112> A player in a red jersey celebrates a goal with arms raised.\n<3112> <3114> Two players in red jerseys, numbers 8 and 7, celebrate together.\n<3114> <3116> The two players, numbers 8 and 7, hug each other in celebration.\n<3116> <3118> The two players continue to embrace, celebrating their victory.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 156,
+      "start_time": "3120.0",
+      "end_time": "3140.0",
+      "content": "<3120> <3122> A soccer game is in progress with a score of 3-5, and players in orange and white uniforms are on the field.\n<3122> <3124> Players in orange celebrate a goal as the crowd cheers in the background.\n<3124> <3126> A close-up shows a player in a white jersey with the number 24, standing near the goalpost.\n<3126> <3128> Two players in white jerseys, one with the number 28, are seen celebrating together.\n<3128> <3130> A player in a red jersey is seen from behind, with a crowd in the background.\n<3130> <3132> The scoreboard shows the final score of the game as 3-5, with the team names and statistics displayed.\n<3132> <3134> The end of game screen displays the final score and team statistics, with a person standing in front of it.\n<3134> <3136> Three individuals are standing together, with one in a white shirt and two in black shirts.\n<3136> <3138> A person in a black shirt is seen from the side, with another person in a red shirt partially visible.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 157,
+      "start_time": "3140.0",
+      "end_time": "3149.746",
+      "content": "<3140> <3141> A female soccer player in a red jersey celebrates with a teammate.\n<3141> <3142> The player in red high-fives a man in a dark shirt.\n<3142> <3143> The man in the dark shirt claps his hands as the player continues to celebrate.\n<3143> <3144> The player in red turns and claps her hands, smiling.\n<3144> <3145> The player in red turns to face the man in the dark shirt, who is clapping.\n<3145> <3146> The player in red turns and walks away, clapping her hands.\n<3146> <3147> The player in red turns and walks towards the net, clapping.\n<3147> <3148> The player in red high-fives a teammate in a red jersey.\n<3148> <3149> The player in red turns and walks away from the net, clapping.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 157,
+      "start_time": "3140.0",
+      "end_time": "3149.746",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

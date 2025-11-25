@@ -1,0 +1,695 @@
+{
+  "id": "e2aa3388-f669-446d-b024-93cb0bb4cc26",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 97
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0.0> <18.0> A man wearing glasses speaks against an outdoor backdrop featuring greenery and distant buildings throughout the video.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20.0> <34.0> A person in the bottom-left corner speaks directly to the camera while gesturing with their left hand near their face, touching their cheekbone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40.0> <58.03> A man on the right side of the frame speaks while repeatedly pointing and tracing with his right index finger and both hands directed toward a whiteboard displaying Korean text and drawings.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60.0> <80.16> A person wearing glasses and a white shirt is speaking directly into the camera while seated against a backdrop featuring an overlaid cityscape image and text in Korean.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80.0> <94.75> A man wearing glasses and a gray cap speaks continuously against a scenic backdrop while gesturing. His surroundings include dynamic visuals: a couple walking along a beach with palm trees transitions out, replaced by a pink square with white lines and symbols, followed by two blue rectangular sections with white text and arrows before reverting to the slow-motion beach scene. Simultaneously, the top-right corner showcases a static cityscape with moving text overlays presenting sequential questions and icons.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100.0> <118.0> A person wearing glasses, a white shirt, and a camouflage-patterned hat speaks continuously while facing the camera. Behind them, a static coastal landscape featuring water and buildings serves as the backdrop. To the right, a scrolling chat box displays colorful comments in a columnar layout. On the left, a small window contains two squares-a pink one and a blue one-with text overlays. The individual remains stationary throughout the video segment.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120.0> <138.03> A person wearing glasses speaks continuously from a static position in the lower-right corner of the frame, with an overlay image in the upper-left corner and a scenic background on the right side.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140.0> <158.0> In the bottom-right corner, a person wearing glasses, a white shirt, and a gray/black cap speaks while raising their hands near their face. In the top-left corner, an inset image shows another person with long black hair in a white hoodie, appearing to eat something. Both individuals remain stationary throughout the clip.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160.0> <178.04> A man on the right side of the split-screen wears glasses and a cap while speaking dynamically, using expressive hand gestures.Inset images on the left side sequentially feature different individuals speaking, accompanied by Korean text overlays and a small inset graphic. Comments scroll vertically on the right-hand side of the screen, integrated into the live-streaming interface. The coastal landscape and urban skyline in the background remain static visuals.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180.0> <198.0>\nA person wearing a white shirt and a cap is seated indoors, continuously talking while looking directly at the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200.0> <218.0> A person wearing glasses, a cap, and a white outfit is continuously talking while looking into the camera in the bottom-right frame section.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220.0> <236.0> A person wearing glasses and a white shirt is speaking directly to the camera while gesturing with their right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240.0> <258.5> A person in the lower right corner speaks while gesturing with their left hand and holds a small object in their right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260.0> <280.36> A person wearing glasses and a white shirt with a green cap speaks directly to the camera while occasionally gesturing toward or glancing at the graphics and text surrounding them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280.0> <298.03> A person wearing glasses and a cap speaks and gestures expressively while seated in the foreground, partially overlaid on the bottom-right corner of the screen; they occasionally look away briefly before resuming speech. The background features a coastal scene on the left and an aerial cityscape on the right, both static. Korean text appears in two panels on the left side, likely representing a game interface or chat logs, while a scrolling chat box is positioned vertically on the far right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300.0> <318.0> A person in a white shirt and cap speaks continuously while gesturing with their right hand raised near their face.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320.0> <338.0> A person in a light-colored shirt, glasses, and a cap speaks and gestures with their left hand while looking directly at the camera. \n\n<324.0> <338.0> A live chat transcript scrolls upward from the middle of the screen, displaying comments in real-time against a dark background with white text. \n\n<326.0> <338.0> In the top-left corner of the frame, two overlapping images show different scenes sequentially: one features a person drinking water from a red cup, followed by another depicting two individuals shaking hands indoors.\n</think>\n\n\n<320.0> <338.0> A person in a light-colored shirt, glasses, and a cap speaks and gestures with their left hand toward the camera while standing outdoors near a scenic landscape featuring lush vegetation and distant urban structures. To the left of the speaker, two inset images overlay each other: initially, one shows a person drinking water from a red cup; subsequently, it transitions to depict two men shaking hands indoors. On the right-hand side of the frame, a live chat transcript scrolls vertically from the middle upward, set against a dark backdrop with white text. The entire composition resembles a live-streamed talk or commentary session, combining spoken narration with visual aids and audience interaction via the live chat.\"",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340.0> <358.01> A person wearing glasses and a white shirt with a camouflage cap sits indoors, speaking directly to the camera while gesturing with their right hand. Two still images overlay the screen: one depicts a man drinking from a red-capped bottle, and the other shows three individuals standing together. On the right, a live chat window displays scrolling viewer comments against a backdrop featuring a scenic outdoor landscape with mountains and greenery.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360.0> <380.05> A man wearing glasses and a white shirt gestures with his left hand while speaking, moving his fingers in a specific manner and occasionally raising his eyebrows slightly. An inset image in the top-left corner shows another individual holding a red object, remaining static throughout. On the right side, a vertical chat list displays comments in various colors against a dark gray background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380.0> <400.16> A person speaks continuously while referencing graphs and a live chat overlay, remaining seated and making only slight head/body movements.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400.0> <416.0> A person repeatedly raises their right hand, gestures by pointing upward, moves it forward, and touches their face while speaking continuously.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420.0> <440.0> A person wearing glasses and a white shirt is speaking directly to the camera while standing against a backdrop featuring a beach landscape, graphs, and a distant cityscape. They remain stationary but engage the audience verbally throughout the video.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440.0> <458.0> An individual wearing glasses and a gray hat speaks directly to the camera while seated against a backdrop featuring a coastal cityscape and a chat feed on the right. Inset in the upper left corner is a still image depicting two people talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460.0> <478.0> A man in a white shirt and black cap speaks to the camera from the lower right quadrant, gesturing with both hands-moving them apart near his face and then bringing them closer together as he talks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480.0> <498.0> A man seated indoors, dressed in a white shirt and glasses, alternates between speaking to the camera and gesturing toward the screen behind him with his right index finger. Between 6.0s and 18.0s, he pauses to adjust his glasses with his right hand before continuing his explanation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500.0> <518.0> A person wearing glasses and a white shirt holds a green-colored hat in their right hand while continuously talking and making hand gestures using their left hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520.0> <538.0> A man wearing glasses and a white shirt speaks consistently from the bottom section of the frame throughout the entire duration.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540.0> <558.0> A person wearing glasses and a white shirt with a green hat featuring a cartoon figure sits indoors, occasionally moving their mouth as if speaking or reacting while looking around. The background showcases a scenic view with water, hills, trees, and buildings beneath a partly cloudy sky. Throughout the video, the camera shifts slightly to maintain focus on the individual. Overlays include a green informational box with Korean text on the left, two graphs comparing datasets (\"X vs Y\" and \"Z ~\"), and a black chat window on the right displaying colorful viewer messages.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560.0> <578.0> A man in a white shirt and glasses occupies the lower-left quadrant, talking and gesturing with his right hand near his face; he touches his nose and gestures toward himself intermittently. \nThe top-left inset shows two static graphs with trend lines. \nThe top-right and far-right sections display an unmoving aerial landscape and a vertically scrolling list of comments, respectively.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580.0> <598.0> An individual is seated outdoors near a waterbody, facing the camera, and speaking while making hand gestures with their right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600.0> <620.16> A person wearing glasses and a white shirt speaks continuously while gesturing with their right hand, moving it up and down repeatedly. Simultaneously, foreign-language text overlays appear on the left side of the screen, and a real-time live chat conversation occurs on the right side.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620.0> <638.0> A person wearing glasses and a white shirt speaks continuously while sitting in the lower central portion of the frame, overlaid on a coastal background image. Simultaneously, a live chat conversation occurs in the upper right quadrant, with messages scrolling upward against a cityscape backdrop. A dynamically updating red numerical box appears intermittently within this chat area. The upper left quadrant features static text and a loading symbol atop an imaged coastal landscape.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640.0> <644.0> The man briefly touches his forehead with his right hand while speaking and looking around.\n<644.0> <646.0> The man scratches his forehead with his right hand while continuing to speak.\n<646.0> <658.0> The man continues speaking and occasionally looks toward the equation displayed on the left-hand side of the screen, eventually pointing at it with his right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660.0> <678.0> Two people walk along a shoreline, moving away from the camera, while a speaker in a white shirt and camouflage hat addresses the audience against a scenic coastal and urban backdrop, accompanied by textual overlays, subtitles, and graphical elements.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680.0> <698.0> An individual wearing glasses and a hat speaks directly to the camera, occasionally moving their right hand, against a backdrop featuring overlaid images (a muscular man on the left and a cityscape with a winding road on the right) and a vertically scrolling chat box on the far right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "No significant events or actions occur in the video; it features a static split-screen layout with textual content and a stationary scenic backdrop, accompanied by a person speaking and gesturing naturally.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720.0> <738.0> A person in a white shirt, glasses, and a cap with an emblem sits outdoors against a scenic backdrop, speaking continuously while gesturing with their left hand (holding a pen) and occasionally tilting their head. Their right hand rests near their face. Above them, two side-by-side images display graphs and text in a foreign script; the left image features colored line graphs labeled \"αQ,\" while the right shows aligned text blocks. To the right of these, a narrow column displays upward-scrolling comments in a live chat interface.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740.0> <758.03> A man is talking and gesturing with his left hand while looking directly into the camera; he occasionally leans back slightly during his speech.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760.0> <778.0> A man wearing glasses and a cap sits indoors against a green backdrop, speaking directly to the camera while occasionally gesturing with his right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780.0> <798.0> A person wearing glasses and a light-colored shirt speaks directly to the camera while seated against a backdrop featuring a scenic view of mountains and water on the right side and graphical elements on the left.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800.0> <814.0> A person in a white shirt and camouflage hat speaks continuously while gesturing with their right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820.0> <838.0> A person wearing glasses and a cap speaks directly to the camera while seated indoors, occasionally looking toward the frame-left. Behind them is an outdoor scenic view featuring lush greenery and water. In the top-left corner, an inset image shows two individuals (one holding an American flag) alongside Korean text. On the far right, a live chat window displays viewer comments in various colors. The individual remains stationary, gesturing subtly with their head and facial expressions as they engage with the audience.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840.0> <859.87> A person wearing glasses and a cap speaks directly to the camera while seated in an indoor setting, occasionally gesturing with their hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860.0> <878.0> A person wearing glasses and a cap enters from the right side of the frame, speaks directly to the camera, occasionally glancing away or gesturing with their left hand. Two static images-one discussing \"American Dream\" and another depicting a scenic view-with overlaid text appear on either side of the person. A scrolling chat box is visible on the far right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "900.0",
+      "content": "<880.0> <900.2> A person wearing glasses and a white shirt speaks and gestures against a scenic backdrop featuring a cityscape and water. They appear engaged in conversation or presentation. \nA Pfizer logo briefly appears near the top-left corner before disappearing. To the right, a live chat displays scrolling comments in various colors. Initially, an image overlay of a beach scene (two individuals seated under an umbrella) appears in the bottom-left corner; it fades out around 2 seconds.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 45,
+      "start_time": "900.0",
+      "end_time": "920.0",
+      "content": "<900.0> <918.0> A person in a white shirt, glasses, and a hat speaks continuously from an overlay window at the bottom right, moving their head slightly upward and downward. Briefly, another individual appears in an image overlay at the top-left corner before disappearing again.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 46,
+      "start_time": "920.0",
+      "end_time": "940.0",
+      "content": "<920.0> <938.0> A man in a white shirt and gray cap speaks continuously while seated on the right side of the frame, with minimal head movement and no significant positional change.  \n<920.0> <922.0> An image of a muscular man in an orange tank top appears briefly on the left side of the frame.  \n<926.0> <928.0> Another image of a muscular man in an orange tank top appears momentarily on the left side of the frame.  \n<934.0> <936.0> A third instance of an image showing two muscular men in orange tank tops flashes quickly on the left side of the frame before vanishing.  \n<936.0> <938.0> A fourth brief glimpse of two muscular men in orange tank tops occurs on the left side of the frame, followed by its disappearance.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 47,
+      "start_time": "940.0",
+      "end_time": "960.0",
+      "content": "<940.0> <958.0> A man wearing a white shirt, green cap, and eyeglasses speaks directly to the camera from the bottom section of the screen, occasionally gesturing with his right hand while maintaining eye contact and shifting his gaze slightly during his delivery.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 48,
+      "start_time": "960.0",
+      "end_time": "980.0",
+      "content": "<960.0> <978.03> A person wearing glasses and a white shirt with a green cap speaks directly to the camera while gesturing with their hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 49,
+      "start_time": "980.0",
+      "end_time": "1000.0",
+      "content": "<980.0> <998.0> A person speaks directly to the camera while seated outdoors, wearing glasses and a light-colored shirt. They gesture subtly with their hands as they talk. Inset images appear intermittently in the top left corner: first showing a man smiling against a scenic backdrop, then focusing on his upper body, followed by him in a different pose. To the right, a vertical chat box displays scrolling messages in Korean. The person maintains eye contact with the camera throughout.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 50,
+      "start_time": "1000.0",
+      "end_time": "1020.0",
+      "content": "<1000.0> <1018.0> A man in a white shirt with a red collar, wearing glasses and sporting short dark hair with gray streaks, speaks directly to the camera from the bottom section of the screen. He gestures expressively with his hands while talking, occasionally raising them or moving them as he communicates. \nIn the top-left inset image, a muscular individual performs push-ups outdoors, facing away from the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 51,
+      "start_time": "1020.0",
+      "end_time": "1040.0",
+      "content": "<1020.0> <1038.0> In the upper left quadrant, two sequential insets show a man performing push-ups and another individual holding an injection, set against a green textured background mimicking water. On the right, a live-streaming interface features a person wearing glasses and a backward-facing cap seated outdoors, with a distant urban skyline behind them. They converse continuously throughout the sequence. Overlaying texts, emojis, scrolling comments in red/white, and a chat box with names populating in real-time appear across the frame. The entire display suggests a live broadcast combining fitness or health-related discussions with interactive audience engagement.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 52,
+      "start_time": "1040.0",
+      "end_time": "1060.0",
+      "content": "<1040.0> <1056.04> A man wearing glasses and a light-colored shirt speaks continuously in the lower right corner of the frame while gesturing with his left hand. He occasionally touches his face and moves his head slightly throughout the video. In the upper left corner, an inset image displays a person holding a syringe alongside Korean text. On the right side, a live stream interface shows commenters' messages, emojis, and a numerical score updating in real-time.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 53,
+      "start_time": "1060.0",
+      "end_time": "1080.0",
+      "content": "<1060.0> <1078.0> A person wearing glasses and a light-colored shirt is positioned at the bottom-center of the frame, speaking directly to the camera while gesturing with their hands. Above them, a small microphone is clipped to their clothing. Their face is partially obscured by a semi-transparent graphic resembling a \"hat\" or headwear. \nOn the left side of the screen, an image overlay shows an individual holding a syringe near their midsection, accompanied by Korean text above it. To the right, another image overlay displays an aerial view of a coastal cityscape. \nThe background features a live chat interface with scrolling comments on either side of the screen, and the overall layout includes various visual elements such as text boxes and graphics.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 54,
+      "start_time": "1080.0",
+      "end_time": "1100.0",
+      "content": "<1080.0> <1098.03> A person wearing a white shirt speaks continuously while gesturing with both hands, occasionally raising one hand briefly, against a backdrop featuring a cityscape and overlaid text elements. Simultaneously, a small repeated inset image in the upper-left corner depicts a hand holding a pen-like object positioned near a torso area.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 55,
+      "start_time": "1100.0",
+      "end_time": "1120.0",
+      "content": "<1100.0> <1120.0> A person wearing glasses and a light-colored shirt with a patterned hat speaks directly to the camera from an overlay at the bottom right corner. Their facial expressions shift as they gesture with their hands, emphasizing their speech. An inset image in the top-left corner depicts a muscular torso with a syringe being injected into it, alongside red Korean text. Simultaneously, a live-stream interface displays scrolling comments on the right side, with a cityscape background visible above the person.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 56,
+      "start_time": "1120.0",
+      "end_time": "1140.0",
+      "content": "<1120.0> <1138.0> A live chat appears on the far-right side of the screen, continuously updating with new comments scrolling upward.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 57,
+      "start_time": "1140.0",
+      "end_time": "1160.0",
+      "content": "<1140.0> <1158.0> An individual in the bottom-left frame speaks enthusiastically into a microphone while gesturing with their hands, including pointing and touching their face. Simultaneously, comments scroll dynamically in the live chat interface within the bottom-right frame.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 58,
+      "start_time": "1160.0",
+      "end_time": "1180.0",
+      "content": "<1160.0> <1178.0> A person wearing glasses and a cap speaks directly to the camera while seated indoors, with slight head movements and neutral facial expressions. The background remains unchanged throughout the video.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1200.0",
+      "content": "<1180.0> <1200.36> A person speaks directly to the camera while occasionally touching their hair with their left hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 60,
+      "start_time": "1200.0",
+      "end_time": "1220.0",
+      "content": "<1200.0> <1218.03> A person wearing glasses and a cap speaks continuously while gesturing with both hands, including raised palms, pointing, and open-handed motions, from 0.0s to 18.03s. An inset image in the top-left corner shows a close-up of a hand holding a small metallic object, remaining static throughout. The background features a scenic view with buildings and trees under a cloudy sky, staying unchanged. A chat box on the far right displays scrolling comments, updating continuously during the segment.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 61,
+      "start_time": "1220.0",
+      "end_time": "1240.0",
+      "content": "<1220.0> <1238.0> A man in glasses, a light-colored shirt, and a cap speaks directly to the camera, occasionally adjusting his posture and using subtle hand gestures. Behind him, a split-screen displays two static images simultaneously: a casually dressed person reclining with hands behind their head on the left, and someone in a military-style uniform on the right. To the right of the screen, a vertical chat window shows scrolling messages, indicating live viewer interaction. The backdrop features a scenic coastal cityscape with greenery, buildings, and a partly cloudy sky.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 62,
+      "start_time": "1240.0",
+      "end_time": "1260.0",
+      "content": "<1240.0> <1258.0> A person wears glasses and a cap while speaking continuously, with their facial expressions shifting subtly during the talk. They gesture by raising their right hand toward their face momentarily. Behind them, a static cityscape photograph and Korean text overlays remain constant. Toward the end, an image of a person playing a guitar appears briefly alongside the existing visuals.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 63,
+      "start_time": "1260.0",
+      "end_time": "1280.0",
+      "content": "<1260.0> <1276.34> A person wearing glasses and a cap speaks directly to the camera from a well-lit outdoor setting with greenery in the background. Simultaneously, inset images in the top-left corner show another individual performing two distinct tasks: first, holding an object near their face, then raising a phone. The person in the main frame remains mostly stationary, making occasional slight gestures, while the background and a chat box with scrolling comments remain static on the right",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 64,
+      "start_time": "1280.0",
+      "end_time": "1300.0",
+      "content": "<1280.0> <1298.0> A person wearing glasses and a light-colored shirt speaks directly to the camera against a backdrop featuring an overlay image of a muscular individual posing and a cityscape with greenery. To the right, a chat box displays scrolling comments. The person maintains their position and dialogue consistently throughout the video.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 65,
+      "start_time": "1300.0",
+      "end_time": "1320.0",
+      "content": "<1300.0> <1318.5> A man in a white shirt appears in the lower-right corner, continuously speaking into the camera while making expressive hand gestures. He first lifts his left hand toward his face, touches his nose, then lowers it before raising both hands again to point upward. His movements continue consistently until the end.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 66,
+      "start_time": "1320.0",
+      "end_time": "1340.0",
+      "content": "<1320.0> <1338.0> A person wears glasses and a cap, speaks directly ahead, and occasionally moves their right hand up and down near their face against a backdrop featuring an inset muscular figure performing pull-ups with accompanying Korean text and a live chat window on the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 67,
+      "start_time": "1340.0",
+      "end_time": "1360.0",
+      "content": "<1340.0> <1358.0> A man wearing glasses and a white shirt sits indoors, speaking directly to the camera while facing forward.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 68,
+      "start_time": "1360.0",
+      "end_time": "1380.0",
+      "content": "<1360.0> <1378.0> A person wearing glasses and a white shirt with a gray cap speaks directly to the camera while standing against a backdrop featuring a scenic view with greenery and water. They maintain a consistent position and expression, with slight head movements as they talk. Graphics appear on both sides of the screen: on the left, an image of a man with accompanying text, and on the right, Korean text alongside various icons.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 69,
+      "start_time": "1380.0",
+      "end_time": "1400.0",
+      "content": "<1380.0> <1398.0> A man wearing glasses and a white shirt speaks continuously toward the camera from the lower-right corner of the frame, displaying subtle shifts in facial expressions. Various graphical overlays occupy the left and upper-right portions of the screen, featuring text in multiple languages, charts, and imagery, while an animated horizontal cityscape scrolls beneath them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 70,
+      "start_time": "1400.0",
+      "end_time": "1420.0",
+      "content": "<1400.0> <1418.0> A person wearing glasses and a white shirt with a purple design speaks directly to the camera while gesturing with their right hand. An infographic overlay appears on the left side of the screen, displaying Korean text, graphs, and charts. On the right, another overlay shows a scenic outdoor view and a chat box filled with viewer comments.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 71,
+      "start_time": "1420.0",
+      "end_time": "1440.0",
+      "content": "<1420.0> <1438.0> A man wearing glasses and a white shirt sits outdoors, speaking continuously while gesturing with his right hand, which holds a pen in his left hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 72,
+      "start_time": "1440.0",
+      "end_time": "1460.0",
+      "content": "<1440.0> <1458.08> A person wearing glasses and a white shirt speaks directly to the camera, gesturing with their right hand (raising it and moving it slightly) while alternating their gaze between the screen and the camera. An inset image of a muscular individual appears on the left side of the screen, and a chat interface is visible on the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 73,
+      "start_time": "1460.0",
+      "end_time": "1480.0",
+      "content": "<1460.0> <1478.04> A man wearing glasses and a cap sits indoors, talking continuously while gesturing with his right hand and occasionally holding a pen in his left. He refers to Korean text overlays on the screen and an image of a muscular man in a suit displayed beside him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 74,
+      "start_time": "1480.0",
+      "end_time": "1500.0",
+      "content": "<1480.0> <1499.71> A person wearing glasses and a light-colored shirt talks to the camera while occasionally raising their left hand to gesture. They maintain eye contact with the viewer, displaying varied facial expressions. To the left of the frame, an inset image shows a close-up of a hand holding a blue pen hovering over a sheet of paper against a green backdrop. On the far right, a live chat window displays continuous updates from participating users.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 75,
+      "start_time": "1500.0",
+      "end_time": "1520.0",
+      "content": "<1500.0> <1518.0>\nA person speaks directly to the camera, with static visual overlays in all four corners:  \n- **Top-left**: A hand holding a cigarette.  \n- **Top-right**: Black-and-white Korean text alongside a small profile picture.  \n- **Bottom-left**: A silhouette running toward sunlight.  \n- **Bottom-right**: An aerial view of a coastal cityscape.  \n\nAll elements remain fixed in place throughout the video.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 76,
+      "start_time": "1520.0",
+      "end_time": "1540.0",
+      "content": "<1520.0> <1538.0> A person wearing glasses speaks directly to the camera while seated indoors, with a graphic overlay transitioning between a running silhouette and a model wearing a red t-shirt on the left side of the screen. On the right, a scrolling chat feed and a progress bar indicating live viewers are visible atop the frame.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 77,
+      "start_time": "1540.0",
+      "end_time": "1560.0",
+      "content": "<1540.0> <1556.0> A man wearing glasses and a cap sits indoors, speaking directly to the camera while occasionally gesturing with his right hand. Behind him, multiple visual elements appear sequentially: first, Korean text alongside an image of a red hexagonal object (resembling a lifebuoy), followed by an image of a runner against a sunset backdrop next to a close-up of fingers pressing a button on a device.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 78,
+      "start_time": "1560.0",
+      "end_time": "1580.0",
+      "content": "<1560.0> <1578.0> A man wearing glasses and a cap talks directly to the camera, pausing briefly before continuing to speak.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 79,
+      "start_time": "1580.0",
+      "end_time": "1600.0",
+      "content": "<1580.0> <1598.0> A man wearing glasses speaks continuously from a windowed frame on the right half of the screen, occasionally glancing downward and making subtle gestures with his right hand. \n<br><br>\nBetween 2.0–3.5 seconds, a small image of a hand gripping a phone appears in the upper-left corner, vanishes momentarily, then reappears briefly before fading out entirely.\n<br><br>\nSimultaneously, an image of a hand holding a gun briefly materializes in the upper-right corner, stays for a moment, and then disappears.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 80,
+      "start_time": "1600.0",
+      "end_time": "1620.0",
+      "content": "<1600.0> <1618.0> A person wearing glasses and a cap speaks directly to the camera from a static position against a split-screen backdrop featuring a coastal landscape on the left and a partially obscured graphic on the right. They maintain consistent eye contact, delivering their message steadily. On-screen text in Korean appears at the top left corner, while live chat comments scroll on the right sidebar.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 81,
+      "start_time": "1620.0",
+      "end_time": "1640.0",
+      "content": "<1620.0> <1638.0> A person wearing glasses and a cap speaks directly to the camera while seated indoors, with a static overlay of text on the left side and a control panel-like interface on the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 82,
+      "start_time": "1640.0",
+      "end_time": "1660.0",
+      "content": "<1640.0> <1658.0> A person wearing glasses and a white shirt speaks directly to the camera while seated outdoors, surrounded by lush greenery and water. They intermittently nod their head and gesture with their hands for emphasis. In the background, a scenic view includes distant hills and buildings under a partly cloudy sky. On the screen, Korean subtitles appear on the top-left corner, and a live chat box displays dynamic comments from viewers on the bottom-right side. To the right, an overlaid image depicts a sprawling urban landscape beneath a clear sky.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 83,
+      "start_time": "1660.0",
+      "end_time": "1680.0",
+      "content": "No meaningful events occur in the video; it consists solely of static text overlays, images, and scrolling comment panels without any dynamic actions or interactions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 84,
+      "start_time": "1680.0",
+      "end_time": "1700.0",
+      "content": "<1686.0> <1698.0> A person speaks while touching their face with their right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 85,
+      "start_time": "1700.0",
+      "end_time": "1720.0",
+      "content": "A person wearing glasses and a gray hat sits indoors, speaking directly to the camera while occasionally gesturing. Behind them, two static panels display text and imagery (a watermelon slice and a cityscape), and a chat panel on the far right shows scrolling comments.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 86,
+      "start_time": "1720.0",
+      "end_time": "1740.0",
+      "content": "<1720.0> <1738.0> A person wearing glasses and a white shirt appears toward the end of the clip, speaking directly to the camera while gesturing with their right hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 87,
+      "start_time": "1740.0",
+      "end_time": "1760.0",
+      "content": "<1740.0> <1758.0> A person wearing glasses and a white shirt appears intermittently, speaking directly to the camera while gesturing with their hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 88,
+      "start_time": "1760.0",
+      "end_time": "1780.0",
+      "content": "<1760.0> <1778.03> An individual wearing glasses and a white shirt speaks directly to the camera against an outdoor backdrop featuring lush greenery and water. They wear a cap with a pixelated design. Overlaid on the screen are detailed Korean texts alongside red-highlighted phrases, suggesting explanations or discussions. To the right, a live chat window displays scrolling viewer comments, indicating interactive engagement. The person remains stationary while continuously addressing the audience.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 89,
+      "start_time": "1780.0",
+      "end_time": "1800.0",
+      "content": "<1780.0> <1798.0> A man wearing glasses and a white shirt speaks directly to the camera while scrolling Korean comments appear on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 90,
+      "start_time": "1800.0",
+      "end_time": "1820.0",
+      "content": "<think>\nOkay, let's break this down. The user wants me to provide captions for all meaningful events in the video based on the description given.\n\nFirst, I'll look through the details provided. The main elements here are the man speaking on the right side of the screen, the whiteboard with diagrams and text on the left, and the cityscape background on the far right. There's also a chat window on the far right with comments scrolling up.\n\nThe key actions shown are the man talking while gesturing with his hands. He moves his left hand forward and back, then uses both hands to gesture. His facial expressions change as he speaks. The whiteboard has various mathematical equations and diagrams that appear sequentially. The cityscape remains static throughout.\n\nNow, the challenge is to capture these events in concise time-coded sentences within the specified format. Since the video is a combination of the man讲ing and the whiteboard content changing, I need to make sure both elements are addressed. However, the instructions specify that only \"meaningful events\" should be captioned. The cityscape and chat window are part of the setting but aren't dynamic; they don't involve actions or changes over time beyond what's already stated.\n\nFocus on the man's gestures and speech. The initial part mentions him starting to speak, raising his left hand, then using both hands to explain. The whiteboard updates with new content like red text boxes and graphs. But since the question asks for events, which are actions happening in the video, the primary events are the man's hand movements and speech, along with the appearance of new content on the whiteboard.\n\nWait, the whiteboard's content appears sequentially. So, maybe each new diagram or text box appearing is an event? But the video shows \"appears,\" which might imply that the content is being revealed or added during the video. If the whiteboard is part of the presentation, then the sequential appearance of different sections (like the red text box and graph) could be considered events. However, the original problem states that the video includes the man speaking and the whiteboard showing those diagrams. The events would be the man's actions and the changes on the whiteboard.\n\nBut according to the output requirements, we need to describe the events in the video. The man is actively explaining something, using hand gestures, which is an ongoing action. The whiteboard content changing as he explains is another event. However, the video shows the whiteboard has several parts that appear sequentially. So perhaps each new element on the whiteboard is an event when it first appears. But since the entire whiteboard is present from the start (as it's part of the video's setup), maybe the events are the man's gestures and speech, and the gradual revelation of the whiteboard content.\n\nAlternatively, the main event is the man speaking and gesturing, with the whiteboard content changing as part of his explanation. But the question is about capturing the meaningful events. The answer should list the key actions and changes that occur in the video.\n\nPutting it all together, the most significant events are:\n\n1. The man starts speaking and raises his left hand.\n2. He continues talking, now using both hands to gesture.\n3. His facial expressions vary as he explains.\n4. New sections appear on the whiteboard, such as the red text box and graph.\n\nBut the user might expect the answer to mention both the man's actions and the whiteboard changes. However, the whiteboard's content is part of the static setup shown, so maybe only the man's actions are considered events. Wait, the video shows \"the whiteboard displays several parts that appear sequentially.\" So perhaps each new part appearing on the whiteboard is an event. But since the entire whiteboard is shown at once, maybe those parts were already there but become visible as he explains. Hmm.\n\nAlternatively, the events are the man's gestures and speech, accompanied by the sequential appearance of the whiteboard content. But the answer needs to be concise. Let me check the exact description again.\n\nOriginal video: \"A man appears on the right side of the screen, speaking while gesturing with his hands. At first, he raises his left hand and then begins to talk while gesturing with both of his hands. As he talks, his facial expressions vary slightly. On the left side of the screen, a whiteboard displays several parts that appear sequentially.\"\n\nSo the whiteboard's content is already present but parts appear sequentially. So the events are the man's changing gestures and facial expressions, and the sequential appearance of the whiteboard content. However, the question is about events in the video. The whiteboard's content is part of the video's visual elements, so the sequential appearance of its parts is part of the video's content. Therefore, both the man's actions and the whiteboard's changes are events.\n\nBut the answer needs to be in the format of time-coded sentences. The timestamps are from 0.0s to 18.01s. The man starts",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 91,
+      "start_time": "1820.0",
+      "end_time": "1840.0",
+      "content": "<1820.0> <1838.0> A person sits stationary, speaking into a camera, while various images appear and disappear sequentially on the screen behind them. On the right side of the interface, viewer comments scroll continuously in a chat box.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 92,
+      "start_time": "1840.0",
+      "end_time": "1860.0",
+      "content": "<1840.0> <1858.0> A person in a white shirt with a red logo speaks directly to the camera from the bottom right corner, occasionally gesturing with their left hand near their face and moving their head slightly. Simultaneously, a vertical stream of comments scrolls upward on the right side of the screen, while an inset image in the top left corner displays two individuals practicing martial arts against a scenic backdrop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 93,
+      "start_time": "1860.0",
+      "end_time": "1880.0",
+      "content": "<1864.0> <1868.0> A Korean text overlay appears at the top-left corner of the screen.\n<1868.0> <1872.0> An English translation text",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 94,
+      "start_time": "1880.0",
+      "end_time": "1900.0",
+      "content": "<1880.0> <1898.04> An individual sits indoors, facing the camera, and speaks continuously while occasionally gesturing with their hands. They maintain direct eye contact with the lens, creating a sense of engagement. Overlay graphics appear on both sides of the frame: one featuring an image of a bearded man with Korean text beneath him, and another showing scrolling live comments against a dark backdrop.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1912.866",
+      "content": "<1900.0> <1903.65> A man wearing glasses and a white shirt sits against a backdrop displaying a cityscape image, seemingly engaged in conversation.\n<1903.65> <1905.84> An orange lobster-like creature with a golden crown and red antenna holds a small stick in its left claw; the background shifts from black to light blue with Korean text.\n<1905.84> <1907.73> The lobster lowers its right claw toward a rectangular box labeled \"트랜잭션 투어\" (Transaction Tour).\n<1907.73> <1909.03> The lobster lifts both claws near its face, holding the stick horizontally.\n<1909.03> <1910.3> The lobster releases the stick, which falls vertically above another rectangular box labeled \"블록체인 루프\" (Blockchain Loop).\n<1910.3> <1911.6> The lobster turns to face the camera, waving its right claw enthusiastically.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1912.866",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "id": "e2aa3388-f669-446d-b024-93cb0bb4cc26",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 97
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0.0>   <18.0>  A man is sitting in front of a computer.  <18.0>   <18.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20.0>   <38.0>  A man is sitting in front of a screen.  <20.0>   <38.0>  There are words on the screen.  <32.0>   <38.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40.0>   <58.0>  A man is talking in front of a screen.  <40.0>   <58.0>  There are comments on the right side of the screen.  <58.0>   <58.0>  A picture of a couple is shown on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60.0>   <78.0>  A man is talking in front of a screen.  <60.0>   <78.0>  There is a picture of a couple on the screen.  <72.0>   <78.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80.0>   <98.0>  A man is seen speaking to the camera while a picture is shown above him.  <98.0>   <98.0>  The man continues speaking while the picture changes and the man points to the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100.0>   <118.0>  A man is talking in front of a screen.  <100.0>   <118.0>  There are words on the screen.  <110.0>   <118.0>  There is a beach in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120.0>   <138.0>  A man is talking in front of a screen.  <120.0>   <138.0>  There is a picture of a couple on the screen.  <120.0>   <138.0>  There is a list of comments on the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140.0>   <158.0>  A man is sitting in front of a screen.  <140.0>   <158.0>  There is a picture of a person on the screen.  <140.0>   <158.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160.0>   <178.0>  A man is sitting in front of a screen.  <160.0>   <178.0>  There is a picture of a woman on the screen.  <160.0>   <178.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180.0>   <198.0>  A man is sitting in front of a screen.  <180.0>   <198.0>  There is a woman on the screen.  <192.0>   <198.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200.0>   <218.0>  A man is sitting in front of a screen.  <200.0>   <218.0>  There are words on the screen.  <200.0>   <218.0>  There is a city behind him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220.0>   <238.0>  A man is sitting in front of a screen.  <220.0>   <238.0>  There are words on the screen.  <220.0>   <238.0>  The man is wearing a hat.  <232.0>   <238.0>  The man is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240.0>   <258.0>  A man is sitting in front of a screen.  <240.0>   <258.0>  There are words on the screen.  <258.0>   <258.0>  The man is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260.0>   <278.0>  A man is talking in front of a screen.  <260.0>   <278.0>  There are words on the screen.  <278.0>   <278.0>  The man is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280.0>   <298.0>  A man is sitting in front of a screen.  <298.0>   <298.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300.0>   <318.0>  A man is sitting in front of a computer.  <318.0>   <318.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320.0>   <338.0>  A man is sitting in front of a computer.  <320.0>   <338.0>  There are pictures on the screen.  <320.0>   <338.0>  There are words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340.0>   <358.0>  A man is sitting in front of a computer.  <340.0>   <358.0>  There are pictures on the screen.  <340.0>   <358.0>  There are words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360.0>   <378.0>  A man is sitting in front of a screen.  <374.0>   <378.0>  A picture of a man drinking a drink appears on the screen.  <378.0>   <378.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380.0>   <398.0>  A man is seen speaking to the camera while a picture is shown next to him.  <398.0>   <398.0>  The man continues speaking while the picture changes and the man points to the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400.0>   <418.0>  A man is sitting in front of a screen.  <400.0>   <418.0>  There is a graph on the screen.  <418.0>   <418.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420.0>   <438.0>  A man is talking in front of a screen.  <438.0>   <438.0>  He points to a picture on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440.0>   <458.0>  A man is talking in front of a screen.  <440.0>   <458.0>  There is a picture of a woman on the screen.  <440.0>   <458.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460.0>   <478.0>  A man is sitting in front of a computer.  <460.0>   <478.0>  He is wearing a hat.  <472.0>   <478.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480.0>   <498.0>  A man is talking in front of a screen.  <480.0>   <498.0>  There is a picture of a brain on the screen.  <492.0>   <498.0>  There are comments on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500.0>   <518.0>  A man is talking in front of a screen.  <500.0>   <518.0>  There is a picture of a brain on the screen.  <512.0>   <518.0>  There are comments on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520.0>   <538.0>  A man is sitting in front of a computer.  <538.0>   <538.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540.0>   <558.0>  A man is seen speaking to the camera while looking at a screen and pointing to various things.  <558.0>   <558.0>  The man continues speaking while looking at the screen and pointing to a graph.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560.0>   <578.0>  A man is talking in front of a screen.  <560.0>   <578.0>  There are many comments on the right side of the screen.  <560.0>   <578.0>  There is a graph on the left side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580.0>   <598.0>  A man is talking in front of a screen.  <580.0>   <598.0>  There are graphs on the screen.  <592.0>   <598.0>  There are comments on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600.0>   <618.0>  A man is sitting in front of a screen.  <618.0>   <618.0>  He is talking to the camera.  <618.0>   <618.0>  He is waving his hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620.0>   <638.0>  A man is sitting in front of a screen.  <620.0>   <638.0>  There are words on the screen.  <620.0>   <638.0>  There is a chat box on the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640.0>   <658.0>  A man is sitting in front of a screen.  <640.0>   <658.0>  There is a graph on the screen.  <640.0>   <658.0>  There are comments on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660.0>   <678.0>  A man is sitting in front of a screen.  <660.0>   <678.0>  There are words on the screen.  <678.0>   <678.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680.0>   <698.0>  A man is sitting in front of a computer.  <680.0>   <698.0>  There are many words on the screen.  <680.0>   <698.0>  There is a picture of a man on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700.0>   <718.0>  A man is seen speaking to the camera while looking off into the distance.  <718.0>   <718.0>  The man continues speaking while a graph is shown on the screen and the man points to it.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720.0>   <738.0>  A man is sitting in front of a computer.  <720.0>   <738.0>  There is a graph on the screen.  <720.0>   <738.0>  There is a list of comments on the right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740.0>   <758.0>  A man is sitting in front of a computer.  <758.0>   <758.0>  He is playing a video game.  <758.0>   <758.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760.0>   <778.0>  A man is talking in front of a screen.  <760.0>   <778.0>  There is a picture of a beach behind him.  <772.0>   <778.0>  There is a lot of writing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780.0>   <798.0>  A man is sitting in front of a screen.  <780.0>   <798.0>  There is a picture of a beach on the screen.  <790.0>   <798.0>  There is a lot of writing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800.0>   <818.0>  A man is sitting in front of a screen.  <800.0>   <818.0>  There are words on the right side of the screen.  <818.0>   <818.0>  There is a picture on the left side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820.0>   <838.0>  A man is sitting in front of a screen.  <820.0>   <838.0>  There is a picture of a man on the screen.  <832.0>   <838.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840.0>   <858.0>  A man is sitting in front of a computer.  <840.0>   <858.0>  There is a picture of a man holding an American flag.  <850.0>   <858.0>  There are words on the screen in a foreign language.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860.0>   <878.0>  A man is sitting in front of a computer.  <860.0>   <878.0>  There is a picture of a beach behind him.  <872.0>   <878.0>  There is a chat box on the right side of the screen.  <860.0>   <878.0>  There is a picture of a man holding an American flag on the left side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "900.0",
+      "content": "<880.0>   <898.0>  A man is talking in front of a screen.  <880.0>   <898.0>  There are words on the screen.  <880.0>   <898.0>  There is a picture of a man on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 45,
+      "start_time": "900.0",
+      "end_time": "920.0",
+      "content": "<900.0>   <918.0>  A man is sitting in front of a screen.  <900.0>   <918.0>  There are two pictures of a man on the screen.  <912.0>   <918.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 46,
+      "start_time": "920.0",
+      "end_time": "940.0",
+      "content": "<920.0>   <938.0>  A man is sitting in front of a screen.  <920.0>   <938.0>  There are pictures of men on the screen.  <920.0>   <938.0>  There is a list on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 47,
+      "start_time": "940.0",
+      "end_time": "960.0",
+      "content": "<940.0>   <958.0>  A man is sitting in front of a computer.  <940.0>   <958.0>  There is a picture of a man on the screen.  <950.0>   <958.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 48,
+      "start_time": "960.0",
+      "end_time": "980.0",
+      "content": "<960.0>   <978.0>  A man is talking in front of a screen.  <960.0>   <978.0>  There is a picture of a man on the screen.  <972.0>   <978.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 49,
+      "start_time": "980.0",
+      "end_time": "1000.0",
+      "content": "<980.0>   <998.0>  A man is sitting in front of a screen.  <998.0>   <998.0>  He is talking to the camera.  <998.0>   <998.0>  He is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 50,
+      "start_time": "1000.0",
+      "end_time": "1020.0",
+      "content": "<1000.0>   <1018.0>  A man is talking in front of a screen.  <1000.0>   <1018.0>  There is a picture of a man on the screen.  <1012.0>   <1018.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 51,
+      "start_time": "1020.0",
+      "end_time": "1040.0",
+      "content": "<1020.0>   <1038.0>  A man is seen speaking to the camera while waving his hands around and looking off into the distance.  <1038.0>   <1038.0>  The man continues speaking while the camera pans around pictures and text.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 52,
+      "start_time": "1040.0",
+      "end_time": "1060.0",
+      "content": "<1040.0>   <1058.0>  A man is sitting in front of a screen.  <1040.0>   <1058.0>  There is a picture of a man's chest on the screen.  <1050.0>   <1058.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 53,
+      "start_time": "1060.0",
+      "end_time": "1080.0",
+      "content": "<1060.0>   <1078.0>  A man is sitting in front of a screen.  <1060.0>   <1078.0>  There is a picture of a man's chest on the screen.  <1070.0>   <1078.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 54,
+      "start_time": "1080.0",
+      "end_time": "1100.0",
+      "content": "<1080.0>   <1098.0>  A man is sitting in front of a screen.  <1080.0>   <1098.0>  There are words on the screen.  <1080.0>   <1098.0>  There is a picture of a man on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 55,
+      "start_time": "1100.0",
+      "end_time": "1120.0",
+      "content": "<1100.0>   <1118.0>  A man is talking in front of a screen.  <1100.0>   <1118.0>  There is a picture of a man getting a shot on the screen.  <1100.0>   <1118.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 56,
+      "start_time": "1120.0",
+      "end_time": "1140.0",
+      "content": "<1120.0>   <1138.0>  A man is sitting in front of a computer.  <1120.0>   <1138.0>  There is a picture of a man on the screen.  <1132.0>   <1138.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 57,
+      "start_time": "1140.0",
+      "end_time": "1160.0",
+      "content": "<1140.0>   <1158.0>  A man is sitting in front of a computer.  <1140.0>   <1158.0>  There is a picture of a man on the screen.  <1150.0>   <1158.0>  There is a lot of writing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 58,
+      "start_time": "1160.0",
+      "end_time": "1180.0",
+      "content": "<1160.0>   <1178.0>  A man is talking in front of a screen.  <1160.0>   <1178.0>  There are words on the screen.  <1172.0>   <1178.0>  There is a city behind the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1200.0",
+      "content": "<1180.0>   <1198.0>  A man is talking in front of a screen.  <1198.0>   <1198.0>  He puts his hand on his head.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 60,
+      "start_time": "1200.0",
+      "end_time": "1220.0",
+      "content": "<1200.0>   <1218.0>  A man is talking in front of a screen.  <1200.0>   <1218.0>  There is a picture of a syringe on the screen.  <1200.0>   <1218.0>  There is a list of things on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 61,
+      "start_time": "1220.0",
+      "end_time": "1240.0",
+      "content": "<1220.0>   <1238.0>  A man is sitting in front of a screen.  <1220.0>   <1238.0>  There is a picture of a man on the screen.  <1232.0>   <1238.0>  There are comments on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 62,
+      "start_time": "1240.0",
+      "end_time": "1260.0",
+      "content": "<1240.0>   <1258.0>  A man is talking in front of a screen.  <1240.0>   <1258.0>  There is a picture of a man on the screen.  <1240.0>   <1258.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 63,
+      "start_time": "1260.0",
+      "end_time": "1280.0",
+      "content": "<1260.0>   <1278.0>  A man is talking in front of a screen.  <1260.0>   <1278.0>  There is a picture of a man lifting weights on the screen.  <1270.0>   <1278.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 64,
+      "start_time": "1280.0",
+      "end_time": "1300.0",
+      "content": "<1280.0>   <1298.0>  A man is talking in front of a screen.  <1298.0>   <1298.0>  A picture of a body builder is on the screen.  <1298.0>   <1298.0>  The man is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 65,
+      "start_time": "1300.0",
+      "end_time": "1320.0",
+      "content": "<1300.0>   <1318.0>  A man is sitting in front of a screen.  <1300.0>   <1318.0>  There is a picture of a man on the screen.  <1312.0>   <1318.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 66,
+      "start_time": "1320.0",
+      "end_time": "1340.0",
+      "content": "<1320.0>   <1338.0>  A man is sitting in front of a screen.  <1320.0>   <1338.0>  There is a picture of a man on the screen.  <1320.0>   <1338.0>  There are words on the screen.  <1338.0>   <1338.0>  The man starts flexing his arm.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 67,
+      "start_time": "1340.0",
+      "end_time": "1360.0",
+      "content": "<1340.0>   <1358.0>  A man is talking in front of a screen.  <1340.0>   <1358.0>  There are people on the screen.  <1352.0>   <1358.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 68,
+      "start_time": "1360.0",
+      "end_time": "1380.0",
+      "content": "<1360.0>   <1378.0>  A man is sitting in front of a computer.  <1360.0>   <1378.0>  There is a picture of a beach behind him.  <1370.0>   <1378.0>  There are words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 69,
+      "start_time": "1380.0",
+      "end_time": "1400.0",
+      "content": "<1380.0>   <1398.0>  A man is sitting in front of a computer.  <1380.0>   <1398.0>  There is a picture of a beach behind him.  <1380.0>   <1398.0>  There is a chat box on the right side of the screen.  <1380.0>   <1398.0>  There is a picture of a man on the left side of the screen.  <1380.0>   <1398.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 70,
+      "start_time": "1400.0",
+      "end_time": "1420.0",
+      "content": "<1400.0>   <1418.0>  A man is talking in front of a screen.  <1418.0>   <1418.0>  He takes a drink from a bottle.  <1418.0>   <1418.0>  He continues talking in front of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 71,
+      "start_time": "1420.0",
+      "end_time": "1440.0",
+      "content": "<1420.0>   <1438.0>  A man is seen speaking to the camera while holding up a piece of paper.  <1438.0>   <1438.0>  The man continues speaking while the camera pans around a screen and back to him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 72,
+      "start_time": "1440.0",
+      "end_time": "1460.0",
+      "content": "<1440.0>   <1458.0>  A man is sitting in front of a computer.  <1440.0>   <1458.0>  There is a picture of a man on the screen.  <1440.0>   <1458.0>  There is a list of words on the screen.  <1440.0>   <1458.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 73,
+      "start_time": "1460.0",
+      "end_time": "1480.0",
+      "content": "<1460.0>   <1478.0>  A man is sitting in front of a screen.  <1460.0>   <1478.0>  There is a picture of a beach behind him.  <1460.0>   <1478.0>  There is a lot of writing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 74,
+      "start_time": "1480.0",
+      "end_time": "1500.0",
+      "content": "<1480.0>   <1498.0>  A man is talking in front of a screen.  <1480.0>   <1498.0>  There is a picture of a man getting a shot on the screen.  <1492.0>   <1498.0>  There are comments on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 75,
+      "start_time": "1500.0",
+      "end_time": "1520.0",
+      "content": "<1500.0>   <1518.0>  A man is sitting in front of a screen.  <1518.0>   <1518.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 76,
+      "start_time": "1520.0",
+      "end_time": "1540.0",
+      "content": "<1520.0>   <1538.0>  A man is seen speaking to the camera while text appears on the screen.  <1538.0>   <1538.0>  The man continues speaking while more text appears on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 77,
+      "start_time": "1540.0",
+      "end_time": "1560.0",
+      "content": "<1540.0>   <1558.0>  A man is sitting in front of a screen.  <1540.0>   <1558.0>  There is a picture of a man on the screen.  <1540.0>   <1558.0>  There are words on the screen.  <1558.0>   <1558.0>  The man puts his hand on his head.  <1558.0>   <1558.0>  The man smiles and looks at the camera.  <1558.0>   <1558.0>  The picture on the screen changes.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 78,
+      "start_time": "1560.0",
+      "end_time": "1580.0",
+      "content": "<1560.0>   <1578.0>  A man is sitting in front of a screen.  <1560.0>   <1578.0>  There are two pictures on the screen.  <1572.0>   <1578.0>  There are a lot of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 79,
+      "start_time": "1580.0",
+      "end_time": "1600.0",
+      "content": "<1580.0>   <1598.0>  A man is sitting in front of a screen.  <1598.0>   <1598.0>  The screen is showing a lot of information.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 80,
+      "start_time": "1600.0",
+      "end_time": "1620.0",
+      "content": "<1600.0>   <1618.0>  A man is sitting in front of a screen.  <1600.0>   <1618.0>  There are words on the screen.  <1600.0>   <1618.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 81,
+      "start_time": "1620.0",
+      "end_time": "1640.0",
+      "content": "<1620.0>   <1638.0>  A man is sitting in front of a computer.  <1620.0>   <1638.0>  He is reading off of a script.  <1620.0>   <1638.0>  He is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 82,
+      "start_time": "1640.0",
+      "end_time": "1660.0",
+      "content": "<1640.0>   <1658.0>  A man is sitting in front of a computer.  <1640.0>   <1658.0>  There are many words on the screen.  <1640.0>   <1658.0>  The man is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 83,
+      "start_time": "1660.0",
+      "end_time": "1680.0",
+      "content": "<1660.0>   <1678.0>  A man is sitting in front of a screen.  <1660.0>   <1678.0>  There are words on the screen.  <1678.0>   <1678.0>  The man is wearing a hat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 84,
+      "start_time": "1680.0",
+      "end_time": "1700.0",
+      "content": "<1680.0>   <1698.0>  A man is sitting in front of a screen.  <1680.0>   <1698.0>  There is a picture of a man's head on the screen.  <1692.0>   <1698.0>  There are words on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 85,
+      "start_time": "1700.0",
+      "end_time": "1720.0",
+      "content": "<1700.0>   <1718.0>  A man is sitting in front of a screen.  <1700.0>   <1718.0>  There are words on the screen.  <1700.0>   <1718.0>  There is a picture of a watermelon on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 86,
+      "start_time": "1720.0",
+      "end_time": "1740.0",
+      "content": "<1720.0>   <1738.0>  A man is sitting in front of a screen.  <1720.0>   <1738.0>  There is a picture of a watermelon on the screen.  <1732.0>   <1738.0>  There are words on the screen.  <1734.0>   <1738.0>  The man is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 87,
+      "start_time": "1740.0",
+      "end_time": "1760.0",
+      "content": "<1740.0>   <1758.0>  A man is talking in front of a screen.  <1740.0>   <1758.0>  There are words on the screen.  <1740.0>   <1758.0>  There is a beach behind the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 88,
+      "start_time": "1760.0",
+      "end_time": "1780.0",
+      "content": "<1760.0>   <1778.0>  A man is sitting in front of a screen.  <1760.0>   <1778.0>  There is a picture of a beach behind him.  <1772.0>   <1778.0>  There is a list of words on the right side of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 89,
+      "start_time": "1780.0",
+      "end_time": "1800.0",
+      "content": "<1780.0>   <1798.0>  A man is sitting in front of a screen.  <1780.0>   <1798.0>  There is a picture of a beach behind him.  <1790.0>   <1798.0>  There is a power point presentation on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 90,
+      "start_time": "1800.0",
+      "end_time": "1820.0",
+      "content": "<1800.0>   <1818.0>  A man is sitting in front of a screen.  <1800.0>   <1818.0>  There are words on the screen.  <1800.0>   <1818.0>  There is a city behind the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 91,
+      "start_time": "1820.0",
+      "end_time": "1840.0",
+      "content": "<1820.0>   <1838.0>  A man is sitting in front of a computer.  <1820.0>   <1838.0>  There are Chinese words on the screen.  <1838.0>   <1838.0>  A picture of two men appears on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 92,
+      "start_time": "1840.0",
+      "end_time": "1860.0",
+      "content": "<1840.0>   <1858.0>  A man is sitting in front of a screen.  <1858.0>   <1858.0>  He is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 93,
+      "start_time": "1860.0",
+      "end_time": "1880.0",
+      "content": "<1860.0>   <1878.0>  A man is talking in front of a screen.  <1878.0>   <1878.0>  A picture of a man appears on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 94,
+      "start_time": "1880.0",
+      "end_time": "1900.0",
+      "content": "<1880.0>   <1898.0>  A man is sitting in front of a screen.  <1898.0>   <1898.0>  He is talking to the camera.  <1898.0>   <1898.0>  He is making hand gestures.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1912.866",
+      "content": "<1900.0>   <1911.6>  A man is talking in front of a screen.  <1911.6>   <1911.6>  A cartoon shrimp is shown on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1912.866",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

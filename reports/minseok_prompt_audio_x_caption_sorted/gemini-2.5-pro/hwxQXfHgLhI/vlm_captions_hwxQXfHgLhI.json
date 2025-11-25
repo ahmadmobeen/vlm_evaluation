@@ -1,0 +1,338 @@
+{
+  "id": "e6e2e3f6-cb83-4df8-ad27-def67d523180",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 46
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0> <2> A group of people are sitting on a couch, watching someone play a game.\n<2> <4> A woman in a white coat clasps her hands together nervously.\n<4> <6> A man in a green sweater watches intently as another man prepares to throw a ball.\n<6> <8> A man in a light green shirt picks up an orange ping pong ball.\n<8> <12> The man throws the orange ping pong ball towards a camera bag on the floor.\n<12> <14> The ball bounces off the floor and into the camera bag.\n<14> <16> A man in a striped shirt looks on with a shocked expression.\n<16> <18> The group celebrates the successful throw.\n<18> <20> An animated outro screen shows a dog and a television.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20> <22> An intro screen for an SBS entertainment show is displayed.\n<22> <24> A title card reads \"왕진 가방 빙고\" (Doctor's Bag Bingo).\n<24> <28> The game's objective is shown: \"Bounce a ping pong ball on the floor to make a bingo.\"\n<28> <31> The text explains the first stage: \"Make one line of bingo with 5 ping pong balls.\"\n<31> <35> The cast members are sitting and getting ready for the game, which is their first attempt out of ten chances.\n<35> <38> A player takes a ping pong ball and aims for the center of the bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40> <42> A man and a woman in white coats are sitting and listening.\n<42> <44> A group of people are sitting in a room, watching something.\n<44> <46> A man in a green shirt throws a small orange ball.\n<46> <48> The people react with surprise and applause as the ball lands.\n<48> <50> A close-up shows the orange ball has landed in a bag with silver objects.\n<50> <52> Three men are shown watching intently, with a graphic of a game board.\n<52> <54> The group continues to watch the game.\n<54> <56> The woman in the white coat claps and cheers.\n<56> <58> A split screen shows the men reacting and the bag with the ball.\n<58> <59> A man points at a specific section of the bag, highlighted by a red box.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60> <61> A close-up shows a bag with several metal cups inside, arranged in a grid.\n<62> <64> A group of people are sitting in a room, looking at the bag on the floor.\n<64> <66> A graphic appears on screen with the text \"Today's ace, Yeonseok\".\n<68> <70> A man in a striped shirt picks up a yellow ping pong ball and aims.\n<70> <72> He says he will aim for the middle cup.\n<72> <74> He throws the ball, but it misses the cups and lands in the bag.\n<74> <76> The men look disappointed at the missed shot.\n<76> <78> Another man in a green shirt gets ready to throw his ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80> <82> A man in a green shirt is about to throw a ping pong ball.\n<82> <86> A graphic shows the game board and explains that all three remaining balls must go in.\n<86> <88> A woman in a white coat clasps her hands together, watching intently.\n<88> <92> The man in the green shirt throws the ball, and it bounces on the floor.\n<92> <95> The ball bounces once more and lands in a cup inside a camera bag.\n<95> <98> A close-up shows the ball landed in a cup that already contained another ball.\n<98> <99> The man in the green shirt reacts with surprise.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<99> <101> A man in a green sweater smiles, next to a shot of a backpack with compartments.\n<101> <103> A group of people sits in a room, looking at the backpack on the floor.\n<103> <106> Four men are sitting on a couch, watching something off-screen.\n<106> <109> The men continue to watch, with one of them leaning forward.\n<109> <111> A man in a green shirt talks to a man in a green sweater.\n<111> <113> The men are shown with text indicating how many ping pong balls each will get.\n<113> <115> The men start taking ping pong balls from containers.\n<115> <117> A close-up shows a man taking two ping pong balls from a container.\n<117> <119> A man in glasses looks intently at a ping pong ball he is holding.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120> <122> The men are sitting on a couch, preparing to play a game with a ping pong ball.\n<122> <126> A man in a green shirt throws a ping pong ball into a camera bag.\n<126> <128> The ball successfully lands in one of the compartments of the camera bag.\n<128> <130> The doctors in white coats clap and smile.\n<130> <134> Another man in a green shirt prepares to throw a ping pong ball.\n<134> <138> He throws the ball, but it bounces off the wall and misses the target.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140> <142> A man in a green shirt smiles with his eyes closed.\n<142> <144> A man in a dark green shirt and glasses gives instructions.\n<144> <146> A man in a striped shirt looks down, focused on the game.\n<146> <149> A group of people are sitting on couches, playing a game where they drop balls into a bag.\n<149> <151> A close-up shot shows a ball successfully landing in one of the bag's compartments.\n<151> <153> The group celebrates the successful throw.\n<153> <155> The men discuss their strategy for the next throw.\n<155> <157> A man in a striped shirt prepares to take his turn.\n<157> <159> A close-up shot shows two balls in the bag, with an animation pointing to them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160> <161> A camera bag with nine compartments is shown, with a caption indicating that getting the center one means bingo.\n<161> <163> A man in a green shirt and glasses speaks, with a caption identifying him as the anxious last player.\n<163> <165> A man in a white coat and glasses smiles.\n<165> <167> A man in a striped shirt prepares to throw a ping pong ball.\n<167> <169> The group sits on chairs, ready to play a game of throwing ping pong balls into the bag.\n<169> <171> A man in a light green shirt looks surprised.\n<171> <173> The man in the striped shirt throws the ping pong ball.\n<173> <175> The ping pong balls have landed in three compartments of the bag.\n<175> <177> A graphic shows a diagonal line, indicating a bingo has been achieved.\n<177> <179> The man in the striped shirt celebrates his successful throw.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180> <182> A man in a striped shirt shouts in excitement.\n<182> <184> A man in a light green shirt cheers while holding a small orange ball.\n<184> <186> A woman in a white coat high-fives someone off-screen while a man claps.\n<186> <188> A group of people celebrate together, shaking hands and cheering.\n<188> <190> A man in a green shirt and glasses looks down and smiles, as a woman claps happily.\n<190> <192> The man in the striped shirt looks surprised.\n<192> <194> The group discusses something, with one man holding a container of orange balls.\n<194> <196> The men are laughing and looking at the orange balls.\n<196> <198> The man in the striped shirt looks at a small red object in his hand.\n<198> <200> The men are holding small, colorful folded papers that were inside the balls.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200> <201> The group celebrates their success in the first stage.\n<201> <204> A man in a striped shirt talks excitedly.\n<204> <208> He presents a coffee machine as a gift to the two people in white coats.\n<208> <213> The woman in the white coat is very happy and claps her hands, saying it's a much-needed gift for the clinic.\n<213> <215> The man in the striped shirt holds the gift while talking to the couple.\n<215> <217> The man in glasses explains that there are 9 chances left.\n<217> <219> The group discusses whether to continue (GO) or stop (STOP).",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220> <221> A female and a male doctor are sitting and talking.\n<222> <224> A graphic shows the number 200 over a group of people sitting in a room.\n<225> <230> The female doctor reads from a small piece of paper.\n<231> <233> Two men react with surprise and excitement.\n<235> <236> The female doctor smiles happily.\n<237> <239> A man carries a large cardboard box with a picture of a bicycle on it.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<239> <241> A man is seen carrying a large box with a picture of a bicycle on it into a room.\n<241> <245> A woman in a white coat is speaking enthusiastically while sitting next to a man, also in a white coat.\n<245> <249> The woman continues to speak, and a man in a striped shirt is shown listening.\n<249> <253> The woman claps her hands together, showing a strong, positive reaction.\n<253> <257> A black screen with text appears, announcing the second stage of a game: making two lines of bingo with seven ping pong balls.\n<257> <259> A wide shot shows a group of people sitting in a room, ready to play the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260> <262> A man in a striped shirt volunteers to go first.\n<262> <264> Another man in a green sweater gives him advice.\n<264> <266> The man in the striped shirt picks up a ping pong ball.\n<266> <268> A group of people are sitting in a room, ready to play a game.\n<268> <272> The man in the striped shirt successfully throws the ping pong ball into a compartment in a backpack.\n<272> <274> Another man tells him to wait a bit.\n<274> <278> The next person gets ready to take their turn.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280> <282> The men are sitting in a row, preparing to play a game with ping pong balls.\n<282> <285> A man holds a bucket of ping pong balls, and a camera bag with dividers is shown.\n<285> <287> Two people in white coats are clapping their hands.\n<287> <291> A graphic shows how to get a bingo in the game.\n<291> <295> A man in a green shirt is about to throw a ping pong ball.\n<295> <297> The men are watching intently as the game is played.\n<297> <299> The group is sitting in a room, playing a game with ping pong balls and a camera bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300> <302> The group watches intently as a game involving throwing objects into a partitioned bag is played.\n<302> <304> A close-up shows the bag with several objects successfully thrown into the compartments.\n<304> <306> A caption highlights one of the successful throws in the center column.\n<306> <308> A man in a green shirt celebrates a successful throw.\n<308> <310> The other men react with surprise and excitement.\n<310> <312> A man in a dark green shirt and glasses looks on in disbelief.\n<312> <314> A graphic highlights the possibility of getting two lines of bingo in the game.\n<314> <316> The graphic then highlights the two vertical columns that could lead to a win.\n<316> <318> The graphic shifts to highlight a horizontal and a vertical line.\n<318> <320> A woman in a white coat claps her hands together, praying for a specific outcome.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320> <322> A woman in a white coat explains something with her hands together, while a man in a green shirt looks at a container of small orange balls.\n<322> <323> Two men are shown talking to each other.\n<323> <326> A camera bag on the floor is shown with small yellow balls being thrown into it.\n<326> <330> The camera focuses on the bag, showing that only one compartment has a single ball in it.\n<330> <332> A man in a green shirt prepares to throw a small orange ball into a container.\n<332> <336> A wide shot shows a group of people sitting and watching a man attempt to throw a ball into a camera bag on the floor.\n<336> <338> The man successfully throws the ball into the bag.\n<338> <339> The group celebrates the successful throw.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340> <341> A camera bag is shown with several compartments filled with cups.\n<341> <345> A group of people reacts with surprise and excitement as two men play a game with small orange balls.\n<345> <347> The man in the green shirt celebrates his successful throw.\n<347> <349> A woman in a white coat covers her mouth in shock and delight.\n<349> <353> A man in a striped shirt attempts to throw a small ball into a compartment in the camera bag.\n<353> <356> The man in the green shirt points at the bag, indicating where the next ball should go.\n<356> <359> The man in the striped shirt successfully throws another ball into the bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360> <362> A man in a green sweater is talking to the people around him.\n<362> <366> A man in a green shirt and glasses is speaking.\n<366> <370> A man in a striped shirt is holding a ping pong ball, preparing to throw it.\n<370> <374> The group is sitting in a room, looking towards a camera bag on the floor.\n<374> <376> A close-up shows the camera bag with cups and ping pong balls inside.\n<376> <378> A graphic overlay shows the possible winning lines for the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "380 382 A man in a green shirt prepares to throw a ping pong ball into a camera bag.\n382 384 A man in a striped shirt celebrates, saying \"It's in! It's in!\".\n384 386 Two people in white coats watch anxiously with their hands clasped.\n386 388 The man in the green shirt holds a ping pong ball, ready for his turn.\n388 390 A man in a light green shirt looks on with a serious expression.\n390 394 The man in the green shirt throws the ping pong ball towards the camera bag.\n394 396 A man with glasses reacts with a surprised expression.\n396 398 The ping pong ball successfully lands in one of the compartments of the camera bag.\n398 400 A top-down view shows the camera bag with the ping pong ball inside.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400> <402> A backpack is shown with nine compartments, some containing yellow balls and others containing silver objects.\n<402> <404> A graphic highlights three completed lines in a tic-tac-toe pattern within the backpack.\n<404> <406> A group of people celebrates enthusiastically in a room.\n<406> <408> Two men hug and laugh in celebration.\n<408> <410> A man in a striped shirt smiles and pats another man on the back.\n<410> <412> The group continues to celebrate, high-fiving and cheering.\n<412> <414> The celebration continues with everyone smiling and clapping.\n<414> <416> The group cheers as they successfully complete the second stage of a challenge.\n<416> <418> A man in a green shirt and glasses pumps his fist in excitement.\n<418> <420> Two men hug each other while celebrating their success.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420> <422> The men are sitting on a couch, discussing their next move in the game.\n<422> <424> The doctors are sitting opposite them, looking amused.\n<424> <426> A man in a striped shirt speaks, deciding whether to continue to the next stage.\n<426> <428> The doctors listen intently to the decision being made.\n<428> <430> The male doctor suggests that it might be a long game.\n<430> <434> The men on the couch discuss that they have eight chances left.\n<434> <436> The man in the green shirt points out that even the production team is surprised.\n<436> <438> The man in the light green striped shirt jokes that the others can't hide their expressions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440> <441> A man in a green sweater laughs, confident that his plan will work.\n<441> <443> A woman is shown hiding and looking flustered.\n<443> <445> Two people in white coats, a man and a woman, are sitting and talking.\n<445> <447> The man in the green sweater smiles and looks to the side.\n<447> <449> The camera focuses on two men listening intently.\n<449> <451> The man in the white coat gestures while speaking.\n<451> <453> A group of men are sitting together, waiting for a result.\n<453> <455> A man in a striped shirt looks nervous.\n<455> <457> The two people in white coats look at a piece of paper with surprised expressions.\n<457> <459> The woman in the white coat claps her hands in excitement while the man reads from the paper.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460> <462> A doctor explains that he wants to accurately inform them about their blood pressure.\n<462> <464> A doctor claps her hands in excitement for the third-level gift, an InBody blood pressure monitor.\n<464> <466> A picture of a high-end automatic blood pressure monitor is shown.\n<466> <470> The doctor is surprised to hear that the monitor is worth about 1.2 million won.\n<470> <472> The cast members are amazed by the high-performance equipment.\n<472> <476> A cast member speculates that it can probably be linked to a mobile phone.\n<476> <478> The cast members laugh together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "480 482 A man in a green shirt smiles while talking to another man.\n482 484 The man in the striped shirt smiles and talks.\n484 485 A man and a woman in white coats are sitting and listening.\n486 488 A black screen shows Korean text that reads \"Step 3: The center compartment is blocked.\"\n488 492 An overhead view of a camera bag with nine metal cups inside is shown.\n492 494 The center cup is removed from the bag.\n494 496 A man in a striped shirt looks down at something.\n496 498 The man in the striped shirt speaks while looking down.\n498 499 A split screen shows a man in a white coat speaking and the camera bag with cups.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500> <501> A man in a doctor's coat looks at a camera bag filled with metal cups.\n<501> <502> A man in a striped shirt speaks.\n<503> <505> A group of six people sit in a room, preparing to play a game.\n<505> <506> A man in a light green shirt is announced as the first player.\n<507> <511> The first player throws a ping pong ball into the camera bag.\n<511> <512> The ball successfully lands in one of the corner cups.\n<512> <514> A man in a green sweater is shown, with a graphic indicating a successful corner shot.\n<514> <518> The group celebrates the successful shot.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<519> <521> A backpack is shown with glasses and ping pong balls inside.\n<521> <523> A man in a striped shirt speaks.\n<523> <525> A man in a green shirt and glasses looks down as he plays a game.\n<525> <527> Three men are sitting on a couch, playing a game with ping pong balls.\n<527> <529> A ping pong ball successfully lands in one of the glasses in the backpack.\n<529> <531> The man in the green shirt reacts to the game, with a graphic showing the backpack next to him.\n<531> <533> A woman in a white coat claps her hands in excitement.\n<533> <535> The man in the striped shirt reacts with disappointment.\n<535> <539> A graphic shows the backpack with the remaining empty glasses highlighted.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540> <542> A man in a striped shirt holds a bucket of orange ping pong balls.\n<542> <544> A group of people are sitting and watching a game.\n<544> <546> A backpack with compartments is shown on the floor.\n<546> <548> A woman in a white coat claps her hands in excitement.\n<548> <552> Four men are sitting together, each holding a ping pong ball.\n<552> <556> A hand points to the compartments inside the backpack.\n<556> <558> A graphic highlights the remaining empty slots in the backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560> <561> A man says that it's possible if they put in all three remaining balls.\n<562> <564> Another man in a striped shirt stands up, and the caption calls him the ace.\n<566> <568> A man tells another man named Jaeseok that it's all over if he can't make it.\n<569> <570> A man says he's not trying to pressure him.\n<571> <572> Another man says he should feel some pressure.\n<573> <575> The man in the striped shirt gets ready to throw the ball.\n<575> <578> He says, \"Here I go... I like orange today.\"",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580> <584> A close-up shot shows a bag with compartments containing cups and balls.\n<584> <586> Two men look surprised with their mouths open.\n<586> <590> Four men are sitting together, looking at something off-screen.\n<590> <592> A woman in a white coat smiles.\n<592> <597> A split screen shows men playing with a ball on the left and the bag with cups on the right.\n<597> <599> Two men watch intently as another man plays with the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600> <601> A man and a woman in lab coats are watching something with interest.\n<601> <605> A group of men are playing a game, trying to bounce a ping pong ball into a glass.\n<605> <607> A woman in a lab coat clasps her hands together in anticipation.\n<607> <611> A man in a green shirt successfully bounces a ping pong ball into a glass.\n<611> <613> The man in the green shirt smiles after his successful attempt.\n<613> <617> A split screen shows a man in a green shirt talking and a close-up of the game setup.\n<617> <619> The man and woman in lab coats smile and watch the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620> <622> A group of people are sitting in a room, listening to instructions for a game.\n<622> <624> A close-up shows a bag with compartments, each holding a metal bowl.\n<624> <626> Two men are sitting together, one holding a container of small orange balls.\n<626> <628> Two men in green shirts are focused on the game in front of them.\n<628> <630> The group is preparing to play a game involving throwing balls into bowls.\n<630> <632> A man in a light green shirt gestures as he explains a strategy.\n<632> <634> The group continues to discuss their strategy for the game.\n<634> <636> A man in a dark green shirt picks up an orange ball from a container.\n<636> <638> A man in a bright green shirt leans forward, preparing to throw a ball.\n<638> <640> The man in the dark green shirt watches his teammate prepare to throw.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640> <642> Four men are sitting on a couch, preparing to play a game with ping pong balls and plastic containers.\n<642> <644> One man points out that another man is sitting too far forward.\n<644> <646> The men laugh together while holding the ping pong balls.\n<646> <648> The man in the green shirt smiles while the others prepare for the game.\n<648> <650> A man and a woman in doctor's coats are watching them and smiling.\n<650> <652> The four men get ready for their sixth attempt at the game.\n<652> <656> The man in the dark green shirt talks to the man next to him, gesturing with his hands.\n<656> <658> The woman in the doctor's coat claps her hands and speaks to the men.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660> <662> A group of people, including two in white coats, put their hands together in the center.\n<662> <665> The group cheers and raises their hands together.\n<665> <667> The two people in white coats sit down, smiling and raising their fists.\n<667> <671> The other men distribute orange ping pong balls into clear containers.\n<671> <673> The four men sit on a couch, each holding a ping pong ball and raising their fists.\n<673> <676> The men discuss their strategy for the game.\n<676> <678> One of the men says they have to get the ball in.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680> <684> A man in a striped shirt explains the game while holding a small orange ball.\n<684> <686> He successfully throws the ball into one of the compartments of the open bag.\n<686> <688> He licks his lips in satisfaction after his successful throw.\n<688> <692> The other people in the room cheer and applaud his success.\n<692> <696> Another man in a light green shirt attempts the throw but misses, looking disappointed.\n<696> <700> Two men in green shirts prepare for their turn to throw the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700> <702> The cast members are sitting in a room, preparing for a game.\n<702> <704> A man in a green shirt is shown next to a camera bag with compartments.\n<704> <706> A man in a striped shirt gets ready to throw a ping pong ball.\n<706> <708> A graphic shows the game board and the target area for the throw.\n<708> <710> The man in the striped shirt throws the ping pong ball towards the camera bag.\n<710> <712> The ping pong ball successfully lands in one of the compartments.\n<712> <714> A graphic with exclamation marks appears, highlighting the successful throw.\n<714> <716> A text overlay confirms that the throw was a success.\n<716> <718> A man in glasses explains the next part of the game, with a graphic showing the updated game state.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720> <722> A man in a striped shirt explains the game, holding a small yellow ball.\n<722> <724> The other participants listen intently to the explanation.\n<724> <726> The man in the striped shirt prepares to throw the ball.\n<726> <729> He throws the yellow ball towards a camera bag on the floor.\n<729> <733> The ball successfully lands in one of the compartments of the camera bag.\n<733> <735> The man who threw the ball looks shocked and impressed.\n<735> <738> The other participants erupt in cheers and applause.\n<738> <739> Two people in white coats clap and laugh with excitement.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740> <741> A man in a green shirt and glasses speaks with a surprised expression.\n<741> <743> Another man in a striped shirt looks shocked.\n<743> <745> A man in a light green shirt questions something while a backpack with compartments is shown.\n<745> <747> The man in the striped shirt looks into the backpack, which now has a red object in one compartment.\n<747> <749> The man in the striped shirt gestures excitedly towards the others, who are holding small orange balls.\n<749> <751> The man in the striped shirt speaks with a smile.\n<751> <753> The man in the green shirt and glasses explains something with hand gestures.\n<753> <755> He continues to speak, pointing to the side.\n<755> <757> The man in the light green shirt holds up a small orange ball and speaks.\n<757> <759> Three of the men put their fists together over a container of orange balls.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760> <761> Two doctors in white coats are sitting together and smiling.\n<761> <765> Two men are shown in a split screen, looking nervous and putting their hands together as if praying.\n<765> <768> One of the men, wearing a green shirt, is shown holding a small orange ball.\n<768> <770> A man in a green sweater smiles and watches.\n<770> <775> The man in the striped shirt continues to look nervous with his hands clasped.\n<775> <778> A shot of an open backpack reveals several cups and balls neatly arranged inside.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780> <784> A man in a green shirt and glasses prepares to throw a small orange ball.\n<784> <788> The man throws the ball towards a camera bag on the floor.\n<788> <792> The other people in the room watch intently as the ball flies through the air.\n<792> <796> The ball lands in one of the compartments of the camera bag.\n<796> <798> The people react with disappointment and frustration.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800> <802> A man in a striped shirt looks up with a determined expression.\n<802> <804> A man in a green shirt and glasses speaks, with a game board graphic on screen.\n<804> <806> The man in the striped shirt smiles and prepares to take his turn.\n<806> <808> He holds a small orange ball, getting ready to throw it.\n<808> <810> A wide shot shows the group watching him as he aims for a bag on the floor.\n<810> <812> A woman in a white coat clasps her hands together, watching intently.\n<812> <814> The man in the striped shirt focuses on his target.\n<814> <816> Another man in a green sweater leans in to watch closely.\n<816> <818> The man in the striped shirt throws the orange ball.\n<818> <820> The ball successfully lands inside the open bag on the floor.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820> <826> A group of people are watching intently as a man tries to throw a small orange ball into a camera bag.\n<826> <828> The ball successfully lands in one of the compartments of the camera bag.\n<828> <830> Everyone jumps up and cheers in celebration.\n<830> <832> A top-down view shows the camera bag with the orange ball inside.\n<832> <834> The group continues to celebrate, with some hugging each other.\n<834> <838> The celebration continues with cheering, hugging, and high-fives.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<839> <841> The people in white coats are touched and clap their hands.\n<841> <843> The men in the back celebrate wildly, raising their arms.\n<843> <845> Two men hold hands and raise them in victory.\n<845> <847> A man in a green shirt looks emotional and relieved.\n<847> <849> A man in a light green shirt thanks the man in the dark green shirt.\n<849> <851> The men hug each other in celebration.\n<851> <855> A replay shows the group watching intently.\n<855> <857> The replay shows the group reacting with surprise and excitement.\n<857> <860> The replay shows a close-up of the bag with cups and eggs.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860> <862> The men are laughing and celebrating together.\n<862> <864> The men hug and high-five each other in celebration.\n<864> <866> The men continue to celebrate, hugging and talking.\n<866> <868> The two doctors in white coats are clapping and smiling.\n<868> <872> The whole group, including the doctors, is clapping and celebrating.\n<872> <874> The doctors continue to clap and smile.\n<874> <878> An animated dog wearing a hat is shown watching a television.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": "0 1 A logo with Korean text and a cartoon dog is shown on a cartoon television screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

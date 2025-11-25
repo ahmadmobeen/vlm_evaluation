@@ -1,0 +1,338 @@
+{
+  "id": "e6e2e3f6-cb83-4df8-ad27-def67d523180",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 46
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0.0>   <18.02>  A group of people are sitting in a circle.  <18.02>   <18.02>  They are playing a game.  <18.02>   <18.02>  They are throwing a ball into a suitcase.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20.02>   <38.01>  A cartoon dog is shown next to a television.  <38.01>   <38.01>  A group of people are shown sitting on a couch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40.01>   <58.02>  A group of people are sitting on a couch.  <52.02>   <58.02>  They are playing a game with a robot.  <58.02>   <58.02>  They are trying to get the robot to pick up a ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60.03>   <78.01>  People are sitting on a couch.  <60.03>   <78.01>  A suitcase is on the floor.  <60.03>   <78.01>  A man is holding a ball.  <78.01>   <78.01>  A man throws a ball into a suitcase.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80.01>   <98.03>  A group of men are sitting on a couch.  <98.03>   <98.03>  A man in a green shirt is holding a bag.  <98.03>   <98.03>  A woman in a white coat is sitting on a couch.  <98.03>   <98.03>  The man in the green shirt is holding a ball.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.  <98.03>   <98.03>  The man in the green shirt is holding a bag.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.  <98.03>   <98.03>  The man in the green shirt throws the ball into the bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100.0>   <118.02>  A group of people are sitting on a couch.  <100.0>   <118.02>  They are playing a game with oranges.  <114.01>   <118.02>  They are trying to throw the oranges into a container.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120.02>   <138.0>  A group of people are sitting on a couch.  <120.02>   <138.0>  They are playing a game with a ball.  <138.0>   <138.0>  They are trying to get the ball into a backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140.01>   <158.02>  A man in a green shirt is talking.  <158.02>   <158.02>  People are sitting on a couch.  <158.02>   <158.02>  They are playing a game with a bag of balls.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160.03>   <174.01>  A backpack is shown with several oranges in it.  <174.01>   <178.01>  A group of men are sitting around a room and they are throwing oranges into the backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180.01>   <198.03>  A group of people are seen sitting around a room and leads into one man holding up a container.  <198.03>   <198.03>  The man then hands out candy to the people and they all begin eating and laughing with one another.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200.0>   <218.02>  A group of people are sitting on a couch.  <200.0>   <218.02>  A man in a striped shirt is standing up talking.  <218.02>   <218.02>  A woman in a white coat is sitting on the couch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220.02>   <238.0>  A man and a woman are sitting on a couch.  <238.0>   <238.0>  A man is sitting on a couch behind them.  <238.0>   <238.0>  The woman is holding a test.  <238.0>   <238.0>  The man and the woman are talking.  <238.0>   <238.0>  The man is clapping his hands.  <238.0>   <238.0>  The woman is holding the test up.  <238.0>   <238.0>  The man is talking.  <238.0>   <238.0>  The woman is holding the test up.  <238.0>   <238.0>  The man is talking.  <238.0>   <238.0>  A man is standing behind a box.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240.01>   <254.02>  A man is carrying a box into a room.  <252.02>   <258.02>  Two people are sitting on a couch talking.  <258.02>   <258.02>  A man is sitting in a chair talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260.03>   <278.01>  A group of people are sitting on a couch.  <260.03>   <278.01>  They are playing a game with a robot.  <274.01>   <278.01>  They are throwing balls at the robot.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280.01>   <298.03>  People are sitting on a couch.  <280.01>   <298.03>  They are playing a game with balls.  <294.03>   <298.03>  They are putting the balls into a case.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300.03>   <318.02>  A group of people are sitting on a couch.  <318.02>   <318.02>  A backpack is shown on the floor.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320.02>   <338.0>  A woman is sitting on a couch talking to a man.  <338.0>   <338.0>  A group of people are sitting on a couch playing a game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340.01>   <358.02>  People are sitting on a couch.  <340.01>   <358.02>  They are playing a game.  <340.01>   <358.02>  They are throwing balls into a case.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360.03>   <378.01>  A group of people are sitting on a couch.  <378.01>   <378.01>  They are playing a game with oranges.  <378.01>   <378.01>  They are trying to put the oranges in a suitcase.  <378.01>   <378.01>  They are having a hard time getting them in.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380.01>   <398.03>  A group of people are sitting on a couch.  <380.01>   <398.03>  They are playing a game with oranges.  <392.02>   <398.03>  They are throwing the oranges into a bag.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400.0>   <418.02>  A backpack is shown with eggs in it.  <418.02>   <418.02>  People are playing a game and cheering.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420.02>   <438.0>  A group of men are sitting on a couch talking.  <420.02>   <438.0>  Two people in white lab coats are sitting on a couch.  <420.02>   <438.0>  A man in a green shirt is standing up.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440.01>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  A woman is standing in front of a coffee machine.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.  <458.02>   <458.02>  A man is sitting in a chair talking.  <458.02>   <458.02>  Two people are sitting on a couch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460.03>   <478.01>  Two people in white lab coats are sitting on a couch.  <460.03>   <478.01>  They are talking to the camera.  <478.01>   <478.01>  A group of men are sitting on a couch.  <478.01>   <478.01>  They are talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480.01>   <498.03>  Three men are sitting on a couch talking.  <498.03>   <498.03>  Two women are sitting on a couch talking.  <498.03>   <498.03>  A black screen appears with white and red writing.  <498.03>   <498.03>  A gray bag is shown with a lot of glass containers in it.  <498.03>   <498.03>  The bag is shown again with a gray container in the middle.  <498.03>   <498.03>  The three men are shown again talking.  <498.03>   <498.03>  A man in a white coat is shown talking.  <498.03>   <498.03>  The three men are shown again talking.  <498.03>   <498.03>  The man in the white coat is shown again talking.  <498.03>   <498.03>  The three men are shown again talking.  <498.03>   <498.03>  The man in the white coat is shown again talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500.0>   <518.02>  A man in a white coat is talking.  <518.02>   <518.02>  People are sitting on a couch.  <518.02>   <518.02>  They are playing a game with oranges.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520.02>   <534.0>  A backpack is shown on the floor.  <532.03>   <538.0>  People are sitting on a couch talking.  <538.0>   <538.0>  A man in a green shirt is talking.  <538.0>   <538.0>  A man in a green shirt is holding a ball.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.  <538.0>   <538.0>  A man in a green shirt is holding a box.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540.01>   <558.02>  A man is sitting on a couch with a bucket of oranges.  <558.02>   <558.02>  He throws the oranges into a case.  <558.02>   <558.02>  The camera shows the case and the people watching.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560.03>   <578.01>  A group of men are sitting on a couch.  <560.03>   <578.01>  They are playing a game with balls.  <572.0>   <578.01>  They are talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580.01>   <598.03>  A gray bag is on the floor.  <598.03>   <598.03>  Two men are talking.  <598.03>   <598.03>  Four men are sitting on a couch.  <598.03>   <598.03>  Two doctors are sitting on a couch.  <598.03>   <598.03>  A man is holding an orange.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600.03>   <618.02>  A man and a woman are sitting on a couch.  <618.02>   <618.02>  A man is sitting on the floor putting oranges into a bag.  <618.02>   <618.02>  People are sitting on a couch watching him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620.02>   <638.0>  A group of people are sitting on a couch.  <620.02>   <638.0>  They are playing a game with oranges.  <632.03>   <638.0>  They are throwing the oranges into a case.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640.01>   <658.02>  A group of men are sitting on a couch.  <640.01>   <658.02>  They are holding oranges in their hands.  <654.02>   <658.02>  They are talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660.03>   <678.01>  A group of people are seen standing around one another and holding hands.  <678.01>   <678.01>  The people then sit down on a couch and begin speaking to one another.  <678.01>   <678.01>  The people then begin eating oranges and speaking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680.01>   <698.03>  A group of people are sitting in a circle.  <680.01>   <698.03>  They are playing a game with a ball.  <698.03>   <698.03>  They are throwing the ball into a case.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700.03>   <718.02>  People are sitting on a couch.  <700.03>   <718.02>  They are playing a game with a suitcase.  <712.01>   <718.02>  They are throwing balls into the suitcase.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720.02>   <738.0>  A man is sitting down talking.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A woman in a white shirt is sitting next to them.  <738.0>   <738.0>  A man in a striped shirt is sitting on the other side of the room.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.  <738.0>   <738.0>  A man in a green shirt is sitting next to him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740.01>   <758.02>  A group of men are sitting on a couch.  <740.01>   <758.02>  They are talking to the camera.  <758.02>   <758.02>  They are eating eggs.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760.03>   <778.01>  Two people are sitting on a couch.  <760.03>   <778.01>  Two people are sitting on a couch.  <778.01>   <778.01>  A man is holding a ball in his hands.  <778.01>   <778.01>  A man is holding a ball in his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780.01>   <798.03>  A man is sitting on a couch holding an orange object.  <798.03>   <798.03>  A group of people are sitting on a couch in a circle.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800.03>   <818.02>  A group of people are sitting on a couch.  <800.03>   <818.02>  They are playing a game with a small orange ball.  <818.02>   <818.02>  They are trying to guess what is in the suitcase.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820.02>   <838.0>  A group of people are sitting on a couch.  <820.02>   <838.0>  They are playing a game with a suitcase.  <838.0>   <838.0>  They are throwing a ball into the suitcase.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840.01>   <858.02>  A group of people are playing a game.  <840.01>   <858.02>  They are laughing and having a good time.  <840.01>   <858.02>  They are sitting on a couch.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860.03>   <878.01>  A group of men are in a room.  <860.03>   <878.01>  They are playing a game.  <874.01>   <878.01>  They are laughing and having fun.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": "<880.01>   <886.65>  A cartoon of a dog is shown on a television.  <880.01>   <886.65>  The dog is eating a sandwich.  <883.72>   <886.65>  The dog is on a blue background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

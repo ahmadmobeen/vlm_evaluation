@@ -1,0 +1,338 @@
+{
+  "id": "e6e2e3f6-cb83-4df8-ad27-def67d523180",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 46
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0.0> <2.0> A group of five individuals is seated indoors; three sit together on benches, facing forward, with one person (in a white shirt) sitting separately near the entrance.\n<2.0> <4.0> A partially visible individual wipes their forehead with both hands.\n<4.0> <6.0> A man wearing glasses and a black T-shirt bends slightly downward toward the right side of the frame.\n<6.0> <8.0> A man dressed in a striped polo shirt holds a smartphone horizontally above his lap, looking at it closely.\n<8.0> <10.0> A man seated second from the left pushes himself upward off the bench, raising his arms outward simultaneously.\n<10.0> <12.0> Three individuals laugh and gesture energetically toward the center of the room.\n<12.0> <14.0> A man in a gray hoodie grabs the armrests of a chair behind him, pulling himself upward alongside another man nearby.\n<14.0> <16.0> Two men-one in a patterned polo shirt and another in a dark jacket-rise abruptly from their seats, facing forward.\n<16.0> <18.0> A man clad entirely in green stands upright beside the two newly risen companions.\n<18.0> <20.0> A woman bursts into laughter, leaning backward dramatically onto her seat.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20.02> <24.02> An animated backpack with six compartments, each labeled with a number from one to six, is displayed against a beige background featuring scattered paper-like objects and colorful boxes labeled \"SBS.\"\n<30.03> <34.0> Five individuals are seated indoors, clapping their hands and smiling. From left to right: A person in a striped polo shirt and jeans, another in a black jacket over a white shirt, a third in a bright green T-shirt and blue jeans, followed by someone in a white blouse and black pants, and lastly, an individual in a white lab coat and black-framed glasses.\n<36.0> <38.01> A close-up view captures a man in a striped polo shirt and jeans transferring small, round, red balls from an orange rectangular container into a gray cylindrical bag using both hands.\n<38.01> <40.019999999999996> A medium shot reveals four individuals observing a man in a light green button-up shirt and blue jeans holding an open orange rectangular-shaped container filled with small, round, red balls. From left to right: a person in a black jacket over a white shirt, another in a bright green T-shirt and blue jeans, followed by someone in a white blouse and black pants, and finally, an individual in a white lab coat and black-framed glasses.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40.01> <44.01> Five men are seated indoors, with the man second from the right holding a red beverage can and appearing to speak while gesturing with it.\n<44.01> <48.01> The man in the striped polo shirt speaks emphatically, leaning forward and raising his right arm expressively; simultaneously, the man on the far right leans back slightly while seated.\n<48.01> <56.01> The man in the green short-sleeved shirt stands up abruptly, moves toward the center of the frame, and gestures toward someone off-screen; meanwhile, the man on the far left also stands up and turns his head toward him.\n<56.01> <58.01> The man in the striped polo shirt places the can on the tiled floor beside him and continues speaking, while the man in the green shirt continues moving toward the center of the room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60.03> <62.03> Five seated men converse casually while one man in a striped shirt holds an orange cup near his mouth; another man in a green polo shirt gestures with his left hand.\n<62.03> <64.82000000000001> A man in a striped shirt stands abruptly from a gray sofa, turning toward the frame-left side.\n<64.82000000000001> <66.88> A partially visible person in a black-and-white striped outfit walks forward toward the frame-right side, passing behind the seated individuals.\n<66.88> <71.34> A man in a white button-down shirt enters through a sliding wooden door from frame-left, followed closely by three other men walking together behind him.\n<71.34> <73.75> A close-up shot highlights a partially open silver-gray suitcase containing neatly arranged drinking glasses stacked atop clear plastic bottles.\n<73.75> <76.01> Four men walk out of the room simultaneously, exiting through a doorway on the frame-left side.\n<76.01> <78.01> A man in a striped shirt turns back toward the remaining seated individuals just before walking away toward frame-left.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80.01> <84.74000000000001> A man wearing a green jacket stands beside a seated woman, clapping his hands and making gestures toward someone outside the frame.\n<84.74000000000001> <88.57000000000001> The man in the green jacket leans forward slightly, continuing to clap and gesture, while the seated woman looks up briefly before turning her gaze back downward.\n<88.57000000000001> <92.03> The man in the green jacket moves closer to the seated woman, maintaining animated gestures, as others begin to leave the frame.\n<92.03> <98.02000000000001> The camera tilts downward, focusing on a black-and-gray backpack on the floor filled with assorted round and flat items, likely balls and papers. The man in the green jacket bends over, reaching toward the backpack.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100.0> <118.02> Four seated individuals engage in playful interaction while throwing small round orange-colored objects toward each other; one man in a green shirt initiates by throwing an object toward another individual dressed similarly, prompting reciprocal throwing. Throughout the exchange, they laugh, gesture with raised fists, wave their arms, and briefly point forward together. The camera gradually zooms in on two participants seated closest to the lens, emphasizing their animated expressions and synchronized celebratory actions.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120.02> <124.64999999999999> A man in a green shirt playfully grabs another person's hair while holding an orange ball.\n<124.64999999999999> <128.75> A man in a striped polo shirt is pushed forward by four others, falling into a black bucket filled with water.\n<128.75> <137.73> A man in a checkered shirt holds up a paper gun, pointing it at another individual, who reacts dramatically.\n<137.73> <138.0> Five men gather around a small round table cluttered with cardboard cutouts, papers, and a black bucket; they then engage in a group hug led by the man in the green shirt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<144.60999999999999> <148.51> A man in a striped polo shirt walks toward a black chair, gestures with his right hand while speaking, and then sits down beside a person in a green T-shirt and glasses, both laughing together.\n<148.51> <150.70999999999998> The man in the striped polo shirt leans slightly forward, engaging in conversation with the individual in the green T-shirt and glasses.\n<150.70999999999998> <152.91> Both men stand up, walk backward toward the camera, and return to their seats, continuing their laughter.\n<152.91> <154.31> A man in a striped T-shirt enters from the left side of the frame, followed shortly after by someone in a gray sweater who sits beside him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160.03> <162.03> An individual dressed in gray attire walks toward the frame, carrying an orange rectangular box in one hand and a black plastic bag draped over their shoulder with the other hand.\n<164.03> <166.03> A partially visible woman enters the frame wearing a dark-colored sleeveless top paired with teal pants; she holds a transparent bottle in her left hand and a small rectangular pouch in her right.\n<166.03> <168.0> A bespectacled man adjusts his horizontally striped polo shirt while seated beside another individual whose eyes appear closed.\n<170.0> <172.0> A man clad in a light gray hoodie bends slightly forward, extending both arms downward toward a white rectangular container positioned ahead of him.\n<172.0> <174.01> A partially visible woman exits the frame, stepping backward out of view.\n<174.01> <175.99> A man in a horizontally striped polo shirt lifts a yellow cylindrical object resembling a traffic cone using metallic tongs and lowers it toward a white circular container held by another person seated nearby.\n<175.99> <177.95> A man wearing a green jacket laughs while facing forward.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180.01> <184.73999999999998> A man in a horizontally striped polo shirt holds an orange beverage cup while speaking intensely and gesturing with his left hand. Another person dressed in a green top approaches from the right side of the frame and engages in a brief verbal exchange with him.\n<186.29> <190.6> Four individuals seated around a rectangular wooden table clap enthusiastically; one in a vertically striped polo shirt speaks passionately with expressive hand movements, while another in denim pants listens attentively beside them.\n<190.6> <198.01999999999998> Two men—one seated behind a desk in light-colored clothing and the other standing outside the desk—shake hands formally across the desk. Meanwhile, the man in the striped polo shirt (frame-right) continues speaking intensely toward someone off-screen.\n<198.01999999999998> <198.01999999999998> A group of casually dressed individuals gathers tightly indoors, appearing visibly excited or celebratory. One person in a white short-sleeved shirt claps energetically, adding to the lively atmosphere among acquaintances.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200.0> <218.02> Three individuals clap and smile enthusiastically together, with one man adjusting his glasses mid-clap. Their synchronized movements convey camaraderie amid physical discomfort.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220.02> <222.02> A man wearing a beige striped shirt is seen sitting behind a table and clapping enthusiastically.\n<224.02> <226.02> An individual partially visible from behind briefly raises both hands enthusiastically toward the frame-left side.\n<228.03> <238.0> A woman dressed in a white lab coat speaks energetically, gesturing with a pen in her right hand; beside her, a bespectacled man in a light blue shirt reacts with widened eyes and an open mouth, appearing surprised or amused. They maintain close physical proximity throughout the interaction.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240.01> <244.01> A bespectacled man in a white shirt and a woman beside him in a white top sit facing sideways, both looking toward someone entering from the left with an orange spray bottle. The newcomer places the bottle on the table and engages briefly with the others.\n<244.01> <248.01> The man and woman turn fully toward the newcomer, who exits the frame while continuing to talk. The man speaks intently, while the woman laughs and leans back slightly.\n<248.01> <252.01> The camera zooms out to reveal five people seated together—a mix of men and women—laughing and chatting casually. One man leans forward enthusiastically, while another gestures animatedly.\n<252.01> <256.01> The camera shifts angles rapidly among four individuals seated closely, emphasizing their lively facial expressions and gestures during conversation. Their attire includes various styles of white clothing, and one person wears glasses.\n<256.01> <258.01> The final shot shows six people seated side by side, laughing and conversing energetically. Text overlays decorate the upper corners of the frame throughout.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260.03> <264.03> Three individuals sit indoors; one in a striped shirt speaks while others listen attentively.\n<264.03> <266.0> An individual in green attire fills plastic cups with an orange beverage from a pitcher.\n<266.0> <268.0> A person in gray attire bends forward slightly, holding a cup containing an orange substance.\n<268.0> <274.01> Two men extend their hands across a table laden with snacks, engaging in a handshake.\n<274.01> <278.01> A group of casually dressed adults sits on couches, observing television together.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280.01> <282.01> A group of five individuals sits around a rectangular wooden table indoors, interacting casually with cups, bowls, and utensils spread across its surface. One man in a white short-sleeve shirt leans forward, extending his arm toward the center, while another in a horizontally striped sweater leans backward. A fifth individual joins the frame from the right side.\n<284.02> <286.02> A close-up reveals a partially unzipped gray backpack resting on a light-colored tiled floor. Inside, neatly arranged food compartments hold various foods, including an orange-lidded bowl being placed by a hand emerging from the left edge of the frame.\n<292.02> <294.03> Two men stand very close together, engaged in conversation. The man on the left, wearing glasses and a dark green t-shirt, gestures emphatically with his right hand while speaking. His companion, dressed in a striped polo shirt, listens intently, facing him directly.\n<298.03> <300.01> The group gathers tightly around the table, leaning forward with focused expressions, suggesting they're observing or reacting to something outside the frame. The camera maintains a steady focus on their upper bodies and faces throughout.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300.03> <302.0> Four individuals sit indoors, engaged in conversation; one gestures actively while others listen attentively.\n<302.0> <304.0> A person holds a cylindrical drink container with a straw, sipping from it.\n<304.0> <305.96999999999997> A man in glasses and a striped shirt leans forward slightly during discussion.\n<305.96999999999997> <307.96> A woman in a green top smiles warmly toward another individual.\n<307.96> <312.01> A backpack filled with packaged snacks and drinks appears briefly.\n<312.01> <316.01> A man in a white jacket walks alongside a woman in a gray dress through a store aisle.\n<316.01> <317.91999999999996> A man sits alone on a beige bench, gazing downward thoughtfully.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320.02> <324.04999999999995> Two girls are seated indoors, one holding a pen and paper while engaging with the other.\n<324.04999999999995> <326.60999999999996> Yellow birds land on and fly away from a backpack containing golden-brown spherical snacks placed on tiled flooring.\n<326.60999999999996> <332.65999999999997> Five individuals clap enthusiastically while seated closely together indoors, surrounded by various objects.\n<332.65999999999997> <335.14> Yellow birds briefly interact with the snack-filled backpack before departing.\n<335.14> <337.65> The group continues applauding, emphasizing camaraderie amidst a festive ambiance.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340.01> <344.01> A woman in a white shirt sits on the right side of a beige couch, waving her arms energetically while speaking. To her left, two men sit on another section of the couch; one wears a light-colored shirt and jeans, while the other dons a striped shirt and dark pants. Both observe her reactions.\n<344.01> <348.01> A second woman, dressed in a black-and-white horizontally striped top over a black cardigan, enters from the left side of the frame carrying a large rectangular plastic food storage box. She pauses momentarily before setting it down beside a gray insulated backpack adorned with images of fruits and vegetables. This backpack rests against the backrest of the couch, partially obscuring a brown paper bag beneath it. The man in the light-colored shirt leans slightly forward, reaching into the backpack to retrieve an item.\n<348.01> <352.01> The woman in the white shirt continues speaking intensely, now pointing emphatically toward something outside the frame. Meanwhile, the man in the light-colored shirt picks up an orange from the backpack and tosses it playfully into the air, catching it effortlessly.\n<352.01> <358.01> The man in the striped shirt turns his head sharply toward the woman in the white shirt, shaking his head vigorously while gesturing with his hand. His companion mirrors this reaction, also turning his gaze toward her and pointing in the same direction. Leaning forward, the man in the striped shirt grabs another item from the backpack—a red apple—and begins peeling it with his teeth.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360.03> <366.03> Three men sit side-by-side, one holding an orange-colored item resembling a ball while looking downward toward another person seated directly across from him; another partially-vi​sible person sits beside the first man.\n<368.0> <374.01> Five men dressed casually sit in a loose circle, each holding transparent cups containing numerous yellow-colored spherical items. As they engage in conversation, one of them throws an item toward a cup positioned ahead of him.\n<376.01> <378.01> An overhead view captures two contestants balancing multicolored balls atop thin elastic bands stretched vertically over their heads, skillfully controlling the bands' tension to keep the balls aloft.\n<378.01> <378.01> A pair of legs clad in black shoes steps carefully forward onto a rectangular grid-like patterned area, suggesting cautious navigation through a defined space.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380.01> <384.02> A man wearing a dark-colored shirt grabs an orange-yellow packet labeled \"Cheetos.\"\n<384.02> <386.02> Another man dressed in light-colored striped clothing reaches toward the same packet.\n<388.02> <390.02> The man in the dark shirt picks up the Cheetos packet again and holds it near himself.\n<390.02> <392.02> The man in the striped top leans forward slightly, extending his arm closer to the packet.\n<392.02> <396.03> Both men turn their heads simultaneously toward something off-camera.\n<396.03> <398.03> A third man in a black jacket walks toward the couch, bends down briefly, then stands upright and moves aside.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400.0> <404.0> An animated gray backpack featuring a 3x3 grid of silver cans and orange spherical objects sits against a tiled wall backdrop. Green circular patterns adorn the sides, and red Korean text below reads \"무료배달 완성.\"\n\n\n<404.0> <418.5> Six individuals gather indoors under bright lighting. Three sit on unoccupied backless chairs, facing right, while one stands behind them, clapping and smiling. Another woman holds up her phone to film. All engage in lively conversation, laughter, and expressive gestures. Text appears briefly reading \"포모루 봉사단.\"",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420.02> <424.96> A man in a white short-sleeved shirt walks forward, bends down, and sits on the floor beside three seated individuals wearing lab coats (green-striped polo, solid green, and white).\n<424.96> <428.76> The man in the white short-sleeved shirt slides slightly to his left, adjusting his seated position while keeping eye contact with someone outside the frame.\n<432.65> <437.84999999999997> Another person dressed in a dark green jacket enters the frame from the right side, gestures toward the man in the white shirt, and engages in conversation; this prompts amused reactions from the seated trio.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<think>\nOkay, let's break down the user's description. They want captions for meaningful events in the video, focusing on key actions and interactions without excessive details.\n\nFirst, I'll look through the timestamps provided. The initial part mentions a man in a green jacket laughing and gesturing with his right hand while speaking. That's an important action to capture. Then there's a transition where two men are seated; one in a striped shirt laughs and leans back. These are both significant moments.\n\nAs the scene shifts outdoors, three people are walking. The woman in red leads, followed by someone in white and another in black. Their movement is a key event here. Upon returning indoors, two individuals enter through a sliding door. The woman in white holds a piece of paper, which might be relevant. She then interacts with a man in a white coat who also has a document. He looks at it briefly before she hands it over. This exchange seems crucial.\n\nNext, the woman in white moves closer to the man in the green jacket. He responds animatedly, raising his hands. Their interaction is dynamic and likely central to the plot. Finally, she gestures emphatically towards something off-screen, signaling a decision or realization.\n\nI need to ensure each of these main actions is summarized concisely within the time frames given. For instance, the laughter and gesturing by the man in green happens between 0s and 4.73s. The outdoor walk occurs from 12.69s to 18.01s. The entrance through the sliding door is around 14.05s to 18.01s. The document transfer between the woman in white and the man in white coat is probably around 16.57s to 18.01s. The approach towards the man in green jacket is around 18.01s to 2.01s (wait, no-the timestamps go up to 18.01s for the last part? Let me check again.\n\nWait, the original video lists events in order with their timestamps. Let me sort them by time:\n\n- 0.0s to 4.73s: Man in green jacket laughs and gestures.\n- 4.73s to 6.59s: Two seated men laugh and lean back.\n- 8.04s to 10.04s: Three people walk outside.\n- 12.69s to 18.01s: Three walk out, then return indoors.\n- 14.05s to 18.01s: Two enter through sliding door; woman holds paper.\n- 16.57s to 18.01s: Woman in white interacts with man in white coat.\n- 18.01s to 2.01s: Woman approaches man in green jacket.\n- 18.01s to 10.04s: Man in green jacket reacts, she gestures off-screen.\n\nBut there's some overlap. Wait, the user might have listed the events in chronological order, but the timestamps might be mixed. However, the longest duration is 18.01s to 10.04s which spans from 18.01s to 10.04s. Hmm, maybe I need to arrange the events in the correct sequence and note the overlapping times. But perhaps for brevity, I should select the most pivotal moments without getting stuck on minor overlaps.\n\nThe key actions are:\n\n1. Man in green jacket laughing and gesturing (0-4.73s).\n2. Two seated men laughing (4.73-6.59s).\n3. Three people walking outdoors (8.04-10.04s).\n4. Entering through sliding door (12.69-18.01s).\n5. Document transfer between woman in white and man in white coat (16.57-18.01s).\n6. Woman approaching man in green jacket (18.01s onwards).\n7. Her gesturing towards off-screen (18.01s to 10.04s).\n\nBut since the user wants captions for meaningful events, perhaps focus on the main interactions:\n\n- The man in green jacket laughing and reacting.\n- The woman entering with a document.\n- The document exchange.\n- The approach and gesture.\n\nNow, formulating the captions:\n\n1. <440.01> <444.74> A man in a green jacket laughs and gestures with his right hand while speaking.\n2. <452.7> <458.02> Three individuals walk outside through a glass door, led by a woman in a red top, followed by someone in a white outfit and another in black attire. Upon returning",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460.03> <466.88> Two individuals in white jackets clap rhythmically while seated indoors, facing forward; posters adorn the beige-paneled walls behind them, and text overlays appear at the bottom of the screen.\n<467.36999999999995> <469.84999999999997> The two individuals continue clapping but now face each other, maintaining their rhythmic motion against the same indoor backdrop.\n<471.34> <477.94> Three casually dressed men enter from the left, moving energetically toward the center with raised arms and microphones clipped to their shirts, adding dynamic motion to the scene.\n<477.94> <479.36999999999995> The two individuals return to their initial seated positions, smiling broadly and continuing to clap, concluding with a sense of shared enthusiasm.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480.01> <484.02> Four individuals sit closely together indoors, smiling and laughing; one in a striped shirt leans toward another in a green shirt, both appearing engaged in conversation.\n<494.03> <498.03> The individual in the striped shirt leans forward, gesturing animatedly as they converse with the group, while the others listen attentively.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500.0> <504.73> A man wearing a white and blue striped polo shirt sits on a beige-colored couch, looking sideways and slightly downward before raising his right hand in a thumbs-up gesture.\n<504.73> <518.01> Another man dressed in a dark green t-shirt and black pants enters from behind the couch, carrying numerous small, round, orange balls. He approaches the seated individuals, playfully throws the balls toward them, and engages in lighthearted interaction while smiling. The group reacts with amusement, some catching the balls while others watch, all appearing amused by the playful activity.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<524.02> <526.02> A man wearing glasses is pushed playfully by someone off-screen while holding a gray backpack.\n<528.02> <530.02> Two individuals enter through a partially open sliding door; one playfully pushes the other.\n<534.0> <538.0> A seated person reacts with animated facial expressions, raising their right hand to their mouth and then lowering it.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540.01> <556.05> Four individuals collaborate to place orange balls into transparent cups arranged in rows on a beige couch. Two men initially interact near a black cart filled with similar cups and balls, followed by two women seated beside each other who shake hands across a small wooden desk cluttered with cups, jars, and colorful balls. Later, their focus shifts to a rectangular wooden table draped with a white cloth, adorned with neatly organized jars (yellow, blue, red, and orange) and additional scattered balls. The scene concludes with a close-up of a gray storage bag divided into six sections, each holding several orange balls, as a hand retrieves them while others continue adding more balls to the table.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560.03> <564.03> A man in a striped polo shirt stands up while holding an orange-colored item and walks toward a seated individual dressed in a white outfit.\n<570.0> <574.01> The same man in the striped polo shirt leans slightly backward, extending his left arm downward toward the seated individual in the white outfit who responds by leaning forward.\n<576.01> <578.01> The man in the striped polo shirt grabs an orange-colored round ball from a partially visible transparent plastic bag held by someone beside him using both hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580.01> <584.02> A partially visible hand reaches into a gray trash container holding various types of waste materials separated into different sections.\n<586.02> <588.02> A man enters a room carrying trays loaded with beverages.\n<588.02> <590.02> Two men seated across a small round table smile warmly toward the newcomer.\n<590.02> <592.02> A woman bends slightly forward, extending her arms toward the center of the table, appearing cheerful.\n<592.02> <594.03> Multiple individuals seated along a rectangular table engage in animated gestures, smiling broadly.\n<594.03> <596.03> A man places a beverage bottle onto the table near others already arranged there.\n<596.03> <598.03> A woman picks up a cup from the table, smiling enthusiastically.\n<598.03> <598.03> Several people seated closely around a circular table converse actively, some raising their cups.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600.03> <605.93> A woman holds an orange-colored ball, raises her arms upward, and throws it slightly forward toward the frame-left direction.\n<605.93> <608.01> An individual dressed in black pants and a white shirt bends downward, picks up an orange-colored item resembling a ball, and lifts it upwards.\n<608.01> <612.01> A partially visible leg kicks forcefully backward against a partially visible chair positioned nearby.\n<612.01> <616.02> A bespectacled man wearing a striped t-shirt leans slightly forward, raises his right arm, and gestures horizontally across his body while speaking simultaneously.\n<616.02> <618.02> A man clad in a gray jacket over a checkered shirt leans forward, raises his right arm, and gestures horizontally across his body while speaking concurrently.\n<618.02> <618.02> A partially visible seated woman extends her left hand sideways, palm facing upward, while speaking simultaneously.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620.02> <624.02> Four individuals seated on two brown couches engage in conversation while holding bottles containing an orange liquid.\n<624.02> <628.03> A man dressed in black pants and a white-striped green shirt rises from his seat, moves toward another individual, and initiates a handshake.\n<628.03> <634.0> Two women seated on a couch next to the men stand up simultaneously, turning slightly toward their right side.\n<634.0> <636.0> The man wearing a black cap bends forward briefly before resuming his upright position.\n<636.0> <637.98> The man in the striped shirt engages in conversation with another individual dressed in black attire.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640.01> <642.01> A man wearing a white striped shirt lifts his right hand upward while speaking.\n<642.01> <646.01> A man dressed in gray extends his right hand toward another partially obscured individual, both engaging in a handshake.\n<646.01> <648.01> A woman enters the frame holding an orange-colored cylindrical object and places it onto a transparent box-like item positioned beside her.\n<648.01> <650.01> A man clad in black attire bends forward slightly and engages in conversation with others nearby.\n<650.01> <654.01> A man in glasses shakes hands with a partially obscured individual who approaches him directly.\n<654.01> <656.01> An individual transfers an orange-colored cylindrical-shaped ball from their left hand to a rectangular tray-like structure resting on a surface near them.\n<656.01> <658.01> A man in green attire leans downward, extending his arm horizontally across his body.\n<658.01> <660.01> Multiple pairs of individuals engage in handshakes simultaneously throughout the frame.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660.03> <664.03> A man wearing a white striped t-shirt walks toward a brown curtain and pulls it sideways with both hands while stepping backward slightly, revealing himself to the people behind him. He then turns back to face forward.\n<664.03> <666.03> A person dressed in gray attire bends over briefly before standing upright again.\n<666.03> <668.0> A woman in a black coat lifts her left arm upward, pointing forward with her index finger extended.\n<668.0> <670.0> A partially visible individual in a dark-colored top grabs an orange bowl from a surface using their right hand.\n<670.0> <674.01> A man clad in a light-colored striped shirt holds up his right hand horizontally, palm facing outward, while speaking intensely. Nearby, another man in glasses and a gray hoodie laughs loudly.\n<676.01> <678.01> A man in glasses and a gray hoodie speaks passionately, leaning slightly forward and extending his right arm toward someone off-screen.\n<678.01> <678.01> A woman in a beige outfit laughs openly, covering her mouth momentarily with her left hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<688.02> <696.03> Two individuals stand up, approach each other, and engage in a firm handshake while others observe.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700.03> <703.76> A man dressed in a green T-shirt holds out an orange-colored cup toward another partially visible individual seated nearby, who accepts it.\n<705.9399999999999> <708.0> A woman wearing glasses and dressed in a black outfit extends her arm forward, handing over a small rectangular card to a seated person opposite her.\n<710.01> <711.97> A hand passes a yellow circular object resembling a button or token forward across a table.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720.02> <724.02> A man wearing striped pajamas walks toward an individual seated on a chair, extending a black-stick-like object toward them, causing the seated person to lean backward suddenly upon contact.\n<724.02> <726.03> A man dressed in striped pajamas exits the frame through partially open glass doors alongside others behind him.\n<726.03> <728.03> A woman in a white shirt bends forward slightly, placing her left palm against a wall-mounted fixture resembling a speaker.\n<728.03> <730.03> A man clad in striped pajamas carries a large cardboard box into the room, followed closely by several others.\n<730.03> <734.0> Multiple individuals gather together; one plays a small percussion instrument vigorously, while another nearby strikes a surface repeatedly with a raised arm.\n<734.0> <736.0> A man in green attire stands beside a seated person, both smiling broadly, with the standing figure playfully covering part of the seated person’s face with fingers.\n<738.0> <738.0> Several individuals stand clustered together, clapping enthusiastically and smiling widely.\n<738.0> <736.0> A man in dark clothing leans over a seated individual, gripping their head firmly between both hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740.01> <744.01> A man enters a room through a glass-paneled sliding door, closing it behind him as he strides forward.\n<744.01> <746.01> The man approaches a seated individual, extends his right hand, and delivers a firm handshake accompanied by verbal confirmation.\n<746.01> <748.01> Simultaneously, another man stands nearby, observing attentively; meanwhile, a third man seated further away turns his head slightly toward the interaction.\n<748.01> <756.01> Following the handshake, the man sits beside the initially seated person, maintaining direct eye contact while continuing to hold the orange fruit in his left hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760.03> <766.03> Three people are seated closely together, clapping and smiling. One individual in a green jacket is prominently clapping, while another partially visible person joins in. The third person, wearing a striped shirt, smiles warmly.\n<768.0> <774.01> Two men sit side by side; both have their hands clasped near their faces, appearing thoughtful or surprised. Their facial expressions suggest engagement with an unseen event or conversation.\n<776.01> <778.01> A hand reaches toward a gray bag containing compartments filled with assorted items such as balls and utensils. It retrieves an orange-colored spherical object from the top-left corner.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780.01> <784.02> An individual in a green T-shirt and black pants leans slightly forward while gripping an orange-colored cylindrical object in their right hand, appearing focused on the task.\n<788.02> <790.02> An individual clad in a gray-striped polo shirt over a white undershirt stands beside the seated group, speaking enthusiastically into a microphone clipped to their chest.\n<790.02> <796.03> Multiple individuals seated across different couches clap intermittently, displaying varied expressions ranging from smiles to attentiveness.\n<796.03> <798.03> Several seated people turn their heads toward something outside the frame, exhibiting surprised or amused expressions; some lean forward or gesture with their hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800.03> <806.0> Three individuals sit indoors against a yellow-striped backdrop; one person places their arm around another holding an orange ball near their face, while a third observes. Korean texts and graphics, including a scorecard icon, appear on the screen.\n<806.0> <814.01> Two men converse across a table cluttered with papers, joined by a woman beside one. The camera zooms in as one man extends his right hand toward the other.\n<814.01> <818.02> The man receives the offered hand, preparing to shake it, with a water bottle and furniture faintly visible in the background. Korean text overlays continue to appear intermittently throughout.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820.02> <835.97> Five men seated indoors react enthusiastically; three stand up first, raising their arms and smiling, joined shortly afterward by two more as they clap and gesture toward someone off-screen.\n\n\n\n<835.97> <838.0> Focus shifts to a person pushing a stroller toward an open doorway, exiting the frame left, while others remain seated or follow slowly.\n\n\n\n<838.0> <838.0> Remaining individuals settle back into seating positions now that most have departed through the doorway.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840.01> <856.1> Several people celebrate enthusiastically indoors, clapping and cheering around two central figures who raise their arms in victory. They exchange hugs, high-fives, and one person lifts another off the ground, showcasing camaraderie and excitement.\n\n\n\n<856.1> <858.08> The scene briefly cuts away to an animated sequence depicting a baby carriage carrying two infants, accompanied by Korean text emphasizing parenting themes related to the competition.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860.03> <864.03> Four men clap their hands simultaneously while seated closely together indoors, displaying enthusiasm and camaraderie. One man, wearing a striped polo shirt, gestures with clenched fists near his head, amplifying the celebratory mood.\n\n\n<864.03> <868.0> A man in a gray hoodie joins the group, raising his arms enthusiastically alongside others who continue clapping. Another individual, dressed in a patterned sweater vest, leans forward slightly, smiling broadly.\n\n\n<868.0> <876.01> Animated graphics featuring cartoonish figures and text overlays (\"3단계까지 성공\") briefly animate across the screen, complementing the ongoing clapping and energetic interactions below them. Meanwhile, two additional men enter the frame, sitting further back and continuing the rhythmic clapping along with the rest of the group.\n\n\n<876.01> <878.01> The animated visuals persist momentarily, showcasing whimsical designs such as a blue character, a clock, and scattered papers against a light blue backdrop. These playful animations gradually fade away, signaling the conclusion of the segment focused on the group's collaborative efforts.\n\n</think>\n\n\n<860.03> <876.01> Four men clap their hands simultaneously while seated closely together indoors, displaying enthusiasm and camaraderie. One man, wearing a striped polo shirt, gestures with clenched fists near his head, amplifying the celebratory mood. Later, two more men join the clapping session, enhancing the energy of the gathering. Animated graphics, including cartoonish characters and text overlays (\"3단계까지 성공\"), intermittently appear above the group, adding dynamic flair to the scene.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": "<880.01> <886.65> Two animated characters sit opposite each other at a table, engaged in a discussion or exchange while facing slightly toward the right side of the frame; one rests their arm on the table, and the other crosses their legs, both maintaining steady eye contact.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "887.386",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

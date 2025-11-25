@@ -1,0 +1,1129 @@
+{
+  "id": "5106b801-a23f-4d42-b68d-6f3b5777a886",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 159
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0.0>   <18.02>  A cartoon of a dog is shown next to a television.  <18.02>   <18.02>  A man is sitting at a table with two men standing next to him.  <18.02>   <18.02>  A scoreboard is shown on the screen.  <18.02>   <18.02>  A man is holding a soccer ball and talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20.02>   <38.01>  A woman is standing on a soccer field.  <38.01>   <38.01>  She is playing soccer with other people.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40.01>   <58.02>  A group of children are walking onto a field.  <40.01>   <58.02>  People are standing in the stands watching them.  <40.01>   <58.02>  A woman is standing in front of a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60.03>   <78.01>  A group of girls are standing on a field.  <78.01>   <78.01>  A diagram of the teams is shown.  <78.01>   <78.01>  The girls are playing a game of soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80.01>   <98.03>  A group of people are playing soccer on a field.  <80.01>   <98.03>  The people are running around and kicking the ball.  <98.03>   <98.03>  A woman in a red shirt is running with the ball.  <98.03>   <98.03>  She kicks the ball into the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100.0>   <118.02>  A group of girls are playing soccer on a field.  <100.0>   <118.02>  A man in a black suit is standing on the sidelines.  <100.0>   <118.02>  People are sitting in the stands watching the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120.02>   <138.0>  A group of people are playing soccer on a field.  <120.02>   <138.0>  People are sitting in the stands watching them.  <120.02>   <138.0>  A man is standing on the side of the field talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140.01>   <158.03>  A group of people are playing soccer on a field.  <158.03>   <158.03>  They are running around and trying to kick the ball into the goal.  <158.03>   <158.03>  They are trying to score points.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160.03>   <178.01>  A group of girls are playing soccer on a field.  <160.03>   <178.01>  People are watching them play from the sidelines.  <160.03>   <178.01>  The girls are running up and down the field.  <178.01>   <178.01>  The girls are kicking the ball back and forth.  <178.01>   <178.01>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180.01>   <198.03>  A woman in a red shirt is standing on a field.  <198.03>   <198.03>  Two women in white shirts are standing on the field.  <198.03>   <198.03>  They are playing a game of soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200.0>   <218.02>  A group of girls are playing soccer on a field.  <200.0>   <218.02>  The girls are running up and down the field.  <212.01>   <218.02>  The girls are trying to score a goal.  <218.02>   <218.02>  The girls are trying to block the other team from scoring.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220.02>   <238.0>  A woman is standing on a field.  <238.0>   <238.0>  She kicks a ball into the goal.  <238.0>   <238.0>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240.01>   <258.02>  A group of people are playing soccer on a field.  <258.02>   <258.02>  A woman in a red shirt is standing on the sidelines.  <258.02>   <258.02>  The people continue playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260.03>   <278.01>  A group of people are playing soccer on a field.  <260.03>   <278.01>  The camera pans around the people playing.  <260.03>   <278.01>  The people continue to play soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280.01>   <298.03>  A group of girls are playing soccer.  <298.03>   <298.03>  A man in a suit is talking.  <298.03>   <298.03>  The girls continue playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300.0>   <318.02>  A woman is seen standing on a field with her hands up and leads into her walking away.  <318.02>   <318.02>  The woman then kicks a ball to another and they continue to play soccer.  <318.02>   <318.02>  The girls continue to play with one falling down and another running off into the distance.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320.02>   <338.0>  A woman in a green shirt is talking to a woman in an orange shirt.  <338.0>   <338.0>  They are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340.01>   <358.02>  A group of people are playing soccer on a field.  <340.01>   <358.02>  People are sitting in the stands watching them.  <340.01>   <358.02>  The people in the stands are holding signs.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360.03>   <378.01>  A group of girls are playing soccer on a field.  <378.01>   <378.01>  They kick the ball into the goal.  <378.01>   <378.01>  They shake hands with the other team.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380.01>   <398.03>  A group of women are seen standing around one another and speaking to one another.  <398.03>   <398.03>  Two men are then seen sitting behind a desk speaking to one another.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400.0>   <418.02>  A group of girls are standing on a field.  <418.02>   <418.02>  A man is talking to them.  <418.02>   <418.02>  A woman is holding a microphone.  <418.02>   <418.02>  She is walking on the field.  <418.02>   <418.02>  The girls are playing soccer.  <418.02>   <418.02>  They are running around the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420.02>   <438.0>  A group of women are on a field.  <438.0>   <438.0>  They are hugging and talking to a man.  <438.0>   <438.0>  They huddle up together.  <438.0>   <438.0>  They are talking to the man.  <438.0>   <438.0>  They walk over to the other team.  <438.0>   <438.0>  They shake hands and talk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440.01>   <458.02>  A man is talking to a group of girls.  <440.01>   <458.02>  The girls are wearing orange shirts.  <454.02>   <458.02>  The man is wearing a black suit.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460.03>   <478.01>  A woman in a green shirt is standing in front of a net.  <478.01>   <478.01>  She is guarding a goal.  <478.01>   <478.01>  A woman in an orange shirt kicks the ball into the goal.  <478.01>   <478.01>  The woman in the orange shirt and her teammates celebrate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480.01>   <498.03>  A woman in a red shirt is standing on a field.  <498.03>   <498.03>  She is joined by other women in red shirts.  <498.03>   <498.03>  They are all celebrating.  <498.03>   <498.03>  They are playing soccer.  <498.03>   <498.03>  They are running around the field.  <498.03>   <498.03>  They are kicking the ball.  <498.03>   <498.03>  They are trying to get the ball into the goal.  <498.03>   <498.03>  They are trying to keep the ball out of the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500.0>   <518.02>  A goalie is shown on a soccer field.  <518.02>   <518.02>  She catches the ball and hands it to another player.  <518.02>   <518.02>  The players are shown in a close up.  <518.02>   <518.02>  The scoreboard is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520.02>   <538.0>  A man is sitting in a chair talking.  <538.0>   <538.0>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540.01>   <558.02>  A man in a suit is standing on the sidelines.  <558.02>   <558.02>  A group of girls are playing soccer.  <558.02>   <558.02>  The girls are running up and down the field.  <558.02>   <558.02>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560.03>   <578.01>  A woman is standing in front of a net.  <578.01>   <578.01>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580.01>   <598.03>  A group of children are playing soccer.  <598.03>   <598.03>  A girl in a green shirt kicks the ball into the goal.  <598.03>   <598.03>  The girl in the green shirt runs to her teammates and hugs them.  <598.03>   <598.03>  A man in a suit is cheering.  <598.03>   <598.03>  The man in the suit is clapping.  <598.03>   <598.03>  The man in the suit is talking.  <598.03>   <598.03>  The man in the suit is smiling.  <598.03>   <598.03>  The man in the suit is clapping.  <598.03>   <598.03>  The man in the suit is talking.  <598.03>   <598.03>  The man in the suit is smiling.  <598.03>   <598.03>  The man in the suit is clapping.  <598.03>   <598.03>  The man in the suit is talking.  <598.03>   <598.03>  The man in the suit is smiling.  <598.03>   <598.03>  The man in the suit is clapping.  <598.03>   <598.03>  The man in the suit is talking.  <598.03>   <598.03>  The man in the suit is smiling.  <598.03>   <598.03>  The man in the suit is clapping.  <598.03>   <598.03>  The man in the suit is talking.  <598.03>   <598.03>  The man in the suit is smiling.  <598.03>   <598.03>  The man in the suit is clapping.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600.0>   <618.02>  A group of girls are playing soccer on a field.  <600.0>   <618.02>  People are sitting in the stands watching them.  <600.0>   <618.02>  A man in a black suit is standing on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620.02>   <638.0>  A group of girls are standing on a field.  <638.0>   <638.0>  They are talking to their coach.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640.01>   <658.02>  A group of people are playing soccer on a field.  <640.01>   <658.02>  People are sitting in the stands watching them.  <640.01>   <658.02>  A referee is standing on the side of the field.  <658.02>   <658.02>  A woman is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660.03>   <678.01>  A group of girls are playing soccer on a field.  <678.01>   <678.01>  A girl in a light blue shirt is talking to the camera.  <678.01>   <678.01>  The game continues on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680.01>   <698.03>  A group of girls are playing soccer on a field.  <680.01>   <698.03>  The score is 1-1.  <680.01>   <698.03>  The goalie is wearing an orange shirt.  <698.03>   <698.03>  The goalie is throwing the ball to a player.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700.03>   <712.01>  A man and woman are standing on a stage.  <712.01>   <718.02>  A soccer game is being played.  <718.02>   <718.02>  A woman in a red shirt is standing on the sidelines.  <718.02>   <718.02>  Two women in red shirts are walking on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720.02>   <738.0>  A woman in a red jersey is standing on a soccer field.  <738.0>   <738.0>  She walks over to a woman in a green jersey.  <738.0>   <738.0>  They shake hands and then the game continues.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740.01>   <758.02>  A group of girls are playing soccer on a field.  <740.01>   <758.02>  The girls are running up and down the field.  <758.02>   <758.02>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760.03>   <778.01>  A man is standing on a field with his arms up.  <778.01>   <778.01>  Two girls are running on the field.  <778.01>   <778.01>  A man is standing on the field with a girl.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.  <778.01>   <778.01>  A girl is standing on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780.01>   <798.03>  A woman in a red shirt is standing on a field.  <798.03>   <798.03>  She is standing in front of a wall of trophies.  <798.03>   <798.03>  She is talking to a woman in a light green shirt.  <798.03>   <798.03>  They are standing on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800.0>   <818.02>  A woman is standing on a field.  <818.02>   <818.02>  She kicks a ball into the goal.  <818.02>   <818.02>  Two men are sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820.02>   <838.0>  A group of people are playing soccer on a field.  <820.02>   <838.0>  People are sitting on the sidelines watching them.  <820.02>   <838.0>  A man is standing on the sidelines watching them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840.01>   <858.02>  A woman in a red shirt is standing on a field.  <858.02>   <858.02>  A woman in a light blue shirt is standing on a field.  <858.02>   <858.02>  A woman in a light blue shirt is standing on a field.  <858.02>   <858.02>  A woman in a light blue shirt is standing on a field.  <858.02>   <858.02>  A woman in a light blue shirt is standing on a field.  <858.02>   <858.02>  A woman in a red shirt is standing on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860.03>   <878.01>  A group of girls are playing soccer.  <860.03>   <878.01>  A man in a black jacket is standing on the sidelines.  <860.03>   <878.01>  A man in a black shirt is walking on the sidelines.  <878.01>   <878.01>  The girls are walking on the field.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past a man in a black shirt.  <878.01>   <878.01>  The girls are walking past a man in a black jacket.  <878.01>   <878.01>  The girls are walking past",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "900.0",
+      "content": "<880.01>   <898.03>  A woman is talking to the camera.  <898.03>   <898.03>  A man is holding a white board and talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 45,
+      "start_time": "900.0",
+      "end_time": "920.0",
+      "content": "<900.03>   <918.02>  A man is standing on a field with a group of girls.  <918.02>   <918.02>  He is holding a board and talking to the girls.  <918.02>   <918.02>  They are playing a game of soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 46,
+      "start_time": "920.0",
+      "end_time": "940.0",
+      "content": "<920.02>   <938.0>  A group of women are playing soccer on a field.  <920.02>   <938.0>  The score is tied at 1-1.  <920.02>   <938.0>  The women are running up and down the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 47,
+      "start_time": "940.0",
+      "end_time": "960.0",
+      "content": "<940.01>   <958.02>  A group of people are playing soccer on a field.  <958.02>   <958.02>  A woman in a light blue shirt is holding a ball.  <958.02>   <958.02>  She walks onto the field and kicks the ball.  <958.02>   <958.02>  The people continue playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 48,
+      "start_time": "960.0",
+      "end_time": "980.0",
+      "content": "<960.03>   <978.01>  A group of people are playing soccer on a field.  <960.03>   <978.01>  The people are running around trying to get the ball.  <972.0>   <978.01>  The people are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 49,
+      "start_time": "980.0",
+      "end_time": "1000.0",
+      "content": "<980.01>   <998.03>  A group of girls are playing soccer.  <998.03>   <998.03>  A girl in a red shirt is talking to the camera.  <998.03>   <998.03>  A girl in a green shirt is talking to the camera.  <998.03>   <998.03>  Two men are sitting at a desk talking.  <998.03>   <998.03>  The girls are playing soccer again.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 50,
+      "start_time": "1000.0",
+      "end_time": "1020.0",
+      "content": "<1000.03>   <1018.02>  A group of women are playing soccer.  <1000.03>   <1018.02>  The score is 1-1.  <1000.03>   <1018.02>  The crowd is watching them play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 51,
+      "start_time": "1020.0",
+      "end_time": "1040.0",
+      "content": "<1020.02>   <1038.0>  A group of people are playing soccer on a field.  <1038.0>   <1038.0>  A woman in a light blue shirt is running around.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 52,
+      "start_time": "1040.0",
+      "end_time": "1060.0",
+      "content": "<1040.01>   <1058.02>  A man is talking to the camera.  <1058.02>   <1058.02>  A group of girls walk past him.  <1058.02>   <1058.02>  They are playing a game of soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 53,
+      "start_time": "1060.0",
+      "end_time": "1080.0",
+      "content": "<1060.03>   <1078.01>  A group of people are playing soccer on a field.  <1060.03>   <1078.01>  People are sitting in the stands watching them.  <1078.01>   <1078.01>  Two men are sitting at a desk talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 54,
+      "start_time": "1080.0",
+      "end_time": "1100.0",
+      "content": "<1080.01>   <1098.03>  A group of girls are playing soccer on a field.  <1098.03>   <1098.03>  They are running back and forth, trying to get the ball into the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 55,
+      "start_time": "1100.0",
+      "end_time": "1120.0",
+      "content": "<1100.03>   <1118.02>  A group of girls are playing soccer on a field.  <1100.03>   <1118.02>  The girls are running up and down the field.  <1112.01>   <1118.02>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 56,
+      "start_time": "1120.0",
+      "end_time": "1140.0",
+      "content": "<1120.02>   <1138.0>  A girl kicks a ball into the goal.  <1138.0>   <1138.0>  A man in a black jacket is talking.  <1138.0>   <1138.0>  The players are playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 57,
+      "start_time": "1140.0",
+      "end_time": "1160.0",
+      "content": "<1140.01>   <1158.02>  A group of girls are playing soccer on a field.  <1140.01>   <1158.02>  People are watching them play from the sidelines.  <1140.01>   <1158.02>  The girls are running up and down the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 58,
+      "start_time": "1160.0",
+      "end_time": "1180.0",
+      "content": "<1160.03>   <1178.01>  A man in a black shirt is standing on a field.  <1178.01>   <1178.01>  A group of girls are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1200.0",
+      "content": "<1180.01>   <1198.03>  A soccer player kicks the ball into the goal.  <1198.03>   <1198.03>  A woman in a red shirt is shown.  <1198.03>   <1198.03>  A man in a black shirt is shown.  <1198.03>   <1198.03>  Two men in suits are shown talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 60,
+      "start_time": "1200.0",
+      "end_time": "1220.0",
+      "content": "<1200.03>   <1218.02>  A woman in a red shirt is standing on a field.  <1218.02>   <1218.02>  She kicks a ball to another player.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 61,
+      "start_time": "1220.0",
+      "end_time": "1240.0",
+      "content": "<1220.02>   <1238.0>  A group of girls are playing soccer on a field.  <1220.02>   <1238.0>  The score is tied at 1-1.  <1220.02>   <1238.0>  The girls are running up and down the field.  <1232.03>   <1238.0>  They are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 62,
+      "start_time": "1240.0",
+      "end_time": "1260.0",
+      "content": "<1240.01>   <1258.02>  A group of girls are playing soccer on a field.  <1240.01>   <1258.02>  The camera zooms in on one of the girls.  <1258.02>   <1258.02>  The girl in the orange shirt is dribbling the ball.  <1258.02>   <1258.02>  The girl in the orange shirt kicks the ball to a teammate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 63,
+      "start_time": "1260.0",
+      "end_time": "1280.0",
+      "content": "<1260.03>   <1278.01>  A group of people are playing soccer on a field.  <1260.03>   <1278.01>  People are sitting in the stands watching them.  <1260.03>   <1278.01>  The score is tied at 1-1.  <1260.03>   <1278.01>  The players are running around the field.  <1278.01>   <1278.01>  A girl in a light green shirt is standing on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 64,
+      "start_time": "1280.0",
+      "end_time": "1300.0",
+      "content": "<1280.01>   <1298.03>  A group of girls are playing soccer on a field.  <1280.01>   <1298.03>  The score is 1-1.  <1280.01>   <1298.03>  The girls are wearing orange and green uniforms.  <1294.03>   <1298.03>  The girls are running up and down the field.  <1298.03>   <1298.03>  The girls are kicking the ball back and forth.  <1298.03>   <1298.03>  The girls are trying to score a goal.  <1298.03>   <1298.03>  The girls are trying to block the other team from scoring.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get the ball away from the other team.  <1298.03>   <1298.03>  The girls are trying to get the ball to their teammates.  <1298.03>   <1298.03>  The girls are trying to get",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 65,
+      "start_time": "1300.0",
+      "end_time": "1320.0",
+      "content": "<1300.03>   <1318.02>  A group of girls are playing soccer on a field.  <1318.02>   <1318.02>  A man in a black shirt is talking to one of the girls.  <1318.02>   <1318.02>  A girl in a red shirt is standing in front of the goal.  <1318.02>   <1318.02>  A girl in a light blue shirt is standing in front of the goal.  <1318.02>   <1318.02>  The girl in the light blue shirt kicks the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 66,
+      "start_time": "1320.0",
+      "end_time": "1340.0",
+      "content": "<1320.02>   <1338.0>  A group of girls are playing soccer on a field.  <1338.0>   <1338.0>  They are walking around the field.  <1338.0>   <1338.0>  They are shaking hands with the other team.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 67,
+      "start_time": "1340.0",
+      "end_time": "1360.0",
+      "content": "<1340.01>   <1358.02>  A woman in a red shirt is walking on a field.  <1358.02>   <1358.02>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 68,
+      "start_time": "1360.0",
+      "end_time": "1380.0",
+      "content": "<1360.03>   <1378.01>  A group of people are playing soccer on a field.  <1360.03>   <1378.01>  People are sitting in the stands watching them.  <1360.03>   <1378.01>  The people are running around the field.  <1378.01>   <1378.01>  A man in a red shirt is running.  <1378.01>   <1378.01>  A girl in a red shirt is running.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is falling on the ground.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.  <1378.01>   <1378.01>  A girl in a red shirt is kicking the ball.  <1378.01>   <1378.01>  A girl in a red shirt is standing up.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 69,
+      "start_time": "1380.0",
+      "end_time": "1400.0",
+      "content": "<1380.01>   <1398.03>  A group of girls are playing soccer.  <1398.03>   <1398.03>  They are celebrating a goal.  <1398.03>   <1398.03>  A man in a black jacket is cheering.  <1398.03>   <1398.03>  He is doing a little dance.  <1398.03>   <1398.03>  The game continues on.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 70,
+      "start_time": "1400.0",
+      "end_time": "1420.0",
+      "content": "<1400.03>   <1418.02>  A group of girls are playing soccer on a field.  <1400.03>   <1418.02>  The girls are running up and down the field.  <1400.03>   <1418.02>  The girls are trying to score a goal.  <1418.02>   <1418.02>  The girls are kicking the ball back and forth.  <1418.02>   <1418.02>  The girls are trying to block the other team from scoring.  <1418.02>   <1418.02>  The girls are trying to get the ball into the goal.  <1418.02>   <1418.02>  The girls are trying to keep the ball from going into the goal.  <1418.02>   <1418.02>  The girls are trying to get the ball away from the other team.  <1418.02>   <1418.02>  The girls are trying to keep the ball from going into the goal.  <1418.02>   <1418.02>  The girls are trying to get the ball away from the other team.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 71,
+      "start_time": "1420.0",
+      "end_time": "1440.0",
+      "content": "<1420.02>   <1438.0>  A group of female soccer players are standing on the sidelines.  <1438.0>   <1438.0>  A man in a black shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 72,
+      "start_time": "1440.0",
+      "end_time": "1460.0",
+      "content": "<1440.01>   <1458.02>  Two men are sitting at a table.  <1458.02>   <1458.02>  They are talking to the camera.  <1458.02>   <1458.02>  They are wearing suits.  <1458.02>   <1458.02>  They are sitting in front of a G League sign.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray jackets.  <1458.02>   <1458.02>  They are wearing white shirts.  <1458.02>   <1458.02>  They are wearing red ties.  <1458.02>   <1458.02>  They are wearing gray",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 73,
+      "start_time": "1460.0",
+      "end_time": "1480.0",
+      "content": "<1460.03>   <1478.01>  A group of girls are huddled up on a field.  <1478.01>   <1478.01>  They are being congratulated by a man.  <1478.01>   <1478.01>  They walk away and the camera pans around the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 74,
+      "start_time": "1480.0",
+      "end_time": "1500.0",
+      "content": "<1480.01>   <1498.03>  A group of people are playing soccer on a field.  <1498.03>   <1498.03>  The camera pans around the people playing.  <1498.03>   <1498.03>  A man in a white shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 75,
+      "start_time": "1500.0",
+      "end_time": "1520.0",
+      "content": "<1500.03>   <1518.02>  A group of girls are playing soccer on a field.  <1500.03>   <1518.02>  The girls are running up and down the field.  <1518.02>   <1518.02>  The girls are trying to get the ball into the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 76,
+      "start_time": "1520.0",
+      "end_time": "1540.0",
+      "content": "<1520.02>   <1538.0>  A man is standing on a field.  <1538.0>   <1538.0>  A group of girls are playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 77,
+      "start_time": "1540.0",
+      "end_time": "1560.0",
+      "content": "<1540.01>   <1558.02>  A group of people are playing soccer on a field.  <1540.01>   <1558.02>  People are sitting in the stands watching them.  <1540.01>   <1558.02>  A man in a suit is sitting at a desk talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 78,
+      "start_time": "1560.0",
+      "end_time": "1580.0",
+      "content": "<1560.03>   <1578.01>  A group of people are playing soccer on a field.  <1560.03>   <1578.01>  A man in a black shirt is standing on the sidelines.  <1578.01>   <1578.01>  A woman in a light blue shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 79,
+      "start_time": "1580.0",
+      "end_time": "1600.0",
+      "content": "<1580.01>   <1598.03>  A group of women are playing soccer on a field.  <1580.01>   <1598.03>  The camera pans around the field and the players.  <1598.03>   <1598.03>  A woman in an orange shirt is arguing with a referee.  <1598.03>   <1598.03>  A man in a black shirt is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 80,
+      "start_time": "1600.0",
+      "end_time": "1620.0",
+      "content": "<1600.03>   <1618.02>  A group of people are playing soccer on a field.  <1600.03>   <1618.02>  A woman in a red shirt is running.  <1600.03>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a red shirt is running.  <1618.02>   <1618.02>  A woman in a green shirt is running.  <1618.02>   <1618.02>  A woman in a red shirt is kicking a ball.  <1618.02>   <1618.02>  A woman in a green shirt is kicking a ball.  <1618.02>",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 81,
+      "start_time": "1620.0",
+      "end_time": "1640.0",
+      "content": "<1620.02>   <1638.0>  A man is standing on a field.  <1638.0>   <1638.0>  A woman is standing behind a net.  <1638.0>   <1638.0>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 82,
+      "start_time": "1640.0",
+      "end_time": "1660.0",
+      "content": "<1640.01>   <1658.02>  A group of girls are playing soccer.  <1658.02>   <1658.02>  A girl kicks the ball and scores a goal.  <1658.02>   <1658.02>  The crowd cheers and the girls celebrate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 83,
+      "start_time": "1660.0",
+      "end_time": "1680.0",
+      "content": "<1660.03>   <1678.01>  A soccer match is being played.  <1660.03>   <1678.01>  The score is 1-2.  <1660.03>   <1678.01>  The players are wearing red and blue.  <1674.01>   <1678.01>  The players are running up and down the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 84,
+      "start_time": "1680.0",
+      "end_time": "1700.0",
+      "content": "<1680.01>   <1698.03>  A woman kicks a ball into a goal.  <1698.03>   <1698.03>  The players hug and cheer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 85,
+      "start_time": "1700.0",
+      "end_time": "1720.0",
+      "content": "<1700.03>   <1718.02>  A woman kicks a ball into a goal.  <1718.02>   <1718.02>  The crowd cheers.  <1718.02>   <1718.02>  The players celebrate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 86,
+      "start_time": "1720.0",
+      "end_time": "1740.0",
+      "content": "<1720.02>   <1738.0>  A woman is standing on a field.  <1738.0>   <1738.0>  She is talking to another woman.  <1738.0>   <1738.0>  They are playing soccer.  <1738.0>   <1738.0>  A woman kicks the ball.  <1738.0>   <1738.0>  She scores a goal.  <1738.0>   <1738.0>  The crowd is cheering.  <1738.0>   <1738.0>  The scoreboard is shown.  <1738.0>   <1738.0>  The players are on the field.  <1738.0>   <1738.0>  They are playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 87,
+      "start_time": "1740.0",
+      "end_time": "1760.0",
+      "content": "<1740.01>   <1758.02>  A group of people are playing soccer on a field.  <1740.01>   <1758.02>  The score is 2-2.  <1740.01>   <1758.02>  The people are running around the field.  <1758.02>   <1758.02>  A person in a red shirt is holding the ball.  <1758.02>   <1758.02>  The person in the red shirt kicks the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 88,
+      "start_time": "1760.0",
+      "end_time": "1780.0",
+      "content": "<1760.03>   <1778.01>  A group of women are playing soccer on a field.  <1760.03>   <1778.01>  The camera pans around the players as they play.  <1760.03>   <1778.01>  The crowd is watching them play.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 89,
+      "start_time": "1780.0",
+      "end_time": "1800.0",
+      "content": "<1780.01>   <1798.03>  A woman in a light blue shirt is standing on a field.  <1798.03>   <1798.03>  A man in a black shirt is standing next to her.  <1798.03>   <1798.03>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 90,
+      "start_time": "1800.0",
+      "end_time": "1820.0",
+      "content": "<1800.03>   <1818.02>  A group of girls are playing soccer on a field.  <1800.03>   <1818.02>  The girls are running up and down the field.  <1812.01>   <1818.02>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 91,
+      "start_time": "1820.0",
+      "end_time": "1840.0",
+      "content": "<1820.02>   <1838.0>  A man in a white shirt is walking on the sidelines.  <1838.0>   <1838.0>  A group of girls are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 92,
+      "start_time": "1840.0",
+      "end_time": "1860.0",
+      "content": "<1840.01>   <1858.02>  A group of people are playing soccer on a field.  <1840.01>   <1858.02>  A man in a black shirt is talking to the camera.  <1858.02>   <1858.02>  The people continue playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 93,
+      "start_time": "1860.0",
+      "end_time": "1880.0",
+      "content": "<1860.03>   <1878.01>  A woman is playing soccer on a field.  <1878.01>   <1878.01>  A man is talking to the players.  <1878.01>   <1878.01>  The players are standing on the field.  <1878.01>   <1878.01>  Two men are sitting at a desk.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 94,
+      "start_time": "1880.0",
+      "end_time": "1900.0",
+      "content": "<1880.01>   <1898.03>  Two men are sitting at a desk.  <1898.03>   <1898.03>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 95,
+      "start_time": "1900.0",
+      "end_time": "1920.0",
+      "content": "<1900.03>   <1918.02>  A group of people are playing soccer on a field.  <1918.02>   <1918.02>  A man in a black shirt is standing on the sidelines.  <1918.02>   <1918.02>  A man in a white shirt is standing on the sidelines.  <1918.02>   <1918.02>  The people continue playing soccer on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 96,
+      "start_time": "1920.0",
+      "end_time": "1940.0",
+      "content": "<1920.02>   <1938.0>  A group of girls are playing soccer on a field.  <1920.02>   <1938.0>  The girls are running up and down the field.  <1936.0>   <1938.0>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 97,
+      "start_time": "1940.0",
+      "end_time": "1960.0",
+      "content": "<1940.01>   <1958.02>  A group of women are playing soccer.  <1940.01>   <1958.02>  They are running up and down the field.  <1940.01>   <1958.02>  They are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 98,
+      "start_time": "1960.0",
+      "end_time": "1980.0",
+      "content": "<1960.03>   <1978.01>  A group of girls are playing soccer on a field.  <1960.03>   <1978.01>  The score is 2-2.  <1960.03>   <1978.01>  The girls are running up and down the field.  <1976.01>   <1978.01>  They are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 99,
+      "start_time": "1980.0",
+      "end_time": "2000.0",
+      "content": "<1980.01>   <1998.03>  A group of people are playing soccer on a field.  <1980.01>   <1998.03>  People are sitting on the sidelines watching them play.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is kicking the ball.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.  <1998.03>   <1998.03>  A woman is running down the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 100,
+      "start_time": "2000.0",
+      "end_time": "2020.0",
+      "content": "<2000.03>   <2018.02>  A group of people are playing soccer on a field.  <2018.02>   <2018.02>  They are running around, trying to get the ball.  <2018.02>   <2018.02>  A man in a black shirt is talking.  <2018.02>   <2018.02>  The people continue playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 101,
+      "start_time": "2020.0",
+      "end_time": "2040.0",
+      "content": "<2020.02>   <2038.0>  A group of girls are playing soccer on a field.  <2020.02>   <2038.0>  The girls are running around trying to get the ball.  <2038.0>   <2038.0>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 102,
+      "start_time": "2040.0",
+      "end_time": "2060.0",
+      "content": "<2040.01>   <2058.02>  A group of people are playing soccer on a field.  <2040.01>   <2058.02>  A man in a black shirt is standing on the side of the field.  <2040.01>   <2058.02>  People are sitting on the sidelines watching the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 103,
+      "start_time": "2060.0",
+      "end_time": "2080.0",
+      "content": "<2060.02>   <2078.01>  A woman is standing on a field.  <2078.01>   <2078.01>  She is tackled by another player.  <2078.01>   <2078.01>  She falls to the ground and is hurt.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 104,
+      "start_time": "2080.0",
+      "end_time": "2100.0",
+      "content": "<2080.01>   <2098.03>  A group of people are playing soccer on a field.  <2080.01>   <2098.03>  People are sitting in the stands watching them.  <2080.01>   <2098.03>  A man in a black shirt is standing on the side.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 105,
+      "start_time": "2100.0",
+      "end_time": "2120.0",
+      "content": "<2100.03>   <2118.02>  A group of women are playing soccer on a field.  <2100.03>   <2118.02>  The camera pans around the field as the women play.  <2118.02>   <2118.02>  The women continue to play soccer and one of the women scores a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 106,
+      "start_time": "2120.0",
+      "end_time": "2140.0",
+      "content": "<2120.02>   <2138.0>  A group of girls are playing soccer on a field.  <2120.02>   <2138.0>  The girls are running up and down the field.  <2132.03>   <2138.0>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 107,
+      "start_time": "2140.0",
+      "end_time": "2160.0",
+      "content": "<2140.0>   <2158.02>  A group of people are playing soccer on a field.  <2158.02>   <2158.02>  A woman in a green shirt is clapping.  <2158.02>   <2158.02>  A man in a white shirt is talking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 108,
+      "start_time": "2160.0",
+      "end_time": "2180.0",
+      "content": "<2160.03>   <2178.01>  A group of women are playing soccer on a field.  <2160.03>   <2178.01>  A man is talking to the camera.  <2160.03>   <2178.01>  People are watching the game from the stands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 109,
+      "start_time": "2180.0",
+      "end_time": "2200.0",
+      "content": "<2180.01>   <2198.03>  A group of people are playing soccer on a field.  <2198.03>   <2198.03>  A man in a black shirt is standing on the sidelines.  <2198.03>   <2198.03>  The people continue playing soccer.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 110,
+      "start_time": "2200.0",
+      "end_time": "2220.0",
+      "content": "<2200.03>   <2218.02>  A group of girls are playing soccer.  <2200.03>   <2218.02>  The girls are running up and down the field.  <2200.03>   <2218.02>  The girls are trying to score a goal.  <2212.01>   <2218.02>  The girls are trying to block the other team from scoring.  <2218.02>   <2218.02>  The girls are trying to kick the ball into the goal.  <2218.02>   <2218.02>  The girls are trying to block the ball from going into the goal.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.  <2218.02>   <2218.02>  The girls are trying to get the ball away from the other team.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 111,
+      "start_time": "2220.0",
+      "end_time": "2240.0",
+      "content": "<2220.02>   <2238.0>  A group of women are playing soccer.  <2238.0>   <2238.0>  They are running up and down the field, trying to get the ball into the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 112,
+      "start_time": "2240.0",
+      "end_time": "2260.0",
+      "content": "<2240.01>   <2258.02>  A group of people are playing soccer on a field.  <2240.01>   <2258.02>  People are sitting in the stands watching them.  <2240.01>   <2258.02>  The score is 2-2.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 113,
+      "start_time": "2260.0",
+      "end_time": "2280.0",
+      "content": "<2260.02>   <2278.01>  A woman scores a goal in soccer.  <2278.01>   <2278.01>  She and her teammates celebrate.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 114,
+      "start_time": "2280.0",
+      "end_time": "2300.0",
+      "content": "<2280.01>   <2298.03>  Two men are sitting at a desk talking.  <2298.03>   <2298.03>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 115,
+      "start_time": "2300.0",
+      "end_time": "2320.0",
+      "content": "<2300.03>   <2318.02>  A group of women are playing soccer.  <2300.03>   <2318.02>  They are running up and down the field.  <2314.01>   <2318.02>  They are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 116,
+      "start_time": "2320.0",
+      "end_time": "2340.0",
+      "content": "<2320.02>   <2338.0>  A woman is standing on a field.  <2338.0>   <2338.0>  A group of girls are huddled up on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 117,
+      "start_time": "2340.0",
+      "end_time": "2360.0",
+      "content": "<2340.0>   <2358.02>  A soccer game is being played.  <2340.0>   <2358.02>  The score is 2-3.  <2340.0>   <2358.02>  The crowd is watching the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 118,
+      "start_time": "2360.0",
+      "end_time": "2380.0",
+      "content": "<2360.02>   <2378.01>  A group of girls are playing soccer.  <2360.02>   <2378.01>  They are running up and down the field.  <2372.0>   <2378.01>  They are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 119,
+      "start_time": "2380.0",
+      "end_time": "2400.0",
+      "content": "<2380.01>   <2398.03>  A group of girls are playing soccer on a field.  <2398.03>   <2398.03>  A girl in a light green shirt is standing in front of a row of trophies.  <2398.03>   <2398.03>  A girl in a light green shirt is standing next to a woman in a black shirt.  <2398.03>   <2398.03>  A close up of a red flag is shown.  <2398.03>   <2398.03>  A group of people are standing on the sidelines.  <2398.03>   <2398.03>  A man in a white shirt is pointing.  <2398.03>   <2398.03>  A group of girls are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 120,
+      "start_time": "2400.0",
+      "end_time": "2420.0",
+      "content": "<2400.03>   <2418.02>  A group of girls are playing soccer on a field.  <2400.03>   <2418.02>  People are watching them play from the sidelines.  <2400.03>   <2418.02>  The girls are running up and down the field.  <2418.02>   <2418.02>  One of the girls kicks the ball into the goal.  <2418.02>   <2418.02>  The girls in orange are celebrating.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 121,
+      "start_time": "2420.0",
+      "end_time": "2440.0",
+      "content": "<2420.02>   <2438.0>  A group of people are seen standing on a field with one speaking to the camera.  <2438.0>   <2438.0>  The people then cheer and hug one another while the man continues to speak.  <2438.0>   <2438.0>  The people then play a game of soccer and the man continues to speak to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 122,
+      "start_time": "2440.0",
+      "end_time": "2460.0",
+      "content": "<2440.0>   <2458.02>  A group of people are playing soccer on a field.  <2440.0>   <2458.02>  The people are running around the field.  <2456.02>   <2458.02>  The people are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 123,
+      "start_time": "2460.0",
+      "end_time": "2480.0",
+      "content": "<2460.02>   <2478.01>  A group of people are playing soccer on a field.  <2460.02>   <2478.01>  People are sitting on the sidelines watching them.  <2460.02>   <2478.01>  A man in a black shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 124,
+      "start_time": "2480.0",
+      "end_time": "2500.0",
+      "content": "<2480.01>   <2498.03>  A group of people are playing soccer on a field.  <2480.01>   <2498.03>  People are sitting in the stands watching them.  <2480.01>   <2498.03>  A man in a black shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 125,
+      "start_time": "2500.0",
+      "end_time": "2520.0",
+      "content": "<2500.03>   <2518.02>  A woman is standing on a field.  <2518.02>   <2518.02>  She kicks a ball into the goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 126,
+      "start_time": "2520.0",
+      "end_time": "2540.0",
+      "content": "<2520.02>   <2538.0>  A group of girls are playing soccer.  <2520.02>   <2538.0>  They are running around the field.  <2532.03>   <2538.0>  They are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 127,
+      "start_time": "2540.0",
+      "end_time": "2560.0",
+      "content": "<2540.0>   <2558.02>  A group of people are playing soccer on a field.  <2558.02>   <2558.02>  A girl in a red shirt is holding her knee.  <2558.02>   <2558.02>  She is standing on the sidelines.  <2558.02>   <2558.02>  The game continues on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 128,
+      "start_time": "2560.0",
+      "end_time": "2580.0",
+      "content": "<2560.02>   <2578.01>  A soccer ball is seen flying through the air and a woman kicks it into the goal.  <2578.01>   <2578.01>  The woman celebrates with her teammates and the crowd cheers.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 129,
+      "start_time": "2580.0",
+      "end_time": "2600.0",
+      "content": "<2580.01>   <2598.03>  A group of people are seen standing on a field with one walking away and others clapping.  <2598.03>   <2598.03>  The people then begin playing a soccer match with one another and ends with a girl kicking the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 130,
+      "start_time": "2600.0",
+      "end_time": "2620.0",
+      "content": "<2600.03>   <2618.01>  A man is standing on a field.  <2618.01>   <2618.01>  People are playing soccer on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 131,
+      "start_time": "2620.0",
+      "end_time": "2640.0",
+      "content": "<2620.02>   <2638.0>  A group of girls are playing soccer on a field.  <2620.02>   <2638.0>  The girls are running up and down the field.  <2632.03>   <2638.0>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 132,
+      "start_time": "2640.0",
+      "end_time": "2660.0",
+      "content": "<2640.0>   <2658.02>  A group of people are playing soccer on a field.  <2640.0>   <2658.02>  People are sitting in the stands watching them.  <2640.0>   <2658.02>  A man in a white shirt is standing on the side clapping.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 133,
+      "start_time": "2660.0",
+      "end_time": "2680.0",
+      "content": "<2660.02>   <2678.01>  A man in a black shirt is talking to a woman in a red shirt.  <2678.01>   <2678.01>  The woman is then shown playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 134,
+      "start_time": "2680.0",
+      "end_time": "2700.0",
+      "content": "<2680.01>   <2698.03>  A group of people are playing soccer on a field.  <2698.03>   <2698.03>  A woman in a red shirt is standing on the sidelines.  <2698.03>   <2698.03>  A woman in a green shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 135,
+      "start_time": "2700.0",
+      "end_time": "2720.0",
+      "content": "<2700.03>   <2718.01>  A group of girls are playing soccer on a field.  <2700.03>   <2718.01>  People are watching them play from the sidelines.  <2700.03>   <2718.01>  The girls are running up and down the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 136,
+      "start_time": "2720.0",
+      "end_time": "2740.0",
+      "content": "<2720.02>   <2738.0>  A group of girls are playing soccer on a field.  <2720.02>   <2738.0>  The girls are running up and down the field.  <2738.0>   <2738.0>  The girls are trying to score a goal.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 137,
+      "start_time": "2740.0",
+      "end_time": "2760.0",
+      "content": "<2740.0>   <2758.02>  A woman in a red shirt is standing in front of a net.  <2758.02>   <2758.02>  A man in a blue shirt is standing next to her.  <2758.02>   <2758.02>  A man in a white shirt is standing in front of a net.  <2758.02>   <2758.02>  Two women are running on a field.  <2758.02>   <2758.02>  A woman in a green shirt is laying on the ground.  <2758.02>   <2758.02>  A woman in a green shirt is standing up.  <2758.02>   <2758.02>  A woman in a green shirt is holding a trophy.  <2758.02>   <2758.02>  A man in a black shirt is standing in front of a screen.  <2758.02>   <2758.02>  He is holding a sign that says OFR.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 138,
+      "start_time": "2760.0",
+      "end_time": "2780.0",
+      "content": "<2760.02>   <2778.01>  Two men are sitting at a desk talking.  <2778.01>   <2778.01>  A soccer game is being played on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 139,
+      "start_time": "2780.0",
+      "end_time": "2800.0",
+      "content": "<2780.01>   <2798.03>  A man in a blue shirt is talking to a woman in a red shirt.  <2798.03>   <2798.03>  The woman in the red shirt is talking to another woman in a red shirt.  <2798.03>   <2798.03>  A man in a white shirt is talking to the man in the blue shirt.  <2798.03>   <2798.03>  A woman in a black shirt is talking into a microphone.  <2798.03>   <2798.03>  The man in the white shirt is talking to the man in the blue shirt.  <2798.03>   <2798.03>  The woman in the black shirt is talking into the microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 140,
+      "start_time": "2800.0",
+      "end_time": "2820.0",
+      "content": "<2800.03>   <2818.01>  A group of girls are seen celebrating on a field and leads into a woman kicking a ball.  <2818.01>   <2818.01>  The girls continue to play soccer with one another and ends with a girl falling to the ground.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 141,
+      "start_time": "2820.0",
+      "end_time": "2840.0",
+      "content": "<2820.02>   <2834.03>  A group of people are playing soccer on a field.  <2832.03>   <2838.0>  A man is talking to the camera.  <2838.0>   <2838.0>  A woman is talking to the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 142,
+      "start_time": "2840.0",
+      "end_time": "2860.0",
+      "content": "<2840.0>   <2858.02>  A group of people are playing soccer on a field.  <2840.0>   <2858.02>  People are watching them play from the sidelines.  <2840.0>   <2858.02>  The score is 2-4.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 143,
+      "start_time": "2860.0",
+      "end_time": "2880.0",
+      "content": "<2860.02>   <2878.01>  A group of girls are playing soccer.  <2860.02>   <2878.01>  The score is 2-4.  <2860.02>   <2878.01>  The girls are running around the field.  <2876.01>   <2878.01>  The girls are trying to get the ball.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 144,
+      "start_time": "2880.0",
+      "end_time": "2900.0",
+      "content": "<2880.01>   <2898.03>  A man is pointing on the side of a soccer field.  <2898.03>   <2898.03>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 145,
+      "start_time": "2900.0",
+      "end_time": "2920.0",
+      "content": "<2900.03>   <2918.01>  A group of people are seen standing around a soccer field and leads into a woman kicking a ball into the goal.  <2918.01>   <2918.01>  The camera pans around the field and shows the woman celebrating with her team mates.  <2918.01>   <2918.01>  The woman is then seen walking around the field and cheering with her team mates.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 146,
+      "start_time": "2920.0",
+      "end_time": "2940.0",
+      "content": "<2920.02>   <2938.0>  A girl in a light blue shirt is walking on a field.  <2938.0>   <2938.0>  She scores a goal and her teammates run over to her.  <2938.0>   <2938.0>  They all hug and cheer and the crowd cheers.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 147,
+      "start_time": "2940.0",
+      "end_time": "2960.0",
+      "content": "<2940.0>   <2958.02>  A man in a white shirt is standing on a field.  <2958.02>   <2958.02>  People are playing soccer on a field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 148,
+      "start_time": "2960.0",
+      "end_time": "2980.0",
+      "content": "<2960.02>   <2978.01>  A soccer game is being played.  <2978.01>   <2978.01>  A woman in a light green shirt is talking.  <2978.01>   <2978.01>  Another woman in a light green shirt is talking.  <2978.01>   <2978.01>  The game continues.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 149,
+      "start_time": "2980.0",
+      "end_time": "3000.0",
+      "content": "<2980.01>   <2998.03>  A group of people are playing soccer on a field.  <2980.01>   <2998.03>  A man in a black shirt is standing on the sidelines.  <2998.03>   <2998.03>  People are sitting in the stands watching the game.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 150,
+      "start_time": "3000.0",
+      "end_time": "3020.0",
+      "content": "<3000.03>   <3018.01>  A group of girls are playing soccer on a field.  <3018.01>   <3018.01>  A girl in a light green shirt is talking to the camera.  <3018.01>   <3018.01>  A girl in a red shirt is holding a soccer ball.  <3018.01>   <3018.01>  A man in a white shirt is talking to the camera.  <3018.01>   <3018.01>  A girl in a light green shirt is talking to the man.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 151,
+      "start_time": "3020.0",
+      "end_time": "3040.0",
+      "content": "<3020.02>   <3038.0>  A group of people are playing soccer on a field.  <3038.0>   <3038.0>  A man in a black shirt is standing on the sidelines.  <3038.0>   <3038.0>  A girl in a light green shirt is walking on the sidelines.  <3038.0>   <3038.0>  A man in a white shirt is standing on the sidelines.  <3038.0>   <3038.0>  A girl in a red shirt is walking on the sidelines.  <3038.0>   <3038.0>  A man in a black shirt is standing on the sidelines.  <3038.0>   <3038.0>  A man in a white shirt is standing on the sidelines.  <3038.0>   <3038.0>  A girl in a red shirt is walking on the sidelines.  <3038.0>   <3038.0>  A man in a black shirt is standing on the sidelines.  <3038.0>   <3038.0>  A man in a white shirt is standing on the sidelines.  <3038.0>   <3038.0>  A girl in a red shirt is walking on the sidelines.  <3038.0>   <3038.0>  A man in a black shirt is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 152,
+      "start_time": "3040.0",
+      "end_time": "3060.0",
+      "content": "<3040.0>   <3058.02>  A group of women are playing soccer on a field.  <3040.0>   <3058.02>  A man in a white shirt is standing on the sidelines.  <3040.0>   <3058.02>  A woman in a red shirt is holding a microphone.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 153,
+      "start_time": "3060.0",
+      "end_time": "3080.0",
+      "content": "<3060.02>   <3078.01>  A woman in a red shirt is walking on a field.  <3078.01>   <3078.01>  A woman in a green shirt is walking on the field.  <3078.01>   <3078.01>  People are playing soccer on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 154,
+      "start_time": "3080.0",
+      "end_time": "3100.0",
+      "content": "<3080.01>   <3098.03>  A group of people are playing soccer on a field.  <3098.03>   <3098.03>  They are shown from several angles.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 155,
+      "start_time": "3100.0",
+      "end_time": "3120.0",
+      "content": "<3100.03>   <3118.01>  A group of girls are playing soccer.  <3100.03>   <3118.01>  People are watching them play.  <3100.03>   <3118.01>  A girl in an orange shirt scores a goal.  <3118.01>   <3118.01>  The crowd cheers.  <3118.01>   <3118.01>  The girl in the orange shirt celebrates.  <3118.01>   <3118.01>  The camera shows the whole field.  <3118.01>   <3118.01>  The girl in the orange shirt walks away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt talking to the other players.  <3118.01>   <3118.01>  The camera shows the girl in the orange shirt walking away.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 156,
+      "start_time": "3120.0",
+      "end_time": "3140.0",
+      "content": "<3120.02>   <3138.0>  A group of girls are playing soccer.  <3120.02>   <3138.0>  People are watching them play.  <3120.02>   <3138.0>  A girl in a red shirt scores a goal.  <3138.0>   <3138.0>  The girls in red are celebrating.  <3138.0>   <3138.0>  The girls in white are upset.  <3138.0>   <3138.0>  A man is standing on the sidelines.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 157,
+      "start_time": "3140.0",
+      "end_time": "3149.746",
+      "content": "<3140.0>   <3148.78>  A woman in a red shirt is standing on a field.  <3148.78>   <3148.78>  She is walking with a man.  <3148.78>   <3148.78>  She is walking with another woman.  <3148.78>   <3148.78>  She is walking with a group of people.  <3148.78>   <3148.78>  They are all walking on the field.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 157,
+      "start_time": "3140.0",
+      "end_time": "3149.746",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+model,factual_accuracy_mean,factual_accuracy_std,completeness_mean,completeness_std,clarity_mean,clarity_std,conciseness_mean,conciseness_std,temporal_accuracy_mean,temporal_accuracy_std,overall_mean,overall_std,num_evaluations,rank
+qwen3-vl-30b-a3b-instruct,0,0,0,0,0,0,0,0,0,0,5.38417670682731,2.0647113332841713,747,1
+cosmos_reason1,0,0,0,0,0,0,0,0,0,0,3.7529852744310577,1.5897885501919147,747,2
+nvila,0,0,0,0,0,0,0,0,0,0,3.6208032128514054,1.2135016422345195,747,3
+vila-1.5,0,0,0,0,0,0,0,0,0,0,3.3028781793842037,1.0626903243439496,747,4

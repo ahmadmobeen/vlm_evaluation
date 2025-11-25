@@ -1,0 +1,443 @@
+{
+  "id": "54f49a32-6e6d-47d6-9cf1-ecb3a0eb974d",
+  "created": 0,
+  "model": "nvila",
+  "media_info": {
+    "type": "offset",
+    "start_offset": 0,
+    "end_offset": 4000000000
+  },
+  "usage": {
+    "query_processing_time": 0,
+    "total_chunks_processed": 61
+  },
+  "chunk_responses": [
+    {
+      "chunk_id": 0,
+      "start_time": "0.0",
+      "end_time": "20.0",
+      "content": "<0> <2> A man in a white shirt and tie walks across a room with large windows.\n<2> <4> Four people are seated in a row, two men on the sides and two women in the middle, all holding yellow papers.\n<4> <6> The group of four people are shown sitting in chairs, with a woman in a blue and white striped sweater in the center.\n<6> <8> The camera focuses on the man on the left and the woman in the center, both clapping their hands.\n<8> <10> A close-up of the man in the black and white sweater speaking.\n<10> <12> The man in the black and white sweater continues to speak, with a close-up on his face.\n<12> <14> The man in the black and white sweater is shown speaking, with a close-up on his face.\n<14> <16> The man in the black and white sweater continues to speak, with a close-up on his face.\n<16> <18> The man in the black and white sweater continues to speak, with a close-up on his face.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "20.0",
+      "end_time": "40.0",
+      "content": "<20> <22> A man in a black shirt stands on an airport tarmac, looking towards an airplane with a blue sky and clouds above.\n<22> <24> The man continues to stand on the tarmac, with the airplane's wing and a staircase visible in the background.\n<24> <26> Inside a car, a man wearing white earbuds is seen from the side, with another man in the driver's seat.\n<26> <28> The man in the passenger seat continues to look forward, while the driver gestures with his hand.\n<28> <30> The driver continues to gesture and speak, with the passenger looking ahead.\n<30> <32> The driver keeps gesturing and speaking, with the passenger still looking forward.\n<32> <34> The driver continues to gesture and speak, with the passenger looking ahead.\n<34> <36> The driver continues to gesture and speak, with the passenger looking ahead.\n<36> <38> The driver continues to gesture and speak, with the passenger looking ahead.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "40.0",
+      "end_time": "60.0",
+      "content": "<40> <42> A person wearing a colorful, flower-adorned hat and sunglasses speaks to the camera.\n<42> <44> The person continues speaking, gesturing with their hand.\n<44> <46> The person looks at the camera while speaking.\n<46> <48> The person continues to speak, with a misty, mountainous background.\n<48> <50> The person gestures with their hand while speaking.\n<50> <52> The person continues to speak, with the background remaining the same.\n<52> <54> The person continues to speak, with the background remaining the same.\n<54> <56> The person continues to speak, with the background remaining the same.\n<56> <58> The person continues to speak, with the background remaining the same.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "60.0",
+      "end_time": "80.0",
+      "content": "<60> <62> A person wearing a colorful hat and sunglasses is shown in a close-up.\n<62> <64> A person is sitting by a river playing a flute.\n<64> <66> Two people are standing in a field, making hand gestures.\n<66> <68> A person with glasses is shown in a close-up, looking up.\n<68> <70> The same person continues to look up, with a background of trees and a building.\n<70> <72> A train is shown at a station with clothes hanging on a line.\n<72> <74> The train remains at the station with clothes still hanging.\n<74> <76> Two people are walking down a narrow street with buildings on either side.\n<76> <78> A screen capture of a webpage with a video thumbnail and text is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "80.0",
+      "end_time": "100.0",
+      "content": "<80> <82> A man in a black vest and white shirt sits on a chair, looking to his left.\n<82> <84> The man in the black vest and white shirt looks forward with a surprised expression.\n<84> <86> The man in the black vest and white shirt looks to his left again.\n<86> <88> The man in the black vest and white shirt looks forward with a surprised expression.\n<88> <90> The man in the black vest and white shirt looks to his left again.\n<90> <92> The man in the black vest and white shirt looks forward with a surprised expression.\n<92> <94> The man in the black vest and white shirt looks to his left again.\n<94> <96> The man in the black vest and white shirt looks forward with a surprised expression.\n<96> <98> The man in the black vest and white shirt looks to his left again.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "100.0",
+      "end_time": "120.0",
+      "content": "<100> <102> A man in a white shirt and black vest speaks animatedly, gesturing with his hands.\n<102> <104> The camera pulls back to reveal two other people sitting with him, a man in a tie and a woman in a striped sweater.\n<104> <106> The man in the vest continues speaking, with text on the screen indicating \"24개국\" (24 countries).\n<106> <108> The man on the left, wearing glasses and a tie, begins to speak, while the man in the vest listens.\n<108> <110> A split screen shows a movie poster on the left and the man in the vest on the right, who is speaking.\n<110> <112> The man in the vest continues speaking, with text on the screen discussing a movie.\n<112> <114> The camera returns to the three people, with the man in the vest speaking and the others listening.\n<114> <116> A fourth person, an older man in a white shirt and tie, joins the group, sitting on the right.\n<116> <118> The older man speaks, gesturing with his hands, while the others listen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "120.0",
+      "end_time": "140.0",
+      "content": "<120> <122> A person is seen from the side, looking out of a vehicle window.\n<122> <124> The view from the vehicle window shows a street with buildings and a large red and gold traditional archway.\n<124> <126> The vehicle continues to move forward, approaching the ornate archway.\n<126> <128> The vehicle passes under the archway, revealing more of the street and buildings.\n<128> <130> The camera focuses on the detailed architecture of the archway, showing Chinese characters.\n<130> <132> The camera pans up to show the full height of the archway and the sky above.\n<132> <134> The camera moves forward, showing the street and buildings beyond the archway.\n<134> <136> The camera continues to move forward, showing the street and buildings.\n<136> <138> The camera continues to move forward, showing the street and buildings.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "140.0",
+      "end_time": "160.0",
+      "content": "<140> <142> A man in a green shirt looks up and speaks.\n<142> <144> The man continues speaking, with text overlay in Korean.\n<144> <146> The scene shifts to a group of four people sitting in a bright room.\n<146> <148> The group continues to sit and talk in the room.\n<148> <150> The camera focuses on three of the people in the group.\n<150> <152> The three people continue their conversation.\n<152> <154> A woman in a blue patterned sweater speaks.\n<154> <156> The woman continues speaking, with text overlay in Korean.\n<156> <158> The woman finishes speaking, and the scene remains on the group.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "160.0",
+      "end_time": "180.0",
+      "content": "<160> <162> A man in a white shirt and tie sits on the left, speaking and gesturing with his hands.\n<162> <164> The camera pans slightly to the right, showing a man in a black and white sweater vest in the middle, listening.\n<164> <166> A woman in a blue and white patterned sweater sits on the right, listening and then begins to speak.\n<166> <168> The woman in the blue sweater raises her right hand as she speaks.\n<168> <170> The camera zooms in on the woman in the blue sweater as she continues to speak, gesturing with her right hand.\n<170> <172> The camera cuts to a close-up of the man in the white shirt and tie, who is smiling and listening.\n<172> <174> The camera cuts back to the wide shot of the three people, with the man on the left speaking and gesturing.\n<174> <176> The man in the middle laughs while the woman on the right looks at him.\n<176> <178> The man in the middle continues to laugh, and the woman on the right looks at him with a slight smile.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "180.0",
+      "end_time": "200.0",
+      "content": "<180> <182> A woman in a blue patterned sweater speaks, with Korean text overlaying the image.\n<182> <184> The camera cuts to a man in a white shirt and tie, who is listening.\n<184> <186> The shot returns to the woman, who continues speaking with a serious expression.\n<186> <188> The woman turns her head to the side, looking at someone off-camera.\n<188> <190> The woman continues speaking, her expression earnest.\n<190> <192> The woman gestures with her hand as she talks.\n<192> <194> The camera angle widens to show the man in the white shirt sitting across from the woman.\n<194> <196> The woman continues her story, gesturing with her hands.\n<196> <198> The man listens intently, holding a small object in his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "200.0",
+      "end_time": "220.0",
+      "content": "<200> <202> A man in a white shirt and tie speaks while gesturing with his hands.\n<202> <204> The camera pans to show a group of four people sitting in a row, listening.\n<204> <206> The man on the far right, wearing a white shirt and tie, begins to speak.\n<206> <208> The camera focuses on a woman in a blue and white patterned sweater, who is listening intently.\n<208> <210> The woman in the blue sweater speaks, with a subtitle appearing on the screen.\n<210> <212> The camera cuts back to a wider shot of the three people on the left, with the man in the tie speaking.\n<212> <214> A close-up shows a man in a black and white sweater vest, looking serious.\n<214> <216> The man in the sweater vest speaks, gesturing with his hands.\n<216> <218> The man continues speaking, with a subtitle appearing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "220.0",
+      "end_time": "240.0",
+      "content": "<220> <222> A man in a suit stands in front of a building with a sign.\n<222> <224> The man in the suit is holding papers and speaking.\n<224> <226> Three people are sitting in a room, talking.\n<226> <228> The people continue their conversation in the room.\n<228> <230> The scene changes to two people walking outside.\n<230> <232> One person is wearing a red head covering and speaking.\n<232> <234> The scene changes to an indoor setting with two people.\n<234> <236> One person is sitting and looking at a phone.\n<236> <238> The person with the red head covering is looking at the other person.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "240.0",
+      "end_time": "260.0",
+      "content": "<240> <242> A man in a black shirt sits in a chair, holding a microphone and speaking.\n<242> <244> The man continues to speak, looking towards the camera.\n<244> <246> The scene cuts to a close-up of a dolphin's head and dorsal fin in a pool of water.\n<246> <248> The dolphin's head remains in the water, with its fin visible.\n<248> <250> Two men are sitting and talking in a room with large windows.\n<250> <252> The man on the right gestures with his hands as he speaks.\n<252> <254> The man on the left laughs while holding a yellow object.\n<254> <256> A third person, a woman, joins the two men, sitting to the right.\n<256> <258> The three individuals continue their conversation, with the man in the middle gesturing.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "260.0",
+      "end_time": "280.0",
+      "content": "<260> <262> A man in a white shirt and tie holds a yellow folder while speaking to another man in a black vest.\n<262> <264> The man in the vest gestures with his hands as he speaks, with text appearing on the screen.\n<264> <266> The camera zooms in on the man in the vest, who is now looking down and touching his chin.\n<266> <268> The camera pulls back to show three people sitting in a row, with the man in the vest in the middle.\n<268> <270> The man in the white shirt and tie raises his hand and speaks.\n<270> <272> The camera focuses on the man in the vest, who is now speaking and gesturing with his hands.\n<272> <274> The camera pulls back to show the three people again, with text appearing on the screen.\n<274> <276> The man in the vest continues to speak, gesturing with his hands.\n<276> <278> The man in the vest sits with his hands clasped in his lap, while the other two people look on.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "280.0",
+      "end_time": "300.0",
+      "content": "<280> <282> A man in a white shirt and black vest speaks while sitting in a chair.\n<282> <284> The camera zooms out to show four people sitting in a row, engaged in conversation.\n<284> <286> The man in the vest continues speaking, gesturing with his hands.\n<286> <288> The camera focuses on the man in the vest and the man next to him, who is wearing glasses.\n<288> <290> The man in the vest speaks, and the man with glasses listens attentively.\n<290> <292> The man in the vest continues speaking, and the man with glasses nods in agreement.\n<292> <294> The camera pans to the right, showing a woman in a blue and white striped shirt sitting next to the man in the vest.\n<294> <296> The man in the vest laughs, covering his mouth with his hand.\n<296> <298> The man in the vest continues to laugh, and the woman next to him smiles.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "300.0",
+      "end_time": "320.0",
+      "content": "<300> <302> Three people are sitting in a room, two men and one woman, engaged in conversation.\n<302> <304> The man on the left, wearing glasses and a tie, speaks while the other two listen.\n<304> <306> The camera zooms in on the woman in the center, who is wearing a blue and white patterned sweater.\n<306> <308> The woman looks to her left, listening intently to the man speaking.\n<308> <310> The camera cuts back to a wider shot showing all three individuals.\n<310> <312> The man on the right, wearing a white shirt and tie, speaks while the others listen.\n<312> <314> The man on the left, holding a yellow paper, looks down at it.\n<314> <316> The woman smiles and looks towards the man on the right.\n<316> <318> The man on the left laughs while looking at the paper in his hand.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 16,
+      "start_time": "320.0",
+      "end_time": "340.0",
+      "content": "<320> <322> Three people are sitting in a room with large windows, engaged in a conversation.\n<322> <324> The person on the left, wearing a white shirt and tie, is speaking while the other two listen.\n<324> <326> The camera focuses on the person on the right, a woman in a blue and white patterned sweater, who is speaking.\n<326> <328> The scene cuts to a split screen showing two men in white shirts and ties, one with glasses, talking to each other.\n<328> <330> The man on the right is speaking, and the man on the left is listening.\n<330> <332> The view returns to the original three people, with the man in the middle speaking and the woman on the right listening.\n<332> <334> The camera focuses again on the woman in the blue and white sweater, who is speaking and gesturing with her hand.\n<334> <336> The woman continues to speak, and a subtitle appears on the screen.\n<336> <338> The scene changes to show four people sitting in a row, with the woman in the blue and white sweater now on the far right.\n<338> <340> The four people are all looking towards the camera, and a subtitle appears on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 17,
+      "start_time": "340.0",
+      "end_time": "360.0",
+      "content": "<340> <342> A woman in a blue patterned sweater speaks animatedly.\n<342> <344> The woman continues speaking, her expression changing as she talks.\n<344> <346> The scene cuts to a person in a black hat and sunglasses playing a flute outdoors.\n<346> <348> The person continues to play the flute, with a park and cityscape in the background.\n<348> <350> The scene shifts to three people sitting in a room, with the woman in the blue sweater on the right.\n<350> <352> The three individuals are engaged in a conversation, with the woman gesturing as she speaks.\n<352> <354> The camera focuses on the man on the left, who is speaking.\n<354> <356> The scene changes to a wider shot of the room, showing the three people and a fourth person standing in the background.\n<356> <358> The standing man walks towards the table, while the others remain seated.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 18,
+      "start_time": "360.0",
+      "end_time": "380.0",
+      "content": "<360> <362> A man in a white shirt and tie stands in a room with three others, holding a yellow folder.\n<362> <364> The man in the white shirt and tie walks towards the three people sitting on chairs.\n<364> <366> The man in the white shirt and tie stands in front of the three seated people.\n<366> <368> The man in the white shirt and tie stands on a chair, holding a yellow folder.\n<368> <370> A man in a white shirt and tie speaks, with a subtitle in Korean.\n<370> <372> A woman in a blue and white patterned sweater plays a wooden flute.\n<372> <374> A close-up shows the woman's hands playing the wooden flute.\n<374> <376> The woman continues to play the wooden flute.\n<376> <378> The woman continues to play the wooden flute.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 19,
+      "start_time": "380.0",
+      "end_time": "400.0",
+      "content": "<380> <382> Three people are sitting in chairs in a room with large windows.\n<382> <384> The man on the left, wearing glasses and a tie, speaks while the woman on the right looks at her phone.\n<384> <386> The man in the middle, wearing a sweater vest, laughs as the woman on the right looks up.\n<386> <388> The man on the left holds a yellow book and gestures while speaking.\n<388> <390> The man in the middle continues to laugh, and the woman on the right looks at him.\n<390> <392> The woman on the right holds a wooden stick and looks down at it.\n<392> <394> The woman on the right looks up and speaks, holding the stick.\n<394> <396> The man on the left raises his hand as he speaks, and the woman on the right looks at him.\n<396> <398> The man on the left continues to speak and gesture, while the other two listen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 20,
+      "start_time": "400.0",
+      "end_time": "420.0",
+      "content": "<400> <402> A man in a white shirt and tie speaks to a woman in a blue patterned sweater.\n<402> <404> The camera pulls back to reveal a third person, a man in a black and white sweater, sitting between them.\n<404> <406> The man in the tie gestures towards the man in the sweater while speaking.\n<406> <408> The woman in the blue sweater looks at the man in the tie and speaks.\n<408> <410> The camera focuses on the woman as she continues to speak.\n<410> <412> The camera angle changes to show all three people in the room, with the man in the tie speaking.\n<412> <414> The man in the tie continues speaking, gesturing with his hand.\n<414> <416> The camera focuses on the man in the sweater as he speaks.\n<416> <418> The man in the sweater continues speaking, looking towards the man in the tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 21,
+      "start_time": "420.0",
+      "end_time": "440.0",
+      "content": "<420> <422> Four people sit in a room, engaged in conversation.\n<422> <424> A man in a sweater vest runs his hands through his hair.\n<424> <426> The man continues to adjust his hair while speaking.\n<426> <428> The scene shifts to a man in a car, wearing a white face mask.\n<428> <430> The man in the car turns his head slightly.\n<430> <432> The man in the car looks forward, still wearing the mask.\n<432> <434> The scene returns to the four people in the room.\n<434> <436> The man in the sweater vest gestures with his hands while talking.\n<436> <438> The man continues to speak, using hand gestures.\n<438> <440> The man in the sweater vest continues to talk, gesturing with his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 22,
+      "start_time": "440.0",
+      "end_time": "460.0",
+      "content": "<440> <442> A man in a white shirt and tie sits on the left, while a man in a black vest gestures in the center, and a woman in a blue and white striped shirt sits on the right, all in a bright room with large windows.\n<442> <444> The man in the black vest continues to speak and gesture, while the man in the tie looks at him and the woman listens.\n<444> <446> The camera zooms in on the man in the black vest as he speaks, with a text overlay at the bottom of the screen.\n<446> <448> The man in the black vest continues speaking, with a text overlay at the bottom of the screen.\n<448> <450> The camera zooms in on the man in the black vest as he speaks, with a text overlay at the bottom of the screen.\n<450> <452> The camera zooms in on the man in the black vest as he speaks, with a text overlay at the bottom of the screen.\n<452> <454> The camera zooms out to show the three people sitting on a couch in a living room, with a table in the foreground and a fireplace in the background.\n<454> <456> The camera zooms out further to show the full living room, with the three people on the couch and a table in the foreground.\n<456> <458> The camera focuses on the woman in the blue and white striped shirt as she speaks, with a text overlay at the bottom of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 23,
+      "start_time": "460.0",
+      "end_time": "480.0",
+      "content": "<460> <462> A man in a white shirt and tie gestures while speaking to two others in a brightly lit room.\n<462> <464> The man in the white shirt and tie continues speaking, raising his hand.\n<464> <466> The man in the white shirt and tie touches his face while speaking.\n<466> <468> A woman holds up a photo with three women's faces on it.\n<468> <470> The photo shows three women with Korean text labels beneath their images.\n<470> <472> A close-up shows two of the women from the photo, one with dark curly hair and the other with blonde hair.\n<472> <474> The woman with dark curly hair is shown on the left, and the woman with blonde hair is on the right.\n<474> <476> The man in the white shirt and tie smiles while looking down.\n<476> <478> A man in a white shirt and tie speaks while looking at the photo held by the woman.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 24,
+      "start_time": "480.0",
+      "end_time": "500.0",
+      "content": "<480> <482> A woman in a blue sweater and black hat talks to a woman in a gray shirt in a salon.\n<482> <484> The woman in the gray shirt applies makeup to the woman in the blue sweater.\n<484> <486> The woman in the blue sweater looks at her reflection in a mirror.\n<486> <488> The woman in the blue sweater adjusts her hat.\n<488> <490> The woman in the blue sweater looks at the camera.\n<490> <492> The woman in the blue sweater looks at her reflection in the mirror.\n<492> <494> The woman in the blue sweater looks at the camera.\n<494> <496> The woman in the blue sweater looks at her reflection in the mirror.\n<496> <498> The woman in the blue sweater looks at the camera.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 25,
+      "start_time": "500.0",
+      "end_time": "520.0",
+      "content": "<500> <502> Four people are sitting in a room, with one person holding a picture.\n<502> <504> The camera zooms in on two men, one covering his face and the other laughing.\n<504> <506> A woman makes an \"OK\" gesture with her hands.\n<506> <508> A woman is seen measuring a man's forehead.\n<508> <510> The camera pans out to show the four people sitting around a table.\n<510> <512> The camera focuses on two people sitting next to each other.\n<512> <514> The camera focuses on three people sitting next to each other.\n<514> <516> The camera focuses on two people sitting next to each other.\n<516> <518> The camera focuses on three people sitting next to each other.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 26,
+      "start_time": "520.0",
+      "end_time": "540.0",
+      "content": "<520> <522> A man in a white shirt and black vest speaks in a studio setting with two others.\n<522> <524> The man continues speaking, gesturing with his hands.\n<524> <526> The scene shifts to an outdoor setting by a lake, where a man in a helmet and jacket is preparing fishing gear.\n<526> <528> The man looks up and speaks while holding a fishing rod.\n<528> <530> Another man joins him, and they both examine the fishing equipment.\n<530> <532> The man in the helmet listens as the other man demonstrates something with the fishing line.\n<532> <534> The man in the helmet holds the fishing rod and looks at the other man.\n<534> <536> The scene changes to a close-up of a man in a black jacket holding a fishing rod, with text overlay.\n<536> <538> The man continues to hold the fishing rod, with text overlay describing the fishing technique.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 27,
+      "start_time": "540.0",
+      "end_time": "560.0",
+      "content": "<540> <542> A man in a black jacket and cap stands in a grassy area, holding a small object and speaking.\n<542> <544> The man continues to speak, gesturing with his hands while holding the object.\n<544> <546> The scene shifts to a studio where three people are seated and talking.\n<546> <548> A young man in a vest speaks, with a woman and another man seated beside him.\n<548> <550> The young man continues speaking, with a subtitle appearing at the bottom of the screen.\n<550> <552> The young man keeps talking, with the subtitle changing to reflect his speech.\n<552> <554> The scene changes to a dimly lit room where a person in a green and black jacket is seen.\n<554> <556> A man in a dark jacket stands in a room, looking at a computer monitor.\n<556> <558> The young man in the studio is shown again, looking down with a somber expression.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 28,
+      "start_time": "560.0",
+      "end_time": "580.0",
+      "content": "<560> <562> A man in a helmet and mask stands in a room, looking around.\n<562> <564> The man in the helmet turns his head, revealing his face partially covered by a mask.\n<564> <566> The man in the helmet looks up and to the side, his eyes visible above the mask.\n<566> <568> The man in the helmet is now seated at a table in a restaurant, talking to another man.\n<568> <570> The man in the helmet continues to talk, gesturing with his hand while eating.\n<570> <572> The man in the helmet looks at the other man, who is listening and holding a fork.\n<572> <574> The man in the helmet continues his conversation, with food and drinks on the table.\n<574> <576> The man in the helmet looks at the other man, who is now speaking and gesturing.\n<576> <578> The man in the helmet listens intently as the other man speaks, with the restaurant setting visible around them.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 29,
+      "start_time": "580.0",
+      "end_time": "600.0",
+      "content": "<580> <582> A man in a black shirt stands in a room with green walls and a patterned carpet, looking towards the camera.\n<582> <584> The man in the black shirt gestures with his hand while speaking.\n<584> <586> The camera pans slightly to the right, showing more of the room, including a long sofa and a table.\n<586> <588> The man in the black shirt continues to speak and gesture.\n<588> <590> The camera angle shifts, showing the man from a different perspective as he continues to talk.\n<590> <592> The man in the black shirt walks towards the left side of the frame.\n<592> <594> The camera follows the man as he walks, showing the room's layout with the sofa and table.\n<594> <596> The man in the black shirt stands near the left wall, looking towards the camera.\n<596> <598> The man in the black shirt continues to stand and speak, with the room's interior visible in the background.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 30,
+      "start_time": "600.0",
+      "end_time": "620.0",
+      "content": "<600> <602> A man stands in a room with green walls, speaking to the camera.\n<602> <604> The scene shifts to a bright, modern living room where four people are seated on a couch.\n<604> <606> The group, consisting of three men and one woman, are engaged in a discussion.\n<606> <608> The camera focuses on the woman, who is wearing a blue and white patterned sweater.\n<608> <610> The woman speaks, and a subtitle appears on the screen.\n<610> <612> The camera angle changes, showing the group from a different perspective.\n<612> <614> The man on the far left turns to speak to the others.\n<614> <616> The group continues their conversation, with the woman speaking again.\n<616> <618> The camera focuses on the woman as she speaks, with a subtitle appearing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 31,
+      "start_time": "620.0",
+      "end_time": "640.0",
+      "content": "<620> <622> A woman in a blue patterned sweater speaks while seated between two men in a brightly lit room.\n<622> <624> The camera focuses on the woman's face as she continues speaking, her expression earnest.\n<624> <626> The shot widens to show the three individuals seated, with the woman gesturing as she talks.\n<626> <628> The woman continues to speak, her hands moving to emphasize her words.\n<628> <630> The camera zooms in on the woman's face as she speaks with a serious expression.\n<630> <632> The woman's expression shifts to one of surprise or concern as she continues her story.\n<632> <634> The woman gestures with her hand near her face while speaking.\n<634> <636> The woman continues to speak, her expression animated as she recounts an event.\n<636> <638> The woman gestures with her hand as she speaks, her expression conveying her point.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 32,
+      "start_time": "640.0",
+      "end_time": "660.0",
+      "content": "<640> <642> A man in a white shirt and tie sits on a chair, looking to the side.\n<642> <644> The man continues to look to the side, with a plant visible behind him.\n<644> <646> A woman in a blue and white patterned sweater speaks, with a subtitle in Korean.\n<646> <648> The woman continues speaking, her expression animated.\n<648> <650> The woman gestures with her hands as she speaks.\n<650> <652> The woman continues to speak, looking slightly to her left.\n<652> <654> The woman gestures with her hands, emphasizing her words.\n<654> <656> The woman continues speaking, her expression serious.\n<656> <658> The woman gestures with her hands, looking to her left.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 33,
+      "start_time": "660.0",
+      "end_time": "680.0",
+      "content": "<660> <662> A woman in a blue and white sweater speaks while sitting in a room.\n<662> <664> The scene cuts to an outdoor view of a weathered, green-painted building with a small door and a water tank on the roof.\n<664> <666> The video returns to the woman, who continues speaking.\n<666> <668> The woman is shown again, speaking and looking slightly to her right.\n<668> <670> The woman continues speaking, with a slight smile.\n<670> <672> The woman is shown speaking, with a subtitle appearing on the screen.\n<672> <674> The woman stands up and begins to demonstrate a movement, extending her arms forward.\n<674> <676> The woman continues her demonstration, moving her arms out to the sides.\n<676> <678> The woman holds her arms out to the sides, continuing her explanation.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 34,
+      "start_time": "680.0",
+      "end_time": "700.0",
+      "content": "<680> <682> A woman with short hair and glasses speaks in a close-up shot.\n<682> <684> The woman continues speaking, looking slightly to her right.\n<684> <686> The camera pulls back to show the woman sitting on a chair, gesturing with her hands.\n<686> <688> The woman is now seen sitting with her hands clasped, speaking to two men.\n<688> <690> The camera shows a wider shot of the three people sitting and talking.\n<690> <692> The woman speaks, and a subtitle appears on the screen.\n<692> <694> The woman continues speaking, with a subtitle visible.\n<694> <696> The woman speaks, and the subtitle changes to a new phrase.\n<696> <698> The woman continues speaking, with the subtitle remaining on screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 35,
+      "start_time": "700.0",
+      "end_time": "720.0",
+      "content": "<700> <702> A woman in a blue patterned sweater speaks to a man in a white shirt and tie.\n<702> <704> The man in the white shirt and tie gestures with his hand while speaking.\n<704> <706> The woman in the blue sweater listens and then responds.\n<706> <708> The man in the white shirt and tie continues to speak, gesturing with his hand.\n<708> <710> The woman in the blue sweater speaks, looking towards the man in the white shirt and tie.\n<710> <712> The man in the white shirt and tie listens to the woman.\n<712> <714> The woman in the blue sweater continues speaking, gesturing with her hand.\n<714> <716> The man in the white shirt and tie listens to the woman.\n<716> <718> The woman in the blue sweater speaks, looking towards the man in the white shirt and tie.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 36,
+      "start_time": "720.0",
+      "end_time": "740.0",
+      "content": "<720> <722> A woman in a blue and white striped sweater speaks while sitting with two men in a brightly lit room.\n<722> <724> The camera zooms out to show the three individuals sitting on chairs, with the woman on the right and two men on the left.\n<724> <726> The woman continues speaking, her expression animated as she talks.\n<726> <728> The man in the middle, wearing a black vest over a white shirt, begins to speak, gesturing with his hands.\n<728> <730> The man in the black vest continues speaking, his expression serious as he explains something.\n<730> <732> The man in the black vest continues to speak, his hands moving as he emphasizes his points.\n<732> <734> The man in the black vest continues speaking, his expression intense as he makes a point.\n<734> <736> The man in the black vest continues speaking, his hands gesturing as he talks.\n<736> <738> The man in the black vest continues speaking, his expression serious as he explains his point.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 37,
+      "start_time": "740.0",
+      "end_time": "760.0",
+      "content": "<740> <742> A man in a white shirt and tie speaks to two others in a room.\n<742> <744> The man in the tie continues speaking, with the other two listening.\n<744> <746> The man in the tie looks down as he speaks.\n<746> <748> The man in the tie looks up and continues speaking.\n<748> <750> The man in the tie looks down again while speaking.\n<750> <752> The man in the tie looks up and continues speaking.\n<752> <754> The man in the tie looks down as he speaks.\n<754> <756> The man in the tie looks up and continues speaking.\n<756> <758> The man in the tie looks down as he speaks.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 38,
+      "start_time": "760.0",
+      "end_time": "780.0",
+      "content": "<760> <762> A man in a white shirt and tie sits and speaks to a man in a black vest.\n<762> <764> The man in the vest speaks and gestures with his hands.\n<764> <766> The camera zooms in on the man in the vest as he continues to speak.\n<766> <768> The camera pans out to show a third person, a woman in a striped shirt, sitting between the two men.\n<768> <770> The man in the vest continues speaking, while the woman and the man in the tie listen.\n<770> <772> The man in the tie begins to speak, looking towards the man in the vest.\n<772> <774> The man in the tie continues speaking, with the other two people listening.\n<774> <776> The man in the tie continues speaking, with a plant visible in the background.\n<776> <778> The man in the tie continues speaking, with the other two people listening.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 39,
+      "start_time": "780.0",
+      "end_time": "800.0",
+      "content": "<780> <782> A man in a white shirt and black vest sits with his hand on his face, appearing emotional.\n<782> <784> The camera pulls back to show four people sitting in a row, with the man in the vest still looking down.\n<784> <786> A man in a light blue shirt and tie reaches out and places a hand on the emotional man's shoulder.\n<786> <788> The man in the vest continues to cover his face, appearing to cry.\n<788> <790> The man in the light blue shirt continues to comfort him, while another person's hand reaches in from the right.\n<790> <792> The man in the vest wipes his eyes with a tissue.\n<792> <794> The man in the light blue shirt keeps his hand on the emotional man's shoulder.\n<794> <796> The man in the vest continues to wipe his eyes with a tissue.\n<796> <798> The man in the vest is still visibly upset, wiping his eyes.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 40,
+      "start_time": "800.0",
+      "end_time": "820.0",
+      "content": "<800> <802> A man in a white shirt and tie speaks to the camera.\n<802> <804> A man in a sweater vest wipes his eyes with a tissue.\n<804> <806> The man in the sweater vest continues to wipe his eyes.\n<806> <808> The man in the sweater vest looks down, appearing emotional.\n<808> <810> The man in the sweater vest speaks while looking down.\n<810> <812> The man in the sweater vest continues speaking, looking down.\n<812> <814> The man in the sweater vest looks up and speaks.\n<814> <816> The man in the sweater vest looks down again, appearing emotional.\n<816> <818> A photo of a young man in a white shirt and tie is shown.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 41,
+      "start_time": "820.0",
+      "end_time": "840.0",
+      "content": "<820> <822> A man in a white shirt and black vest speaks, with Korean text appearing on the screen.\n<822> <824> The man continues speaking, gesturing with his hands.\n<824> <826> The man's expression becomes more serious as he talks.\n<826> <828> The man looks down briefly while speaking.\n<828> <830> The man continues to speak, looking slightly to the side.\n<830> <832> The man gestures with his right hand as he speaks.\n<832> <834> The man looks down again, continuing his explanation.\n<834> <836> The man looks up and continues speaking.\n<836> <838> The man gestures with his left hand while speaking.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 42,
+      "start_time": "840.0",
+      "end_time": "860.0",
+      "content": "<840> <842> A man in a white shirt and black vest speaks while gesturing with his hands.\n<842> <844> The man continues speaking, with Korean text appearing on the screen.\n<844> <846> The man gestures with his right hand while speaking.\n<846> <848> The man continues speaking, with Korean text appearing on the screen.\n<848> <850> The man gestures with his left hand while speaking.\n<850> <852> The man continues speaking, with Korean text appearing on the screen.\n<852> <854> The man continues speaking, with Korean text appearing on the screen.\n<854> <856> The man continues speaking, with Korean text appearing on the screen.\n<856> <858> The man continues speaking, with Korean text appearing on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 43,
+      "start_time": "860.0",
+      "end_time": "880.0",
+      "content": "<860> <862> A man in a white shirt and black vest speaks, gesturing with his hand.\n<862> <864> The man continues speaking, looking slightly to the side.\n<864> <866> The man's expression becomes more serious as he speaks.\n<866> <868> The man looks down, appearing contemplative.\n<868> <870> The man looks up and to the side, continuing his speech.\n<870> <872> The man looks down again, his expression thoughtful.\n<872> <874> The man looks up, speaking with a more intense expression.\n<874> <876> The man looks down, his expression serious.\n<876> <878> The man looks up, speaking with a serious expression.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 44,
+      "start_time": "880.0",
+      "end_time": "900.0",
+      "content": "<880> <882> A man in a black and white sweater vest speaks in a close-up shot.\n<882> <884> The scene widens to show four people sitting in chairs, with the man in the sweater vest in the center.\n<884> <886> The man in the sweater vest continues to speak, with a woman in a blue and white striped shirt sitting to his right.\n<886> <888> The man in the sweater vest looks down and to his left as he speaks.\n<888> <890> The man in the sweater vest continues speaking, looking slightly to his right.\n<890> <892> The man in the sweater vest speaks with his eyes closed.\n<892> <894> The man in the sweater vest continues speaking, looking to his right.\n<894> <896> The man in the sweater vest speaks with his eyes closed.\n<896> <898> The man in the sweater vest continues speaking, looking to his right.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 45,
+      "start_time": "900.0",
+      "end_time": "920.0",
+      "content": "<900> <902> A man in a white shirt and tie sits and listens to another man in a black vest who is speaking.\n<902> <904> The man in the black vest continues to speak, gesturing with his hands.\n<904> <906> The camera zooms in on the man in the black vest as he speaks.\n<906> <908> A woman in a blue and white patterned sweater joins the conversation, sitting next to the man in the vest.\n<908> <910> The man in the vest continues speaking, looking towards the woman.\n<910> <912> The man in the vest looks down and to the side as he speaks.\n<912> <914> The camera angle shifts to show the back of the man in the white shirt, with the man in the vest and the woman in the patterned sweater visible in the foreground.\n<914> <916> The man in the vest continues to speak, looking towards the woman.\n<916> <918> The man in the vest looks down as he speaks, with the woman looking at him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 46,
+      "start_time": "920.0",
+      "end_time": "940.0",
+      "content": "<920> <922> A man in a white shirt and tie sits and listens.\n<922> <924> A man in a black vest speaks and gestures with his hands.\n<924> <926> The man in the vest continues speaking while the man in the tie looks on.\n<926> <928> The man in the vest points to his left while speaking.\n<928> <930> The man in the vest continues to speak and gesture.\n<930> <932> The man in the vest gestures towards the man in the tie.\n<932> <934> The man in the vest continues speaking and gesturing.\n<934> <936> The man in the vest points to his left again.\n<936> <938> The man in the vest continues to speak and gesture.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 47,
+      "start_time": "940.0",
+      "end_time": "960.0",
+      "content": "<940> <942> A man in a white shirt and tie speaks to a man in a black and white sweater.\n<942> <944> The man in the sweater listens intently, then begins to speak.\n<944> <946> The man in the sweater continues speaking, gesturing with his hands.\n<946> <948> The man in the sweater continues to speak, looking down.\n<948> <950> The man in the sweater continues to speak, looking down.\n<950> <952> The man in the sweater continues to speak, looking down.\n<952> <954> The man in the sweater continues to speak, looking down.\n<954> <956> The man in the sweater continues to speak, looking down.\n<956> <958> The man in the sweater continues to speak, looking down.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 48,
+      "start_time": "960.0",
+      "end_time": "980.0",
+      "content": "<960> <962> A man in a white shirt and black vest speaks with a serious expression.\n<962> <964> The man continues speaking, looking down slightly.\n<964> <966> The man looks up and speaks, gesturing with his right hand.\n<966> <968> The man looks down again, appearing emotional.\n<968> <970> The man looks up, his expression still somber.\n<970> <972> The man looks down, his hand near his face.\n<972> <974> A man in a light blue shirt and tie reaches out to touch the other man's arm.\n<974> <976> The man in the blue shirt continues to comfort the other man, who is now wiping his eye.\n<976> <978> The man in the blue shirt keeps his hand on the other man's arm as he continues to wipe his eye.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 49,
+      "start_time": "980.0",
+      "end_time": "1000.0",
+      "content": "<980> <982> A man in a white shirt and black vest looks down with a sad expression.\n<982> <984> The man wipes his eye with his hand, appearing to cry.\n<984> <986> The man continues to wipe his eye while sitting next to another man in a white shirt and tie.\n<986> <988> The man in the tie looks at the crying man with a concerned expression.\n<988> <990> The man in the tie speaks, looking towards the camera.\n<990> <992> The man in the tie continues speaking, maintaining a serious expression.\n<992> <994> The man in the tie looks down briefly, then back up.\n<994> <996> The man in the vest looks down, appearing emotional.\n<996> <998> The man in the vest looks up, his expression still sad.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 50,
+      "start_time": "1000.0",
+      "end_time": "1020.0",
+      "content": "<1000> <1002> Three people are seated in a room with large windows, engaged in conversation.\n<1002> <1004> The person in the middle, wearing a vest, speaks while the others listen.\n<1004> <1006> The camera focuses on the person on the left, who is wearing glasses and a tie, as he speaks.\n<1006> <1008> The person in the middle continues to speak, gesturing with his hands.\n<1008> <1010> The camera angle changes to show all four people seated in a row.\n<1010> <1012> The person on the far right, wearing a white shirt, begins to speak.\n<1012> <1014> The person in the middle continues to speak, gesturing with his hands.\n<1014> <1016> The person on the far right continues to speak, gesturing with his hands.\n<1016> <1018> The person on the far right continues to speak, gesturing with his hands.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 51,
+      "start_time": "1020.0",
+      "end_time": "1040.0",
+      "content": "<1020> <1022> A man in a black and white sweater vest speaks while sitting in a room with large windows.\n<1022> <1024> The man gestures with his hands as he continues to speak.\n<1024> <1026> The camera angle shifts to show the man from the side, revealing two other people sitting next to him.\n<1026> <1028> The man continues speaking, looking towards the other two individuals.\n<1028> <1030> The camera zooms in on the man's face as he speaks with a serious expression.\n<1030> <1032> The man's expression remains serious as he continues his explanation.\n<1032> <1034> The man's eyes are closed as he speaks, emphasizing his point.\n<1034> <1036> The man's expression is somber as he continues to speak.\n<1036> <1038> The man's expression remains serious as he concludes his statement.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 52,
+      "start_time": "1040.0",
+      "end_time": "1060.0",
+      "content": "<1040> <1042> A man in a white shirt and tie speaks to the camera.\n<1042> <1044> The man continues speaking, now with two people seated to his right.\n<1044> <1046> The man gestures with his hand while speaking to the two people.\n<1046> <1048> The man continues to speak and gesture, with the two people listening.\n<1048> <1050> The man continues speaking, with the two people listening attentively.\n<1050> <1052> The man continues speaking, with the two people listening.\n<1052> <1054> The man continues speaking, with the two people listening.\n<1054> <1056> The camera shows a wider view, revealing a fourth person seated on the far right.\n<1056> <1058> The four people are now visible, with the man on the left continuing to speak.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 53,
+      "start_time": "1060.0",
+      "end_time": "1080.0",
+      "content": "<1060> <1062> A man in a white shirt and tie speaks to three others seated in a row.\n<1062> <1064> The camera focuses on the man in the white shirt and tie as he continues to speak.\n<1064> <1066> The camera pans to show the three people listening to the speaker.\n<1066> <1068> The man in the white shirt and tie gestures with his hands as he speaks.\n<1068> <1070> The camera zooms in on the man in the white shirt and tie as he continues to speak.\n<1070> <1072> The camera focuses on the man in the white shirt and tie as he continues to speak.\n<1072> <1074> The camera pans to show the three people listening to the speaker.\n<1074> <1076> The camera focuses on the man in the white shirt and tie as he continues to speak.\n<1076> <1078> The camera zooms in on the man in the white shirt and tie as he continues to speak.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 54,
+      "start_time": "1080.0",
+      "end_time": "1100.0",
+      "content": "<1080> <1082> A man in a black and white sweater vest speaks, gesturing with his hands.\n<1082> <1084> The man continues speaking, bringing his hands together in front of him.\n<1084> <1086> The man brings his right hand to his chin, appearing thoughtful as he speaks.\n<1086> <1088> The camera angle widens to show three people sitting in a row, with the man in the center speaking.\n<1088> <1090> The man in the sweater vest continues speaking, now gesturing with his right hand.\n<1090> <1092> The man looks down and to the side, his expression serious as he speaks.\n<1092> <1094> The man looks up, his expression intense as he continues his story.\n<1094> <1096> The man gestures with his right hand, emphasizing his point.\n<1096> <1098> The man continues speaking, his expression animated as he recounts an event.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 55,
+      "start_time": "1100.0",
+      "end_time": "1120.0",
+      "content": "<1100> <1102> A young man in a black and white sweater vest speaks, with Korean text at the bottom of the screen.\n<1102> <1104> The camera zooms in on the young man's face as he continues to speak.\n<1104> <1106> The young man continues speaking, his expression serious.\n<1106> <1108> The camera angle changes to a wider shot, showing the young man sitting in a room with a plain wall behind him.\n<1108> <1110> The young man gestures with his hands as he speaks.\n<1110> <1112> The camera zooms in again on the young man's face as he continues his story.\n<1112> <1114> The young man looks down briefly before looking back up and continuing to speak.\n<1114> <1116> The camera angle changes again, showing the young man from the side as he speaks.\n<1116> <1118> The young man continues speaking, with Korean text appearing at the bottom of the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 56,
+      "start_time": "1120.0",
+      "end_time": "1140.0",
+      "content": "<1120> <1122> A man in a white shirt and black vest speaks, looking slightly down and to the side.\n<1122> <1124> The man continues speaking, his expression serious as he looks forward.\n<1124> <1126> He gestures with his right hand while speaking, his mouth open.\n<1126> <1128> The man's expression becomes more animated as he speaks, his eyes slightly narrowed.\n<1128> <1130> He continues to speak, his mouth open and his expression engaged.\n<1130> <1132> The man gestures with his right hand again, emphasizing his words.\n<1132> <1134> He looks down and to the side, his expression thoughtful as he speaks.\n<1134> <1136> The man looks forward again, speaking with a serious expression.\n<1136> <1138> He continues speaking, his mouth open and his expression focused.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 57,
+      "start_time": "1140.0",
+      "end_time": "1160.0",
+      "content": "<1140> <1142> A man in a black and white sweater speaks in a studio setting.\n<1142> <1144> The man continues speaking, with Korean text appearing on the screen.\n<1144> <1146> The scene cuts to a group of people, including a man in a striped shirt and a man with glasses, taking a selfie.\n<1146> <1148> The scene changes to a group of five women posing together in a room.\n<1148> <1150> The video returns to the man in the sweater, who is speaking.\n<1150> <1152> The man continues speaking, with more Korean text appearing on the screen.\n<1152> <1154> The scene shows three people sitting in a studio: the man in the sweater and two others.\n<1154> <1156> The man in the sweater gestures while speaking to the other two people.\n<1156> <1158> The man continues to speak, with Korean text displayed on the screen.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 58,
+      "start_time": "1160.0",
+      "end_time": "1180.0",
+      "content": "<1160> <1162> A man in a white shirt and black vest speaks while seated in a room with three others.\n<1162> <1164> The camera zooms in on the man in the vest as he continues speaking.\n<1164> <1166> The man in the vest gestures with his hands while talking.\n<1166> <1168> The camera cuts to a close-up of the man's face as he speaks.\n<1168> <1170> The camera returns to a wider shot showing all four people seated in the room.\n<1170> <1172> The man in the vest continues to speak, looking towards the others.\n<1172> <1174> The camera focuses on the man in the vest as he speaks.\n<1174> <1176> The camera cuts to a close-up of the man's face as he speaks.\n<1176> <1178> The camera returns to a wider shot showing all four people seated in the room.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1192.557",
+      "content": "<1180> <1181> Four people sit in a row, with a man on the far right speaking and gesturing.\n<1181> <1182> The man on the far right continues speaking, while the man next to him looks at him.\n<1182> <1183> The man in the middle begins to speak, gesturing with his hands.\n<1183> <1185> The man on the far left begins to speak, gesturing with his right hand.\n<1185> <1186> The man on the far left continues speaking, looking towards the others.\n<1186> <1187> The man on the far left continues speaking, gesturing with his right hand.\n<1187> <1188> The man on the far right leans forward, looking down at a small object in his hands.\n<1188> <1190> The man on the far right holds up a small object, while the man on the far left looks at him.\n<1190> <1191> The man on the far right holds up a small object, while the man on the far left looks at him.",
+      "reasoning_description": ""
+    },
+    {
+      "chunk_id": 59,
+      "start_time": "1180.0",
+      "end_time": "1192.557",
+      "content": ".",
+      "reasoning_description": ""
+    }
+  ]
+}
