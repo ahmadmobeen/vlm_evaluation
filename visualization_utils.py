@@ -336,6 +336,122 @@ class CaptionVisualizationUtils:
         logger.info(f"📊 Saved distribution analysis: {plot_file}")
         return str(plot_file)
     
+    def create_box_plot_distributions(self, evaluations: List[Dict[str, Any]]) -> str:
+        """Create box plots showing score distributions with quartiles, median, and outliers."""
+        
+        if not evaluations:
+            logger.warning("⚠️  No evaluation data for box plot")
+            return ""
+        
+        # Prepare data
+        model_scores = {}
+        for eval_result in evaluations:
+            if "error" in eval_result:
+                continue
+                
+            model = eval_result["model_name"]
+            if model not in model_scores:
+                model_scores[model] = {"overall": [], "factual": [], "completeness": [], 
+                                     "clarity": [], "conciseness": [], "temporal": []}
+            
+            # Handle different prompt types flexibly
+            prompt_type = self.prompt_type
+            
+            # Always append overall score
+            model_scores[model]["overall"].append(eval_result["overall_score"])
+            
+            if prompt_type == "detailed":
+                # Detailed prompt has all criteria
+                model_scores[model]["factual"].append(eval_result["factual_accuracy"]["score"])
+                model_scores[model]["completeness"].append(eval_result["completeness"]["score"])
+                model_scores[model]["clarity"].append(eval_result["clarity"]["score"])
+                model_scores[model]["conciseness"].append(eval_result["conciseness"]["score"])
+                model_scores[model]["temporal"].append(eval_result["temporal_accuracy"]["score"])
+            else:
+                # For coverage_hallucination and completeness prompts, use overall score for all criteria
+                score = eval_result.get("score", eval_result["overall_score"])
+                model_scores[model]["factual"].append(score)
+                model_scores[model]["completeness"].append(score)
+                model_scores[model]["clarity"].append(score)
+                model_scores[model]["conciseness"].append(score)
+                model_scores[model]["temporal"].append(score)
+        
+        if not model_scores:
+            logger.warning("⚠️  No valid scores for box plot")
+            return ""
+        
+        # Create subplots for each criterion
+        fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+        axes = axes.flatten()
+        
+        criteria = ["overall", "factual", "completeness", "clarity", "conciseness", "temporal"]
+        criterion_titles = ["Overall Score", "Factual Accuracy", "Completeness", 
+                          "Clarity", "Conciseness", "Temporal Accuracy"]
+        
+        for idx, (criterion, title) in enumerate(zip(criteria, criterion_titles)):
+            ax = axes[idx]
+            
+            # Prepare data for box plot
+            data_for_plot = []
+            labels = []
+            positions = []
+            
+            for i, model in enumerate(model_scores.keys()):
+                scores = model_scores[model][criterion]
+                if scores:
+                    data_for_plot.append(scores)
+                    labels.append(f"{model}\n(n={len(scores)})")
+                    positions.append(i)
+            
+            if data_for_plot:
+                # Create box plot
+                box_plot = ax.boxplot(data_for_plot, positions=positions, 
+                                    patch_artist=True, showmeans=True,
+                                    meanprops=dict(marker='D', markerfacecolor='red', 
+                                                 markeredgecolor='red', markersize=6),
+                                    flierprops=dict(marker='o', markerfacecolor='red', 
+                                                  markersize=4, alpha=0.6))
+                
+                # Color the boxes with different colors for each model
+                colors = plt.cm.Set3(np.linspace(0, 1, len(data_for_plot)))
+                for patch, color in zip(box_plot['boxes'], colors):
+                    patch.set_facecolor(color)
+                    patch.set_alpha(0.7)
+                
+                # Customize plot
+                ax.set_xticks(positions)
+                ax.set_xticklabels(labels, rotation=45, ha='right')
+                ax.set_ylabel('Score')
+                ax.set_title(title, fontweight='bold')
+                ax.set_ylim(0, 10)
+                ax.grid(axis='y', alpha=0.3)
+                
+                # Add statistical annotations
+                for i, (pos, scores) in enumerate(zip(positions, data_for_plot)):
+                    if scores:
+                        q1 = np.percentile(scores, 25)
+                        q3 = np.percentile(scores, 75)
+                        median = np.median(scores)
+                        mean = np.mean(scores)
+                        
+                        # Add text box with statistics
+                        stats_text = f'Q1: {q1:.1f}\nMed: {median:.1f}\nQ3: {q3:.1f}\nMean: {mean:.1f}'
+                        ax.text(pos + 0.3, 8.5, stats_text, fontsize=8,
+                               bbox=dict(boxstyle="round,pad=0.3", facecolor='white', 
+                                       edgecolor='gray', alpha=0.8))
+        
+        plt.suptitle('Score Distribution Analysis - Box Plots\n(Shows quartiles, median, mean, and outliers)', 
+                    fontsize=16, fontweight='bold')
+        plt.tight_layout()
+        
+        # Save plot
+        plot_file = self.output_dir / "box_plot_distributions.png"
+        plt.savefig(plot_file, dpi=300, bbox_inches='tight')
+        plt.close()
+        
+        logger.info(f"📊 Saved box plot analysis: {plot_file}")
+        return str(plot_file)
+    
     def create_temporal_accuracy_analysis(self, evaluations: List[Dict[str, Any]]) -> str:
         """Create specialized analysis for temporal accuracy performance."""
         
@@ -442,6 +558,7 @@ class CaptionVisualizationUtils:
             self.create_criteria_heatmap(summary_stats),
             self.create_std_deviation_plot(summary_stats),
             self.create_evaluation_distribution_plot(evaluations),
+            self.create_box_plot_distributions(evaluations),
             self.create_temporal_accuracy_analysis(evaluations)
         ]
         

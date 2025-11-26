@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+vlm_evaluation.egg-info/PKG-INFO
+vlm_evaluation.egg-info/SOURCES.txt
+vlm_evaluation.egg-info/dependency_links.txt
+vlm_evaluation.egg-info/requires.txt
+vlm_evaluation.egg-info/top_level.txt

@@ -1,0 +1,41 @@
+Metadata-Version: 2.4
+Name: vlm-evaluation
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib>=3.10.7
+Requires-Dist: numpy>=2.3.5
+Requires-Dist: openai>=2.8.1
+Requires-Dist: pandas>=2.3.3
+Requires-Dist: seaborn>=0.13.2
+
+# VLM Caption Evaluation
+
+This repository provides tools to evaluate Visual Language Model (VLM) generated captions.
+
+## Usage
+
+To reproduce the results found in the `reports` directory, run the following command:
+
+```bash
+python evaluate_vlm_captions.py \
+  --captions-dir reports/minseok_prompt_audio_x_caption_sorted \
+  --num-runs 3 \
+  --output-dir reports/caption_full_comparison_minseok_audio_x_caption_sorted_completeness \
+  --prompt-type completeness
+```
+
+- `--captions-dir`: Path to the directory containing VLM-generated captions.
+- `--num-runs`: Number of evaluation runs to perform.
+- `--output-dir`: Directory to save the evaluation results.
+- `--prompt-type`: Type of prompt used for evaluation (e.g., `completeness`).
+
+## Output
+
+The results will be saved in the specified output directory, including summary tables and evaluation metrics.
+
+## Note
+
+There are scores for criteria such as ["factual_accuracy", "completeness", "clarity", "conciseness", "temporal_accuracy"]
+These are only relevant for the prompt named `detailed` and for the `completeness` and `coverage_hallucination` they will be 0 in the reports.
